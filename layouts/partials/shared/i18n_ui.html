@@ -1,0 +1,233 @@
+<script>
+(function () {
+  let dict = {{ site.Data.site.ui_i18n | jsonify }};
+
+  if (typeof dict === "string") {
+    try { dict = JSON.parse(dict); } catch (e) { dict = {}; }
+  }
+
+  const LANGS = ["en", "ru", "ar", "hi"];
+  const EN_IN_SUBDIR = false;
+
+  const SS_FLAG = "gh_open_results_after_redirect";
+  const SS_QUERY = "gh_last_query";
+
+  // ✅ единый ключ для синхронизации hero -> results
+  const RESULTS_STORAGE_KEY = "results_query";
+
+  function normalizeLang(lang) {
+    const v = (lang || "en").toLowerCase();
+    return (dict && dict[v]) ? v : "en";
+  }
+
+  function detectLang(text) {
+    if (!text) return null;
+    if (/[\u0600-\u06FF]/.test(text)) return "ar";
+    if (/[\u0900-\u097F]/.test(text)) return "hi";
+    if (/[А-Яа-яЁё]/.test(text)) return "ru";
+    return "en";
+  }
+
+  function t(lang, key) {
+    const safe = (dict && dict[lang]) ? lang : "en";
+    return (dict[safe] && dict[safe][key]) || (dict.en && dict.en[key]) || "";
+  }
+
+  function getLangFromPath(pathname) {
+    const parts = (pathname || window.location.pathname || "/").split("/").filter(Boolean);
+    const first = (parts[0] || "").toLowerCase();
+    if (first === "en") return "en";
+    if (LANGS.includes(first)) return first;
+    return "en";
+  }
+
+  function stripLangPrefix(pathname) {
+    const path = pathname || window.location.pathname || "/";
+    const hasTrailingSlash = path.endsWith("/");
+    const parts = path.split("/").filter(Boolean);
+    const first = (parts[0] || "").toLowerCase();
+
+    if (LANGS.includes(first) || first === "en") parts.shift();
+
+    const out = "/" + parts.join("/");
+    return (out === "/" ? "/" : (out + (hasTrailingSlash ? "/" : "")));
+  }
+
+  function buildPathForLang(targetLang, pathname) {
+    const safe = normalizeLang(targetLang);
+    const base = stripLangPrefix(pathname || window.location.pathname || "/");
+
+    if (safe === "en" && !EN_IN_SUBDIR) return base || "/";
+    return "/" + safe + (base === "/" ? "/" : base);
+  }
+
+  // ✅ находим нижнюю строку (поддержка обоих id)
+  function getResultsInput() {
+    return document.getElementById("resultsQuery") || document.getElementById("resultsQueryInput");
+  }
+
+  // ✅ центральная синхронизация: сохранить + отдать вниз
+  function syncQueryToResults(q) {
+    const v = (q || "").trim();
+
+    try {
+      if (v) localStorage.setItem(RESULTS_STORAGE_KEY, v);
+      else localStorage.removeItem(RESULTS_STORAGE_KEY);
+    } catch (e) {}
+
+    // отдадим в results_section (если он слушает search:set)
+    try {
+      window.dispatchEvent(new CustomEvent("search:set", { detail: { q: v } }));
+      window.dispatchEvent(new CustomEvent("search:updated", { detail: { q: v } }));
+    } catch (e) {}
+
+    // и напрямую положим в input, если он уже в DOM
+    const rInput = getResultsInput();
+    if (rInput) rInput.value = v;
+  }
+
+  function applyDomI18n(lang) {
+    const safe = normalizeLang(lang);
+
+    document.documentElement.setAttribute("lang", safe);
+    document.documentElement.setAttribute("dir", safe === "ar" ? "rtl" : "ltr");
+    document.body.classList.toggle("rtl", safe === "ar");
+
+    document.querySelectorAll("[data-i18n]").forEach(el => {
+      const key = el.getAttribute("data-i18n");
+      const val = t(safe, key);
+      if (val) el.textContent = val;
+    });
+
+    document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
+      const key = el.getAttribute("data-i18n-placeholder");
+      const val = t(safe, key);
+      if (val) el.setAttribute("placeholder", val);
+    });
+
+    // home hero input placeholder + typing examples
+    const input = document.querySelector(".home-hero__input");
+    if (input) {
+      const ph = t(safe, "search_placeholder") || t(safe, "home_placeholder");
+      if (ph) input.setAttribute("placeholder", ph);
+
+      const pack = dict && dict[safe] && dict[safe].typing_examples;
+      if (Array.isArray(pack) && pack.length) {
+        input.setAttribute("data-typing-examples", JSON.stringify(pack));
+      }
+    }
+
+    // ✅ results sticky input placeholder (только placeholder, ничего больше)
+    // key: results_search_placeholder (fallback: search_placeholder)
+    const resultsInput = getResultsInput();
+    if (resultsInput) {
+      const ph2 = t(safe, "results_search_placeholder") || t(safe, "search_placeholder");
+      if (ph2) resultsInput.setAttribute("placeholder", ph2);
+    }
+
+    try {
+      window.dispatchEvent(new CustomEvent("i18n:applied", { detail: { lang: safe } }));
+    } catch (e) {}
+  }
+
+  function openResultsWithQuery(q) {
+    const results = document.getElementById("results");
+    if (!results) return false;
+
+    const v = (q || "").trim();
+
+    // ✅ синхронизируем сразу (storage + input + events)
+    syncQueryToResults(v);
+
+    results.classList.add("is-open");
+    results.setAttribute("aria-hidden", "false");
+
+    results.scrollIntoView({ behavior: "smooth", block: "start" });
+    return true;
+  }
+
+  function redirectToLang(lang, queryValue) {
+    const safe = normalizeLang(lang);
+    const urlLang = getLangFromPath(window.location.pathname);
+    if (safe === urlLang) return false;
+
+    try {
+      sessionStorage.setItem(SS_FLAG, "1");
+      sessionStorage.setItem(SS_QUERY, (queryValue || "").trim());
+    } catch (e) {}
+
+    localStorage.setItem("lang_pref", safe);
+
+    const next = buildPathForLang(safe, window.location.pathname);
+    if (next && next !== window.location.pathname) {
+      window.location.assign(next);
+      return true;
+    }
+    return false;
+  }
+
+  /* BOOT */
+  const urlLang = getLangFromPath(window.location.pathname);
+  const saved = normalizeLang(localStorage.getItem("lang_pref") || urlLang || "en");
+  localStorage.setItem("lang_pref", saved);
+  applyDomI18n(saved);
+
+  // ✅ если пришли после редиректа — открываем results + синхронизируем строку
+  try {
+    const shouldOpen = sessionStorage.getItem(SS_FLAG) === "1";
+    if (shouldOpen) {
+      const q = sessionStorage.getItem(SS_QUERY) || "";
+      sessionStorage.removeItem(SS_FLAG);
+      sessionStorage.removeItem(SS_QUERY);
+
+      requestAnimationFrame(() => {
+        const ok = openResultsWithQuery(q);
+        if (!ok) requestAnimationFrame(() => openResultsWithQuery(q));
+
+        const input = document.querySelector(".home-hero__input");
+        if (input && q) input.value = q;
+      });
+    }
+  } catch (e) {}
+
+  // input auto-detect language: DOM-only (без редиректа)
+  const input = document.querySelector(".home-hero__input");
+  if (input) {
+    input.addEventListener("input", () => {
+      const v = (input.value || "").trim();
+      if (!v) return;
+
+      const lang = normalizeLang(detectLang(v) || "en");
+      localStorage.setItem("lang_pref", lang);
+      applyDomI18n(lang);
+    }, { passive: true });
+  }
+
+  // ✅ submit: если язык совпадает — НЕ мешаем старому handler'у открывать results,
+  // но ДО этого синхронизируем query в нижнюю строку
+  const form = document.querySelector(".home-hero__search");
+  if (form) {
+    form.addEventListener("submit", (e) => {
+      const input = document.querySelector(".home-hero__input");
+      const q = input ? (input.value || "") : "";
+
+      const lang = normalizeLang(localStorage.getItem("lang_pref") || "en");
+      const urlLangNow = getLangFromPath(window.location.pathname);
+
+      if (lang !== urlLangNow) {
+        e.preventDefault();
+        redirectToLang(lang, q);
+        return;
+      }
+
+      // ✅ язык совпадает: синхронизируем строку results, а дальше пусть твой старый submit делает своё
+      syncQueryToResults(q);
+    }, true);
+  }
+
+  window.__applyI18n = function(l){ applyDomI18n(l); };
+  window.__redirectToLang = function(l){
+    redirectToLang(l, (document.querySelector(".home-hero__input")||{}).value || "");
+  };
+})();
+</script>

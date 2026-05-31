@@ -1,0 +1,150 @@
+{
+  "project_key": "vincitore-wellness-estate",
+  "slug": "vincitore-wellness-estate",
+
+  "name": {
+    "en": "Vincitore Wellness Estate",
+    "ru": "Vincitore Wellness Estate",
+    "ar": "فينتشيتوري ويلنس إستيت",
+    "hi": "विन्चितोरे वेलनेस एस्टेट"
+  },
+
+  "developer": {
+    "en": "Vincitore Real Estate Development",
+    "ru": "Vincitore Real Estate Development",
+    "ar": "فينتشيتوري للتطوير العقاري",
+    "hi": "विन्चितोरे रियल एस्टेट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Science Park",
+    "ru": "Dubai Science Park",
+    "ar": "دبي ساينس بارك",
+    "hi": "दुबई साइंस पार्क"
+  },
+
+  "hero_title": {
+    "en": "Vincitore Wellness Estate at Dubai Science Park",
+    "ru": "Vincitore Wellness Estate в Dubai Science Park",
+    "ar": "فينتشيتوري ويلنس إستيت في دبي ساينس بارك",
+    "hi": "दुबई साइंस पार्क में विन्चितोरे वेलनेस एस्टेट"
+  },
+
+  "handover": {
+    "en": "October 2027",
+    "ru": "Октябрь 2027",
+    "ar": "أكتوبر 2027",
+    "hi": "अक्टूबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studios – 3.5 BR & Penthouses",
+    "ru": "Студии – 3.5 спальни и пентхаусы",
+    "ar": "استوديو إلى 3.5 غرف نوم وبنتهاوس",
+    "hi": "स्टूडियो से 3.5 बेडरूम और पेंटहाउस"
+  },
+
+  "size": {
+    "en": "398 sqft",
+    "ru": "398 sqft",
+    "ar": "398 قدم²",
+    "hi": "398 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Vincitore Wellness Estate is positioned as one of Dubai’s most advanced wellness-focused residential concepts, located in Dubai Science Park. The development introduces 7-star wellness homes designed to enhance daily living through purified air systems, humidity control, biophilic design principles and health-oriented materials. Residences range from wellness studios to spacious 3.5-bedroom layouts and limited signature homes, with sizes reaching over 2400 sqft. Each unit integrates HEPA and UVC air purification, antibacterial surfaces, low-VOC finishes, Vitamin-C infused showers and sound-insulated wellness-grade walls. Amenities include a Sky Wellness Pool, hydrotherapy areas, Zen gardens, meditation pods, spa facilities, physiotherapy rooms, organic café spaces and rooftop resident clubs. With direct access to Al Barsha South, Umm Suqeim Road and key Dubai destinations, the project appeals to end-users prioritizing long-term health, as well as investors targeting Dubai’s growing wellness real estate segment.",
+    "ru": "Vincitore Wellness Estate — жилой проект в Dubai Science Park, ориентированный на концепцию «7-star wellness living». Комплекс объединяет современные технологии очистки воздуха, контроль влажности, биофильный дизайн и экологичные материалы для создания здоровой среды проживания. В проекте представлены студии, 1–3.5-спальные резиденции и ограниченные wellness-пентхаусы площадью до более чем 2400 sqft. Апартаменты оснащены HEPA и UVC-фильтрацией воздуха, антибактериальными покрытиями, низковолатильными красками и душевыми системами с витамином C. Инфраструктура включает Sky Wellness Pool, гидротерапию, Zen-сад, spa-зоны, медитационные комнаты, коворкинг и rooftop-клуб. Проект подходит как для проживания, так и для инвестиций в растущий сегмент wellness-недвижимости Дубая.",
+    "ar": "فينتشيتوري ويلنس إستيت هو مشروع سكني مبتكر في دبي ساينس بارك يركز على مفهوم المنازل الصحية ذات مستوى 7 نجوم، مع أنظمة تنقية هواء متقدمة وتصميم بيئي حديث.",
+    "hi": "विन्चितोरे वेलनेस एस्टेट दुबई साइंस पार्क में स्थित एक उन्नत वेलनेस-आधारित आवासीय परियोजना है, जिसमें शुद्ध वायु प्रणाली, बायोफिलिक डिजाइन और स्वास्थ्य-केंद्रित सुविधाएँ शामिल हैं।"
+  },
+
+  "promo_image": "/img/projects/vincitore-wellness-estate/promo.png",
+
+  "gallery": [
+    "/img/projects/vincitore-wellness-estate/gallery_1.png",
+    "/img/projects/vincitore-wellness-estate/gallery_2.png",
+    "/img/projects/vincitore-wellness-estate/gallery_3.png",
+    "/img/projects/vincitore-wellness-estate/gallery_4.png",
+    "/img/projects/vincitore-wellness-estate/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Miracle Garden", "time": "6 min" },
+      { "name": "Mall of the Emirates", "time": "10 min" },
+      { "name": "Dubai Marina", "time": "18 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Miracle Garden", "time": "6 мин" },
+      { "name": "Mall of the Emirates", "time": "10 мин" },
+      { "name": "Dubai Marina", "time": "18 мин" }
+    ],
+    "ar": [
+      { "name": "حديقة دبي المعجزة", "time": "6 دقائق" },
+      { "name": "مول الإمارات", "time": "10 دقائق" },
+      { "name": "دبي مارينا", "time": "18 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मिरेकल गार्डन", "time": "6 मिनट" },
+      { "name": "मॉल ऑफ द एमिरेट्स", "time": "10 मिनट" },
+      { "name": "दुबई मरीना", "time": "18 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Science Park, Al Barsha South, Dubai, UAE",
+      "ru": "Dubai Science Park, Al Barsha South, Дубай, ОАЭ",
+      "ar": "دبي ساينس بارك، البرشاء جنوب، دبي، الإمارات",
+      "hi": "दुबई साइंस पार्क, अल बरशा साउथ, दुबई, यूएई"
+    },
+    "lat": 25.0706,
+    "lng": 55.2300
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-science-park",
+    "developer": "vincitore-real-estate-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 800000,
+    "size_from_sqft": 398,
+    "tokens_extra": ["uae", "wellness-living", "science-park", "health-focused", "biophilic-design"]
+  }
+}

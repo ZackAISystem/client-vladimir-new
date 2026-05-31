@@ -1,0 +1,150 @@
+{
+  "project_key": "samana-barari-heights",
+  "slug": "samana-barari-heights",
+
+  "name": {
+    "en": "Samana Barari Heights",
+    "ru": "Samana Barari Heights",
+    "ar": "سمانا براري هايتس",
+    "hi": "समाना बरारी हाइट्स"
+  },
+
+  "developer": {
+    "en": "Samana Developers",
+    "ru": "Samana Developers",
+    "ar": "سمانا للتطوير العقاري",
+    "hi": "समाना डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Majan",
+    "ru": "Majan",
+    "ar": "مجان",
+    "hi": "माजन"
+  },
+
+  "hero_title": {
+    "en": "Samana Barari Heights",
+    "ru": "Samana Barari Heights",
+    "ar": "سمانا براري هايتس",
+    "hi": "समाना बरारी हाइट्स"
+  },
+
+  "handover": {
+    "en": "April 2028",
+    "ru": "Апрель 2028",
+    "ar": "أبريل 2028",
+    "hi": "अप्रैल 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "720,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "Studio–4 BR",
+    "ru": "Студия–4 спальни",
+    "ar": "استوديو–4 غرف نوم",
+    "hi": "स्टूडियो–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "383 sqft",
+    "ru": "383 sqft",
+    "ar": "383 قدم²",
+    "hi": "383 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "20/50/30",
+    "ru": "20/50/30",
+    "ar": "20/50/30",
+    "hi": "20/50/30"
+  },
+
+  "description": {
+    "en": "Samana Barari Heights in Majan is a modern residential project by Samana Developers, created for light-filled living with spacious layouts and private terraces. The concept blends architectural elegance, calm green surroundings and easy connectivity across Dubai, making it suitable for lifestyle buyers and long-term investors.",
+    "ru": "Samana Barari Heights в Majan — современный жилой проект от Samana Developers с просторными планировками, естественным светом и приватными террасами. Концепция объединяет архитектурную элегантность, спокойную зелёную среду и удобную транспортную доступность по Дубаю, что подходит для жизни и инвестиций.",
+    "ar": "سمانا براري هايتس في مجان هو مشروع سكني حديث من سمانا للتطوير العقاري، مصمم لحياة مليئة بالضوء مع مخططات واسعة وتراسات خاصة. يجمع بين الأناقة المعمارية وأجواء خضراء هادئة وسهولة الوصول إلى مختلف مناطق دبي، ما يجعله مناسباً للسكن والاستثمار طويل الأمد.",
+    "hi": "माजन में समाना बरारी हाइट्स, समाना डेवलपर्स का आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें लाइट-फिल्ड लेआउट, अधिक स्पेस और प्राइवेट टेरेस शामिल हैं। यह आर्किटेक्चरल एलीगेंस, हरियाली और दुबई के प्रमुख इलाकों तक आसान कनेक्टिविटी का संतुलन देता है—लिविंग और लॉन्ग-टर्म इन्वेस्टमेंट दोनों के लिए।"
+  },
+
+  "promo_image": "/img/projects/samana-barari-heights/promo.png",
+
+  "gallery": [
+    "/img/projects/samana-barari-heights/gallery_1.png",
+    "/img/projects/samana-barari-heights/gallery_2.png",
+    "/img/projects/samana-barari-heights/gallery_3.png",
+    "/img/projects/samana-barari-heights/gallery_4.png",
+    "/img/projects/samana-barari-heights/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" },
+      { "name": "مرسى دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Majan, Dubai",
+      "ru": "Majan, Дубай",
+      "ar": "مجان، دبي",
+      "hi": "माजन, दुबई"
+    },
+    "lat": 25.092967,
+    "lng": 55.316459
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "majan",
+    "developer": "samana-developers",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2028,
+    "price_from_aed": 720000,
+    "size_from_sqft": 383,
+    "tokens_extra": ["uae", "dubailand", "majan", "investment"]
+  }
+}

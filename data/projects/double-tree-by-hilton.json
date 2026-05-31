@@ -1,0 +1,149 @@
+{
+  "project_key": "double-tree-by-hilton",
+  "slug": "double-tree-by-hilton",
+
+  "name": {
+    "en": "Double Tree by Hilton",
+    "ru": "Double Tree by Hilton",
+    "ar": "دبل تري باي هيلتون",
+    "hi": "डबल ट्री बाय हिल्टन"
+  },
+
+  "developer": {
+    "en": "Hilton",
+    "ru": "Hilton",
+    "ar": "هيلتون",
+    "hi": "हिल्टन"
+  },
+
+  "location_text": {
+    "en": "Al Satwa",
+    "ru": "Al Satwa",
+    "ar": "السطوة",
+    "hi": "अल सतवा"
+  },
+
+  "hero_title": {
+    "en": "Double Tree by Hilton",
+    "ru": "Double Tree by Hilton",
+    "ar": "دبل تري باي هيلتون",
+    "hi": "डबल ट्री बाय हिल्टन"
+  },
+
+  "handover": {
+    "en": "June 2027",
+    "ru": "Июнь 2027",
+    "ar": "يونيو 2027",
+    "hi": "जून 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,600,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–2 BR",
+    "ru": "1–2 спальни",
+    "ar": "1–2 غرف نوم",
+    "hi": "1–2 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "Flexible plan available",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة سداد مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Double Tree by Hilton in Al Satwa introduces a branded residential concept within Jumeirah Garden City, combining hospitality-level standards with contemporary urban living. The development offers one- and two-bedroom apartments designed with refined interiors, premium finishes, and functional layouts. Positioned near Sheikh Zayed Road and City Walk, residents benefit from seamless connectivity to Downtown Dubai, DIFC, and the coastline. Backed by the globally recognized Hilton brand, the project integrates curated amenities, modern design, and strong rental potential, making it attractive for both investors and end-users seeking a centrally located address in Dubai.",
+    "ru": "Double Tree by Hilton в районе Al Satwa — это брендированная жилая концепция в Jumeirah Garden City, сочетающая стандарты международной гостиничной сети с современным городским стилем жизни. Проект предлагает апартаменты с 1–2 спальнями, продуманными планировками и премиальной отделкой. Локация рядом с Sheikh Zayed Road и City Walk обеспечивает быстрый доступ к Downtown Dubai, DIFC и побережью. Поддержка бренда Hilton усиливает инвестиционную привлекательность и потенциал аренды.",
+    "ar": "يقدم مشروع دبل تري باي هيلتون في السطوة مفهوماً سكنياً يحمل علامة تجارية عالمية ضمن جميرا جاردن سيتي، جامعاً بين معايير الضيافة الراقية والحياة الحضرية العصرية. يضم شققاً من غرفة وغرفتين نوم بتصاميم أنيقة وتشطيبات فاخرة. يتميز بموقع استراتيجي قرب شارع الشيخ زايد وسيتي ووك، ما يوفر سهولة الوصول إلى داون تاون دبي ومركز دبي المالي. بدعم من علامة هيلتون العالمية، يعد المشروع خياراً جذاباً للاستثمار والسكن.",
+    "hi": "अल सतवा स्थित डबल ट्री बाय हिल्टन जुमेराह गार्डन सिटी में एक ब्रांडेड रेजिडेंशियल कॉन्सेप्ट प्रस्तुत करता है, जो होटल-स्तरीय मानकों और आधुनिक शहरी जीवनशैली का संयोजन है। यह परियोजना 1 और 2 बेडरूम अपार्टमेंट प्रदान करती है जिनमें प्रीमियम फिनिश और कार्यात्मक लेआउट शामिल हैं। शेख ज़ायद रोड और सिटी वॉक के निकट स्थित यह विकास डाउनटाउन दुबई और DIFC से उत्कृष्ट कनेक्टिविटी प्रदान करता है। हिल्टन ब्रांड के समर्थन के साथ यह निवेश और निवास दोनों के लिए आकर्षक विकल्प है।"
+  },
+
+  "promo_image": "/img/projects/double-tree-by-hilton/promo.png",
+
+  "gallery": [
+    "/img/projects/double-tree-by-hilton/gallery_1.png",
+    "/img/projects/double-tree-by-hilton/gallery_2.png",
+    "/img/projects/double-tree-by-hilton/gallery_3.png",
+    "/img/projects/double-tree-by-hilton/gallery_4.png",
+    "/img/projects/double-tree-by-hilton/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "City Walk", "time": "5 min" },
+      { "name": "Downtown Dubai", "time": "10 min" },
+      { "name": "DIFC", "time": "8 min" }
+    ],
+    "ru": [
+      { "name": "City Walk", "time": "5 мин" },
+      { "name": "Downtown Dubai", "time": "10 мин" },
+      { "name": "DIFC", "time": "8 мин" }
+    ],
+    "ar": [
+      { "name": "سيتي ووك", "time": "5 دقائق" },
+      { "name": "داون تاون دبي", "time": "10 دقائق" },
+      { "name": "مركز دبي المالي", "time": "8 دقائق" }
+    ],
+    "hi": [
+      { "name": "सिटी वॉक", "time": "5 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" },
+      { "name": "DIFC", "time": "8 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Al Satwa, Dubai, UAE",
+      "ru": "Al Satwa, Дубай, ОАЭ",
+      "ar": "السطوة، دبي",
+      "hi": "अल सतवा, दुबई"
+    },
+    "lat": 25.2142,
+    "lng": 55.2774
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "al-satwa",
+    "developer": "hilton",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 2,
+    "handover_year": 2027,
+    "price_from_aed": 1600000,
+    "tokens_extra": ["uae"]
+  }
+}

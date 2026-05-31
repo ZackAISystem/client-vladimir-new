@@ -1,0 +1,150 @@
+{
+  "project_key": "binghatti-aquarise",
+  "slug": "binghatti-aquarise",
+
+  "name": {
+    "en": "Binghatti Aquarise",
+    "ru": "Binghatti Aquarise",
+    "ar": "بن غاطي أكوارايز",
+    "hi": "बिंगहट्टी एक्वाराइज़"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Binghatti Aquarise",
+    "ru": "Binghatti Aquarise",
+    "ar": "بن غاطي أكوارايز",
+    "hi": "बिंगहट्टी एक्वाराइज़"
+  },
+
+  "handover": {
+    "en": "June 2027",
+    "ru": "Июнь 2027",
+    "ar": "يونيو 2027",
+    "hi": "जून 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,100,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1 | 2 | 3 | 4 BR",
+    "ru": "Студия | 1 | 2 | 3 | 4 спальни",
+    "ar": "استوديو | 1 | 2 | 3 | 4 غرف نوم",
+    "hi": "स्टूडियो | 1 | 2 | 3 | 4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 420 sqft",
+    "ru": "от 420 sqft",
+    "ar": "ابتداءً من 420 قدم²",
+    "hi": "420 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Binghatti Aquarise is a contemporary residential tower in Business Bay by Binghatti Developers, offering studios and 1 to 4-bedroom apartments with sleek interiors and panoramic city views. Designed with smart home technology and premium finishes, the project combines architectural boldness with lifestyle amenities, creating a dynamic urban address close to Dubai Canal and Downtown Dubai.",
+    "ru": "Binghatti Aquarise — современный жилой небоскрёб в Business Bay от Binghatti Developers со студиями и апартаментами с 1–4 спальнями. Смарт-технологии, панорамные виды и стильные интерьеры формируют комфортное городское пространство рядом с Dubai Canal и Downtown Dubai, предлагая высокий инвестиционный потенциал.",
+    "ar": "يمثل مشروع بن غاطي أكوارايز برجاً سكنياً حديثاً في الخليج التجاري يضم استوديوهات وشققاً من 1 إلى 4 غرف نوم بإطلالات بانورامية على المدينة. يجمع بين تقنيات المنزل الذكي والتشطيبات الفاخرة ومرافق نمط الحياة العصرية، ليقدم عنواناً حضرياً مميزاً بالقرب من قناة دبي ووسط المدينة.",
+    "hi": "बिंगहट्टी डेवलपर्स द्वारा विकसित बिंगहट्टी एक्वाराइज़, बिज़नेस बे में स्थित एक आधुनिक रेजिडेंशियल टावर है। यह स्टूडियो और 1 से 4 बेडरूम अपार्टमेंट प्रदान करता है, जिनमें स्मार्ट होम तकनीक और प्रीमियम फिनिश शामिल हैं। दुबई कैनाल और डाउनटाउन के निकट यह प्रोजेक्ट एक जीवंत और उच्च निवेश क्षमता वाला शहरी पता प्रस्तुत करता है।"
+  },
+
+  "promo_image": "/img/projects/binghatti-aquarise/promo.png",
+
+  "gallery": [
+    "/img/projects/binghatti-aquarise/gallery_1.png",
+    "/img/projects/binghatti-aquarise/gallery_2.png",
+    "/img/projects/binghatti-aquarise/gallery_3.png",
+    "/img/projects/binghatti-aquarise/gallery_4.png",
+    "/img/projects/binghatti-aquarise/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai, UAE",
+      "ru": "Business Bay, Дубай, ОАЭ",
+      "ar": "الخليج التجاري، دبي، الإمارات",
+      "hi": "बिज़नेस बे, दुबई, यूएई"
+    },
+    "lat": 25.1865,
+    "lng": 55.2647
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 1100000,
+    "size_from_sqft": 420,
+    "tokens_extra": ["uae"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "sls-residences-palm-jumeirah",
+  "slug": "sls-residences-palm-jumeirah",
+
+  "name": {
+    "en": "SLS Residences Palm Jumeirah",
+    "ru": "SLS Residences Palm Jumeirah",
+    "ar": "إس إل إس ريزيدنسز نخلة جميرا",
+    "hi": "एसएलएस रेजिडेंसेज़ पाम जुमेराह"
+  },
+
+  "developer": {
+    "en": "Roya Lifestyle Development",
+    "ru": "Roya Lifestyle Development",
+    "ar": "رويا لايف ستايل للتطوير",
+    "hi": "रोया लाइफस्टाइल डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "SLS Residences Palm Jumeirah",
+    "ru": "SLS Residences Palm Jumeirah",
+    "ar": "إس إل إس ريزيدنسز نخلة جميرا",
+    "hi": "एसएलएस रेजिडेंसेज़ पाम जुमेराह"
+  },
+
+  "handover": {
+    "en": "July 2026",
+    "ru": "Июль 2026",
+    "ar": "يوليو 2026",
+    "hi": "जुलाई 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "9,100,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "2–4 BR",
+    "ru": "2–4 спальни",
+    "ar": "2–4 غرف نوم",
+    "hi": "2–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "1670 sqft",
+    "ru": "1670 sqft",
+    "ar": "1670 قدم²",
+    "hi": "1670 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "SLS Residences Palm Jumeirah by Roya Lifestyle Development is a boutique ultra-luxury beachfront project offering 2 to 4-bedroom apartments and duplex residences. Positioned on the iconic Palm Jumeirah crescent, the development features private beach access, panoramic Arabian Gulf views and resort-style amenities, redefining sophisticated island living with exclusivity and architectural refinement.",
+    "ru": "SLS Residences Palm Jumeirah от Roya Lifestyle Development — бутик-проект ультралюкс на первой линии моря с апартаментами и дуплексами 2–4 спальни. Комплекс расположен на культовой Palm Jumeirah и предлагает приватный пляж, панорамные виды на Персидский залив и инфраструктуру уровня курорта, создавая новый стандарт островной жизни.",
+    "ar": "يُعد SLS Residences Palm Jumeirah من تطوير Roya Lifestyle مشروعاً سكنياً فاخراً على الواجهة البحرية يضم شققاً ودوبلكسات من 2 إلى 4 غرف نوم. يقع على الهلال الشهير لنخلة جميرا ويوفر وصولاً خاصاً إلى الشاطئ وإطلالات بانورامية على الخليج العربي ومرافق فاخرة تعيد تعريف أسلوب الحياة الراقي.",
+    "hi": "रोया लाइफस्टाइल डेवलपमेंट द्वारा विकसित एसएलएस रेजिडेंसेज़ पाम जुमेराह एक बुटीक अल्ट्रा-लक्ज़री बीचफ्रंट प्रोजेक्ट है, जिसमें 2–4 बेडरूम अपार्टमेंट और डुप्लेक्स उपलब्ध हैं। यह प्रतिष्ठित पाम जुमेराह पर स्थित है और निजी बीच एक्सेस, पैनोरमिक समुद्री दृश्य और रिसॉर्ट-स्टाइल सुविधाएँ प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/sls-residences-palm-jumeirah/promo.png",
+
+  "gallery": [
+    "/img/projects/sls-residences-palm-jumeirah/gallery_1.png",
+    "/img/projects/sls-residences-palm-jumeirah/gallery_2.png",
+    "/img/projects/sls-residences-palm-jumeirah/gallery_3.png",
+    "/img/projects/sls-residences-palm-jumeirah/gallery_4.png",
+    "/img/projects/sls-residences-palm-jumeirah/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Atlantis The Palm", "time": "5 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Atlantis The Palm", "time": "5 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "أتلانتس النخلة", "time": "5 دقائق" },
+      { "name": "مرسى دبي", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अटलांटिस द पाम", "time": "5 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah",
+      "ru": "Palm Jumeirah",
+      "ar": "نخلة جميرا",
+      "hi": "पाम जुमेराह"
+    },
+    "lat": 25.1213,
+    "lng": 55.1312
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "roya-lifestyle-development",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 4,
+    "handover_year": 2026,
+    "price_from_aed": 9100000,
+    "size_from_sqft": 1670,
+    "tokens_extra": ["uae", "beachfront", "branded-residence", "luxury"]
+  }
+}

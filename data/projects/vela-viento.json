@@ -1,0 +1,150 @@
+{
+  "project_key": "vela-viento",
+  "slug": "vela-viento",
+
+  "name": {
+    "en": "Vela Viento",
+    "ru": "Vela Viento",
+    "ar": "فيلا فيينتو",
+    "hi": "वेला विएंतो"
+  },
+
+  "developer": {
+    "en": "Omniyat Group",
+    "ru": "Omniyat Group",
+    "ar": "أمنيات جروب",
+    "hi": "ओमनियाट ग्रुप"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Vela Viento",
+    "ru": "Vela Viento",
+    "ar": "فيلا فيينتو",
+    "hi": "वेला विएंतो"
+  },
+
+  "handover": {
+    "en": "September 2027",
+    "ru": "Сентябрь 2027",
+    "ar": "سبتمبر 2027",
+    "hi": "सितंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "28,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "2–4 BR",
+    "ru": "2–4 спальни",
+    "ar": "2–4 غرف نوم",
+    "hi": "2–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "2852 sqft",
+    "ru": "2852 sqft",
+    "ar": "2852 قدم²",
+    "hi": "2852 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Vela Viento by Omniyat Group is an ultra-luxury twin-tower residential development in Business Bay offering expansive 2 to 4-bedroom apartments and duplexes with panoramic views of the Dubai Canal and skyline. Designed with contemporary architectural precision and high-end bespoke interiors, the project emphasizes privacy, spacious layouts and resort-style amenities. Residents benefit from private leisure decks, infinity pools, wellness facilities and curated lifestyle services, all positioned within minutes of Downtown Dubai and DIFC.",
+    "ru": "Vela Viento от Omniyat Group — ультра-люксовый жилой проект из двух башен в Business Bay с просторными апартаментами и дуплексами с 2–4 спальнями. Резиденции отличаются панорамными видами на Dubai Canal и городской горизонт, современной архитектурой и премиальной отделкой. Жителям доступны инфинити-бассейны, wellness-зоны и приватные лаунжи, а расположение обеспечивает быстрый доступ к Downtown Dubai и DIFC.",
+    "ar": "فيلا فيينتو من أمنيات هو مشروع سكني فاخر يتكون من برجين في الخليج التجاري ويضم شققاً ودوبلكسات من غرفتين إلى أربع غرف نوم بإطلالات بانورامية على قناة دبي وأفق المدينة. يتميز المشروع بتصميم معماري معاصر ومرافق ترفيهية راقية.",
+    "hi": "ओमनियाट ग्रुप द्वारा विकसित वेला विएंतो बिज़नेस बे में स्थित एक अल्ट्रा-लक्ज़री ट्विन टॉवर प्रोजेक्ट है, जिसमें 2 से 4 बेडरूम अपार्टमेंट और डुप्लेक्स उपलब्ध हैं। दुबई कैनाल और स्काईलाइन के दृश्य, आधुनिक डिज़ाइन और प्रीमियम सुविधाएँ इसे विशिष्ट बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/vela-viento/promo.png",
+
+  "gallery": [
+    "/img/projects/vela-viento/gallery_1.png",
+    "/img/projects/vela-viento/gallery_2.png",
+    "/img/projects/vela-viento/gallery_3.png",
+    "/img/projects/vela-viento/gallery_4.png",
+    "/img/projects/vela-viento/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "Dubai Mall", "time": "7 min" },
+      { "name": "Dubai International Airport", "time": "18 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Dubai Mall", "time": "7 мин" },
+      { "name": "Аэропорт DXB", "time": "18 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "دبي مول", "time": "7 دقائق" },
+      { "name": "مطار دبي الدولي", "time": "18 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "दुबई मॉल", "time": "7 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "18 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay",
+      "ru": "Business Bay",
+      "ar": "الخليج التجاري",
+      "hi": "बिज़नेस बे"
+    },
+    "lat": 25.1861,
+    "lng": 55.2698
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "omniyat-group",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 28000000,
+    "size_from_sqft": 2852,
+    "tokens_extra": ["uae", "ultra-luxury", "canal-view", "business-bay"]
+  }
+}

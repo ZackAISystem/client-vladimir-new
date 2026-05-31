@@ -1,0 +1,150 @@
+{
+  "project_key": "the-chedi-private-residences",
+  "slug": "the-chedi-private-residences",
+
+  "name": {
+    "en": "The Chedi Private Residences",
+    "ru": "The Chedi Private Residences",
+    "ar": "ذا تشيدي برايفت ريزيدنسز",
+    "hi": "द चेडी प्राइवेट रेजिडेंसेज़"
+  },
+
+  "developer": {
+    "en": "Al Seeb Real Estate Development",
+    "ru": "Al Seeb Real Estate Development",
+    "ar": "السيب للتطوير العقاري",
+    "hi": "अल सीब रियल एस्टेट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Barsha Heights (Tecom)",
+    "ru": "Barsha Heights (Tecom)",
+    "ar": "برشا هايتس (تيكوم)",
+    "hi": "बरशा हाइट्स (टेकॉम)"
+  },
+
+  "hero_title": {
+    "en": "The Chedi Private Residences",
+    "ru": "The Chedi Private Residences",
+    "ar": "ذا تشيدي برايفت ريزيدنسز",
+    "hi": "द चेडी प्राइवेट रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "February 2029",
+    "ru": "Февраль 2029",
+    "ar": "فبراير 2029",
+    "hi": "फ़रवरी 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "5,500,000"
+  },
+
+  "property_types": {
+    "en": ["Penthouse", "Villa"],
+    "ru": ["Пентхаус", "Вилла"],
+    "ar": ["بنتهاوس", "فيلا"],
+    "hi": ["पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "2–8 BR",
+    "ru": "2–8 спален",
+    "ar": "2–8 غرف نوم",
+    "hi": "2–8 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "The Chedi Private Residences is a branded ultra-luxury development in Barsha Heights by Al Seeb Real Estate Development, created in collaboration with Bruno Guelaff Studio. The project features an exclusive collection of 2 to 8-bedroom residences, including penthouses, villas and grand mansions. Designed with architectural precision and contemporary elegance, the residences combine panoramic skyline views, refined materials and hotel-inspired services under The Chedi brand. The development integrates wellness facilities, curated hospitality amenities and private living spaces crafted for discerning owners seeking privacy and long-term value in central Dubai.",
+    "ru": "The Chedi Private Residences — брендированный ультра-люксовый проект в Barsha Heights от Al Seeb Real Estate Development в сотрудничестве со студией Bruno Guelaff. Включает ограниченную коллекцию резиденций с 2–8 спальнями, пентхаусов и вилл. Архитектура сочетает панорамные виды на небоскрёбы Дубая, современные материалы и сервис уровня отеля под брендом The Chedi. Проект ориентирован на приватность, высокий уровень комфорта и долгосрочную инвестиционную ценность.",
+    "ar": "يعد مشروع ذا تشيدي برايفت ريزيدنسز في برشا هايتس من أفخم المشاريع السكنية بعلامة تشيدي التجارية، من تطوير السيب العقارية وبالتعاون مع استوديو برونو غويلاف. يضم المشروع مجموعة حصرية من مساكن من 2 إلى 8 غرف نوم تشمل بنتهاوس وفيلات وقصور، مع تصاميم معمارية حديثة وخدمات فندقية راقية.",
+    "hi": "द चेडी प्राइवेट रेजिडेंसेज़ बरशा हाइट्स में स्थित एक ब्रांडेड अल्ट्रा-लक्ज़री प्रोजेक्ट है, जिसे अल सीब रियल एस्टेट डेवलपमेंट ने ब्रूनो गुएलाफ स्टूडियो के साथ विकसित किया है। इसमें 2 से 8 बेडरूम के पेंटहाउस, विला और मेंशन शामिल हैं, जो आधुनिक आर्किटेक्चर, स्काईलाइन व्यू और होटल-स्तरीय सेवाएँ प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/the-chedi-private-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/the-chedi-private-residences/gallery_1.png",
+    "/img/projects/the-chedi-private-residences/gallery_2.png",
+    "/img/projects/the-chedi-private-residences/gallery_3.png",
+    "/img/projects/the-chedi-private-residences/gallery_4.png",
+    "/img/projects/the-chedi-private-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "12 min" },
+      { "name": "Mall of the Emirates", "time": "8 min" },
+      { "name": "Palm Jumeirah", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "12 мин" },
+      { "name": "Mall of the Emirates", "time": "8 мин" },
+      { "name": "Palm Jumeirah", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "دبي مارينا", "time": "12 دقيقة" },
+      { "name": "مول الإمارات", "time": "8 دقائق" },
+      { "name": "نخلة جميرا", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "12 मिनट" },
+      { "name": "मॉल ऑफ द एमिरेट्स", "time": "8 मिनट" },
+      { "name": "पाम जुमेराह", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Barsha Heights (Tecom), Dubai",
+      "ru": "Barsha Heights (Tecom), Дубай",
+      "ar": "برشا هايتس (تيكوم)، دبي",
+      "hi": "बरशा हाइट्स (टेकॉम), दुबई"
+    },
+    "lat": 25.0963,
+    "lng": 55.1753
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "barsha-heights",
+    "developer": "al-seeb-real-estate-development",
+    "property_types": ["penthouse", "villa"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 8,
+    "handover_year": 2029,
+    "price_from_aed": 5500000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "ultra-luxury", "branded-residence", "the-chedi", "tecom"]
+  }
+}

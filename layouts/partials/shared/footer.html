@@ -1,0 +1,105 @@
+{{ $site := site.Data.site }}
+
+{{ $footerTitle := $site.footer.title | default "UAE property investments, guided by real advisory" }}
+
+{{ $footerSubtitle := $site.footer.subtitle | default "AI-powered property guidance for Dubai and UAE real estate: selected projects, investment scenarios and private shortlists matched to your goals." }}
+
+{{ $footerChips := $site.footer.chips | default (slice "UAE off-plan" "Investment advisory" "Sicemco AI search") }}
+
+{{ $phoneLabel := $site.contacts.phone.label | default "+971 50 224 7701" }}
+{{ $phoneHref := $site.contacts.phone.href | default "tel:+971502247701" }}
+
+{{ $emailLabelRaw := $site.contacts.email.label | default "" }}
+{{ $emailLabel := $emailLabelRaw | replaceRE "^\\[(.*)\\]\\(.*\\)$" "$1" }}
+{{ $emailHref := $site.contacts.email.href | default "" }}
+
+{{ $whatsappHref := $site.contacts.whatsapp.href | default "https://wa.me/971502247701" }}
+{{ $addressText := $site.address.text | default "Dubai, United Arab Emirates" }}
+{{ $copyright := $site.footer.copyright | default "© Vladimir Maksimov — All rights reserved" }}
+
+<footer class="site-footer" id="contact">
+  <div class="site-footer__glow site-footer__glow--left" aria-hidden="true"></div>
+  <div class="site-footer__glow site-footer__glow--right" aria-hidden="true"></div>
+
+  <div class="site-footer__inner">
+
+    <div class="site-footer__left">
+      <div class="site-footer__statement">
+        <p class="site-footer__eyebrow">
+          Vladimir Maksimov · Real estate intelligence
+        </p>
+
+        <h2>{{ $footerTitle }}</h2>
+        <p>{{ $footerSubtitle }}</p>
+
+        <div class="site-footer__chips" aria-label="Footer highlights">
+          {{ range $footerChips }}
+            <span>{{ . }}</span>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class="site-footer__right">
+      <div class="site-footer__contacts">
+        <a
+          class="footer-pill footer-pill--primary footer-pill--ltr"
+          dir="ltr"
+          href="{{ $phoneHref | safeURL }}"
+          aria-label="Call {{ $phoneLabel }}"
+        >
+          {{ $phoneLabel }}
+        </a>
+
+        {{ if $emailLabel }}
+          <a
+            class="footer-pill footer-pill--ltr"
+            dir="ltr"
+            href="{{ $emailHref | safeURL }}"
+            aria-label="Email {{ $emailLabel }}"
+          >
+            {{ $emailLabel }}
+          </a>
+        {{ end }}
+
+        <a
+          class="footer-pill footer-pill--ltr"
+          dir="ltr"
+          href="{{ $whatsappHref | safeURL }}"
+          target="_blank"
+          rel="noopener"
+          aria-label="Message Vladimir on WhatsApp"
+        >
+          WhatsApp
+        </a>
+      </div>
+
+      {{ if $site.socials }}
+        <div class="site-footer__social" aria-label="Social links">
+          {{ range $site.socials }}
+            <a
+              class="footer-social"
+              href="{{ .url | safeURL }}"
+              target="_blank"
+              rel="noopener"
+              aria-label="{{ .name }}"
+            >
+              <img src="{{ .icon | relURL }}" alt="">
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+    </div>
+
+    <div class="site-footer__bottom">
+      <div class="site-footer__copyright" data-i18n="footer_copyright">
+        {{ $copyright }}
+      </div>
+
+      <div class="site-footer__address footer-pill--ltr" dir="ltr">
+        {{ $addressText }}
+      </div>
+    </div>
+
+  </div>
+</footer>

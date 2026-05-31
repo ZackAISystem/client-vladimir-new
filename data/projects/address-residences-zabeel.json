@@ -1,0 +1,150 @@
+{
+  "project_key": "address-residences-zabeel",
+  "slug": "address-residences-zabeel",
+
+  "name": {
+    "en": "Address Residences Zabeel",
+    "ru": "Address Residences Zabeel",
+    "ar": "عنوان ريزيدنسز زعبيل",
+    "hi": "एड्रेस रेजिडेंस ज़ाबील"
+  },
+
+  "developer": {
+    "en": "Emaar Properties",
+    "ru": "Emaar Properties",
+    "ar": "إعمار العقارية",
+    "hi": "ईमार प्रॉपर्टीज"
+  },
+
+  "location_text": {
+  "en": "Zabeel 1",
+  "ru": "Zabeel 1",
+  "ar": "زعبيل 1",
+  "hi": "ज़ाबील 1"
+  },
+
+  "hero_title": {
+    "en": "Address Residences Zabeel",
+    "ru": "Address Residences Zabeel",
+    "ar": "عنوان ريزيدنسز زعبيل",
+    "hi": "एड्रेस रेजिडेंस ज़ाबील"
+  },
+
+  "handover": {
+    "en": "September 2029",
+    "ru": "Сентябрь 2029",
+    "ar": "سبتمبر 2029",
+    "hi": "सितंबर 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,200,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1 | 2 | 3 | 4 BR",
+    "ru": "1 | 2 | 3 | 4 спальни",
+    "ar": "1 | 2 | 3 | 4 غرف نوم",
+    "hi": "1 | 2 | 3 | 4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 739 sqft",
+    "ru": "от 739 sqft",
+    "ar": "ابتداءً من 739 قدم²",
+    "hi": "739 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Address Residences Zabeel by Emaar Properties is set in central Dubai near Zabeel Park, offering refined apartments and penthouses with panoramic skyline views. Elegant interiors, smart home technology and iconic Address architecture create a private urban sanctuary. Residents enjoy seamless connectivity to Downtown, DIFC and Dubai’s key landmarks while living in a tranquil yet prestigious setting.",
+    "ru": "Address Residences Zabeel от Emaar Properties расположен в центральной части Дубая рядом с Zabeel Park и предлагает элегантные апартаменты и пентхаусы с панорамными видами на городской горизонт. Современные технологии smart home, фирменная архитектура Address и удобная близость к Downtown и DIFC создают престижное и спокойное пространство для жизни.",
+    "ar": "يقع مشروع عنوان ريزيدنسز زعبيل من إعمار في قلب دبي بالقرب من حديقة زعبيل، ويقدم شققاً وبنتهاوس أنيقة بإطلالات بانورامية على أفق المدينة. تجمع التصاميم الداخلية الراقية وتقنيات المنزل الذكي مع طابع علامة Address لتوفر ملاذاً حضرياً هادئاً مع سهولة الوصول إلى داون تاون وديفك وأبرز معالم دبي.",
+    "hi": "ईमार प्रॉपर्टीज द्वारा विकसित एड्रेस रेजिडेंस ज़ाबील सेंट्रल दुबई में ज़ाबील पार्क के पास स्थित है और शानदार स्काईलाइन व्यू के साथ लग्ज़री अपार्टमेंट्स और पेंटहाउस प्रदान करता है। स्मार्ट होम टेक्नोलॉजी, एलिगेंट इंटीरियर्स और एड्रेस ब्रांड की प्रतिष्ठित वास्तुकला इसे एक शांत लेकिन प्रीमियम शहरी जीवन अनुभव बनाती है।"
+  },
+
+  "promo_image": "/img/projects/address-residences-zabeel/promo.png",
+
+  "gallery": [
+    "/img/projects/address-residences-zabeel/gallery_1.png",
+    "/img/projects/address-residences-zabeel/gallery_2.png",
+    "/img/projects/address-residences-zabeel/gallery_3.png",
+    "/img/projects/address-residences-zabeel/gallery_4.png",
+    "/img/projects/address-residences-zabeel/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "12 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "12 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "12 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "12 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Zabeel 1, Dubai, UAE",
+      "ru": "Zabeel 1, Дубай, ОАЭ",
+      "ar": "زعبيل 1، دبي، الإمارات",
+      "hi": "ज़ाबील 1, दुबई, यूएई"
+    },
+    "lat": 25.22825,
+    "lng": 55.30105
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "zabeel-1",
+    "developer": "emaar-properties",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2029,
+    "price_from_aed": 2200000,
+    "size_from_sqft": 739,
+    "tokens_extra": ["uae"]
+  }
+}

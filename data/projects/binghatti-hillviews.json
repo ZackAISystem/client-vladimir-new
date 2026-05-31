@@ -1,0 +1,150 @@
+{
+  "project_key": "binghatti-hillviews",
+  "slug": "binghatti-hillviews",
+
+  "name": {
+    "en": "Binghatti Hillviews",
+    "ru": "Binghatti Hillviews",
+    "ar": "بن غاطي هيلفيوز",
+    "hi": "बिंगहट्टी हिलव्यूज़"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Science Park",
+    "ru": "Dubai Science Park",
+    "ar": "دبي ساينس بارك",
+    "hi": "दुबई साइंस पार्क"
+  },
+
+  "hero_title": {
+    "en": "Binghatti Hillviews",
+    "ru": "Binghatti Hillviews",
+    "ar": "بن غاطي هيلفيوز",
+    "hi": "बिंगहट्टी हिलव्यूज़"
+  },
+
+  "handover": {
+    "en": "April 2026",
+    "ru": "Апрель 2026",
+    "ar": "أبريل 2026",
+    "hi": "अप्रैल 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1 | 2 BR",
+    "ru": "Студия | 1 | 2 спальни",
+    "ar": "استوديو | 1 | 2 غرف نوم",
+    "hi": "स्टूडियो | 1 | 2 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 386 sqft",
+    "ru": "от 386 sqft",
+    "ar": "ابتداءً من 386 قدم²",
+    "hi": "386 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Binghatti Hillviews is a contemporary residential tower in Dubai Science Park offering studios and one- to two-bedroom apartments with smart home systems and panoramic skyline views. Defined by futuristic architecture and premium finishes, the project blends innovation, comfort and connectivity, creating a refined lifestyle within one of Dubai’s fast-growing innovation districts.",
+    "ru": "Binghatti Hillviews — современная жилая башня в Dubai Science Park со студиями и апартаментами с 1–2 спальнями. Проект отличается футуристичной архитектурой, панорамными видами и smart-технологиями, сочетая комфорт и инновации в одном из быстро развивающихся районов Дубая.",
+    "ar": "يُعد بن غاطي هيلفيوز برجاً سكنياً معاصراً في دبي ساينس بارك يضم استوديوهات وشققاً بغرفة نوم واحدة أو غرفتين مع أنظمة منزل ذكي وإطلالات بانورامية على الأفق. يجمع المشروع بين التصميم المستقبلي والتشطيبات الفاخرة ليقدم أسلوب حياة راقياً في أحد أكثر مناطق دبي نمواً.",
+    "hi": "बिंगहट्टी हिलव्यूज़ दुबई साइंस पार्क में स्थित एक आधुनिक रेजिडेंशियल टॉवर है, जिसमें स्टूडियो और 1–2 बेडरूम अपार्टमेंट उपलब्ध हैं। फ्यूचरिस्टिक आर्किटेक्चर, स्मार्ट होम सिस्टम और पैनोरमिक व्यू इसे दुबई के तेजी से विकसित हो रहे इनोवेशन जिले में प्रीमियम शहरी जीवन का प्रतीक बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/binghatti-hillviews/promo.png",
+
+  "gallery": [
+    "/img/projects/binghatti-hillviews/gallery_1.png",
+    "/img/projects/binghatti-hillviews/gallery_2.png",
+    "/img/projects/binghatti-hillviews/gallery_3.png",
+    "/img/projects/binghatti-hillviews/gallery_4.png",
+    "/img/projects/binghatti-hillviews/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "18 min" },
+      { "name": "DXB Airport", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "18 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "18 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" },
+      { "name": "مرسى دبي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "18 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Science Park, Dubai, UAE",
+      "ru": "Dubai Science Park, Дубай, ОАЭ",
+      "ar": "دبي ساينس بارك، دبي",
+      "hi": "दुबई साइंस पार्क, दुबई"
+    },
+    "lat": 25.1089,
+    "lng": 55.2273
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-science-park",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 2,
+    "handover_year": 2026,
+    "price_from_aed": 800000,
+    "size_from_sqft": 386,
+    "tokens_extra": ["uae"]
+  }
+}

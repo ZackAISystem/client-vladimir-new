@@ -1,0 +1,150 @@
+{
+  "project_key": "armani-beach-residences",
+  "slug": "armani-beach-residences",
+
+  "name": {
+    "en": "Armani Beach Residences",
+    "ru": "Armani Beach Residences",
+    "ar": "أرماني بيتش ريزيدنسز",
+    "hi": "अरमानी बीच रेजिडेंस"
+  },
+
+  "developer": {
+    "en": "ARADA",
+    "ru": "ARADA",
+    "ar": "أرادَ",
+    "hi": "अराडा"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेरा"
+  },
+
+  "hero_title": {
+    "en": "Armani Beach Residences",
+    "ru": "Armani Beach Residences",
+    "ar": "أرماني بيتش ريزيدنسز",
+    "hi": "अरमानी बीच रेजिडेंस"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "26,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2 | 3 | 4 | 5 BR",
+    "ru": "2 | 3 | 4 | 5 спальни",
+    "ar": "2 | 3 | 4 | 5 غرف نوم",
+    "hi": "2 | 3 | 4 | 5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2,657 sqft",
+    "ru": "от 2 657 sqft",
+    "ar": "ابتداءً من 2,657 قدم²",
+    "hi": "2,657 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Armani Beach Residences on Palm Jumeirah is an exclusive waterfront development by ARADA, designed by renowned Japanese architect Tadao Ando. Blending minimalist architecture with the serenity of the Arabian Gulf, the project offers expansive residences with panoramic sea views, refined interiors and private beach access. It redefines coastal luxury through harmony, space and timeless elegance.",
+    "ru": "Armani Beach Residences на Palm Jumeirah — эксклюзивный прибрежный проект от ARADA, созданный легендарным японским архитектором Тадао Андо. Минималистичная архитектура сочетается с панорамными видами на Персидский залив, просторными резиденциями и приватным пляжем, создавая новое понимание роскоши и гармонии у воды.",
+    "ar": "يمثل مشروع أرماني بيتش ريزيدنسز على نخلة جميرا تحفة سكنية فاخرة من تطوير أرادا وتصميم المعماري الياباني الشهير تاداو أندو. يجمع بين العمارة البسيطة وإطلالات بانورامية على الخليج العربي مع شاطئ خاص ومساحات واسعة، ليقدم مفهوماً جديداً للفخامة الساحلية والهدوء المعاصر.",
+    "hi": "पाम जुमेरा पर स्थित अरमानी बीच रेजिडेंस, अराडा द्वारा विकसित और प्रसिद्ध जापानी आर्किटेक्ट तादाओ आंदो द्वारा डिज़ाइन की गई एक प्रीमियम वॉटरफ्रंट कम्युनिटी है। मिनिमलिस्ट आर्किटेक्चर, विशाल रेजिडेंस, निजी बीच एक्सेस और शानदार समुद्री दृश्य इसे तटीय लक्ज़री और आधुनिक शांति का प्रतीक बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/armani-beach-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/armani-beach-residences/gallery_1.png",
+    "/img/projects/armani-beach-residences/gallery_2.png",
+    "/img/projects/armani-beach-residences/gallery_3.png",
+    "/img/projects/armani-beach-residences/gallery_4.png",
+    "/img/projects/armani-beach-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" },
+      { "name": "مرسى دبي", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah",
+      "ru": "Palm Jumeirah",
+      "ar": "نخلة جميرا",
+      "hi": "पाम जुमेरा"
+    },
+    "lat": 25.1124,
+    "lng": 55.1390
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "arada",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2026,
+    "price_from_aed": 26000000,
+    "size_from_sqft": 2657,
+    "tokens_extra": ["uae"]
+  }
+}

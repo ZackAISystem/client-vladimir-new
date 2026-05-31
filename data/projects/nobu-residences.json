@@ -1,0 +1,150 @@
+{
+  "project_key": "nobu-residences",
+  "slug": "nobu-residences",
+
+  "name": {
+    "en": "Nobu Residences",
+    "ru": "Nobu Residences",
+    "ar": "نوبو ريزيدنسز",
+    "hi": "नोबू रेसिडेंसेज़"
+  },
+
+  "developer": {
+    "en": "Aldar Properties PJSC",
+    "ru": "Aldar Properties PJSC",
+    "ar": "الدار العقارية",
+    "hi": "अलदार प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Saadiyat Island",
+    "ru": "Saadiyat Island",
+    "ar": "جزيرة السعديات",
+    "hi": "सादियात आइलैंड"
+  },
+
+  "hero_title": {
+    "en": "Nobu Residences",
+    "ru": "Nobu Residences",
+    "ar": "نوبو ريزيدنسز",
+    "hi": "नोबू रेसिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "8,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse", "Villa"],
+    "ru": ["Апартаменты", "Пентхаус", "Вилла"],
+    "ar": ["شقة", "بنتهاوس", "فيلا"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Nobu Residences by Aldar is a branded residential development on Saadiyat Island, Abu Dhabi. The project offers 1 to 4-bedroom apartments, penthouses and villas designed with refined contemporary architecture and premium finishes. Residents benefit from direct beach access, hotel-style services and proximity to the Louvre Abu Dhabi and Saadiyat Cultural District. The development combines privacy, waterfront views and curated lifestyle amenities within one of the UAE’s most prestigious island communities.",
+    "ru": "Nobu Residences от Aldar — брендированный жилой проект на острове Saadiyat в Абу-Даби. В комплексе представлены апартаменты, пентхаусы и виллы с 1–4 спальнями, выполненные в современной архитектуре с премиальной отделкой. Резиденты получают доступ к пляжу, сервисам уровня отеля и близости к Louvre Abu Dhabi и культурному кластеру острова. Проект сочетает приватность, морские виды и статус одной из самых престижных локаций ОАЭ.",
+    "ar": "يُعد مشروع نوبو ريزيدنسز من الدار تطويراً سكنياً يحمل علامة تجارية في جزيرة السعديات بأبوظبي. يضم شققاً وبنتهاوس وفللاً من 1 إلى 4 غرف نوم بتصميم معماري عصري وتشطيبات فاخرة. يتمتع السكان بإمكانية الوصول المباشر إلى الشاطئ وخدمات فندقية راقية وقرب من متحف اللوفر أبوظبي والمنطقة الثقافية. يجمع المشروع بين الخصوصية والإطلالات البحرية وأسلوب حياة فاخر.",
+    "hi": "अलदार द्वारा विकसित नोबू रेसिडेंसेज़ सादियात आइलैंड, अबू धाबी में स्थित एक ब्रांडेड रेजिडेंशियल प्रोजेक्ट है। इसमें 1 से 4 बेडरूम अपार्टमेंट, पेंटहाउस और विला उपलब्ध हैं, जो आधुनिक आर्किटेक्चर और प्रीमियम फिनिश के साथ डिज़ाइन किए गए हैं। निवासियों को बीच एक्सेस, होटल-स्टाइल सेवाएँ और लूव्र अबू धाबी व सांस्कृतिक ज़िले की निकटता मिलती है। यह परियोजना गोपनीयता, समुद्री दृश्य और प्रतिष्ठित द्वीपीय जीवनशैली का संतुलन प्रदान करती है।"
+  },
+
+  "promo_image": "/img/projects/nobu-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/nobu-residences/gallery_1.png",
+    "/img/projects/nobu-residences/gallery_2.png",
+    "/img/projects/nobu-residences/gallery_3.png",
+    "/img/projects/nobu-residences/gallery_4.png",
+    "/img/projects/nobu-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Louvre Abu Dhabi", "time": "5 min" },
+      { "name": "Saadiyat Beach", "time": "3 min" },
+      { "name": "Abu Dhabi Downtown", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Louvre Abu Dhabi", "time": "5 мин" },
+      { "name": "Пляж Saadiyat", "time": "3 мин" },
+      { "name": "Центр Абу-Даби", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "متحف اللوفر أبوظبي", "time": "5 دقائق" },
+      { "name": "شاطئ السعديات", "time": "3 دقائق" },
+      { "name": "وسط أبوظبي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "लूव्र अबू धाबी", "time": "5 मिनट" },
+      { "name": "सादियात बीच", "time": "3 मिनट" },
+      { "name": "अबू धाबी डाउनटाउन", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Saadiyat Island, Abu Dhabi",
+      "ru": "Saadiyat Island, Абу-Даби",
+      "ar": "جزيرة السعديات، أبوظبي",
+      "hi": "सादियात आइलैंड, अबू धाबी"
+    },
+    "lat": 24.5333,
+    "lng": 54.4333
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "abu-dhabi",
+    "city": "abu-dhabi",
+    "area": "saadiyat-island",
+    "developer": "aldar-properties",
+    "property_types": ["apartment", "penthouse", "villa"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 8000000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "waterfront", "branded-residence"]
+  }
+}

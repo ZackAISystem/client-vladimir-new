@@ -1,0 +1,150 @@
+{
+  "project_key": "one-crescent",
+  "slug": "one-crescent",
+
+  "name": {
+    "en": "One Crescent",
+    "ru": "One Crescent",
+    "ar": "ون كريسنت",
+    "hi": "वन क्रेसेंट"
+  },
+
+  "developer": {
+    "en": "AHS Properties",
+    "ru": "AHS Properties",
+    "ar": "إيه إتش إس بروبرتيز",
+    "hi": "एएचएस प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "One Crescent",
+    "ru": "One Crescent",
+    "ar": "ون كريسنت",
+    "hi": "वन क्रेसेंट"
+  },
+
+  "handover": {
+    "en": "March 2026",
+    "ru": "Март 2026",
+    "ar": "مارس 2026",
+    "hi": "मार्च 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "17,000,000"
+  },
+
+  "property_types": {
+    "en": ["Penthouse", "Villa"],
+    "ru": ["Пентхаус", "Вилла"],
+    "ar": ["بنتهاوس", "فيلا"],
+    "hi": ["पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "3–5 BR",
+    "ru": "3–5 спален",
+    "ar": "3–5 غرف نوم",
+    "hi": "3–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "4200 sqft",
+    "ru": "4200 sqft",
+    "ar": "4200 قدم²",
+    "hi": "4200 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "One Crescent by AHS Properties is an exclusive beachfront collection on Palm Jumeirah, offering 3–5 bedroom penthouses and villas with expansive 4200–7941 sqft layouts. Designed for privacy and panoramic sea views, it combines refined architecture, premium interiors, and resort-style living in one of Dubai’s most iconic addresses.",
+    "ru": "One Crescent от AHS Properties — эксклюзивные пентхаусы и виллы на первой линии Palm Jumeirah с планировками 3–5 спален и площадями 4200–7941 sqft. Проект создан для приватной жизни у моря: панорамные виды, премиальная архитектура и формат «курортной резиденции» в одном из самых статусных адресов Дубая.",
+    "ar": "ون كريسنت من AHS Properties هو مشروع حصري على الواجهة البحرية في نخلة جميرا، يضم بنتهاوس وفللاً من 3 إلى 5 غرف نوم بمساحات 4200–7941 قدم². يوفر خصوصية عالية وإطلالات بحرية بانورامية مع تصميم راقٍ وتشطيبات فاخرة وأسلوب حياة منتجعي في أحد أكثر عناوين دبي تميزاً.",
+    "hi": "एएचएस प्रॉपर्टीज का वन क्रेसेंट पाम जुमेराह पर एक एक्सक्लूसिव बीचफ्रंट प्रोजेक्ट है, जिसमें 3–5 बेडरूम पेंटहाउस और विला 4200–7941 sqft के विशाल लेआउट के साथ मिलते हैं। यह प्राइवेसी, पैनोरमिक सी-व्यू, प्रीमियम इंटीरियर और रिसॉर्ट-स्टाइल लाइफस्टाइल को दुबई के सबसे आइकॉनिक पते पर जोड़ता है।"
+  },
+
+  "promo_image": "/img/projects/one-crescent/promo.png",
+
+  "gallery": [
+    "/img/projects/one-crescent/gallery_1.png",
+    "/img/projects/one-crescent/gallery_2.png",
+    "/img/projects/one-crescent/gallery_3.png",
+    "/img/projects/one-crescent/gallery_4.png",
+    "/img/projects/one-crescent/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Atlantis The Palm", "time": "8 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Atlantis The Palm", "time": "8 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "أتلانتس النخلة", "time": "8 دقائق" },
+      { "name": "دبي مارينا", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अटलांटिस द पाम", "time": "8 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah, Dubai",
+      "ru": "Palm Jumeirah, Дубай",
+      "ar": "نخلة جميرا، دبي",
+      "hi": "पाम जुमेराह, दुबई"
+    },
+    "lat": 25.1124,
+    "lng": 55.1390
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "ahs-properties",
+    "property_types": ["penthouse", "villa"],
+    "bedrooms_min": 3,
+    "bedrooms_max": 5,
+    "handover_year": 2026,
+    "price_from_aed": 17000000,
+    "size_from_sqft": 4200,
+    "tokens_extra": ["uae", "waterfront", "luxury"]
+  }
+}

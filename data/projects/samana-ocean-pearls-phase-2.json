@@ -1,0 +1,150 @@
+{
+  "project_key": "samana-ocean-pearls-phase-2",
+  "slug": "samana-ocean-pearls-phase-2",
+
+  "name": {
+    "en": "Samana Ocean Pearls Phase 2",
+    "ru": "Samana Ocean Pearls Phase 2",
+    "ar": "سمانا أوشن بيرلز المرحلة الثانية",
+    "hi": "समाना ओशन पर्ल्स फेज 2"
+  },
+
+  "developer": {
+    "en": "Samana Developers",
+    "ru": "Samana Developers",
+    "ar": "سمانا للتطوير العقاري",
+    "hi": "समाना डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands",
+    "ru": "Dubai Islands",
+    "ar": "جزر دبي",
+    "hi": "दुबई आइलैंड्स"
+  },
+
+  "hero_title": {
+    "en": "Samana Ocean Pearls Phase 2",
+    "ru": "Samana Ocean Pearls Phase 2",
+    "ar": "سمانا أوشن بيرلز المرحلة الثانية",
+    "hi": "समाना ओशन पर्ल्स फेज 2"
+  },
+
+  "handover": {
+    "en": "March 2027",
+    "ru": "Март 2027",
+    "ar": "مارس 2027",
+    "hi": "मार्च 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "820 sqft",
+    "ru": "820 sqft",
+    "ar": "820 قدم²",
+    "hi": "820 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Samana Ocean Pearls Phase 2 on Dubai Islands is a waterfront residential project by Samana Developers offering 1 to 4-bedroom apartments with contemporary layouts and sea-facing views. The development combines resort-style amenities, smart design and island tranquility, creating a premium address suitable for both lifestyle buyers and investors.",
+    "ru": "Samana Ocean Pearls Phase 2 на Dubai Islands — прибрежный жилой проект от Samana Developers с апартаментами 1–4 спальни и современными планировками. Комплекс сочетает курортную инфраструктуру, продуманный дизайн и атмосферу островного спокойствия, формируя престижный адрес для жизни и инвестиций.",
+    "ar": "سمانا أوشن بيرلز المرحلة الثانية في جزر دبي هو مشروع سكني على الواجهة البحرية من سمانا للتطوير يضم شققاً من 1 إلى 4 غرف نوم بإطلالات بحرية وتصميم عصري. يجمع المشروع بين مرافق على طراز المنتجع وأجواء الجزيرة الهادئة ليقدم عنواناً فاخراً للسكن والاستثمار.",
+    "hi": "समाना ओशन पर्ल्स फेज 2 दुबई आइलैंड्स पर स्थित समाना डेवलपर्स का वाटरफ्रंट रेजिडेंशियल प्रोजेक्ट है, जिसमें 1 से 4 बेडरूम अपार्टमेंट और समुद्री दृश्य शामिल हैं। यह रिसॉर्ट-स्टाइल सुविधाओं, स्मार्ट डिज़ाइन और आइलैंड शांति का संयोजन है, जो लाइफस्टाइल और निवेश दोनों के लिए उपयुक्त है।"
+  },
+
+  "promo_image": "/img/projects/samana-ocean-pearls-phase-2/promo.png",
+
+  "gallery": [
+    "/img/projects/samana-ocean-pearls-phase-2/gallery_1.png",
+    "/img/projects/samana-ocean-pearls-phase-2/gallery_2.png",
+    "/img/projects/samana-ocean-pearls-phase-2/gallery_3.png",
+    "/img/projects/samana-ocean-pearls-phase-2/gallery_4.png",
+    "/img/projects/samana-ocean-pearls-phase-2/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai International Airport", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "35 min" }
+    ],
+    "ru": [
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "35 мин" }
+    ],
+    "ar": [
+      { "name": "مطار دبي الدولي", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" },
+      { "name": "مرسى دبي", "time": "35 دقيقة" }
+    ],
+    "hi": [
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "35 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands",
+      "ru": "Dubai Islands",
+      "ar": "جزر دبي",
+      "hi": "दुबई आइलैंड्स"
+    },
+    "lat": 25.3106,
+    "lng": 55.2948
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "samana-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 2000000,
+    "size_from_sqft": 820,
+    "tokens_extra": ["uae", "waterfront", "island", "investment"]
+  }
+}

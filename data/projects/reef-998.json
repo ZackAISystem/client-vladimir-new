@@ -1,0 +1,150 @@
+{
+  "project_key": "reef-998",
+  "slug": "reef-998",
+
+  "name": {
+    "en": "Reef 998",
+    "ru": "Reef 998",
+    "ar": "ريف 998",
+    "hi": "रीफ 998"
+  },
+
+  "developer": {
+    "en": "Reef Luxury Development",
+    "ru": "Reef Luxury Development",
+    "ar": "ريف للتطوير العقاري",
+    "hi": "रीफ लग्ज़री डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Land Residence Complex",
+    "ru": "Dubai Land Residence Complex",
+    "ar": "مجمع دبي لاند ريزيدنس",
+    "hi": "दुबई लैंड रेजिडेंस कॉम्प्लेक्स"
+  },
+
+  "hero_title": {
+    "en": "Reef 998",
+    "ru": "Reef 998",
+    "ar": "ريف 998",
+    "hi": "रीफ 998"
+  },
+
+  "handover": {
+    "en": "June 2028",
+    "ru": "Июнь 2028",
+    "ar": "يونيو 2028",
+    "hi": "जून 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "760,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio–3 BR",
+    "ru": "Студия–3 спальни",
+    "ar": "استوديو–3 غرف نوم",
+    "hi": "स्टूडियो–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 410 sqft",
+    "ru": "от 410 sqft",
+    "ar": "ابتداءً من 410 قدم²",
+    "hi": "410 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Reef 998 by Reef Luxury Development is a contemporary residential project in Dubai Land Residence Complex offering studios to 3-bedroom apartments. With layouts starting from 410 sqft, the development combines smart storage solutions, modern architecture, and community-focused amenities, creating an accessible investment opportunity with long-term growth potential.",
+    "ru": "Reef 998 от Reef Luxury Development — современный жилой проект в Dubai Land Residence Complex со студиями и апартаментами до 3 спален площадью от 410 sqft. Компактные планировки, умные решения для хранения и продуманная инфраструктура делают его привлекательным вариантом для жизни и инвестиций.",
+    "ar": "ريف 998 من ريف للتطوير العقاري هو مشروع سكني حديث في مجمع دبي لاند ريزيدنس يضم استوديوهات وشققاً حتى 3 غرف نوم بمساحات تبدأ من 410 قدم². يجمع بين التصميم العصري والحلول الذكية للتخزين وفرص استثمارية واعدة.",
+    "hi": "रीफ लग्ज़री डेवलपमेंट का रीफ 998 दुबई लैंड रेजिडेंस कॉम्प्लेक्स में स्थित एक आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें स्टूडियो से 3 बेडरूम अपार्टमेंट 410 sqft से शुरू होते हैं। स्मार्ट लेआउट और आधुनिक डिजाइन इसे एक मजबूत निवेश विकल्प बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/reef-998/promo.png",
+
+  "gallery": [
+    "/img/projects/reef-998/gallery_1.png",
+    "/img/projects/reef-998/gallery_2.png",
+    "/img/projects/reef-998/gallery_3.png",
+    "/img/projects/reef-998/gallery_4.png",
+    "/img/projects/reef-998/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Academic City", "time": "10 min" },
+      { "name": "Global Village", "time": "12 min" },
+      { "name": "Dubai Outlet Mall", "time": "8 min" }
+    ],
+    "ru": [
+      { "name": "Academic City", "time": "10 мин" },
+      { "name": "Global Village", "time": "12 мин" },
+      { "name": "Dubai Outlet Mall", "time": "8 мин" }
+    ],
+    "ar": [
+      { "name": "أكاديميك سيتي", "time": "10 دقائق" },
+      { "name": "القرية العالمية", "time": "12 دقيقة" },
+      { "name": "دبي أوتلت مول", "time": "8 دقائق" }
+    ],
+    "hi": [
+      { "name": "अकादमिक सिटी", "time": "10 मिनट" },
+      { "name": "ग्लोबल विलेज", "time": "12 मिनट" },
+      { "name": "दुबई आउटलेट मॉल", "time": "8 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Land Residence Complex",
+      "ru": "Dubai Land Residence Complex",
+      "ar": "مجمع دبي لاند ريزيدنس",
+      "hi": "दुबई लैंड रेजिडेंस कॉम्प्लेक्स"
+    },
+    "lat": 25.0850,
+    "lng": 55.2920
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-land-residence-complex",
+    "developer": "reef-luxury-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 760000,
+    "size_from_sqft": 410,
+    "tokens_extra": ["uae", "investment", "affordable"]
+  }
+}

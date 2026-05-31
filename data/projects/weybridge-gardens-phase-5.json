@@ -1,0 +1,150 @@
+{
+  "project_key": "weybridge-gardens-phase-5",
+  "slug": "weybridge-gardens-phase-5",
+
+  "name": {
+    "en": "Weybridge Gardens Phase 5",
+    "ru": "Weybridge Gardens Phase 5",
+    "ar": "وايبريدج جاردنز المرحلة الخامسة",
+    "hi": "वेब्रिज गार्डन्स फेज 5"
+  },
+
+  "developer": {
+    "en": "LEOS International",
+    "ru": "LEOS International",
+    "ar": "ليوس إنترناشونال",
+    "hi": "लीओस इंटरनेशनल"
+  },
+
+  "location_text": {
+    "en": "Dubai Land Residence Complex",
+    "ru": "Dubai Land Residence Complex",
+    "ar": "مجمع دبي لاند ريزيدنس",
+    "hi": "दुबई लैंड रेजिडेंस कॉम्प्लेक्स"
+  },
+
+  "hero_title": {
+    "en": "Weybridge Gardens Phase 5",
+    "ru": "Weybridge Gardens Phase 5",
+    "ar": "وايبريدج جاردنز المرحلة الخامسة",
+    "hi": "वेब्रिज गार्डन्स फेज 5"
+  },
+
+  "handover": {
+    "en": "June 2027",
+    "ru": "Июнь 2027",
+    "ar": "يونيو 2027",
+    "hi": "जून 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "724,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio, 1–3 BR",
+    "ru": "Студии, 1–3 спальни",
+    "ar": "استوديو، 1–3 غرف نوم",
+    "hi": "स्टूडियो, 1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "459 sqft",
+    "ru": "459 sqft",
+    "ar": "459 قدم²",
+    "hi": "459 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Weybridge Gardens Phase 5 by LEOS International is the latest chapter of the Weybridge Gardens residential collection located in Dubai Land Residence Complex. The development features studios and 1 to 3-bedroom apartments with contemporary British-inspired architecture, spacious layouts and high-quality finishes. Designed to offer a refined yet accessible lifestyle, the project combines landscaped courtyards, rooftop leisure amenities and wellness-focused spaces. Residents benefit from strong connectivity to key Dubai destinations while enjoying a calm community atmosphere. With competitive pricing and strong rental potential, it presents an attractive opportunity for both end users and investors.",
+    "ru": "Weybridge Gardens Phase 5 от LEOS International — новая фаза жилой серии Weybridge Gardens в районе Dubai Land Residence Complex. Проект включает студии и апартаменты с 1–3 спальнями, выполненные в современном британском стиле с продуманными планировками и качественной отделкой. Комплекс предлагает благоустроенные дворы, инфраструктуру на крыше и зоны для отдыха и спорта. Удобное расположение обеспечивает быстрый доступ к ключевым районам Дубая, сохраняя атмосферу спокойного жилого сообщества.",
+    "ar": "يمثل مشروع وايبريدج جاردنز المرحلة الخامسة من ليوس إنترناشونال إضافة مميزة إلى مجمع دبي لاند ريزيدنس، حيث يضم استوديوهات وشققًا من غرفة إلى ثلاث غرف نوم بتصميم معماري معاصر ومساحات واسعة وتشطيبات عالية الجودة.",
+    "hi": "लीओस इंटरनेशनल द्वारा विकसित वेब्रिज गार्डन्स फेज 5 दुबई लैंड रेजिडेंस कॉम्प्लेक्स में स्थित एक आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें स्टूडियो और 1 से 3 बेडरूम अपार्टमेंट उपलब्ध हैं।"
+  },
+
+  "promo_image": "/img/projects/weybridge-gardens-phase-5/promo.png",
+
+  "gallery": [
+    "/img/projects/weybridge-gardens-phase-5/gallery_1.png",
+    "/img/projects/weybridge-gardens-phase-5/gallery_2.png",
+    "/img/projects/weybridge-gardens-phase-5/gallery_3.png",
+    "/img/projects/weybridge-gardens-phase-5/gallery_4.png",
+    "/img/projects/weybridge-gardens-phase-5/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Outlet Mall", "time": "10 min" },
+      { "name": "Global Village", "time": "12 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Outlet Mall", "time": "10 мин" },
+      { "name": "Global Village", "time": "12 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "دبي أوتلت مول", "time": "10 دقائق" },
+      { "name": "جلوبال فيليج", "time": "12 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई आउटलेट मॉल", "time": "10 मिनट" },
+      { "name": "ग्लोबल विलेज", "time": "12 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Land Residence Complex, Dubai, UAE",
+      "ru": "Dubai Land Residence Complex, Дубай, ОАЭ",
+      "ar": "مجمع دبي لاند ريزيدنس، دبي، الإمارات",
+      "hi": "दुबई लैंड रेजिडेंस कॉम्प्लेक्स, दुबई, यूएई"
+    },
+    "lat": 25.0856,
+    "lng": 55.3037
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-land-residence-complex",
+    "developer": "leos-international",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 724000,
+    "size_from_sqft": 459,
+    "tokens_extra": ["uae", "off-plan", "dubailand", "affordable-luxury", "family-friendly"]
+  }
+}

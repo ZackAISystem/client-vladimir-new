@@ -1,0 +1,448 @@
+{{ $home := site.Data.site.home }}
+{{ $search := default $home.hero $home.search }}
+
+{{ $fallbackProjects := slice
+  (dict
+    "image" "/img/hero/atelis-featured.jpg"
+    "alt" "Atelis by Meraas in Dubai Design District"
+    "title" "Atelis"
+    "meta" "Dubai Design District · Meraas Holding · July 2029"
+    "price" "from AED 2.1M"
+  )
+  (dict
+    "image" "/img/hero/alba-featured.jpg"
+    "alt" "The Alba Residences Dorchester Collection on Palm Jumeirah"
+    "title" "The Alba Residences"
+    "meta" "Palm Jumeirah · Omniyat Group · March 2028"
+    "price" "from AED 43M"
+  )
+  (dict
+    "image" "/img/hero/baccarat-featured.jpg"
+    "alt" "Baccarat Residences in Downtown Dubai"
+    "title" "Baccarat Residences"
+    "meta" "Downtown Dubai · H&H Development · May 2027"
+    "price" "from AED 18M"
+  )
+}}
+
+{{ $projects := default $fallbackProjects $search.featured_projects }}
+
+<section class="home-search" id="ai-search">
+  <div class="home-search__shade" aria-hidden="true"></div>
+
+  <div class="home-search__inner">
+
+    <div class="home-search__title-wrap">
+      <h2 class="home-search__title">
+        {{ $search.title }}
+      </h2>
+    </div>
+
+    <article class="home-search__featured" id="search-featured-projects" aria-label="{{ $search.featured.aria }}">
+      <div class="home-search__slides" aria-live="polite">
+        {{ range $index, $item := $projects }}
+          <figure
+            class="home-search__slide {{ if eq $index 0 }}is-active{{ end }}"
+            data-slide-index="{{ $index }}"
+          >
+            <img
+              class="home-search__slide-img"
+              src="{{ $item.image }}"
+              alt="{{ $item.alt }}"
+            >
+
+            <div class="home-search__featured-overlay" aria-hidden="true"></div>
+
+            <figcaption class="home-search__featured-top">
+              <div class="home-search__featured-info">
+                <h3 class="home-search__featured-title">{{ $item.title }}</h3>
+                <p class="home-search__featured-meta">{{ $item.meta }}</p>
+              </div>
+
+              <div class="home-search__featured-price">
+                {{ $item.price }}
+              </div>
+            </figcaption>
+          </figure>
+        {{ end }}
+      </div>
+
+      <div class="home-search__photo-search" id="search-ai-panel">
+        <form
+          class="home-search__search"
+          role="search"
+          aria-label="{{ $search.search.aria }}"
+        >
+          <div class="home-search__ai-badge" aria-hidden="true">
+            <span class="home-search__ai-badge-dot"></span>
+            <span>Sicemco AI</span>
+          </div>
+
+          <input
+            class="home-search__input"
+            type="text"
+            name="q"
+            placeholder="{{ $search.search.placeholder }}"
+            autocomplete="off"
+            data-typing-examples='{{ $search.search.typing_examples | jsonify }}'
+          >
+
+          <button
+            class="home-search__voice"
+            type="button"
+            aria-label="Start voice search"
+            aria-pressed="false"
+          >
+            <span class="home-search__voice-aura" aria-hidden="true"></span>
+            <span class="home-search__voice-core" aria-hidden="true">
+              <img
+                class="home-search__voice-icon"
+                src="{{ $search.search.voice_icon }}"
+                alt=""
+              >
+            </span>
+          </button>
+
+          <div class="home-search__voice-popover" aria-live="polite">
+            <div class="home-search__voice-popover-inner">
+              <span class="home-search__voice-popover-dot"></span>
+
+              <div class="home-search__voice-copy">
+                <span class="home-search__voice-status">Listening…</span>
+                <span class="home-search__voice-text">Tell Sicemco AI what you want</span>
+              </div>
+
+              <span class="home-search__voice-bars" aria-hidden="true">
+                <i></i><i></i><i></i><i></i>
+              </span>
+            </div>
+          </div>
+
+          <button class="home-search__get" type="submit">
+            {{ $search.search.button }}
+          </button>
+        </form>
+
+        <div class="home-search__chips" aria-label="Popular search examples">
+          {{ range $search.search.chips }}
+            <button
+              class="home-search__chip"
+              type="button"
+              data-chip-query="{{ .query }}"
+            >
+              {{ .label }}
+            </button>
+          {{ end }}
+        </div>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+<script>
+(function () {
+  const search = document.querySelector('.home-search');
+  if (!search) return;
+
+  const form = search.querySelector('.home-search__search');
+  const input = search.querySelector('.home-search__input');
+  const slides = Array.from(search.querySelectorAll('.home-search__slide'));
+  const chips = Array.from(search.querySelectorAll('.home-search__chip'));
+  const voiceBtn = search.querySelector('.home-search__voice');
+  const voiceStatus = search.querySelector('.home-search__voice-status');
+  const voiceText = search.querySelector('.home-search__voice-text');
+
+  if (!form || !input) return;
+
+  /* =========================
+     Featured cards auto-slider
+  ========================= */
+  let slideIndex = 0;
+  let slideTimer = null;
+
+  const SLIDE_INTERVAL = 3600;
+
+  function showSlide(nextIndex) {
+    if (!slides.length) return;
+
+    const current = slides[slideIndex];
+    const next = slides[nextIndex];
+
+    if (!current || !next || current === next) return;
+
+    current.classList.remove('is-active');
+    current.classList.add('is-leaving');
+
+    next.classList.remove('is-leaving');
+    next.classList.add('is-active');
+
+    window.setTimeout(() => {
+      current.classList.remove('is-leaving');
+    }, 1150);
+
+    slideIndex = nextIndex;
+  }
+
+  function nextSlide() {
+    if (slides.length < 2) return;
+
+    const nextIndex = (slideIndex + 1) % slides.length;
+    showSlide(nextIndex);
+  }
+
+  function startSlider() {
+    if (slides.length < 2 || slideTimer) return;
+
+    window.setTimeout(nextSlide, 900);
+    slideTimer = window.setInterval(nextSlide, SLIDE_INTERVAL);
+  }
+
+  startSlider();
+
+  /* =========================
+     Chip → smart query
+  ========================= */
+  chips.forEach(chip => {
+    chip.addEventListener('click', () => {
+      const query = chip.getAttribute('data-chip-query') || chip.textContent.trim();
+
+      input.value = query;
+      stopTyping();
+      input.focus();
+
+      input.dispatchEvent(new Event('input', { bubbles: true }));
+    });
+  });
+
+  /* =========================
+     Search submit
+  ========================= */
+  form.addEventListener('submit', e => {
+    e.preventDefault();
+
+    const results = document.getElementById('results');
+    const query = document.getElementById('resultsQuery');
+
+    if (!results || !query) return;
+
+    const value = (input.value || '').trim();
+    if (value) query.textContent = value;
+
+    results.classList.add('is-open');
+    results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+
+  /* =========================
+     Voice search
+  ========================= */
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  let recognition = null;
+  let isListening = false;
+  let voiceFallbackTimer = null;
+
+  if (SpeechRecognition) {
+    recognition = new SpeechRecognition();
+    recognition.lang = document.documentElement.lang || 'en-US';
+    recognition.interimResults = true;
+    recognition.continuous = false;
+
+    recognition.onstart = () => {
+      setVoiceState(true, 'Listening…', 'Tell Sicemco AI what you want');
+    };
+
+    recognition.onresult = event => {
+      let transcript = '';
+
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        transcript += event.results[i][0].transcript;
+      }
+
+      transcript = transcript.trim();
+
+      if (transcript) {
+        input.value = transcript;
+        voiceStatus.textContent = 'Got it';
+        voiceText.textContent = transcript;
+      }
+    };
+
+    recognition.onerror = () => {
+      voiceStatus.textContent = 'Voice paused';
+      voiceText.textContent = 'Type your request or try again';
+      window.setTimeout(() => setVoiceState(false), 900);
+    };
+
+    recognition.onend = () => {
+      if (isListening) {
+        window.setTimeout(() => setVoiceState(false), 700);
+      }
+    };
+  }
+
+  function setVoiceState(active, statusText, helperText) {
+    isListening = active;
+
+    form.classList.toggle('is-voice-active', active);
+
+    if (voiceBtn) {
+      voiceBtn.setAttribute('aria-pressed', active ? 'true' : 'false');
+    }
+
+    if (statusText && voiceStatus) {
+      voiceStatus.textContent = statusText;
+    }
+
+    if (helperText && voiceText) {
+      voiceText.textContent = helperText;
+    }
+  }
+
+  function startVoice() {
+    stopTyping();
+
+    if (voiceFallbackTimer) {
+      window.clearTimeout(voiceFallbackTimer);
+      voiceFallbackTimer = null;
+    }
+
+    if (!recognition) {
+      setVoiceState(true, 'Voice mode', 'Speech recognition is not supported here');
+
+      voiceFallbackTimer = window.setTimeout(() => {
+        setVoiceState(false);
+      }, 2200);
+
+      return;
+    }
+
+    try {
+      recognition.start();
+    } catch (e) {
+      setVoiceState(true, 'Listening…', 'Tell Sicemco AI what you want');
+
+      voiceFallbackTimer = window.setTimeout(() => {
+        setVoiceState(false);
+      }, 1600);
+    }
+  }
+
+  function stopVoice() {
+    if (recognition && isListening) {
+      try {
+        recognition.stop();
+      } catch (e) {}
+    }
+
+    setVoiceState(false);
+  }
+
+  if (voiceBtn) {
+    voiceBtn.addEventListener('click', () => {
+      if (isListening) {
+        stopVoice();
+      } else {
+        startVoice();
+      }
+    });
+  }
+
+  /* =========================
+     Typing placeholder
+  ========================= */
+  function getExamples() {
+    const raw = input.getAttribute('data-typing-examples');
+    if (!raw) return [];
+
+    try {
+      const arr = JSON.parse(raw);
+      return Array.isArray(arr) ? arr : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  const examples = getExamples();
+
+  let basePlaceholder = input.getAttribute('placeholder') || '';
+  let exIndex = 0;
+  let charIndex = 0;
+  let timer = null;
+  let paused = false;
+
+  const TYPE_SPEED = 38;
+  const HOLD_END = 900;
+  const HOLD_BETWEEN = 350;
+
+  function isUserActive() {
+    return document.activeElement === input || ((input.value || '').trim().length > 0);
+  }
+
+  function tick() {
+    if (paused || isUserActive()) return;
+    if (!examples || !examples.length) return;
+
+    const full = examples[exIndex] || '';
+    const next = full.slice(0, charIndex + 1);
+
+    input.setAttribute('placeholder', next);
+    charIndex++;
+
+    if (charIndex >= full.length) {
+      timer = window.setTimeout(() => {
+        if (paused || isUserActive()) return;
+
+        exIndex = (exIndex + 1) % examples.length;
+        charIndex = 0;
+
+        input.setAttribute('placeholder', '');
+        timer = window.setTimeout(tick, HOLD_BETWEEN);
+      }, HOLD_END);
+
+      return;
+    }
+
+    timer = window.setTimeout(tick, TYPE_SPEED);
+  }
+
+  function startTyping() {
+    if (timer) return;
+
+    paused = false;
+    charIndex = 0;
+    input.setAttribute('placeholder', '');
+
+    timer = window.setTimeout(tick, 250);
+  }
+
+  function stopTyping() {
+    paused = true;
+
+    if (timer) {
+      window.clearTimeout(timer);
+      timer = null;
+    }
+
+    if (!((input.value || '').trim().length)) {
+      input.setAttribute('placeholder', basePlaceholder);
+    }
+  }
+
+  input.addEventListener('focus', stopTyping);
+  input.addEventListener('keydown', stopTyping);
+  input.addEventListener('input', stopTyping);
+
+  input.addEventListener('blur', () => {
+    if (!((input.value || '').trim().length)) {
+      stopTyping();
+      paused = false;
+      timer = null;
+      startTyping();
+    }
+  });
+
+  if (!((input.value || '').trim().length)) {
+    startTyping();
+  }
+})();
+</script>

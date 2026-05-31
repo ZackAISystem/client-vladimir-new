@@ -1,0 +1,150 @@
+{
+  "project_key": "atelis",
+  "slug": "atelis",
+
+  "name": {
+    "en": "Atelis",
+    "ru": "Atelis",
+    "ar": "أتيليس",
+    "hi": "एटेलिस"
+  },
+
+  "developer": {
+    "en": "Meraas Holding",
+    "ru": "Meraas Holding",
+    "ar": "مِراس القابضة",
+    "hi": "मिरास होल्डिंग"
+  },
+
+  "location_text": {
+    "en": "Dubai Design District",
+    "ru": "Dubai Design District",
+    "ar": "حي دبي للتصميم (d3)",
+    "hi": "दुबई डिज़ाइन डिस्ट्रिक्ट (d3)"
+  },
+
+  "hero_title": {
+    "en": "Atelis",
+    "ru": "Atelis",
+    "ar": "أتيليس",
+    "hi": "एटेलिस"
+  },
+
+  "handover": {
+    "en": "July 2029",
+    "ru": "Июль 2029",
+    "ar": "يوليو 2029",
+    "hi": "जुलाई 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,100,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse", "Villa"],
+    "ru": ["Апартаменты", "Пентхаус", "Вилла"],
+    "ar": ["شقة", "بنتهاوس", "فيلا"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "1 | 2 | 3 | 4 | 5 BR",
+    "ru": "1 | 2 | 3 | 4 | 5 спальни",
+    "ar": "1 | 2 | 3 | 4 | 5 غرف نوم",
+    "hi": "1 | 2 | 3 | 4 | 5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from",
+    "ru": "от",
+    "ar": "ابتداءً من",
+    "hi": "से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Atelis by Meraas Holding is a contemporary residential address in Dubai Design District, where art, innovation and refined living converge. Offering spacious 1 to 5-bedroom apartments, penthouses and villas, the project blends elegant interiors with modern architecture and vibrant surroundings. With close proximity to Downtown Dubai and DIFC, it presents a distinctive lifestyle and strong long-term investment appeal.",
+    "ru": "Atelis от Meraas Holding — современный жилой проект в Dubai Design District, где искусство и инновации сочетаются с комфортом премиального уровня. Комплекс предлагает апартаменты, пентхаусы и виллы с 1–5 спальнями, продуманной архитектурой и стильными интерьерами. Близость к Downtown и DIFC обеспечивает престижный образ жизни и инвестиционный потенциал.",
+    "ar": "يمثل مشروع أتيليس من مِراس عنواناً سكنياً معاصراً في حي دبي للتصميم، حيث يلتقي الفن والابتكار بأسلوب حياة راقٍ. يضم شققاً وبنتهاوس وفيلات من غرفة إلى خمس غرف نوم بتصاميم أنيقة ومساحات رحبة. بفضل قربه من داون تاون وديفك، يوفر نمط حياة مميزاً وفرصة استثمارية قوية على المدى الطويل.",
+    "hi": "एटेलिस, मिरास होल्डिंग द्वारा विकसित, दुबई डिज़ाइन डिस्ट्रिक्ट में स्थित एक आधुनिक रेजिडेंशियल एड्रेस है जहाँ कला और नवाचार प्रीमियम जीवनशैली से मिलते हैं। यह 1 से 5 बेडरूम अपार्टमेंट्स, पेंटहाउस और विला प्रदान करता है, जो एलिगेंट इंटीरियर्स और समकालीन आर्किटेक्चर के साथ डिजाइन किए गए हैं। डाउनटाउन और DIFC की निकटता इसे निवेश के लिए आकर्षक बनाती है।"
+  },
+
+  "promo_image": "/img/projects/atelis/promo.png",
+
+  "gallery": [
+    "/img/projects/atelis/gallery_1.png",
+    "/img/projects/atelis/gallery_2.png",
+    "/img/projects/atelis/gallery_3.png",
+    "/img/projects/atelis/gallery_4.png",
+    "/img/projects/atelis/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "10 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "10 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Design District (d3), Dubai, UAE",
+      "ru": "Dubai Design District (d3), Дубай, ОАЭ",
+      "ar": "حي دبي للتصميم (d3)، دبي، الإمارات",
+      "hi": "दुबई डिज़ाइन डिस्ट्रिक्ट (d3), दुबई, यूएई"
+    },
+    "lat": 25.18839,
+    "lng": 55.29776
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-design-district",
+    "developer": "meraas-holding",
+    "property_types": ["apartment", "penthouse", "villa"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2029,
+    "price_from_aed": 2100000,
+    "size_from_sqft": "",
+    "tokens_extra": ["uae"]
+  }
+}

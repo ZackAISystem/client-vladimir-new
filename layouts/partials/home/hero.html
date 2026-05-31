@@ -1,0 +1,156 @@
+{{ $home := site.Data.site.home }}
+{{ $hero := $home.hero }}
+
+{{ $name := $hero.name | default "Vladimir Maksimov" }}
+
+{{ $role := $hero.role | default "CEO at Sicemco Real Estate" }}
+
+{{ $lead := $hero.lead | default "Dubai-based real estate investment strategist focused on commercial, residential and waterfront properties across the UAE, helping clients choose opportunities by budget, location and investment goals." }}
+
+{{ $imageSrc := $hero.image.src | default "/img/personal/vladimir-hero.png" }}
+
+{{ $imageAlt := $hero.image.alt | default "Vladimir Maksimov, CEO at Sicemco Real Estate in Dubai" }}
+
+{{ $trackAria := $hero.track_card.aria | default "Vladimir Maksimov real estate and investment track record" }}
+
+{{ $ctaPrimaryLabel := $hero.cta_primary.label | default "Start with Vladimir" }}
+{{ $ctaSecondaryLabel := $hero.cta_secondary.label | default "Investment approach" }}
+{{ $ctaTertiaryLabel := $hero.cta_tertiary.label | default "Private consultation" }}
+
+<section class="valentyna-hero" id="top">
+  <div class="valentyna-hero__bg" aria-hidden="true"></div>
+  <div class="valentyna-hero__grid" aria-hidden="true"></div>
+
+  <div class="valentyna-hero__inner">
+
+    <div class="valentyna-hero__media">
+      <div class="valentyna-hero__portrait-wrap">
+        <img
+          class="valentyna-hero__portrait"
+          src="{{ $imageSrc | relURL }}"
+          alt="{{ $imageAlt }}"
+        >
+
+        <div class="valentyna-hero__portrait-fade" aria-hidden="true"></div>
+      </div>
+
+      <div class="valentyna-hero__track-card">
+        <div class="valentyna-hero__track-top">
+          <span class="valentyna-hero__track-dot"></span>
+          <span>{{ $hero.track_card.eyebrow }}</span>
+        </div>
+
+        <div class="valentyna-hero__stats" aria-label="{{ $trackAria }}">
+          {{ range $hero.track_card.stats }}
+            <div class="valentyna-hero__stat">
+              <strong>{{ .value }}</strong>
+              <span>{{ .label }}</span>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+
+    <div class="valentyna-hero__content">
+
+      <h1 class="valentyna-hero__title">
+        {{ $name }}
+      </h1>
+
+      <p class="valentyna-hero__role">
+        {{ $role }}
+      </p>
+
+      <p class="valentyna-hero__lead">
+        {{ $lead }}
+      </p>
+
+      <div
+        class="valentyna-hero__insight-card"
+        data-sicemco-hero-insights
+        data-interval="{{ $hero.insight_card.rotation_interval | default 3600 }}"
+      >
+        <div class="valentyna-hero__insight-border" aria-hidden="true"></div>
+
+        <div class="valentyna-hero__insight-head">
+          <span>{{ $hero.insight_card.title }}</span>
+
+          <div class="valentyna-hero__insight-dots" aria-hidden="true">
+            {{ range $index, $item := $hero.insight_card.items }}
+              <i class="{{ if eq $index 0 }}is-active{{ end }}"></i>
+            {{ end }}
+          </div>
+        </div>
+
+        <div class="valentyna-hero__insight-body" aria-live="polite">
+          {{ range $index, $item := $hero.insight_card.items }}
+            <div class="valentyna-hero__insight-slide {{ if eq $index 0 }}is-active{{ end }}">
+              <strong>{{ .headline }}</strong>
+              <p>{{ .text }}</p>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+
+      <div class="valentyna-hero__actions">
+        <a
+          class="valentyna-hero__cta valentyna-hero__cta--primary"
+          href="{{ $hero.cta_primary.href }}"
+        >
+          {{ $ctaPrimaryLabel }}
+          <span aria-hidden="true">→</span>
+        </a>
+
+        <a
+          class="valentyna-hero__cta valentyna-hero__cta--ghost"
+          href="{{ $hero.cta_secondary.href }}"
+        >
+          {{ $ctaSecondaryLabel }}
+        </a>
+
+        <a
+          class="valentyna-hero__cta valentyna-hero__cta--soft"
+          href="{{ $hero.cta_tertiary.href }}"
+          data-open-general-lead
+        >
+          {{ $ctaTertiaryLabel }}
+        </a>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<script>
+(function () {
+  const root = document.querySelector('[data-sicemco-hero-insights]');
+  if (!root) return;
+
+  if (root.dataset.ready === '1') return;
+  root.dataset.ready = '1';
+
+  const slides = Array.from(root.querySelectorAll('.valentyna-hero__insight-slide'));
+  const dots = Array.from(root.querySelectorAll('.valentyna-hero__insight-dots i'));
+
+  if (slides.length < 2) return;
+
+  const interval = Number(root.getAttribute('data-interval')) || 3600;
+  let index = 0;
+
+  function show(nextIndex) {
+    slides[index].classList.remove('is-active');
+    if (dots[index]) dots[index].classList.remove('is-active');
+
+    index = nextIndex;
+
+    slides[index].classList.add('is-active');
+    if (dots[index]) dots[index].classList.add('is-active');
+  }
+
+  window.setInterval(function () {
+    const next = (index + 1) % slides.length;
+    show(next);
+  }, interval);
+})();
+</script>

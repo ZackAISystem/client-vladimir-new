@@ -1,0 +1,395 @@
+{{ $home := site.Data.site.home }}
+{{ $section := $home.top_projects }}
+{{ $heroSearch := default dict $home.hero.search }}
+{{ $voiceIcon := default "/img/voice.png" $heroSearch.voice_icon }}
+
+{{ if $section }}
+  {{ $ask := $section.ask }}
+  {{ $assistantName := default "Sicemco AI" $ask.badge }}
+  {{ $assistantName = replace $assistantName "Sicemco AI" "Sicemco AI" }}
+
+  {{ $collapsedLabel := $ask.collapsed_label }}
+  {{ $collapsedLabel = replace $collapsedLabel "Sicemco AI" "Sicemco AI" }}
+
+  {{ $askAria := $ask.aria }}
+  {{ $askAria = replace $askAria "Sicemco AI" "Sicemco AI" }}
+
+<section class="home-top-projects" id="projects">
+  <div class="home-top-projects__inner">
+
+    <div class="home-top-projects__head">
+      <div class="home-top-projects__title-wrap">
+        <p class="home-top-projects__eyebrow">{{ $section.eyebrow }}</p>
+        <h2 class="home-top-projects__title">{{ $section.title }}</h2>
+      </div>
+
+      <p class="home-top-projects__text">
+        {{ $section.subtitle }}
+      </p>
+    </div>
+
+    <div class="home-top-projects__grid">
+      {{ range $section.cards }}
+        {{ $href := printf "/projects/%s/" .slug | relLangURL }}
+
+        <a class="top-project-card" href="{{ $href }}" aria-label="{{ .title }}">
+          <div class="top-project-card__media">
+            <img
+              class="top-project-card__img"
+              src="{{ .image }}"
+              alt="{{ .alt }}"
+              loading="lazy"
+            >
+
+            <div class="top-project-card__overlay" aria-hidden="true"></div>
+
+            <div class="top-project-card__content">
+              <h3 class="top-project-card__title">{{ .title }}</h3>
+              <p class="top-project-card__meta">{{ .meta }}</p>
+
+              <div class="top-project-card__tags">
+                {{ range first 2 .tags }}
+                  <span class="top-project-card__tag">{{ . }}</span>
+                {{ end }}
+              </div>
+            </div>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+
+    <div
+      class="top-projects-ask"
+      data-top-projects-ask
+      data-assistant-name="{{ $assistantName }}"
+    >
+      <button class="top-projects-ask__trigger" type="button">
+        <span class="top-projects-ask__dot"></span>
+        <span>{{ $collapsedLabel }}</span>
+      </button>
+
+      <form
+        class="top-projects-ask__form"
+        role="search"
+        aria-label="{{ $askAria }}"
+      >
+        <button
+          class="top-projects-ask__badge"
+          type="button"
+          aria-label="Collapse {{ $assistantName }} search"
+        >
+          <span class="top-projects-ask__badge-dot"></span>
+          <span>{{ $assistantName }}</span>
+        </button>
+
+        <input
+          class="top-projects-ask__input"
+          type="text"
+          name="top_projects_q"
+          placeholder="{{ $ask.placeholder }}"
+          autocomplete="off"
+          data-typing-examples='{{ $ask.typing_examples | jsonify }}'
+        >
+
+        <button
+          class="top-projects-ask__voice"
+          type="button"
+          aria-label="Start voice search"
+          aria-pressed="false"
+        >
+          <span class="top-projects-ask__voice-aura" aria-hidden="true"></span>
+          <span class="top-projects-ask__voice-core" aria-hidden="true">
+            <img
+              class="top-projects-ask__voice-icon"
+              src="{{ $voiceIcon }}"
+              alt=""
+            >
+          </span>
+        </button>
+
+        <div class="top-projects-ask__voice-popover" aria-live="polite">
+          <div class="top-projects-ask__voice-popover-inner">
+            <span class="top-projects-ask__voice-popover-dot"></span>
+
+            <div class="top-projects-ask__voice-copy">
+              <span class="top-projects-ask__voice-status">Listening…</span>
+              <span class="top-projects-ask__voice-text">Tell {{ $assistantName }} what you want</span>
+            </div>
+
+            <span class="top-projects-ask__voice-bars" aria-hidden="true">
+              <i></i><i></i><i></i><i></i>
+            </span>
+          </div>
+        </div>
+
+        <button class="top-projects-ask__button" type="submit">
+          {{ $ask.button }}
+        </button>
+      </form>
+    </div>
+
+  </div>
+</section>
+
+<script>
+(function () {
+  const root = document.querySelector('[data-top-projects-ask]');
+  if (!root) return;
+
+  const trigger = root.querySelector('.top-projects-ask__trigger');
+  const form = root.querySelector('.top-projects-ask__form');
+  const input = root.querySelector('.top-projects-ask__input');
+  const badge = root.querySelector('.top-projects-ask__badge');
+  const voiceBtn = root.querySelector('.top-projects-ask__voice');
+  const voiceStatus = root.querySelector('.top-projects-ask__voice-status');
+  const voiceText = root.querySelector('.top-projects-ask__voice-text');
+  const assistantName = root.getAttribute('data-assistant-name') || 'Sicemco AI';
+
+  if (!trigger || !form || !input || !badge) return;
+
+  let basePlaceholder = input.getAttribute('placeholder') || '';
+  let examples = [];
+
+  try {
+    const raw = input.getAttribute('data-typing-examples');
+    const parsed = raw ? JSON.parse(raw) : [];
+    examples = Array.isArray(parsed) ? parsed : [];
+  } catch (e) {
+    examples = [];
+  }
+
+  let exIndex = 0;
+  let charIndex = 0;
+  let timer = null;
+  let paused = false;
+
+  const TYPE_SPEED = 34;
+  const HOLD_END = 820;
+  const HOLD_BETWEEN = 260;
+
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  let recognition = null;
+  let isListening = false;
+  let voiceFallbackTimer = null;
+
+  if (SpeechRecognition) {
+    recognition = new SpeechRecognition();
+    recognition.lang = document.documentElement.lang || 'en-US';
+    recognition.interimResults = true;
+    recognition.continuous = false;
+
+    recognition.onstart = function () {
+      setVoiceState(true, 'Listening…', 'Tell ' + assistantName + ' what you want');
+    };
+
+    recognition.onresult = function (event) {
+      let transcript = '';
+
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        transcript += event.results[i][0].transcript;
+      }
+
+      transcript = transcript.trim();
+
+      if (transcript) {
+        input.value = transcript;
+        if (voiceStatus) voiceStatus.textContent = 'Got it';
+        if (voiceText) voiceText.textContent = transcript;
+      }
+    };
+
+    recognition.onerror = function () {
+      if (voiceStatus) voiceStatus.textContent = 'Voice paused';
+      if (voiceText) voiceText.textContent = 'Type your request or try again';
+
+      window.setTimeout(function () {
+        setVoiceState(false);
+      }, 900);
+    };
+
+    recognition.onend = function () {
+      if (isListening) {
+        window.setTimeout(function () {
+          setVoiceState(false);
+        }, 700);
+      }
+    };
+  }
+
+  function setVoiceState(active, statusText, helperText) {
+    isListening = active;
+    form.classList.toggle('is-voice-active', active);
+
+    if (voiceBtn) {
+      voiceBtn.setAttribute('aria-pressed', active ? 'true' : 'false');
+    }
+
+    if (statusText && voiceStatus) {
+      voiceStatus.textContent = statusText;
+    }
+
+    if (helperText && voiceText) {
+      voiceText.textContent = helperText;
+    }
+  }
+
+  function startVoice() {
+    stopTyping();
+
+    if (voiceFallbackTimer) {
+      window.clearTimeout(voiceFallbackTimer);
+      voiceFallbackTimer = null;
+    }
+
+    if (!recognition) {
+      setVoiceState(true, 'Voice mode', 'Speech recognition is not supported here');
+
+      voiceFallbackTimer = window.setTimeout(function () {
+        setVoiceState(false);
+      }, 2200);
+
+      return;
+    }
+
+    try {
+      recognition.start();
+    } catch (e) {
+      setVoiceState(true, 'Listening…', 'Tell ' + assistantName + ' what you want');
+
+      voiceFallbackTimer = window.setTimeout(function () {
+        setVoiceState(false);
+      }, 1600);
+    }
+  }
+
+  function stopVoice() {
+    if (recognition && isListening) {
+      try {
+        recognition.stop();
+      } catch (e) {}
+    }
+
+    setVoiceState(false);
+  }
+
+  function openAsk() {
+    root.classList.add('is-opening');
+
+    window.setTimeout(function () {
+      root.classList.add('is-open');
+      root.classList.remove('is-opening');
+
+      paused = false;
+      timer = null;
+      charIndex = 0;
+      input.value = '';
+      input.setAttribute('placeholder', '');
+
+      startTyping();
+    }, 90);
+  }
+
+  function closeAsk() {
+    stopVoice();
+
+    root.classList.add('is-closing');
+    root.classList.remove('is-open');
+
+    input.value = '';
+    stopTyping();
+    input.setAttribute('placeholder', basePlaceholder);
+
+    window.setTimeout(function () {
+      root.classList.remove('is-closing');
+    }, 420);
+  }
+
+  function isUserActive() {
+    return document.activeElement === input || ((input.value || '').trim().length > 0);
+  }
+
+  function tick() {
+    if (paused || isUserActive()) return;
+    if (!examples.length) return;
+
+    const full = examples[exIndex] || '';
+    const next = full.slice(0, charIndex + 1);
+
+    input.setAttribute('placeholder', next);
+    charIndex++;
+
+    if (charIndex >= full.length) {
+      timer = window.setTimeout(function () {
+        if (paused || isUserActive()) return;
+
+        exIndex = (exIndex + 1) % examples.length;
+        charIndex = 0;
+
+        input.setAttribute('placeholder', '');
+        timer = window.setTimeout(tick, HOLD_BETWEEN);
+      }, HOLD_END);
+
+      return;
+    }
+
+    timer = window.setTimeout(tick, TYPE_SPEED);
+  }
+
+  function startTyping() {
+    if (timer || !examples.length) return;
+
+    paused = false;
+    charIndex = 0;
+    input.setAttribute('placeholder', '');
+
+    timer = window.setTimeout(tick, 260);
+  }
+
+  function stopTyping() {
+    paused = true;
+
+    if (timer) {
+      window.clearTimeout(timer);
+      timer = null;
+    }
+
+    if (!((input.value || '').trim().length)) {
+      input.setAttribute('placeholder', basePlaceholder);
+    }
+  }
+
+  trigger.addEventListener('click', openAsk);
+  badge.addEventListener('click', closeAsk);
+
+  if (voiceBtn) {
+    voiceBtn.addEventListener('click', function () {
+      if (isListening) {
+        stopVoice();
+      } else {
+        startVoice();
+      }
+    });
+  }
+
+  input.addEventListener('focus', stopTyping);
+  input.addEventListener('pointerdown', stopTyping);
+  input.addEventListener('keydown', stopTyping);
+  input.addEventListener('input', stopTyping);
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const results = document.getElementById('results');
+    const query = document.getElementById('resultsQuery');
+
+    if (!results || !query) return;
+
+    const value = (input.value || '').trim();
+    if (value) query.textContent = value;
+
+    results.classList.add('is-open');
+    results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  });
+})();
+</script>
+{{ end }}

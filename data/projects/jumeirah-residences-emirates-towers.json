@@ -1,0 +1,150 @@
+{
+  "project_key": "jumeirah-residences-emirates-towers",
+  "slug": "jumeirah-residences-emirates-towers",
+
+  "name": {
+    "en": "Jumeirah Residences Emirates Towers",
+    "ru": "Jumeirah Residences Emirates Towers",
+    "ar": "جميرا ريزيدنسز أبراج الإمارات",
+    "hi": "जुमेराह रेसिडेंसेज़ एमिरेट्स टावर्स"
+  },
+
+  "developer": {
+    "en": "Meraas",
+    "ru": "Meraas",
+    "ar": "مِراس",
+    "hi": "मिरास"
+  },
+
+  "location_text": {
+    "en": "Sheikh Zayed Road",
+    "ru": "Sheikh Zayed Road",
+    "ar": "شارع الشيخ زايد",
+    "hi": "शेख ज़ायद रोड"
+  },
+
+  "hero_title": {
+    "en": "Jumeirah Residences Emirates Towers",
+    "ru": "Jumeirah Residences Emirates Towers",
+    "ar": "جميرا ريزيدنسز أبراج الإمارات",
+    "hi": "जुमेराह रेसिडेंसेज़ एमिरेट्स टावर्स"
+  },
+
+  "handover": {
+    "en": "September 2030",
+    "ru": "Сентябрь 2030",
+    "ar": "سبتمبر 2030",
+    "hi": "सितंबर 2030"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "3,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 861 sqft",
+    "ru": "от 861 sqft",
+    "ar": "ابتداءً من 861 قدم²",
+    "hi": "861 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Jumeirah Residences Emirates Towers by Meraas is a luxury residential development on Sheikh Zayed Road offering 1–4 bedroom apartments and duplexes from 861 sqft. The project combines branded hospitality standards with contemporary architecture and panoramic skyline views. Positioned near DIFC and the Museum of the Future, it provides central connectivity and long-term investment appeal.",
+    "ru": "Jumeirah Residences Emirates Towers от Meraas — премиальный жилой проект на Sheikh Zayed Road с апартаментами и дуплексами с 1–4 спальнями от 861 sqft. Комплекс сочетает стандарты брендированной резиденции, современную архитектуру и панорамные виды на skyline. Локация рядом с DIFC обеспечивает высокий инвестиционный потенциал.",
+    "ar": "يُعد مشروع جميرا ريزيدنسز أبراج الإمارات من مراس مجمعاً سكنياً فاخراً على شارع الشيخ زايد يضم شققاً ودوبلكسات من 1 إلى 4 غرف نوم ابتداءً من 861 قدم². يجمع بين معايير الضيافة الراقية وإطلالات بانورامية وموقع مركزي بالقرب من مركز دبي المالي العالمي.",
+    "hi": "जुमेराह रेसिडेंसेज़ एमिरेट्स टावर्स, मिरास द्वारा विकसित, शेख ज़ायद रोड पर स्थित एक लक्ज़री रेजिडेंशियल प्रोजेक्ट है, जिसमें 861 sqft से 1–4 बेडरूम अपार्टमेंट और डुप्लेक्स उपलब्ध हैं। यह ब्रांडेड हॉस्पिटैलिटी स्टैंडर्ड, आधुनिक वास्तुकला और सेंट्रल कनेक्टिविटी प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/jumeirah-residences-emirates-towers/promo.png",
+
+  "gallery": [
+    "/img/projects/jumeirah-residences-emirates-towers/gallery_1.png",
+    "/img/projects/jumeirah-residences-emirates-towers/gallery_2.png",
+    "/img/projects/jumeirah-residences-emirates-towers/gallery_3.png",
+    "/img/projects/jumeirah-residences-emirates-towers/gallery_4.png",
+    "/img/projects/jumeirah-residences-emirates-towers/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Museum of the Future", "time": "3 min" },
+      { "name": "DIFC", "time": "5 min" },
+      { "name": "Downtown Dubai", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "Museum of the Future", "time": "3 мин" },
+      { "name": "DIFC", "time": "5 мин" },
+      { "name": "Downtown Dubai", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "متحف المستقبل", "time": "3 دقائق" },
+      { "name": "مركز دبي المالي العالمي", "time": "5 دقائق" },
+      { "name": "وسط مدينة دبي", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "म्यूज़ियम ऑफ द फ्यूचर", "time": "3 मिनट" },
+      { "name": "DIFC", "time": "5 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Sheikh Zayed Road, Dubai",
+      "ru": "Sheikh Zayed Road, Дубай",
+      "ar": "شارع الشيخ زايد، دبي",
+      "hi": "शेख ज़ायद रोड, दुबई"
+    },
+    "lat": 25.2174,
+    "lng": 55.2797
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "sheikh-zayed-road",
+    "developer": "meraas",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2030,
+    "price_from_aed": 3500000,
+    "size_from_sqft": 861,
+    "tokens_extra": ["uae", "luxury"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "iconic-residences",
+  "slug": "iconic-residences",
+
+  "name": {
+    "en": "Iconic Residences",
+    "ru": "Iconic Residences",
+    "ar": "آيكونيك ريزيدنسز",
+    "hi": "आइकोनिक रेजिडेंसेस"
+  },
+
+  "developer": {
+    "en": "Mered Development",
+    "ru": "Mered Development",
+    "ar": "ميريد للتطوير",
+    "hi": "मेरेड डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Internet City",
+    "ru": "Dubai Internet City",
+    "ar": "مدينة دبي للإنترنت",
+    "hi": "दुबई इंटरनेट सिटी"
+  },
+
+  "hero_title": {
+    "en": "Iconic Residences",
+    "ru": "Iconic Residences",
+    "ar": "آيكونيك ريزيدنسز",
+    "hi": "आइकोनिक रेजिडेंसेस"
+  },
+
+  "handover": {
+    "en": "September 2027",
+    "ru": "Сентябрь 2027",
+    "ar": "سبتمبر 2027",
+    "hi": "सितंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 858 sqft",
+    "ru": "от 858 sqft",
+    "ar": "ابتداءً من 858 قدم²",
+    "hi": "858 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Iconic Residences by Mered Development is a premium residential tower in Dubai Internet City offering 1 to 3-bedroom apartments from 858 to 2752 sqft. Designed with contemporary architecture and refined interiors, the project blends spacious layouts, panoramic city views and lifestyle amenities within one of Dubai’s leading technology and business districts.",
+    "ru": "Iconic Residences от Mered Development — премиальный жилой проект в Dubai Internet City с апартаментами с 1–3 спальнями площадью от 858 до 2752 sqft. Современная архитектура, панорамные виды и продуманные планировки сочетаются с инфраструктурой для комфортной жизни в одном из ключевых деловых районов Дубая.",
+    "ar": "آيكونيك ريزيدنسز من ميريد للتطوير هو برج سكني فاخر في مدينة دبي للإنترنت يضم شققاً من 1 إلى 3 غرف نوم بمساحات من 858 إلى 2752 قدم²، مع تصميم معماري عصري وإطلالات بانورامية ومرافق متكاملة للحياة الراقية.",
+    "hi": "आइकोनिक रेजिडेंसेस मेरेड डेवलपमेंट द्वारा विकसित दुबई इंटरनेट सिटी में स्थित एक प्रीमियम रेजिडेंशियल टॉवर है, जिसमें 1 से 3 बेडरूम अपार्टमेंट 858 से 2752 sqft तक उपलब्ध हैं। आधुनिक वास्तुकला और शहर के पैनोरमिक दृश्य इसकी प्रमुख विशेषताएँ हैं।"
+  },
+
+  "promo_image": "/img/projects/iconic-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/iconic-residences/gallery_1.png",
+    "/img/projects/iconic-residences/gallery_2.png",
+    "/img/projects/iconic-residences/gallery_3.png",
+    "/img/projects/iconic-residences/gallery_4.png",
+    "/img/projects/iconic-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "10 min" },
+      { "name": "Palm Jumeirah", "time": "12 min" },
+      { "name": "Downtown Dubai", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "10 мин" },
+      { "name": "Palm Jumeirah", "time": "12 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "دبي مارينا", "time": "10 دقائق" },
+      { "name": "نخلة جميرا", "time": "12 دقيقة" },
+      { "name": "داون تاون دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "10 मिनट" },
+      { "name": "पाम जुमेराह", "time": "12 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Internet City, Dubai",
+      "ru": "Dubai Internet City, Дубай",
+      "ar": "مدينة دبي للإنترنت، دبي",
+      "hi": "दुबई इंटरनेट सिटी, दुबई"
+    },
+    "lat": 25.0972,
+    "lng": 55.1760
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-internet-city",
+    "developer": "mered-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 2500000,
+    "size_from_sqft": 858,
+    "tokens_extra": ["uae", "luxury", "business-district"]
+  }
+}

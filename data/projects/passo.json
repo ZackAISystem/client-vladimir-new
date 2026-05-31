@@ -1,0 +1,182 @@
+{
+  "project_key": "passo",
+  "slug": "passo-by-beyond",
+
+  "name": {
+    "en": "Passo by Beyond",
+    "ru": "Passo by Beyond",
+    "ar": "باسو من بيوند",
+    "hi": "पासो बाय बियॉन्ड"
+  },
+
+  "developer": {
+    "en": "Beyond",
+    "ru": "Beyond",
+    "ar": "بيوند",
+    "hi": "बियॉन्ड"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah (West Crescent), Dubai",
+    "ru": "Пальма Джумейра (West Crescent), Дубай",
+    "ar": "نخلة جميرا (الهلال الغربي)، دبي",
+    "hi": "पाम जुमेरा (वेस्ट क्रेसेंट), दुबई"
+  },
+
+  "hero_title": {
+    "en": "Passo by Beyond",
+    "ru": "Passo by Beyond",
+    "ar": "باسو من بيوند",
+    "hi": "पासो बाय बियॉन्ड"
+  },
+
+  "handover": {
+    "en": "December 2029",
+    "ru": "Декабрь 2029",
+    "ar": "ديسمبر 2029",
+    "hi": "दिसंबर 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "8,800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse", "Villa"],
+    "ru": ["Апартаменты", "Пентхаус", "Вилла"],
+    "ar": ["شقة", "بنتهاوس", "فيلا"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "1 | 2 | 3 BR",
+    "ru": "1 | 2 | 3 спальни",
+    "ar": "1 | 2 | 3 غرف نوم",
+    "hi": "1 | 2 | 3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 840 sqft",
+    "ru": "от 840 sqft",
+    "ar": "ابتداءً من 840 قدم²",
+    "hi": "840 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "60/40",
+    "ru": "60/40",
+    "ar": "60/40",
+    "hi": "60/40"
+  },
+
+  "description": {
+    "en": "Celebrating contemporary aesthetics, Passo embodies a tranquil coastal sanctuary where panoramic vistas and thoughtfully designed interiors create a harmonious living experience. Residents enjoy direct beach access, marina privileges, and an enviable proximity to Dubai’s most luxurious destinations, blending serene beachfront vibes with vibrant urban energy.",
+    "ru": "Passo — это современная прибрежная резиденция с панорамными видами и продуманными интерьерами, создающими ощущение спокойствия и гармонии. Жителям доступны прямой выход к пляжу, привилегии марины и близость к самым престижным локациям Дубая — баланс уединённой атмосферы побережья и энергии города.",
+    "ar": "يجسّد مشروع باسو أسلوباً معاصراً وملاذاً ساحلياً هادئاً، حيث تلتقي الإطلالات البانورامية مع التصميم الداخلي المدروس لتقديم تجربة سكن متناغمة. يستمتع السكان بوصول مباشر إلى الشاطئ وامتيازات المرسى وقربٍ من أكثر وجهات دبي فخامة، في مزيج بين هدوء البحر وحيوية المدينة.",
+    "hi": "पासो एक आधुनिक तटीय रेज़िडेंस है, जहाँ पैनोरमिक व्यूज़ और thoughtfully डिज़ाइन किए गए इंटीरियर्स एक शांत, संतुलित रहने का अनुभव देते हैं। निवासियों को सीधे बीच एक्सेस, मरीना प्रिविलेज़ और दुबई की सबसे लग्ज़री डेस्टिनेशन्स की नज़दीकी मिलती है—समुद्र तट की शांति और शहर की ऊर्जा का सुंदर मेल।"
+  },
+
+  "promo_image": "/img/projects/passo/promo.jpg",
+
+  "gallery": [
+    "/img/projects/passo/gallery_1.jpg",
+    "/img/projects/passo/gallery_2.jpg",
+    "/img/projects/passo/gallery_3.jpg",
+    "/img/projects/passo/gallery_4.jpg",
+    "/img/projects/passo/gallery_5.jpg",
+    "/img/projects/passo/gallery_6.jpg",
+    "/img/projects/passo/gallery_7.jpg",
+    "/img/projects/passo/gallery_8.jpg",
+    "/img/projects/passo/gallery_9.jpg",
+    "/img/projects/passo/gallery_10.jpg"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "12 min" },
+      { "name": "DXB Airport", "time": "18 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "12 мин" },
+      { "name": "Аэропорт DXB", "time": "18 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "12 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "18 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "12 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "18 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah, Dubai, UAE",
+      "ru": "Palm Jumeirah, Dubai, UAE",
+      "ar": "نخلة جميرا، دبي، الإمارات",
+      "hi": "पाम जुमेरा, दुबई, यूएई"
+    },
+    "lat": 25.1145815,
+    "lng": 55.138
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "ask_hints": {
+    "en": [
+      "Compare Passo with similar Palm Jumeirah projects",
+      "Show payment plan, unit options and handover logic",
+      "Is Passo better for living or investment?",
+      "Explain beach access, marina privileges and location value"
+    ],
+    "ru": [
+      "Сравни Passo с похожими проектами на Palm Jumeirah",
+      "Покажи план оплаты, юниты и дату сдачи",
+      "Passo лучше для жизни или инвестиций?",
+      "Объясни пляж, марину и ценность локации"
+    ],
+    "ar": [
+      "قارن باسو بمشاريع مشابهة في نخلة جميرا",
+      "اشرح خطة الدفع وأنواع الوحدات وموعد التسليم",
+      "هل باسو أفضل للسكن أم للاستثمار؟",
+      "اشرح الوصول إلى الشاطئ والمرسى وقيمة الموقع"
+    ],
+    "hi": [
+      "Passo की तुलना Palm Jumeirah के समान प्रोजेक्ट्स से करें",
+      "Payment plan, unit options और handover समझाएँ",
+      "Passo रहने के लिए बेहतर है या investment के लिए?",
+      "Beach access, marina privileges और location value समझाएँ"
+    ]
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "beyond",
+    "property_types": ["apartment", "penthouse", "villa"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2029,
+    "price_from_aed": 8800000,
+    "size_from_sqft": 840,
+    "tokens_extra": ["uae"]
+  }
+}

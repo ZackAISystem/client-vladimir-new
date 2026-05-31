@@ -1,0 +1,150 @@
+{
+  "project_key": "orla-by-omniyat",
+  "slug": "orla-by-omniyat",
+
+  "name": {
+    "en": "Orla by Omniyat",
+    "ru": "Orla by Omniyat",
+    "ar": "أورلا من أمنيات",
+    "hi": "ओरला बाय ओम्नियाट"
+  },
+
+  "developer": {
+    "en": "Omniyat Group",
+    "ru": "Omniyat Group",
+    "ar": "مجموعة أمنيات",
+    "hi": "ओम्नियाट ग्रुप"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "Orla by Omniyat",
+    "ru": "Orla by Omniyat",
+    "ar": "أورلا من أمنيات",
+    "hi": "ओरला बाय ओम्नियाट"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "24,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "2–4 BR",
+    "ru": "2–4 спальни",
+    "ar": "2–4 غرف نوم",
+    "hi": "2–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 3344 sqft",
+    "ru": "от 3344 sqft",
+    "ar": "ابتداءً من 3344 قدم²",
+    "hi": "3344 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Orla by Omniyat is an ultra-luxury waterfront project on Palm Jumeirah with spacious 2–4 bedroom apartments and duplex residences. The concept focuses on contemporary design, resort-style amenities, and premium services, with panoramic views of the Arabian Gulf and Dubai skyline, plus private beach-style living in an iconic address.",
+    "ru": "Orla by Omniyat — ультралюксовый проект на Palm Jumeirah с апартаментами и дуплексами 2–4 спальни. Концепция — современная архитектура, курортная инфраструктура и сервис премиального уровня, панорамные виды на Персидский залив и skyline Дубая, а также приватный формат жизни у воды в одном из самых статусных адресов.",
+    "ar": "أورلا من أمنيات مشروع فائق الفخامة على نخلة جميرا يضم شققاً ودوبلكسات من 2 إلى 4 غرف نوم بمساحات واسعة. يتميز بتصميم عصري ومرافق على طراز المنتجع وخدمات راقية، مع إطلالات بانورامية على الخليج العربي وأفق دبي وأسلوب حياة خاص على الواجهة البحرية.",
+    "hi": "ओरला बाय ओम्नियाट पाम जुमेराह पर एक अल्ट्रा-लक्ज़री वाटरफ्रंट प्रोजेक्ट है, जिसमें 2–4 बेडरूम अपार्टमेंट और डुप्लेक्स शामिल हैं। यह आधुनिक डिज़ाइन, रिसॉर्ट-स्टाइल सुविधाओं और प्रीमियम सर्विस पर केंद्रित है, साथ ही अरब सागर और दुबई स्काईलाइन के पैनोरमिक व्यू के साथ एक एक्सक्लूसिव वॉटरफ्रंट लाइफस्टाइल देता है।"
+  },
+
+  "promo_image": "/img/projects/orla-by-omniyat/promo.png",
+
+  "gallery": [
+    "/img/projects/orla-by-omniyat/gallery_1.png",
+    "/img/projects/orla-by-omniyat/gallery_2.png",
+    "/img/projects/orla-by-omniyat/gallery_3.png",
+    "/img/projects/orla-by-omniyat/gallery_4.png",
+    "/img/projects/orla-by-omniyat/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Atlantis The Palm", "time": "8 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Atlantis The Palm", "time": "8 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "أتلانتس النخلة", "time": "8 دقائق" },
+      { "name": "دبي مارينا", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अटलांटिस द पाम", "time": "8 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah, Dubai",
+      "ru": "Palm Jumeirah, Дубай",
+      "ar": "نخلة جميرا، دبي",
+      "hi": "पाम जुमेराह, दुबई"
+    },
+    "lat": 25.1124,
+    "lng": 55.1390
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "omniyat-group",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 4,
+    "handover_year": 2026,
+    "price_from_aed": 24000000,
+    "size_from_sqft": 3344,
+    "tokens_extra": ["uae", "waterfront", "luxury"]
+  }
+}

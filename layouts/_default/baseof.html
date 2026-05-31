@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.Language.Lang | default "en" }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>
+    {{ if .IsHome }}
+      {{ .Site.Title }}
+    {{ else }}
+      {{ .Title }} · {{ .Site.Title }}
+    {{ end }}
+  </title>
+
+  {{/* Optional: meta description */}}
+  {{ $desc := .Params.description | default .Site.Params.description | default "" }}
+  {{ if $desc }}
+    <meta name="description" content="{{ $desc }}">
+  {{ end }}
+
+  <!-- Google Fonts: Montserrat -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+  <!-- Main CSS -->
+  <link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+
+  {{ block "head" . }}{{ end }}
+</head>
+
+<body class="
+  {{ if .IsHome }}page-home{{ end }}
+  {{ if eq .Section "projects" }}page-project{{ end }}
+  {{ if .Section }}section-{{ .Section }}{{ end }}
+  {{ if and (not .IsHome) (ne .Section "projects") }}page-default{{ end }}
+">
+
+  {{ block "main" . }}{{ end }}
+
+  {{/* Floating WhatsApp & Telegram CTA */}}
+
+  {{ block "scripts" . }}{{ end }}
+
+  {{/* Global UI i18n */}}
+  {{ partial "shared/i18n_ui.html" . }}
+
+</body>
+</html>

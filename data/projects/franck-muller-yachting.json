@@ -1,0 +1,150 @@
+{
+  "project_key": "franck-muller-yachting",
+  "slug": "franck-muller-yachting",
+
+  "name": {
+    "en": "Franck Muller Yachting",
+    "ru": "Franck Muller Yachting",
+    "ar": "فرانك مولر ياختينغ",
+    "hi": "फ्रैंक मुलर यॉटिंग"
+  },
+
+  "developer": {
+    "en": "London Gate",
+    "ru": "London Gate",
+    "ar": "لندن غيت",
+    "hi": "लंदन गेट"
+  },
+
+  "location_text": {
+    "en": "Dubai Maritime City",
+    "ru": "Dubai Maritime City",
+    "ar": "مدينة دبي الملاحية",
+    "hi": "दुबई मैरीटाइम सिटी"
+  },
+
+  "hero_title": {
+    "en": "Franck Muller Yachting",
+    "ru": "Franck Muller Yachting",
+    "ar": "فرانك مولر ياختينغ",
+    "hi": "फ्रैंक मुलर यॉटिंग"
+  },
+
+  "handover": {
+    "en": "July 2028",
+    "ru": "Июль 2028",
+    "ar": "يوليو 2028",
+    "hi": "जुलाई 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,200,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–3 BR",
+    "ru": "Студия | 1–3 спальни",
+    "ar": "استوديو | 1–3 غرف نوم",
+    "hi": "स्टूडियो | 1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 379 sqft",
+    "ru": "от 379 sqft",
+    "ar": "ابتداءً من 379 قدم²",
+    "hi": "379 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Franck Muller Yachting is a branded waterfront tower in Dubai Maritime City developed by London Gate in partnership with Franck Muller. The project offers studios and 1 to 3-bedroom apartments inspired by nautical design and Swiss precision. Positioned between Port Rashid and the open sea, it combines marina views, lifestyle amenities and strong long-term investment potential.",
+    "ru": "Franck Muller Yachting — брендированный жилой проект на набережной Dubai Maritime City от London Gate в сотрудничестве с Franck Muller. В комплексе представлены студии и апартаменты с 1–3 спальнями в яхтенной стилистике. Локация у воды между Port Rashid и открытым морем обеспечивает высокий инвестиционный потенциал.",
+    "ar": "فرانك مولر ياختينغ هو مشروع سكني بعلامة تجارية في دبي مارينا تايم سيتي من تطوير لندن غيت بالتعاون مع فرانك مولر. يضم استوديوهات وشققاً من 1 إلى 3 غرف نوم بتصميم مستوحى من عالم اليخوت، مع إطلالات بحرية وفرص استثمار طويلة الأمد.",
+    "hi": "फ्रैंक मुलर यॉटिंग दुबई मैरीटाइम सिटी में स्थित एक ब्रांडेड वाटरफ्रंट प्रोजेक्ट है, जिसे लंदन गेट ने फ्रैंक मुलर के सहयोग से विकसित किया है। इसमें स्टूडियो और 1–3 बेडरूम अपार्टमेंट शामिल हैं, जो समुद्री डिज़ाइन, प्रीमियम लोकेशन और मजबूत निवेश क्षमता प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/franck-muller-yachting/promo.png",
+
+  "gallery": [
+    "/img/projects/franck-muller-yachting/gallery_1.png",
+    "/img/projects/franck-muller-yachting/gallery_2.png",
+    "/img/projects/franck-muller-yachting/gallery_3.png",
+    "/img/projects/franck-muller-yachting/gallery_4.png",
+    "/img/projects/franck-muller-yachting/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Port Rashid", "time": "5 min" },
+      { "name": "Downtown Dubai", "time": "15 min" },
+      { "name": "DXB Airport", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Port Rashid", "time": "5 мин" },
+      { "name": "Downtown Dubai", "time": "15 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "ميناء راشد", "time": "5 دقائق" },
+      { "name": "وسط مدينة دبي", "time": "15 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "पोर्ट राशिद", "time": "5 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "15 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Maritime City, Dubai",
+      "ru": "Dubai Maritime City, Дубай",
+      "ar": "مدينة دبي الملاحية، دبي",
+      "hi": "दुबई मैरीटाइम सिटी, दुबई"
+    },
+    "lat": 25.2690,
+    "lng": 55.2830
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-maritime-city",
+    "developer": "london-gate",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 1200000,
+    "size_from_sqft": 379,
+    "tokens_extra": ["uae", "waterfront", "branded", "luxury"]
+  }
+}

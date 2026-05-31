@@ -1,0 +1,150 @@
+{
+  "project_key": "burj-binghatti",
+  "slug": "burj-binghatti",
+
+  "name": {
+    "en": "Burj Binghatti Jacob & Co Residences",
+    "ru": "Burj Binghatti Jacob & Co Residences",
+    "ar": "برج بن غاطي جاكوب آند كو",
+    "hi": "बुर्ज बिंगहट्टी जैकब एंड को रेजिडेंसेस"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Burj Binghatti Jacob & Co Residences",
+    "ru": "Burj Binghatti Jacob & Co Residences",
+    "ar": "برج بن غاطي جاكوب آند كو",
+    "hi": "बुर्ज बिंगहट्टी जैकब एंड को रेजिडेंसेस"
+  },
+
+  "handover": {
+    "en": "June 2026",
+    "ru": "Июнь 2026",
+    "ar": "يونيو 2026",
+    "hi": "जून 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "8,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2 BR | 3 BR | 4 BR | Penthouse",
+    "ru": "2 | 3 | 4 спальни | Пентхаус",
+    "ar": "2 | 3 | 4 غرف نوم | بنتهاوس",
+    "hi": "2 | 3 | 4 बेडरूम | पेंटहाउस"
+  },
+
+  "size": {
+    "en": "from 2000 sqft",
+    "ru": "от 2000 sqft",
+    "ar": "ابتداءً من 2000 قدم²",
+    "hi": "2000 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Burj Binghatti Jacob & Co Residences is a record-breaking branded tower in Business Bay, developed in collaboration with the legendary luxury watchmaker. Featuring ultra-luxury 2–4 bedroom residences and sky mansions with private pools, the project is crowned with a signature diamond-inspired pinnacle. Panoramic skyline views, bespoke interiors, and elite concierge services redefine the meaning of vertical luxury in Dubai.",
+    "ru": "Burj Binghatti Jacob & Co — рекордная брендированная башня в Business Bay, созданная совместно с легендарным ювелирным домом. Резиденции с 2–4 спальнями и sky-мэншены с приватными бассейнами, панорамные виды и эксклюзивный сервис формируют новый уровень вертикальной роскоши в Дубае.",
+    "ar": "يُعد برج بن غاطي جاكوب آند كو مشروعاً سكنياً فاخراً محطماً للأرقام القياسية في الخليج التجاري، تم تطويره بالتعاون مع دار الساعات العالمية. يضم شققاً فاخرة من 2 إلى 4 غرف نوم وقصوراً علوية مع مسابح خاصة، وإطلالات بانورامية وخدمات راقية تعيد تعريف مفهوم الرفاهية العمودية.",
+    "hi": "बुर्ज बिंगहट्टी जैकब एंड को रेजिडेंसेस बिज़नेस बे में स्थित एक रिकॉर्ड-ब्रेकिंग ब्रांडेड टॉवर है। 2–4 बेडरूम अल्ट्रा-लक्ज़री रेजिडेंस, निजी पूल वाले स्काई मेंशन, पैनोरमिक व्यू और प्रीमियम कंसीयर्ज सेवाएँ इसे दुबई में वर्टिकल लग्ज़री का नया प्रतीक बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/burj-binghatti/promo.png",
+
+  "gallery": [
+    "/img/projects/burj-binghatti/gallery_1.png",
+    "/img/projects/burj-binghatti/gallery_2.png",
+    "/img/projects/burj-binghatti/gallery_3.png",
+    "/img/projects/burj-binghatti/gallery_4.png",
+    "/img/projects/burj-binghatti/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai, UAE",
+      "ru": "Business Bay, Дубай, ОАЭ",
+      "ar": "الخليج التجاري، دبي",
+      "hi": "बिज़नेस बे, दुबई"
+    },
+    "lat": 25.1866,
+    "lng": 55.2595
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 4,
+    "handover_year": 2026,
+    "price_from_aed": 8500000,
+    "size_from_sqft": 2000,
+    "tokens_extra": ["uae", "branded-residence", "luxury"]
+  }
+}

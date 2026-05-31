@@ -1,0 +1,150 @@
+{
+  "project_key": "diamondz",
+  "slug": "diamondz",
+
+  "name": {
+    "en": "Diamondz by Danube",
+    "ru": "Diamondz by Danube",
+    "ar": "دايموندز من دانوب",
+    "hi": "डायमंडज़ बाय डैन्यूब"
+  },
+
+  "developer": {
+    "en": "Danube Properties",
+    "ru": "Danube Properties",
+    "ar": "دانوب العقارية",
+    "hi": "डैन्यूब प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Jumeirah Lake Towers (JLT)",
+    "ru": "Jumeirah Lake Towers (JLT)",
+    "ar": "أبراج بحيرات جميرا",
+    "hi": "जुमेराह लेक टावर्स (JLT)"
+  },
+
+  "hero_title": {
+    "en": "Diamondz by Danube",
+    "ru": "Diamondz by Danube",
+    "ar": "دايموندز من دانوب",
+    "hi": "डायमंडज़ बाय डैन्यूब"
+  },
+
+  "handover": {
+    "en": "November 2027",
+    "ru": "Ноябрь 2027",
+    "ar": "نوفمبر 2027",
+    "hi": "नवंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,100,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–4 BR",
+    "ru": "Студия | 1–4 спальни",
+    "ar": "استوديو | 1–4 غرف نوم",
+    "hi": "स्टूडियो | 1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 417 sqft",
+    "ru": "от 417 sqft",
+    "ar": "ابتداءً من 417 قدم²",
+    "hi": "417 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Diamondz by Danube is a 62-storey residential tower rising in the heart of Jumeirah Lake Towers. The project offers fully furnished studios and 1 to 4-bedroom apartments designed with contemporary finishes and smart layouts. Floor-to-ceiling windows provide sweeping skyline and lake views, while premium amenities enhance daily living. Located within walking distance of metro access and surrounded by retail, dining, and waterfront promenades, Diamondz combines investment appeal with urban sophistication in one of Dubai’s most dynamic districts.",
+    "ru": "Diamondz by Danube — 62-этажная башня в Jumeirah Lake Towers с полностью меблированными студиями и апартаментами с 1–4 спальнями. Панорамные окна, современная отделка и продуманные планировки создают комфортную городскую среду. Район с развитой инфраструктурой и доступом к метро делает проект привлекательным как для жизни, так и для инвестиций.",
+    "ar": "يُعد دايموندز من دانوب برجاً سكنياً مكوناً من 62 طابقاً في أبراج بحيرات جميرا، يضم استوديوهات وشققاً من 1 إلى 4 غرف نوم مفروشة بالكامل. تتميز الوحدات بتصاميم عصرية ونوافذ ممتدة من الأرض إلى السقف مع إطلالات بانورامية. يوفر الموقع قرب المترو والممشى البحري أسلوب حياة حضرياً راقياً وفرصة استثمارية مميزة.",
+    "hi": "डायमंडज़ बाय डैन्यूब JLT में स्थित 62-मंज़िला रेजिडेंशियल टॉवर है, जिसमें पूरी तरह सुसज्जित स्टूडियो और 1 से 4 बेडरूम अपार्टमेंट उपलब्ध हैं। आधुनिक फिनिश, स्मार्ट लेआउट और पैनोरमिक व्यू इसे निवेश और प्रीमियम शहरी जीवन दोनों के लिए आकर्षक बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/diamondz/promo.png",
+
+  "gallery": [
+    "/img/projects/diamondz/gallery_1.png",
+    "/img/projects/diamondz/gallery_2.png",
+    "/img/projects/diamondz/gallery_3.png",
+    "/img/projects/diamondz/gallery_4.png",
+    "/img/projects/diamondz/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "8 min" },
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "8 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "دبي مارينا", "time": "8 دقائق" },
+      { "name": "وسط مدينة دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "8 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Lake Towers (JLT), Dubai, UAE",
+      "ru": "Jumeirah Lake Towers (JLT), Дубай, ОАЭ",
+      "ar": "أبراج بحيرات جميرا، دبي",
+      "hi": "जुमेराह लेक टावर्स, दुबई"
+    },
+    "lat": 25.0734,
+    "lng": 55.1410
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-lake-towers",
+    "developer": "danube-properties",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 1100000,
+    "size_from_sqft": 417,
+    "tokens_extra": ["uae"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "distrikt-at-ghaf-woods",
+  "slug": "distrikt-at-ghaf-woods",
+
+  "name": {
+    "en": "Distrikt at Ghaf Woods",
+    "ru": "Distrikt at Ghaf Woods",
+    "ar": "ديستريكت في غاف وودز",
+    "hi": "डिस्ट्रिक्ट एट ग़ाफ वुड्स"
+  },
+
+  "developer": {
+    "en": "Majid Al Futtaim",
+    "ru": "Majid Al Futtaim",
+    "ar": "ماجد الفطيم",
+    "hi": "माजिद अल फुतैम"
+  },
+
+  "location_text": {
+    "en": "Ghaf Woods",
+    "ru": "Ghaf Woods",
+    "ar": "غاف وودز",
+    "hi": "ग़ाफ वुड्स"
+  },
+
+  "hero_title": {
+    "en": "Distrikt at Ghaf Woods",
+    "ru": "Distrikt at Ghaf Woods",
+    "ar": "ديستريكت في غاف وودز",
+    "hi": "डिस्ट्रिक्ट एट ग़ाफ वुड्स"
+  },
+
+  "handover": {
+    "en": "July 2029",
+    "ru": "Июль 2029",
+    "ar": "يوليو 2029",
+    "hi": "जुलाई 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 650 sqft",
+    "ru": "от 650 sqft",
+    "ar": "ابتداءً من 650 قدم²",
+    "hi": "650 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Distrikt at Ghaf Woods by Majid Al Futtaim introduces a biophilic residential concept in Dubai Land, where architecture is carefully integrated with preserved Ghaf forests and expansive green corridors. The project offers one to three-bedroom apartments and duplexes designed with open layouts, natural light, and premium finishes. Floor-to-ceiling windows frame woodland views, while smart home features and sustainable materials enhance comfort and efficiency. Residents enjoy wellness-focused amenities, pedestrian-friendly boulevards, and direct access to landscaped parks, creating a balanced lifestyle that merges urban connectivity with tranquil forest living.",
+    "ru": "Distrikt at Ghaf Woods от Majid Al Futtaim — это жилой проект в Dubai Land, построенный по принципам биофильного дизайна. Архитектура гармонично интегрирована в природную среду с сохранёнными рощами гафовых деревьев и зелёными бульварами. Апартаменты и дуплексы с 1–3 спальнями отличаются открытыми планировками, панорамными окнами и премиальной отделкой. Smart-системы и экологичные материалы формируют комфортную и устойчивую среду. Инфраструктура ориентирована на wellness и активный образ жизни среди природы.",
+    "ar": "يقدم مشروع ديستريكت في غاف وودز من ماجد الفطيم مفهوماً سكنياً مستداماً في دبي لاند، حيث يندمج التصميم المعماري مع غابات الغاف المحفوظة والمساحات الخضراء الواسعة. يضم شققاً ودوبلكسات من غرفة إلى ثلاث غرف نوم بتصميم مفتوح ونوافذ بانورامية وتشطيبات فاخرة. تعزز أنظمة المنزل الذكي والمواد المستدامة جودة الحياة، بينما توفر الممرات الخضراء والمرافق الصحية أسلوب حياة متوازن بين المدينة والطبيعة.",
+    "hi": "माजिद अल फुतैम द्वारा विकसित डिस्ट्रिक्ट एट ग़ाफ वुड्स दुबई लैंड में एक बायोफिलिक रेजिडेंशियल कॉन्सेप्ट प्रस्तुत करता है, जहाँ वास्तुकला को प्राकृतिक ग़ाफ वन और हरित गलियारों के साथ संतुलित किया गया है। 1 से 3 बेडरूम अपार्टमेंट और डुप्लेक्स ओपन लेआउट, पैनोरमिक विंडोज़ और प्रीमियम फिनिश के साथ डिज़ाइन किए गए हैं। स्मार्ट होम तकनीक और सस्टेनेबल सामग्री आराम व दक्षता बढ़ाती हैं, जबकि वेलनेस सुविधाएँ और ग्रीन पार्क जीवनशैली को प्रकृति से जोड़ती हैं।"
+  },
+
+  "promo_image": "/img/projects/distrikt-at-ghaf-woods/promo.png",
+
+  "gallery": [
+    "/img/projects/distrikt-at-ghaf-woods/gallery_1.png",
+    "/img/projects/distrikt-at-ghaf-woods/gallery_2.png",
+    "/img/projects/distrikt-at-ghaf-woods/gallery_3.png",
+    "/img/projects/distrikt-at-ghaf-woods/gallery_4.png",
+    "/img/projects/distrikt-at-ghaf-woods/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "22 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "22 мин" }
+    ],
+    "ar": [
+      { "name": "وسط مدينة دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" },
+      { "name": "مرسى دبي", "time": "22 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "22 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Ghaf Woods, Dubai Land, Dubai, UAE",
+      "ru": "Ghaf Woods, Dubai Land, Дубай, ОАЭ",
+      "ar": "غاف وودز، دبي لاند، دبي",
+      "hi": "ग़ाफ वुड्स, दुबई लैंड, दुबई"
+    },
+    "lat": 25.0745,
+    "lng": 55.2869
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "ghaf-woods",
+    "developer": "majid-al-futtaim",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2029,
+    "price_from_aed": 1500000,
+    "size_from_sqft": 650,
+    "tokens_extra": ["uae"]
+  }
+}

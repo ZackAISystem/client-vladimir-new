@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+  {{ $blocks := .Params.blocks | default (slice) }}
+
+  {{ if gt (len $blocks) 0 }}
+
+    {{ range $blocks }}
+      {{ $type := .type }}
+      {{ $scope := .scope | default "" }}
+
+      {{ $candidates := slice }}
+
+      {{ if $scope }}
+        {{ $candidates = $candidates | append (printf "%s/%s.html" $scope $type) }}
+      {{ else }}
+        {{/* List по умолчанию = results UI */}}
+        {{ $candidates = $candidates | append (printf "home/%s.html" $type) }}
+        {{ $candidates = $candidates | append (printf "shared/%s.html" $type) }}
+        {{ $candidates = $candidates | append (printf "project/%s.html" $type) }}
+      {{ end }}
+
+      {{ $picked := "" }}
+      {{ range $candidates }}
+        {{ if templates.Exists (printf "partials/%s" .) }}
+          {{ $picked = . }}
+        {{ end }}
+        {{ if $picked }}{{ break }}{{ end }}
+      {{ end }}
+
+      {{ if $picked }}
+        {{ partial $picked $ }}
+      {{ else }}
+        {{ warnf "List: partial not found for type=%q candidates=%v page=%q" $type $candidates $.RelPermalink }}
+      {{ end }}
+    {{ end }}
+
+  {{ else }}
+
+    {{/* Default list = results page */}}
+    {{ partial "home/search_sticky_bar.html" . }}
+    {{ partial "home/results_section.html" . }}
+    {{ partial "shared/footer.html" . }}
+
+  {{ end }}
+
+{{ end }}

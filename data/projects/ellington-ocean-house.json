@@ -1,0 +1,150 @@
+{
+  "project_key": "ellington-ocean-house",
+  "slug": "ellington-ocean-house",
+
+  "name": {
+    "en": "Ellington Ocean House",
+    "ru": "Ellington Ocean House",
+    "ar": "إلينغتون أوشن هاوس",
+    "hi": "एलिंगटन ओशन हाउस"
+  },
+
+  "developer": {
+    "en": "Ellington Properties",
+    "ru": "Ellington Properties",
+    "ar": "إلينغتون العقارية",
+    "hi": "एलिंगटन प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "Ellington Ocean House",
+    "ru": "Ellington Ocean House",
+    "ar": "إلينغتون أوشن هاوس",
+    "hi": "एलिंगटन ओशन हाउस"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "9,800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–6 BR",
+    "ru": "2–6 спален",
+    "ar": "2–6 غرف نوم",
+    "hi": "2–6 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 1642 sqft",
+    "ru": "от 1642 sqft",
+    "ar": "ابتداءً من 1642 قدم²",
+    "hi": "1642 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Ellington Ocean House is an ultra-luxury waterfront development on Palm Jumeirah by Ellington Properties. The project offers 2 to 6-bedroom apartments, duplexes, and penthouses with expansive layouts, premium materials, and panoramic views of the Arabian Gulf and Dubai skyline. Located on one of the world’s most iconic islands, Ocean House combines private beachfront living with convenient access to Dubai’s key destinations.",
+    "ru": "Ellington Ocean House — ультралюксовый жилой комплекс на Palm Jumeirah от Ellington Properties. В проекте представлены апартаменты, дуплексы и пентхаусы с 2–6 спальнями, просторными планировками и панорамными видами на Персидский залив и горизонт Дубая. Комплекс сочетает приватность пляжной жизни с удобным доступом к ключевым районам города.",
+    "ar": "يُعد إلينغتون أوشن هاوس مشروعاً فاخراً للغاية على نخلة جميرا من تطوير إلينغتون العقارية. يضم المشروع شققاً ودوبلكسات وبنتهاوس من 2 إلى 6 غرف نوم بإطلالات بانورامية على الخليج العربي وأفق دبي، مع أسلوب حياة شاطئي فاخر وسهولة الوصول إلى أهم مناطق المدينة.",
+    "hi": "एलिंगटन ओशन हाउस पाम जुमेराह पर स्थित एक अल्ट्रा-लक्ज़री वाटरफ्रंट प्रोजेक्ट है। इसमें 2 से 6 बेडरूम अपार्टमेंट, डुप्लेक्स और पेंटहाउस उपलब्ध हैं, जिनमें विशाल लेआउट और अरब सागर के दृश्य शामिल हैं। यह निजी समुद्री जीवन और शहर की सुविधाजनक पहुँच का संतुलन प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/ellington-ocean-house/promo.png",
+
+  "gallery": [
+    "/img/projects/ellington-ocean-house/gallery_1.png",
+    "/img/projects/ellington-ocean-house/gallery_2.png",
+    "/img/projects/ellington-ocean-house/gallery_3.png",
+    "/img/projects/ellington-ocean-house/gallery_4.png",
+    "/img/projects/ellington-ocean-house/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Atlantis The Palm", "time": "8 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Atlantis The Palm", "time": "8 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "أتلانتس النخلة", "time": "8 دقائق" },
+      { "name": "دبي مارينا", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अटलांटिस द पाम", "time": "8 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah, Dubai",
+      "ru": "Palm Jumeirah, Дубай",
+      "ar": "نخلة جميرا، دبي",
+      "hi": "पाम जुमेराह, दुबई"
+    },
+    "lat": 25.1124,
+    "lng": 55.1390
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "ellington-properties",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 6,
+    "handover_year": 2026,
+    "price_from_aed": 9800000,
+    "size_from_sqft": 1642,
+    "tokens_extra": ["uae", "waterfront", "luxury"]
+  }
+}

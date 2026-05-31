@@ -1,0 +1,150 @@
+{
+  "project_key": "w-residences-dubai-harbour",
+  "slug": "w-residences-dubai-harbour",
+
+  "name": {
+    "en": "W Residences Dubai Harbour",
+    "ru": "W Residences Dubai Harbour",
+    "ar": "دبليو ريزيدنسز دبي هاربور",
+    "hi": "डब्ल्यू रेजिडेंसेज़ दुबई हार्बर"
+  },
+
+  "developer": {
+    "en": "ARADA",
+    "ru": "ARADA",
+    "ar": "أرادا",
+    "hi": "अराडा"
+  },
+
+  "location_text": {
+    "en": "Dubai Harbour",
+    "ru": "Dubai Harbour",
+    "ar": "دبي هاربور",
+    "hi": "दुबई हार्बर"
+  },
+
+  "hero_title": {
+    "en": "W Residences at Dubai Harbour",
+    "ru": "W Residences в Dubai Harbour",
+    "ar": "دبليو ريزيدنسز في دبي هاربور",
+    "hi": "दुबई हार्बर में डब्ल्यू रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "4,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–5 BR Apartments, Duplexes & Penthouses",
+    "ru": "1–5 спален, дуплексы и пентхаусы",
+    "ar": "1–5 غرف نوم، دوبلكس وبنتهاوس",
+    "hi": "1–5 बेडरूम अपार्टमेंट, डुप्लेक्स और पेंटहाउस"
+  },
+
+  "size": {
+    "en": "1072 sqft",
+    "ru": "1072 sqft",
+    "ar": "1072 قدم²",
+    "hi": "1072 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "W Residences Dubai Harbour by ARADA is a luxury branded residential development set within the prestigious Dubai Harbour waterfront district. The project offers an exclusive collection of 1 to 5-bedroom residences, duplexes and penthouses with panoramic sea and skyline views. Inspired by the iconic W lifestyle brand, the development combines bold contemporary design with resort-style amenities, including infinity pools, residents’ lounges, wellness facilities and private marina access. With direct connectivity to Dubai Marina, Palm Jumeirah and Sheikh Zayed Road, the project delivers both lifestyle appeal and long-term investment value in one of Dubai’s most dynamic coastal locations.",
+    "ru": "W Residences Dubai Harbour от ARADA — это премиальный брендированный жилой проект в престижном районе Dubai Harbour. Комплекс включает резиденции с 1–5 спальнями, дуплексы и пентхаусы с панорамными видами на море и небоскрёбы. Проект вдохновлён стилем бренда W и сочетает современную архитектуру с курортной инфраструктурой: инфинити-бассейнами, лаунж-зонами, wellness-центром и доступом к марине. Расположение обеспечивает быструю связь с Dubai Marina, Palm Jumeirah и Sheikh Zayed Road.",
+    "ar": "يعد دبليو ريزيدنسز دبي هاربور من أرادا مشروعًا سكنيًا فاخرًا بعلامة تجارية عالمية، يضم شققًا ودوبلكس وبنتهاوس من غرفة إلى خمس غرف نوم مع إطلالات بانورامية على البحر وأفق دبي.",
+    "hi": "अराडा द्वारा विकसित डब्ल्यू रेजिडेंसेज़ दुबई हार्बर एक लक्ज़री ब्रांडेड रेजिडेंशियल प्रोजेक्ट है जिसमें 1 से 5 बेडरूम अपार्टमेंट, डुप्लेक्स और पेंटहाउस समुद्र के दृश्य के साथ उपलब्ध हैं।"
+  },
+
+  "promo_image": "/img/projects/w-residences-dubai-harbour/promo.png",
+
+  "gallery": [
+    "/img/projects/w-residences-dubai-harbour/gallery_1.png",
+    "/img/projects/w-residences-dubai-harbour/gallery_2.png",
+    "/img/projects/w-residences-dubai-harbour/gallery_3.png",
+    "/img/projects/w-residences-dubai-harbour/gallery_4.png",
+    "/img/projects/w-residences-dubai-harbour/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "5 min" },
+      { "name": "Palm Jumeirah", "time": "7 min" },
+      { "name": "Bluewaters Island", "time": "8 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "5 мин" },
+      { "name": "Palm Jumeirah", "time": "7 мин" },
+      { "name": "Bluewaters Island", "time": "8 мин" }
+    ],
+    "ar": [
+      { "name": "دبي مارينا", "time": "5 دقائق" },
+      { "name": "نخلة جميرا", "time": "7 دقائق" },
+      { "name": "بلوواترز آيلاند", "time": "8 دقائق" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "5 मिनट" },
+      { "name": "पाम जुमेराह", "time": "7 मिनट" },
+      { "name": "ब्लूवॉटर्स आइलैंड", "time": "8 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Harbour, Dubai, UAE",
+      "ru": "Dubai Harbour, Дубай, ОАЭ",
+      "ar": "دبي هاربور، دبي، الإمارات",
+      "hi": "दुबई हार्बर, दुबई, यूएई"
+    },
+    "lat": 25.0907,
+    "lng": 55.1386
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-harbour",
+    "developer": "arada",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 4300000,
+    "size_from_sqft": 1072,
+    "tokens_extra": ["uae", "branded-residence", "waterfront", "marina", "luxury"]
+  }
+}

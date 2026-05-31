@@ -1,0 +1,150 @@
+{
+  "project_key": "the-edge",
+  "slug": "the-edge",
+
+  "name": {
+    "en": "The Edge",
+    "ru": "The Edge",
+    "ar": "ذا إيدج",
+    "hi": "द एज"
+  },
+
+  "developer": {
+    "en": "Select Group",
+    "ru": "Select Group",
+    "ar": "سيليكت جروب",
+    "hi": "सेलेक्ट ग्रुप"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "The Edge at Business Bay",
+    "ru": "The Edge в Business Bay",
+    "ar": "ذا إيدج في الخليج التجاري",
+    "hi": "बिज़नेस बे में द एज"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–2 BR",
+    "ru": "1–2 спальни",
+    "ar": "1–2 غرف نوم",
+    "hi": "1–2 बेडरूम"
+  },
+
+  "size": {
+    "en": "570 sqft",
+    "ru": "570 sqft",
+    "ar": "570 قدم²",
+    "hi": "570 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "The Edge by Select Group is a contemporary twin-tower residential development in Business Bay offering 1 and 2-bedroom apartments with panoramic views of Dubai Canal, Downtown Dubai and the Burj Khalifa skyline. Designed with floor-to-ceiling windows, open layouts and refined finishes, the project blends urban energy with waterfront serenity. Residents benefit from premium amenities including swimming pools, fitness facilities, landscaped terraces and dedicated leisure areas, all positioned within minutes of Downtown Dubai and Sheikh Zayed Road.",
+    "ru": "The Edge от Select Group — современный жилой проект в Business Bay, предлагающий апартаменты с 1–2 спальнями и панорамными видами на Dubai Canal и Downtown Dubai. Резиденции отличаются панорамными окнами, открытыми планировками и качественной отделкой. Жителям доступны бассейны, фитнес-залы, лаунж-зоны и благоустроенные террасы. Проект расположен в нескольких минутах от Downtown и Sheikh Zayed Road.",
+    "ar": "ذا إيدج من سيليكت جروب هو مشروع سكني حديث في الخليج التجاري يضم شقق بغرفة وغرفتين نوم مع إطلالات بانورامية على قناة دبي وأفق برج خليفة. يتميز المشروع بتصميم عصري ونوافذ ممتدة من الأرض حتى السقف ومرافق راقية تشمل مسابح وصالات رياضية ومساحات ترفيهية.",
+    "hi": "सेलेक्ट ग्रुप द्वारा विकसित द एज बिज़नेस बे में स्थित एक आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें 1 और 2 बेडरूम अपार्टमेंट उपलब्ध हैं। यह दुबई कैनाल और बुर्ज खलीफा के दृश्य, फ्लोर-टू-सीलिंग विंडो और प्रीमियम सुविधाएँ प्रदान करता है, जिनमें स्विमिंग पूल और फिटनेस सेंटर शामिल हैं।"
+  },
+
+  "promo_image": "/img/projects/the-edge/promo.png",
+
+  "gallery": [
+    "/img/projects/the-edge/gallery_1.png",
+    "/img/projects/the-edge/gallery_2.png",
+    "/img/projects/the-edge/gallery_3.png",
+    "/img/projects/the-edge/gallery_4.png",
+    "/img/projects/the-edge/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Canal", "time": "3 min" },
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "Dubai Mall", "time": "7 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Canal", "time": "3 мин" },
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Dubai Mall", "time": "7 мин" }
+    ],
+    "ar": [
+      { "name": "قناة دبي", "time": "3 دقائق" },
+      { "name": "وسط مدينة دبي", "time": "5 دقائق" },
+      { "name": "دبي مول", "time": "7 دقائق" }
+    ],
+    "hi": [
+      { "name": "दुबई कैनाल", "time": "3 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "दुबई मॉल", "time": "7 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai",
+      "ru": "Business Bay, Дубай",
+      "ar": "الخليج التجاري، دبي",
+      "hi": "बिज़नेस बे, दुबई"
+    },
+    "lat": 25.1860,
+    "lng": 55.2744
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "select-group",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 2,
+    "handover_year": 2026,
+    "price_from_aed": 1300000,
+    "size_from_sqft": 570,
+    "tokens_extra": ["uae", "business-bay", "canal-view", "downtown-proximity"]
+  }
+}

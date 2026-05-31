@@ -1,0 +1,150 @@
+{
+  "project_key": "fashionz-by-danube",
+  "slug": "fashionz-by-danube",
+
+  "name": {
+    "en": "Fashionz by Danube",
+    "ru": "Fashionz by Danube",
+    "ar": "فاشنز من دانوب",
+    "hi": "फैशन्ज़ बाय डैन्यूब"
+  },
+
+  "developer": {
+    "en": "Danube Properties",
+    "ru": "Danube Properties",
+    "ar": "دانوب العقارية",
+    "hi": "डैन्यूब प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Jumeirah Village Triangle (JVT)",
+    "ru": "Jumeirah Village Triangle (JVT)",
+    "ar": "مثلث قرية جميرا (JVT)",
+    "hi": "जुमेराह विलेज ट्रायंगल (JVT)"
+  },
+
+  "hero_title": {
+    "en": "Fashionz by Danube",
+    "ru": "Fashionz by Danube",
+    "ar": "فاشنز من دانوب",
+    "hi": "फैशन्ज़ बाय डैन्यूब"
+  },
+
+  "handover": {
+    "en": "July 2027",
+    "ru": "Июль 2027",
+    "ar": "يوليو 2027",
+    "hi": "जुलाई 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "830,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–3 BR",
+    "ru": "Студия | 1–3 спальни",
+    "ar": "استوديو | 1–3 غرف نوم",
+    "hi": "स्टूडियो | 1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 347 sqft",
+    "ru": "от 347 sqft",
+    "ar": "ابتداءً من 347 قدم²",
+    "hi": "347 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Fashionz by Danube is a contemporary residential project in Jumeirah Village Triangle (JVT) with studios and 1–3 bedroom apartments. The concept focuses on stylish interiors, practical layouts and lifestyle amenities for everyday comfort. JVT’s location keeps you connected to key Dubai districts, making it appealing for both end-users and rental-focused investors.",
+    "ru": "Fashionz by Danube — современный жилой проект в Jumeirah Village Triangle (JVT) со студиями и апартаментами с 1–3 спальнями. Акцент сделан на стильных интерьерах, удобных планировках и инфраструктуре для комфортной жизни. Локация JVT обеспечивает быструю связку с ключевыми районами Дубая и подходит как для проживания, так и для аренды.",
+    "ar": "فاشنز من دانوب مشروع سكني حديث في مثلث قرية جميرا (JVT) يضم استوديوهات وشققاً من 1 إلى 3 غرف نوم. يركز على تصميمات أنيقة ومساحات عملية ومرافق نمط حياة تعزز الراحة اليومية. يوفر موقع JVT سهولة الوصول إلى مناطق دبي الرئيسية، ما يجعله مناسباً للسكن والاستثمار.",
+    "hi": "फैशन्ज़ बाय डैन्यूब जुमेराह विलेज ट्रायंगल (JVT) में एक आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें स्टूडियो और 1–3 बेडरूम अपार्टमेंट हैं। डिज़ाइन, स्मार्ट लेआउट और लाइफस्टाइल सुविधाएँ रोज़मर्रा के आराम पर केंद्रित हैं। JVT लोकेशन प्रमुख दुबई क्षेत्रों से अच्छी कनेक्टिविटी देती है, इसलिए यह रहने और निवेश दोनों के लिए उपयुक्त है।"
+  },
+
+  "promo_image": "/img/projects/fashionz-by-danube/promo.png",
+
+  "gallery": [
+    "/img/projects/fashionz-by-danube/gallery_1.png",
+    "/img/projects/fashionz-by-danube/gallery_2.png",
+    "/img/projects/fashionz-by-danube/gallery_3.png",
+    "/img/projects/fashionz-by-danube/gallery_4.png",
+    "/img/projects/fashionz-by-danube/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "18 min" },
+      { "name": "Downtown Dubai", "time": "22 min" },
+      { "name": "DXB Airport", "time": "28 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "18 мин" },
+      { "name": "Downtown Dubai", "time": "22 мин" },
+      { "name": "Аэропорт DXB", "time": "28 мин" }
+    ],
+    "ar": [
+      { "name": "مرسى دبي", "time": "18 دقيقة" },
+      { "name": "وسط مدينة دبي", "time": "22 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "28 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "18 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "22 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "28 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Village Triangle (JVT), Dubai",
+      "ru": "Jumeirah Village Triangle (JVT), Дубай",
+      "ar": "مثلث قرية جميرا (JVT)، دبي",
+      "hi": "जुमेराह विलेज ट्रायंगल (JVT), दुबई"
+    },
+    "lat": 25.0473,
+    "lng": 55.1900
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-village-triangle",
+    "developer": "danube-properties",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 830000,
+    "size_from_sqft": 347,
+    "tokens_extra": ["uae"]
+  }
+}

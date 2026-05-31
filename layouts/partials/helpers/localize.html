@@ -1,0 +1,17 @@
+{{/* layouts/partials/helpers/localize.html */}}
+{{- $v := .v -}}
+{{- $lang := .lang | default "en" -}}
+
+{{- if not $v -}}
+  {{- "" -}}
+
+{{- else if reflect.IsMap $v -}}
+  {{- $val := index $v $lang -}}
+  {{- if not $val -}}
+    {{- $val = index $v "en" -}}
+  {{- end -}}
+  {{- $val | default "" -}}
+
+{{- else -}}
+  {{- $v -}}
+{{- end -}}

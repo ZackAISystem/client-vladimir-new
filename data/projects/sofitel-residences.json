@@ -1,0 +1,150 @@
+{
+  "project_key": "sofitel-residences",
+  "slug": "sofitel-residences",
+
+  "name": {
+    "en": "Sofitel Residences",
+    "ru": "Sofitel Residences",
+    "ar": "سوفيتيل ريزيدنسز",
+    "hi": "सोफिटेल रेजिडेंसेज़"
+  },
+
+  "developer": {
+    "en": "Azha Development",
+    "ru": "Azha Development",
+    "ar": "أزها للتطوير العقاري",
+    "hi": "अज़हा डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Downtown Dubai",
+    "ru": "Downtown Dubai",
+    "ar": "داون تاون دبي",
+    "hi": "डाउनटाउन दुबई"
+  },
+
+  "hero_title": {
+    "en": "Sofitel Residences",
+    "ru": "Sofitel Residences",
+    "ar": "سوفيتيل ريزيدنسز",
+    "hi": "सोफिटेल रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–5 BR",
+    "ru": "1–5 спален",
+    "ar": "1–5 غرف نوم",
+    "hi": "1–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "4807 sqft",
+    "ru": "4807 sqft",
+    "ar": "4807 قدم²",
+    "hi": "4807 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Sofitel Residences by Azha Development is a branded luxury tower in Downtown Dubai inspired by French Neoclassical design and Accor hospitality standards. Offering 1 to 5-bedroom apartments and penthouses, the project features panoramic Burj Khalifa views, hotel-style services and refined interiors. With its prestigious address and architectural elegance, it delivers an exceptional lifestyle and strong investment appeal.",
+    "ru": "Sofitel Residences от Azha Development — брендированный жилой небоскрёб в Downtown Dubai, вдохновлённый французским неоклассическим стилем и стандартами Accor. В комплексе представлены апартаменты и пентхаусы 1–5 спален с панорамными видами на Burj Khalifa, гостиничным сервисом и изысканной отделкой. Проект сочетает престижный адрес и инвестиционную привлекательность.",
+    "ar": "سوفيتيل ريزيدنسز من أزها للتطوير هو برج سكني فاخر بعلامة تجارية عالمية في داون تاون دبي مستوحى من الطراز الفرنسي الكلاسيكي ومعايير ضيافة أكور. يضم شققاً وبنتهاوس من 1 إلى 5 غرف نوم بإطلالات مباشرة على برج خليفة وخدمات فندقية وتشطيبات راقية، ليقدم أسلوب حياة استثنائياً وفرصة استثمارية قوية.",
+    "hi": "अज़हा डेवलपमेंट द्वारा विकसित सोफिटेल रेजिडेंसेज़ डाउनटाउन दुबई में स्थित एक ब्रांडेड लक्ज़री टॉवर है, जो फ्रेंच नियो-क्लासिकल डिज़ाइन और Accor हॉस्पिटैलिटी मानकों से प्रेरित है। इसमें 1–5 बेडरूम अपार्टमेंट और पेंटहाउस उपलब्ध हैं, जो बुर्ज खलीफा के दृश्य और होटल-स्टाइल सेवाएँ प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/sofitel-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/sofitel-residences/gallery_1.png",
+    "/img/projects/sofitel-residences/gallery_2.png",
+    "/img/projects/sofitel-residences/gallery_3.png",
+    "/img/projects/sofitel-residences/gallery_4.png",
+    "/img/projects/sofitel-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Burj Khalifa", "time": "3 min" },
+      { "name": "Dubai Mall", "time": "5 min" },
+      { "name": "DXB Airport", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Burj Khalifa", "time": "3 мин" },
+      { "name": "Dubai Mall", "time": "5 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "برج خليفة", "time": "3 دقائق" },
+      { "name": "دبي مول", "time": "5 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "बुर्ज खलीफा", "time": "3 मिनट" },
+      { "name": "दुबई मॉल", "time": "5 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Downtown Dubai",
+      "ru": "Downtown Dubai",
+      "ar": "داون تاون دبي",
+      "hi": "डाउनटाउन दुबई"
+    },
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "downtown-dubai",
+    "developer": "azha-development",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2026,
+    "price_from_aed": 2500000,
+    "size_from_sqft": 4807,
+    "tokens_extra": ["uae", "branded-residence", "burj-khalifa-view", "luxury"]
+  }
+}

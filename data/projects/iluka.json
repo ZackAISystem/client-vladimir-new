@@ -1,0 +1,150 @@
+{
+  "project_key": "iluka",
+  "slug": "iluka",
+
+  "name": {
+    "en": "Iluka",
+    "ru": "Iluka",
+    "ar": "إلوكا",
+    "hi": "इलुका"
+  },
+
+  "developer": {
+    "en": "MS Homes Development",
+    "ru": "MS Homes Development",
+    "ar": "إم إس هومز للتطوير",
+    "hi": "एमएस होम्स डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands (Deira)",
+    "ru": "Dubai Islands (Deira)",
+    "ar": "جزر دبي (ديرة)",
+    "hi": "दुबई आइलैंड्स (देइरा)"
+  },
+
+  "hero_title": {
+    "en": "Iluka",
+    "ru": "Iluka",
+    "ar": "إلوكا",
+    "hi": "इलुका"
+  },
+
+  "handover": {
+    "en": "August 2026",
+    "ru": "Август 2026",
+    "ar": "أغسطس 2026",
+    "hi": "अगस्त 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,700,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Iluka by MS Homes Development is a boutique residential project on Dubai Islands in Deira offering 1 to 4-bedroom apartments. The development combines contemporary architecture, spacious layouts and premium finishes with a coastal setting near beaches and marinas. Positioned within the evolving island masterplan, Iluka provides refined waterfront living with convenient access to central Dubai.",
+    "ru": "Iluka от MS Homes Development — жилой проект на Dubai Islands в районе Deira с апартаментами с 1–4 спальнями. Современная архитектура, просторные планировки и премиальная отделка сочетаются с прибрежной атмосферой рядом с пляжами и маринами. Проект расположен в рамках развивающегося мастер-плана островов и обеспечивает комфортную связь с центральным Дубаем.",
+    "ar": "إلوكا من إم إس هومز للتطوير هو مشروع سكني بوتيكي في جزر دبي بديرة يضم شققاً من 1 إلى 4 غرف نوم. يجمع بين العمارة العصرية والتشطيبات الراقية والموقع الساحلي بالقرب من الشواطئ والمراسي ضمن المخطط الرئيسي المتنامي للجزيرة.",
+    "hi": "इलुका एमएस होम्स डेवलपमेंट द्वारा विकसित दुबई आइलैंड्स (देइरा) में स्थित एक बुटीक रेजिडेंशियल प्रोजेक्ट है, जिसमें 1 से 4 बेडरूम अपार्टमेंट उपलब्ध हैं। आधुनिक वास्तुकला, प्रीमियम फिनिश और समुद्र के निकट लोकेशन इसे एक विशिष्ट तटीय जीवनशैली प्रदान करती है।"
+  },
+
+  "promo_image": "/img/projects/iluka/promo.png",
+
+  "gallery": [
+    "/img/projects/iluka/gallery_1.png",
+    "/img/projects/iluka/gallery_2.png",
+    "/img/projects/iluka/gallery_3.png",
+    "/img/projects/iluka/gallery_4.png",
+    "/img/projects/iluka/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Islands Beach", "time": "5 min" },
+      { "name": "Deira Waterfront", "time": "10 min" },
+      { "name": "DXB Airport", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Пляж Dubai Islands", "time": "5 мин" },
+      { "name": "Deira Waterfront", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "شاطئ جزر دبي", "time": "5 دقائق" },
+      { "name": "واجهة ديرة البحرية", "time": "10 دقائق" },
+      { "name": "مطار دبي DXB", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई आइलैंड्स बीच", "time": "5 मिनट" },
+      { "name": "देइरा वाटरफ्रंट", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands, Deira, Dubai",
+      "ru": "Dubai Islands, Дейра, Дубай",
+      "ar": "جزر دبي، ديرة، دبي",
+      "hi": "दुबई आइलैंड्स, देइरा, दुबई"
+    },
+    "lat": 25.3200,
+    "lng": 55.3470
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "ms-homes-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2026,
+    "price_from_aed": 1700000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}

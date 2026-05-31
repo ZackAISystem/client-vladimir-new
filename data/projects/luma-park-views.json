@@ -1,0 +1,150 @@
+{
+  "project_key": "luma-park-views",
+  "slug": "luma-park-views",
+
+  "name": {
+    "en": "Luma Park Views",
+    "ru": "Luma Park Views",
+    "ar": "لوما بارك فيوز",
+    "hi": "लुमा पार्क व्यूज़"
+  },
+
+  "developer": {
+    "en": "TownX Real Estate Development",
+    "ru": "TownX Real Estate Development",
+    "ar": "تاون إكس للتطوير العقاري",
+    "hi": "टाउनएक्स रियल एस्टेट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Jumeirah Village Circle",
+    "ru": "Jumeirah Village Circle",
+    "ar": "قرية جميرا الدائرية",
+    "hi": "जुमेराह विलेज सर्कल"
+  },
+
+  "hero_title": {
+    "en": "Luma Park Views",
+    "ru": "Luma Park Views",
+    "ar": "لوما بارك فيوز",
+    "hi": "लुमा पार्क व्यूज़"
+  },
+
+  "handover": {
+    "en": "June 2026",
+    "ru": "Июнь 2026",
+    "ar": "يونيو 2026",
+    "hi": "जून 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 797 sqft",
+    "ru": "от 797 sqft",
+    "ar": "ابتداءً من 797 قدم²",
+    "hi": "797 sqft से"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Luma Park Views by TownX is a contemporary residential development in Jumeirah Village Circle offering 1 to 3-bedroom apartments from 797 to 1700 sqft. The project combines refined interiors, landscaped surroundings, and functional layouts designed for modern urban living. Located in the heart of JVC, it provides convenient access to key Dubai destinations and strong rental appeal.",
+    "ru": "Luma Park Views от TownX — современный жилой проект в районе Jumeirah Village Circle с апартаментами 1–3 спальни площадью от 797 до 1700 sqft. Комплекс сочетает продуманные планировки, качественную отделку и озеленённую территорию. Локация в центре JVC обеспечивает удобную связь с ключевыми районами Дубая и высокий инвестиционный потенциал.",
+    "ar": "لوما بارك فيوز من تاون إكس هو مشروع سكني عصري في قرية جميرا الدائرية يضم شققاً من غرفة إلى ثلاث غرف نوم بمساحات تبدأ من 797 حتى 1700 قدم². يتميز بتصميم داخلي راقٍ ومساحات خضراء ومخططات عملية للحياة الحضرية الحديثة، مع موقع استراتيجي يوفر سهولة الوصول إلى أهم مناطق دبي.",
+    "hi": "लुमा पार्क व्यूज़ टाउनएक्स द्वारा विकसित जुमेराह विलेज सर्कल में स्थित एक आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें 1 से 3 बेडरूम अपार्टमेंट 797 से 1700 sqft तक उपलब्ध हैं। परियोजना आधुनिक डिज़ाइन, हरित परिवेश और सुविधाजनक कनेक्टिविटी प्रदान करती है, जो इसे रहने और निवेश दोनों के लिए उपयुक्त बनाती है।"
+  },
+
+  "promo_image": "/img/projects/luma-park-views/promo.png",
+
+  "gallery": [
+    "/img/projects/luma-park-views/gallery_1.png",
+    "/img/projects/luma-park-views/gallery_2.png",
+    "/img/projects/luma-park-views/gallery_3.png",
+    "/img/projects/luma-park-views/gallery_4.png",
+    "/img/projects/luma-park-views/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "مرسى دبي", "time": "15 دقيقة" },
+      { "name": "وسط مدينة دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Village Circle, Dubai",
+      "ru": "Jumeirah Village Circle, Дубай",
+      "ar": "قرية جميرا الدائرية، دبي",
+      "hi": "जुमेराह विलेज सर्कल, दुबई"
+    },
+    "lat": 25.0566,
+    "lng": 55.2090
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-village-circle",
+    "developer": "townx-real-estate-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2026,
+    "price_from_aed": 1300000,
+    "size_from_sqft": 797,
+    "tokens_extra": ["uae"]
+  }
+}

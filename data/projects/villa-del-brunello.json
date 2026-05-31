@@ -1,0 +1,150 @@
+{
+  "project_key": "villa-del-brunello",
+  "slug": "villa-del-brunello",
+
+  "name": {
+    "en": "Villa Del Brunello",
+    "ru": "Villa Del Brunello",
+    "ar": "فيلا ديل برونيلو",
+    "hi": "विला डेल ब्रुनेल्लो"
+  },
+
+  "developer": {
+    "en": "Mr Eight Development",
+    "ru": "Mr Eight Development",
+    "ar": "مستر إيت للتطوير",
+    "hi": "मिस्टर एट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands",
+    "ru": "Dubai Islands",
+    "ar": "جزر دبي",
+    "hi": "दुबई आइलैंड्स"
+  },
+
+  "hero_title": {
+    "en": "Villa Del Brunello at Dubai Islands",
+    "ru": "Villa Del Brunello на Dubai Islands",
+    "ar": "فيلا ديل برونيلو في جزر دبي",
+    "hi": "दुबई आइलैंड्स में विला डेल ब्रुनेल्लो"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "5,100,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR Apartments & 2–4 BR Duplexes",
+    "ru": "Апартаменты 1–4 спальни и дуплексы 2–4 спальни",
+    "ar": "شقق 1–4 غرف نوم ودوبلكسات 2–4 غرف نوم",
+    "hi": "1–4 बेडरूम अपार्टमेंट और 2–4 बेडरूम डुप्लेक्स"
+  },
+
+  "size": {
+    "en": "700–2485 sqft",
+    "ru": "700–2485 sqft",
+    "ar": "700–2485 قدم²",
+    "hi": "700–2485 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Villa Del Brunello by Mr Eight Development is a waterfront residential project on Dubai Islands offering 1 to 4-bedroom apartments and 2 to 4-bedroom duplexes. Designed for coastal family living, the development combines contemporary architecture with landscaped open spaces, direct beach proximity and panoramic sea views. Residences range from 700 to 2,485 sqft and feature spacious layouts, premium finishes and modern amenities. The master plan emphasizes privacy, green surroundings, walking tracks and community leisure facilities suitable for all age groups. Positioned within Dubai Islands, residents benefit from beachfront access, promenades and seamless connectivity to Deira, Downtown Dubai and Dubai International Airport.",
+    "ru": "Villa Del Brunello от Mr Eight Development — прибрежный жилой проект на Dubai Islands с апартаментами 1–4 спальни и дуплексами 2–4 спальни. Комплекс сочетает современную архитектуру, благоустроенные зелёные пространства и близость к пляжам. Площади варьируются от 700 до 2 485 sqft. Проект ориентирован на семейное проживание, предлагая просторные планировки, премиальные материалы и инфраструктуру для отдыха. Расположение на Dubai Islands обеспечивает доступ к набережным, пляжам и удобное сообщение с Deira, центром Дубая и аэропортом.",
+    "ar": "فيلا ديل برونيلو من تطوير مستر إيت هو مشروع سكني فاخر على جزر دبي يضم شققاً من 1 إلى 4 غرف نوم ودوبلكسات من 2 إلى 4 غرف نوم. يتميز بإطلالات بحرية ومساحات خضراء ومرافق عائلية متكاملة.",
+    "hi": "विला डेल ब्रुनेल्लो, मिस्टर एट डेवलपमेंट द्वारा दुबई आइलैंड्स पर विकसित एक वॉटरफ्रंट प्रोजेक्ट है जिसमें 1 से 4 बेडरूम अपार्टमेंट और 2 से 4 बेडरूम डुप्लेक्स उपलब्ध हैं। यह परियोजना बीच एक्सेस, हरित क्षेत्रों और आधुनिक सुविधाओं के साथ परिवारों के लिए आदर्श है।"
+  },
+
+  "promo_image": "/img/projects/villa-del-brunello/promo.png",
+
+  "gallery": [
+    "/img/projects/villa-del-brunello/gallery_1.png",
+    "/img/projects/villa-del-brunello/gallery_2.png",
+    "/img/projects/villa-del-brunello/gallery_3.png",
+    "/img/projects/villa-del-brunello/gallery_4.png",
+    "/img/projects/villa-del-brunello/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai International Airport", "time": "20 min" },
+      { "name": "Deira Waterfront", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Аэропорт DXB", "time": "20 мин" },
+      { "name": "Deira Waterfront", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "مطار دبي الدولي", "time": "20 دقيقة" },
+      { "name": "واجهة ديرة البحرية", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" },
+      { "name": "देइरा वॉटरफ्रंट", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands, Deira, Dubai, UAE",
+      "ru": "Dubai Islands, Deira, Дубай, ОАЭ",
+      "ar": "جزر دبي، ديرة، دبي، الإمارات",
+      "hi": "दुबई आइलैंड्स, देइरा, दुबई, यूएई"
+    },
+    "lat": 25.3090,
+    "lng": 55.3280
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "mr-eight-development",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 5100000,
+    "size_from_sqft": 700,
+    "tokens_extra": ["uae", "island-living", "waterfront", "family-living"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "central-park",
+  "slug": "central-park",
+
+  "name": {
+    "en": "Central Park at City Walk",
+    "ru": "Central Park at City Walk",
+    "ar": "سنترال بارك في سيتي ووك",
+    "hi": "सेंट्रल पार्क एट सिटी वॉक"
+  },
+
+  "developer": {
+    "en": "Meraas",
+    "ru": "Meraas",
+    "ar": "مراس",
+    "hi": "मेराas"
+  },
+
+  "location_text": {
+    "en": "City Walk",
+    "ru": "City Walk",
+    "ar": "سيتي ووك",
+    "hi": "सिटी वॉक"
+  },
+
+  "hero_title": {
+    "en": "Central Park at City Walk",
+    "ru": "Central Park at City Walk",
+    "ar": "سنترال بارك في سيتي ووك",
+    "hi": "सेंट्रल पार्क एट सिटी वॉक"
+  },
+
+  "handover": {
+    "en": "Various phases",
+    "ru": "Разные фазы",
+    "ar": "مراحل متعددة",
+    "hi": "विभिन्न चरण"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": ""
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 938 sqft",
+    "ru": "от 938 sqft",
+    "ar": "ابتداءً من 938 قدم²",
+    "hi": "938 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Central Park at City Walk by Meraas is a master-planned residential community built around expansive green landscapes in the heart of Dubai. Offering contemporary 1 to 4-bedroom apartments, the development integrates park views, active lifestyle amenities, and direct access to City Walk’s retail and dining boulevard. Designed for urban residents who value space, greenery, and connectivity, Central Park redefines downtown living with a nature-driven concept.",
+    "ru": "Central Park at City Walk от Meraas — это масштабный жилой мастер-план, созданный вокруг просторных зелёных зон в самом центре Дубая. Современные апартаменты с 1–4 спальнями сочетают вид на парк, активную инфраструктуру и прямой доступ к ресторанам и бутитикам City Walk. Проект формирует новый стандарт жизни в центре — с акцентом на пространство и природу.",
+    "ar": "سنترال بارك في سيتي ووك من مراس هو مجتمع سكني متكامل مخطط حول مساحات خضراء واسعة في قلب دبي. يضم شققاً عصرية من 1 إلى 4 غرف نوم، مع إطلالات على الحدائق ومرافق لنمط حياة نشط وقرب مباشر من مطاعم ومتاجر سيتي ووك.",
+    "hi": "मेराas द्वारा विकसित सेंट्रल पार्क एट सिटी वॉक दुबई के केंद्र में हरित परिदृश्यों से घिरा एक मास्टर-प्लान्ड रेजिडेंशियल कम्युनिटी है। 1 से 4 बेडरूम अपार्टमेंट, पार्क व्यू, एक्टिव लाइफस्टाइल सुविधाएं और सिटी वॉक की रिटेल एवं डाइनिंग तक सीधी पहुंच इसे आधुनिक शहरी जीवन का नया मानक बनाती है।"
+  },
+
+  "promo_image": "/img/projects/central-park/promo.png",
+
+  "gallery": [
+    "/img/projects/central-park/gallery_1.png",
+    "/img/projects/central-park/gallery_2.png",
+    "/img/projects/central-park/gallery_3.png",
+    "/img/projects/central-park/gallery_4.png",
+    "/img/projects/central-park/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "Burj Khalifa", "time": "7 min" },
+      { "name": "Jumeirah Beach", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Burj Khalifa", "time": "7 мин" },
+      { "name": "Пляж Jumeirah", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "برج خليفة", "time": "7 دقائق" },
+      { "name": "شاطئ جميرا", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "बुर्ज खलीफा", "time": "7 मिनट" },
+      { "name": "जुमेराह बीच", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "City Walk",
+      "ru": "City Walk",
+      "ar": "سيتي ووك",
+      "hi": "सिटी वॉक"
+    },
+    "lat": 25.2075,
+    "lng": 55.2654
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "city-walk",
+    "developer": "meraas",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 0,
+    "price_from_aed": 0,
+    "size_from_sqft": 938,
+    "tokens_extra": ["uae"]
+  }
+}

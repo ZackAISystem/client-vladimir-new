@@ -1,0 +1,150 @@
+{
+  "project_key": "bugatti-residences",
+  "slug": "bugatti-residences",
+
+  "name": {
+    "en": "Bugatti Residences",
+    "ru": "Bugatti Residences",
+    "ar": "بوغاتي ريزيدنسز",
+    "hi": "बुगाटी रेजिडेंसेस"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Bugatti Residences",
+    "ru": "Bugatti Residences",
+    "ar": "بوغاتي ريزيدنسز",
+    "hi": "बुगाटी रेजिडेंसेस"
+  },
+
+  "handover": {
+    "en": "June 2026",
+    "ru": "Июнь 2026",
+    "ar": "يونيو 2026",
+    "hi": "जून 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "24,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "2 BR | 3 BR",
+    "ru": "2 спальни | 3 спальни",
+    "ar": "غرفتا نوم | ثلاث غرف نوم",
+    "hi": "2 बेडरूम | 3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2017 sqft",
+    "ru": "от 2017 sqft",
+    "ar": "ابتداءً من 2017 قدم²",
+    "hi": "2017 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Bugatti Residences by Binghatti is a landmark ultra-luxury development in Business Bay, inspired by the legendary French automotive brand. Featuring Riviera-style mansions in the sky and expansive 2–3 bedroom residences with private pools, the tower combines bespoke design, panoramic canal and skyline views, and signature concierge services. It redefines branded living at the pinnacle of Dubai’s high-end real estate.",
+    "ru": "Bugatti Residences by Binghatti — ультра-люксовый проект в Business Bay, созданный в сотрудничестве с легендарным французским брендом. Просторные резиденции с 2–3 спальнями и приватными бассейнами, панорамные виды на канал и сервис консьерж-уровня формируют новый стандарт брендированной недвижимости в Дубае.",
+    "ar": "يُعد مشروع بوغاتي ريزيدنسز من بن غاطي أيقونة فاخرة في الخليج التجاري، مستوحى من العلامة الفرنسية الشهيرة. يضم مساكن فاخرة بغرفتي وثلاث غرف نوم مع مسابح خاصة وإطلالات بانورامية على القناة وأفق دبي، ليعيد تعريف مفهوم السكن الفاخر بعلامة تجارية عالمية.",
+    "hi": "बुगाटी रेजिडेंसेस बाय बिंगहट्टी बिज़नेस बे में स्थित एक अल्ट्रा-लक्ज़री प्रोजेक्ट है, जो फ्रांसीसी ऑटोमोबाइल ब्रांड से प्रेरित है। 2–3 बेडरूम रेजिडेंस, निजी पूल, पैनोरमिक व्यू और प्रीमियम कंसीयर्ज सेवाएँ इसे दुबई की हाई-एंड ब्रांडेड रियल एस्टेट का प्रतीक बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/bugatti-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/bugatti-residences/gallery_1.png",
+    "/img/projects/bugatti-residences/gallery_2.png",
+    "/img/projects/bugatti-residences/gallery_3.png",
+    "/img/projects/bugatti-residences/gallery_4.png",
+    "/img/projects/bugatti-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai, UAE",
+      "ru": "Business Bay, Дубай, ОАЭ",
+      "ar": "الخليج التجاري، دبي",
+      "hi": "बिज़नेस बे, दुबई"
+    },
+    "lat": 25.1860,
+    "lng": 55.2600
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 3,
+    "handover_year": 2026,
+    "price_from_aed": 24000000,
+    "size_from_sqft": 2017,
+    "tokens_extra": ["uae", "branded-residence", "luxury"]
+  }
+}

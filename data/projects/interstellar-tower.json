@@ -1,0 +1,150 @@
+{
+  "project_key": "interstellar-tower",
+  "slug": "interstellar-tower",
+
+  "name": {
+    "en": "Interstellar Tower",
+    "ru": "Interstellar Tower",
+    "ar": "إنترستيلار تاور",
+    "hi": "इंटरस्टेलर टॉवर"
+  },
+
+  "developer": {
+  "en": "Mr. Eight Development",
+  "ru": "Mr. Eight Development",
+  "ar": "مستر إيت للتطوير العقاري",
+  "hi": "मिस्टर एट डेवलपमेंट"
+},
+
+  "location_text": {
+    "en": "Jumeirah Village Triangle",
+    "ru": "Jumeirah Village Triangle",
+    "ar": "قرية جميرا المثلث",
+    "hi": "जुमेराह विलेज ट्रायंगल"
+  },
+
+  "hero_title": {
+    "en": "Interstellar Tower",
+    "ru": "Interstellar Tower",
+    "ar": "إنترستيلار تاور",
+    "hi": "इंटरस्टेलर टॉवर"
+  },
+
+  "handover": {
+    "en": "October 2028",
+    "ru": "Октябрь 2028",
+    "ar": "أكتوبر 2028",
+    "hi": "अक्टूबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,120,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 674 sqft",
+    "ru": "от 674 sqft",
+    "ar": "ابتداءً من 674 قدم²",
+    "hi": "674 sqft से"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "50/50",
+    "ru": "50/50",
+    "ar": "50/50",
+    "hi": "50/50"
+  },
+
+  "description": {
+    "en": "Interstellar Tower by Mr. Eight Development is a branded residential high-rise in Jumeirah Village Triangle. The project offers 1 to 3-bedroom apartments with contemporary layouts, panoramic skyline views, and design-focused interiors. Residents benefit from rooftop leisure zones, wellness amenities, concierge services, and a curated lifestyle environment within a well-connected community.",
+    "ru": "Interstellar Tower от Mr. Eight Development — современный жилой небоскрёб в Jumeirah Village Triangle. Проект включает апартаменты с 1–3 спальнями, продуманные планировки и панорамные виды на skyline Дубая. Резиденты получают доступ к rooftop-зонам отдыха, wellness-инфраструктуре и сервису concierge в удобной и развитой локации.",
+    "ar": "يعد إنترستيلار تاور من تطوير Mr. Eight Development برجاً سكنياً حديثاً في قرية جميرا المثلث. يضم شققاً من 1 إلى 3 غرف نوم مع تصميمات عصرية وإطلالات بانورامية على أفق دبي، إضافة إلى مرافق ترفيهية على السطح وخدمات راقية.",
+    "hi": "इंटरस्टेलर टॉवर, Mr. Eight Development द्वारा विकसित, जुमेराह विलेज ट्रायंगल में स्थित एक आधुनिक रेजिडेंशियल टॉवर है। इसमें 1 से 3 बेडरूम अपार्टमेंट, पैनोरमिक व्यू, रूफटॉप सुविधाएँ और कंसीयर्ज सेवाएँ शामिल हैं।"
+  },
+
+  "promo_image": "/img/projects/interstellar-tower/promo.png",
+
+  "gallery": [
+    "/img/projects/interstellar-tower/gallery_1.png",
+    "/img/projects/interstellar-tower/gallery_2.png",
+    "/img/projects/interstellar-tower/gallery_3.png",
+    "/img/projects/interstellar-tower/gallery_4.png",
+    "/img/projects/interstellar-tower/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "DXB Airport", "time": "30 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт DXB", "time": "30 мин" }
+    ],
+    "ar": [
+      { "name": "مرسى دبي", "time": "15 دقيقة" },
+      { "name": "وسط مدينة دبي", "time": "25 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "30 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "30 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Village Triangle, Dubai",
+      "ru": "Jumeirah Village Triangle, Дубай",
+      "ar": "قرية جميرا المثلث، دبي",
+      "hi": "जुमेराह विलेज ट्रायंगल, दुबई"
+    },
+    "lat": 25.0465,
+    "lng": 55.1952
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-village-triangle",
+    "developer": "mr-eight-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 1120000,
+    "size_from_sqft": 674,
+    "tokens_extra": ["uae", "branded", "luxury"]
+  }
+}

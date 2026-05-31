@@ -1,0 +1,3177 @@
+{
+  "version": 1,
+  "generated_at": "2026-02-16T03:44:50.425Z",
+  "projects": [
+    {
+      "key": "address-residences-zabeel",
+      "slug": "address-residences-zabeel",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "zabeel-1",
+      "developer": "emaar-properties",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2029,
+      "price_from_aed": 2200000,
+      "size_from_sqft": 739,
+      "tokens": [
+        "address-residences-zabeel",
+        "emaar-properties",
+        "dubai",
+        "zabeel-1",
+        "apartment",
+        "penthouse",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "armani-beach-residences",
+      "slug": "armani-beach-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "arada",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2026,
+      "price_from_aed": 26000000,
+      "size_from_sqft": 2657,
+      "tokens": [
+        "armani-beach-residences",
+        "arada",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "ashley-hills",
+      "slug": "ashley-hills",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "arjan",
+      "developer": "townx-real-estate-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 726000,
+      "size_from_sqft": 482,
+      "tokens": [
+        "ashley-hills",
+        "townx-real-estate-development",
+        "dubai",
+        "arjan",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "atelis",
+      "slug": "atelis",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-design-district",
+      "developer": "meraas-holding",
+      "property_types": [
+        "apartment",
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2029,
+      "price_from_aed": 2100000,
+      "size_from_sqft": null,
+      "tokens": [
+        "atelis",
+        "meraas-holding",
+        "dubai",
+        "dubai-design-district",
+        "apartment",
+        "penthouse",
+        "villa",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "athlon",
+      "slug": "athlon",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubailand",
+      "developer": "aldar-properties-pjsc",
+      "property_types": [
+        "townhouse",
+        "villa"
+      ],
+      "bedrooms_min": 3,
+      "bedrooms_max": 6,
+      "handover_year": 2028,
+      "price_from_aed": 2800000,
+      "size_from_sqft": null,
+      "tokens": [
+        "athlon",
+        "aldar-properties-pjsc",
+        "dubai",
+        "dubailand",
+        "townhouse",
+        "villa",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "uae"
+      ]
+    },
+    {
+      "key": "avenew-888",
+      "slug": "avenew-888",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-south",
+      "developer": "avenew-properties",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 800000,
+      "size_from_sqft": 650,
+      "tokens": [
+        "avenew-888",
+        "avenew-properties",
+        "dubai",
+        "dubai-south",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "baccarat-hotel-residences-phase-2",
+      "slug": "baccarat-hotel-residences-phase-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "downtown-dubai",
+      "developer": "shamal-holding",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 17000000,
+      "size_from_sqft": 2200,
+      "tokens": [
+        "baccarat-hotel-residences-phase-2",
+        "shamal-holding",
+        "dubai",
+        "downtown-dubai",
+        "apartment",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "baccarat-residences",
+      "slug": "baccarat-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "downtown-dubai",
+      "developer": "h&h-development",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 18000000,
+      "size_from_sqft": 2400,
+      "tokens": [
+        "baccarat-residences",
+        "h&h-development",
+        "dubai",
+        "downtown-dubai",
+        "apartment",
+        "duplex",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "bayz-101",
+      "slug": "bayz-101",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "danube-properties",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2028,
+      "price_from_aed": 1175000,
+      "size_from_sqft": 374,
+      "tokens": [
+        "bayz-101",
+        "danube-properties",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "bayz-102",
+      "slug": "bayz-102",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "danube-properties",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2029,
+      "price_from_aed": 1270000,
+      "size_from_sqft": 400,
+      "tokens": [
+        "bayz-102",
+        "danube-properties",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "penthouse",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-aquarise",
+      "slug": "binghatti-aquarise",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 1100000,
+      "size_from_sqft": 420,
+      "tokens": [
+        "binghatti-aquarise",
+        "binghatti-developers",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-hills-phase-2",
+      "slug": "binghatti-hills-phase-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-science-park",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 2,
+      "handover_year": 2027,
+      "price_from_aed": 550000,
+      "size_from_sqft": 385,
+      "tokens": [
+        "binghatti-hills-phase-2",
+        "binghatti-developers",
+        "dubai",
+        "dubai-science-park",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-hills-phase-3",
+      "slug": "binghatti-hills-phase-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-science-park",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 2,
+      "handover_year": 2026,
+      "price_from_aed": 864000,
+      "size_from_sqft": 477,
+      "tokens": [
+        "binghatti-hills-phase-3",
+        "binghatti-developers",
+        "dubai",
+        "dubai-science-park",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-hillside",
+      "slug": "binghatti-hillside",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-science-park",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 1,
+      "handover_year": 2026,
+      "price_from_aed": 1300000,
+      "size_from_sqft": 430,
+      "tokens": [
+        "binghatti-hillside",
+        "binghatti-developers",
+        "dubai",
+        "dubai-science-park",
+        "apartment",
+        "0br",
+        "1br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-hillviews",
+      "slug": "binghatti-hillviews",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-science-park",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 2,
+      "handover_year": 2026,
+      "price_from_aed": 800000,
+      "size_from_sqft": 386,
+      "tokens": [
+        "binghatti-hillviews",
+        "binghatti-developers",
+        "dubai",
+        "dubai-science-park",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-skyblade",
+      "slug": "binghatti-skyblade",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "downtown-dubai",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 1700000,
+      "size_from_sqft": 450,
+      "tokens": [
+        "binghatti-skyblade",
+        "binghatti-developers",
+        "dubai",
+        "downtown-dubai",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-skyhall",
+      "slug": "binghatti-skyhall",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 1,
+      "handover_year": 2026,
+      "price_from_aed": 1000000,
+      "size_from_sqft": 400,
+      "tokens": [
+        "binghatti-skyhall",
+        "binghatti-developers",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "0br",
+        "1br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-skyrise",
+      "slug": "binghatti-skyrise",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 1200000,
+      "size_from_sqft": 465,
+      "tokens": [
+        "binghatti-skyrise",
+        "binghatti-developers",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "bluewater-residential",
+      "slug": "bluewater-residential",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "bluewaters-island",
+      "developer": "meraas",
+      "property_types": [
+        "apartment",
+        "townhouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2023,
+      "price_from_aed": 0,
+      "size_from_sqft": 1444,
+      "tokens": [
+        "bluewater-residential",
+        "meraas",
+        "dubai",
+        "bluewaters-island",
+        "apartment",
+        "townhouse",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "bluewaters-bay",
+      "slug": "bluewaters-bay",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "bluewaters-island",
+      "developer": "meraas-holding",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 2900000,
+      "size_from_sqft": 799,
+      "tokens": [
+        "bluewaters-bay",
+        "meraas-holding",
+        "dubai",
+        "bluewaters-island",
+        "apartment",
+        "penthouse",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "breez-by-danube",
+      "slug": "breez-by-danube",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-maritime-city",
+      "developer": "danube-properties",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 5,
+      "handover_year": 2029,
+      "price_from_aed": 1300000,
+      "size_from_sqft": 400,
+      "tokens": [
+        "breez-by-danube",
+        "danube-properties",
+        "dubai",
+        "dubai-maritime-city",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "bugatti-residences",
+      "slug": "bugatti-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 24000000,
+      "size_from_sqft": 2017,
+      "tokens": [
+        "bugatti-residences",
+        "binghatti-developers",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "burj-binghatti",
+      "slug": "burj-binghatti",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2026,
+      "price_from_aed": 8500000,
+      "size_from_sqft": 2000,
+      "tokens": [
+        "burj-binghatti",
+        "binghatti-developers",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "california-residences",
+      "slug": "california-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubailand",
+      "developer": "gfh-real-estate",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 0,
+      "size_from_sqft": 733,
+      "tokens": [
+        "california-residences",
+        "gfh-real-estate",
+        "dubai",
+        "dubailand",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "capria-east",
+      "slug": "capria-east",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "ghaf-woods",
+      "developer": "majid-al-futtaim",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2029,
+      "price_from_aed": 1200000,
+      "size_from_sqft": 650,
+      "tokens": [
+        "capria-east",
+        "majid-al-futtaim",
+        "dubai",
+        "ghaf-woods",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "capria-west",
+      "slug": "capria-west",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "ghaf-woods",
+      "developer": "majid-al-futtaim",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2029,
+      "price_from_aed": 1500000,
+      "size_from_sqft": 650,
+      "tokens": [
+        "capria-west",
+        "majid-al-futtaim",
+        "dubai",
+        "ghaf-woods",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "casa-ahs",
+      "slug": "casa-ahs",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah",
+      "developer": "ahs-properties",
+      "property_types": [
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 3,
+      "bedrooms_max": 6,
+      "handover_year": 2027,
+      "price_from_aed": 24000000,
+      "size_from_sqft": 3000,
+      "tokens": [
+        "casa-ahs",
+        "ahs-properties",
+        "dubai",
+        "jumeirah",
+        "penthouse",
+        "villa",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "uae"
+      ]
+    },
+    {
+      "key": "castleton",
+      "slug": "castleton",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "city-walk",
+      "developer": "meraas-holding",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2026,
+      "price_from_aed": 2100000,
+      "size_from_sqft": 781,
+      "tokens": [
+        "castleton",
+        "meraas-holding",
+        "dubai",
+        "city-walk",
+        "apartment",
+        "penthouse",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "central-park",
+      "slug": "central-park",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "city-walk",
+      "developer": "meraas",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 0,
+      "price_from_aed": 0,
+      "size_from_sqft": 938,
+      "tokens": [
+        "central-park",
+        "meraas",
+        "dubai",
+        "city-walk",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "como-residences",
+      "slug": "como-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "nakheel",
+      "property_types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 7,
+      "handover_year": 2027,
+      "price_from_aed": 21000000,
+      "size_from_sqft": 4469,
+      "tokens": [
+        "como-residences",
+        "nakheel",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "duplex",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "7br",
+        "uae"
+      ]
+    },
+    {
+      "key": "dar-global-villas",
+      "slug": "dar-global-villas",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-golf-estates",
+      "developer": "dar-global",
+      "property_types": [
+        "villa"
+      ],
+      "bedrooms_min": 4,
+      "bedrooms_max": 5,
+      "handover_year": 2028,
+      "price_from_aed": 5300000,
+      "size_from_sqft": 4200,
+      "tokens": [
+        "dar-global-villas",
+        "dar-global",
+        "dubai",
+        "jumeirah-golf-estates",
+        "villa",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "diamondz",
+      "slug": "diamondz",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-lake-towers",
+      "developer": "danube-properties",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 1100000,
+      "size_from_sqft": 417,
+      "tokens": [
+        "diamondz",
+        "danube-properties",
+        "dubai",
+        "jumeirah-lake-towers",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "difc-heights-tower",
+      "slug": "difc-heights-tower",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "difc",
+      "developer": "difc",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2029,
+      "price_from_aed": 3900000,
+      "size_from_sqft": 950,
+      "tokens": [
+        "difc-heights-tower",
+        "difc",
+        "dubai",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "difc-living",
+      "slug": "difc-living",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "difc",
+      "developer": "difc",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 2800000,
+      "size_from_sqft": 800,
+      "tokens": [
+        "difc-living",
+        "difc",
+        "dubai",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "distrikt-at-ghaf-woods",
+      "slug": "distrikt-at-ghaf-woods",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "ghaf-woods",
+      "developer": "majid-al-futtaim",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2029,
+      "price_from_aed": 1500000,
+      "size_from_sqft": 650,
+      "tokens": [
+        "distrikt-at-ghaf-woods",
+        "majid-al-futtaim",
+        "dubai",
+        "ghaf-woods",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "double-tree-by-hilton",
+      "slug": "double-tree-by-hilton",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "al-satwa",
+      "developer": "hilton",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 2,
+      "handover_year": 2027,
+      "price_from_aed": 1600000,
+      "size_from_sqft": null,
+      "tokens": [
+        "double-tree-by-hilton",
+        "hilton",
+        "dubai",
+        "al-satwa",
+        "apartment",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "eden-hills",
+      "slug": "eden-hills",
+      "emirate": "",
+      "city": "",
+      "area": "",
+      "developer": "",
+      "property_types": [],
+      "bedrooms_min": null,
+      "bedrooms_max": null,
+      "handover_year": null,
+      "price_from_aed": null,
+      "size_from_sqft": null,
+      "tokens": [
+        "eden-hills",
+        "uae"
+      ]
+    },
+    {
+      "key": "eden-house-dubai-hills",
+      "slug": "eden-house-dubai-hills",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-hills-estate",
+      "developer": "h-h-development",
+      "property_types": [
+        "villa"
+      ],
+      "bedrooms_min": 5,
+      "bedrooms_max": 6,
+      "handover_year": 2027,
+      "price_from_aed": 18000000,
+      "size_from_sqft": null,
+      "tokens": [
+        "eden-house-dubai-hills",
+        "h-h-development",
+        "dubai",
+        "dubai-hills-estate",
+        "villa",
+        "5br",
+        "6br",
+        "uae"
+      ]
+    },
+    {
+      "key": "eden-house-the-canal",
+      "slug": "eden-house-the-canal",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-2",
+      "developer": "h-h-development",
+      "property_types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2025,
+      "price_from_aed": 5300000,
+      "size_from_sqft": 764,
+      "tokens": [
+        "eden-house-the-canal",
+        "h-h-development",
+        "dubai",
+        "jumeirah-2",
+        "apartment",
+        "duplex",
+        "penthouse",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "eden-house-the-park",
+      "slug": "eden-house-the-park",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah",
+      "developer": "h-h-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 3240000,
+      "size_from_sqft": 613,
+      "tokens": [
+        "eden-house-the-park",
+        "h-h-development",
+        "dubai",
+        "jumeirah",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "eden-house-zaabeel",
+      "slug": "eden-house-zaabeel",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "zaabeel",
+      "developer": "h-h-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 4700000,
+      "size_from_sqft": 1132,
+      "tokens": [
+        "eden-house-zaabeel",
+        "h-h-development",
+        "dubai",
+        "zaabeel",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "ellington-cove",
+      "slug": "ellington-cove",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "ellington-properties",
+      "property_types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2028,
+      "price_from_aed": 1900000,
+      "size_from_sqft": 816,
+      "tokens": [
+        "ellington-cove",
+        "ellington-properties",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "duplex",
+        "penthouse",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "ellington-ocean-house",
+      "slug": "ellington-ocean-house",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "ellington-properties",
+      "property_types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 6,
+      "handover_year": 2026,
+      "price_from_aed": 9800000,
+      "size_from_sqft": 1642,
+      "tokens": [
+        "ellington-ocean-house",
+        "ellington-properties",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "duplex",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "uae"
+      ]
+    },
+    {
+      "key": "eywa",
+      "slug": "eywa",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "r-evolution",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2026,
+      "price_from_aed": 12000000,
+      "size_from_sqft": 2945,
+      "tokens": [
+        "eywa",
+        "r-evolution",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "fashionz-by-danube",
+      "slug": "fashionz-by-danube",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-village-triangle",
+      "developer": "danube-properties",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 830000,
+      "size_from_sqft": 347,
+      "tokens": [
+        "fashionz-by-danube",
+        "danube-properties",
+        "dubai",
+        "jumeirah-village-triangle",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "flora-shore",
+      "slug": "flora-shore",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "calgary-properties",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 0,
+      "size_from_sqft": null,
+      "tokens": [
+        "flora-shore",
+        "calgary-properties",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "four-seasons-private-residences-difc",
+      "slug": "four-seasons-private-residences-difc",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "difc",
+      "developer": "h-h-development",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 33669551,
+      "size_from_sqft": 3295,
+      "tokens": [
+        "four-seasons-private-residences-difc",
+        "h-h-development",
+        "dubai",
+        "difc",
+        "apartment",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "franck-muller-vanguard",
+      "slug": "franck-muller-vanguard",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-marina",
+      "developer": "london-gate",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 1300000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "franck-muller-vanguard",
+        "london-gate",
+        "dubai",
+        "dubai-marina",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "franck-muller-yachting",
+      "slug": "franck-muller-yachting",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-maritime-city",
+      "developer": "london-gate",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 1200000,
+      "size_from_sqft": 379,
+      "tokens": [
+        "franck-muller-yachting",
+        "london-gate",
+        "dubai",
+        "dubai-maritime-city",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "ghaf-woods",
+      "slug": "ghaf-woods",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "ghaf-woods",
+      "developer": "majid-al-futtaim",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2029,
+      "price_from_aed": 1500000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "ghaf-woods",
+        "majid-al-futtaim",
+        "dubai",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "habtoor-grand-residences",
+      "slug": "habtoor-grand-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-marina",
+      "developer": "al-habtoor-group",
+      "property_types": [
+        "apartment",
+        "penthouse",
+        "townhouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 11000000,
+      "size_from_sqft": 2023,
+      "tokens": [
+        "habtoor-grand-residences",
+        "al-habtoor-group",
+        "dubai",
+        "dubai-marina",
+        "apartment",
+        "penthouse",
+        "townhouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "hyde-residences",
+      "slug": "hyde-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-hills-estate",
+      "developer": "city-view-developments",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 1800000,
+      "size_from_sqft": 785,
+      "tokens": [
+        "hyde-residences",
+        "city-view-developments",
+        "dubai",
+        "dubai-hills-estate",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "iconic-residences",
+      "slug": "iconic-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-internet-city",
+      "developer": "mered-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 2500000,
+      "size_from_sqft": 858,
+      "tokens": [
+        "iconic-residences",
+        "mered-development",
+        "dubai",
+        "dubai-internet-city",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "iluka",
+      "slug": "iluka",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "ms-homes-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2026,
+      "price_from_aed": 1700000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "iluka",
+        "ms-homes-development",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "interstellar-tower",
+      "slug": "interstellar-tower",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-village-triangle",
+      "developer": "mr-eight-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 1120000,
+      "size_from_sqft": 674,
+      "tokens": [
+        "interstellar-tower",
+        "mr-eight-development",
+        "dubai",
+        "jumeirah-village-triangle",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "ivy-gardens-phase-2",
+      "slug": "ivy-gardens-phase-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 659000,
+      "size_from_sqft": 419,
+      "tokens": [
+        "ivy-gardens-phase-2",
+        "samana-developers",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "jumeirah-residences-emirates-towers",
+      "slug": "jumeirah-residences-emirates-towers",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "sheikh-zayed-road",
+      "developer": "meraas",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2030,
+      "price_from_aed": 3500000,
+      "size_from_sqft": 861,
+      "tokens": [
+        "jumeirah-residences-emirates-towers",
+        "meraas",
+        "dubai",
+        "sheikh-zayed-road",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "luma-park-views",
+      "slug": "luma-park-views",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-village-circle",
+      "developer": "townx-real-estate-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 1300000,
+      "size_from_sqft": 797,
+      "tokens": [
+        "luma-park-views",
+        "townx-real-estate-development",
+        "dubai",
+        "jumeirah-village-circle",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "binghatti-mercedes-benz",
+      "slug": "binghatti-mercedes-benz",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "downtown-dubai",
+      "developer": "binghatti-developers",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2026,
+      "price_from_aed": 10000000,
+      "size_from_sqft": 1837,
+      "tokens": [
+        "binghatti-mercedes-benz",
+        "binghatti-developers",
+        "dubai",
+        "downtown-dubai",
+        "apartment",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "mercer-house",
+      "slug": "mercer-house",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-lake-towers",
+      "developer": "ellington-properties",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 3200000,
+      "size_from_sqft": 513,
+      "tokens": [
+        "mercer-house",
+        "ellington-properties",
+        "dubai",
+        "jumeirah-lake-towers",
+        "apartment",
+        "penthouse",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "modo-at-avenew-88",
+      "slug": "modo-at-avenew-88",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-south",
+      "developer": "avenew-properties",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 800000,
+      "size_from_sqft": 624,
+      "tokens": [
+        "modo-at-avenew-88",
+        "avenew-properties",
+        "dubai",
+        "dubai-south",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "luma-park-views",
+      "slug": "luma-park-views",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-village-circle",
+      "developer": "townx-real-estate-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 1300000,
+      "size_from_sqft": 797,
+      "tokens": [
+        "luma-park-views",
+        "townx-real-estate-development",
+        "dubai",
+        "jumeirah-village-circle",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "nad-al-sheba-gardens-phase-9",
+      "slug": "nad-al-sheba-gardens-phase-9",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "nad-al-sheba-1",
+      "developer": "meraas-holding",
+      "property_types": [
+        "townhouse",
+        "villa"
+      ],
+      "bedrooms_min": 3,
+      "bedrooms_max": 7,
+      "handover_year": 2029,
+      "price_from_aed": 5000000,
+      "size_from_sqft": 2705,
+      "tokens": [
+        "nad-al-sheba-gardens-phase-9",
+        "meraas-holding",
+        "dubai",
+        "nad-al-sheba-1",
+        "townhouse",
+        "villa",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "7br",
+        "uae"
+      ]
+    },
+    {
+      "key": "nobu-residences",
+      "slug": "nobu-residences",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "area": "saadiyat-island",
+      "developer": "aldar-properties",
+      "property_types": [
+        "apartment",
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 8000000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "nobu-residences",
+        "aldar-properties",
+        "abu-dhabi",
+        "saadiyat-island",
+        "apartment",
+        "penthouse",
+        "villa",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "olaia-residences",
+      "slug": "olaia-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "gulf-house-development",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 3200000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "olaia-residences",
+        "gulf-house-development",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "one-crescent",
+      "slug": "one-crescent",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "ahs-properties",
+      "property_types": [
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 3,
+      "bedrooms_max": 5,
+      "handover_year": 2026,
+      "price_from_aed": 17000000,
+      "size_from_sqft": 4200,
+      "tokens": [
+        "one-crescent",
+        "ahs-properties",
+        "dubai",
+        "palm-jumeirah",
+        "penthouse",
+        "villa",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "one-river-point",
+      "slug": "one-river-point",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "ellington-properties",
+      "property_types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 1400000,
+      "size_from_sqft": 487,
+      "tokens": [
+        "one-river-point",
+        "ellington-properties",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "duplex",
+        "penthouse",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "orla-by-omniyat",
+      "slug": "orla-by-omniyat",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "omniyat-group",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2026,
+      "price_from_aed": 24000000,
+      "size_from_sqft": 3344,
+      "tokens": [
+        "orla-by-omniyat",
+        "omniyat-group",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "duplex",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "palm-jebel-ali-fronds-villas",
+      "slug": "palm-jebel-ali-fronds-villas",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jebel-ali",
+      "developer": "nakheel",
+      "property_types": [
+        "villa"
+      ],
+      "bedrooms_min": 5,
+      "bedrooms_max": 7,
+      "handover_year": 2028,
+      "price_from_aed": 18000000,
+      "size_from_sqft": 6000,
+      "tokens": [
+        "palm-jebel-ali-fronds-villas",
+        "nakheel",
+        "dubai",
+        "palm-jebel-ali",
+        "villa",
+        "5br",
+        "6br",
+        "7br",
+        "uae"
+      ]
+    },
+    {
+      "key": "park-five",
+      "slug": "park-five",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-production-city",
+      "developer": "deyaar",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 2,
+      "handover_year": 2027,
+      "price_from_aed": 0,
+      "size_from_sqft": 433,
+      "tokens": [
+        "park-five",
+        "deyaar",
+        "dubai",
+        "dubai-production-city",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "passo",
+      "slug": "passo-by-beyond",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "beyond",
+      "property_types": [
+        "apartment",
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2029,
+      "price_from_aed": 8800000,
+      "size_from_sqft": 840,
+      "tokens": [
+        "passo",
+        "passo-by-beyond",
+        "beyond",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "penthouse",
+        "villa",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "peninsula-dubai-residences",
+      "slug": "peninsula-dubai-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-2",
+      "developer": "h-h-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2029,
+      "price_from_aed": 18000000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "peninsula-dubai-residences",
+        "h-h-development",
+        "dubai",
+        "jumeirah-2",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "reef-1000",
+      "slug": "reef-1000",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "reef-luxury-development",
+      "property_types": [
+        "apartment",
+        "townhouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 2,
+      "handover_year": 2026,
+      "price_from_aed": 620000,
+      "size_from_sqft": 778,
+      "tokens": [
+        "reef-1000",
+        "reef-luxury-development",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "townhouse",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "reef-998",
+      "slug": "reef-998",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "reef-luxury-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 760000,
+      "size_from_sqft": 410,
+      "tokens": [
+        "reef-998",
+        "reef-luxury-development",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "reef-999",
+      "slug": "reef-999",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "al-furjan",
+      "developer": "reef-luxury-development",
+      "property_types": [
+        "apartment",
+        "villa"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 1200000,
+      "size_from_sqft": 793,
+      "tokens": [
+        "reef-999",
+        "reef-luxury-development",
+        "dubai",
+        "al-furjan",
+        "apartment",
+        "villa",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "reef-winter-garden",
+      "slug": "reef-winter-garden",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "al-furjan",
+      "developer": "reef-luxury-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 0,
+      "handover_year": 0,
+      "price_from_aed": 0,
+      "size_from_sqft": 0,
+      "tokens": [
+        "reef-winter-garden",
+        "reef-luxury-development",
+        "dubai",
+        "al-furjan",
+        "apartment",
+        "0br",
+        "uae"
+      ]
+    },
+    {
+      "key": "rosewood-residences",
+      "slug": "rosewood-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah",
+      "developer": "rosewood",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 0,
+      "handover_year": 2028,
+      "price_from_aed": 18900000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "rosewood-residences",
+        "rosewood",
+        "dubai",
+        "jumeirah",
+        "apartment",
+        "0br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-avenue",
+      "slug": "samana-avenue",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 2,
+      "handover_year": 2027,
+      "price_from_aed": 1000000,
+      "size_from_sqft": 426,
+      "tokens": [
+        "samana-avenue",
+        "samana-developers",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-barari-heights",
+      "slug": "samana-barari-heights",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "majan",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2028,
+      "price_from_aed": 720000,
+      "size_from_sqft": 383,
+      "tokens": [
+        "samana-barari-heights",
+        "samana-developers",
+        "dubai",
+        "majan",
+        "apartment",
+        "duplex",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-boulevard-heights",
+      "slug": "samana-boulevard-heights",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 0,
+      "size_from_sqft": 0,
+      "tokens": [
+        "samana-boulevard-heights",
+        "samana-developers",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-hills-south-2",
+      "slug": "samana-hills-south-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-industrial-city",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 2,
+      "handover_year": 2028,
+      "price_from_aed": 599000,
+      "size_from_sqft": 386,
+      "tokens": [
+        "samana-hills-south-2",
+        "samana-developers",
+        "dubai",
+        "dubai-industrial-city",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-ocean-pearl",
+      "slug": "samana-ocean-pearl",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2026,
+      "price_from_aed": 1600000,
+      "size_from_sqft": 780,
+      "tokens": [
+        "samana-ocean-pearl",
+        "samana-developers",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-ocean-pearls-phase-2",
+      "slug": "samana-ocean-pearls-phase-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 2000000,
+      "size_from_sqft": 820,
+      "tokens": [
+        "samana-ocean-pearls-phase-2",
+        "samana-developers",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "samana-park-meadows",
+      "slug": "samana-park-meadows",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "samana-developers",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 674000,
+      "size_from_sqft": 390,
+      "tokens": [
+        "samana-park-meadows",
+        "samana-developers",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "serenia-district-jlt-palma-developments",
+      "slug": "serenia-district-jlt-palma-developments",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-islands",
+      "developer": "palma-development",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2028,
+      "price_from_aed": 1900000,
+      "size_from_sqft": 825,
+      "tokens": [
+        "serenia-district-jlt-palma-developments",
+        "palma-development",
+        "dubai",
+        "jumeirah-islands",
+        "apartment",
+        "penthouse",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "serenia-district",
+      "slug": "serenia-district",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-islands",
+      "developer": "palma-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 1900000,
+      "size_from_sqft": 825,
+      "tokens": [
+        "serenia-district",
+        "palma-development",
+        "dubai",
+        "jumeirah-islands",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "serra-at-ghaf-woods",
+      "slug": "serra-at-ghaf-woods",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "ghaf-woods",
+      "developer": "majid-al-futtaim",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 1200000,
+      "size_from_sqft": 800,
+      "tokens": [
+        "serra-at-ghaf-woods",
+        "majid-al-futtaim",
+        "dubai",
+        "ghaf-woods",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "six-senses-residences-dubai-marina",
+      "slug": "six-senses-residences-dubai-marina",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-marina",
+      "developer": "select-group",
+      "property_types": [
+        "apartment",
+        "duplex",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 5,
+      "handover_year": 2028,
+      "price_from_aed": 5800000,
+      "size_from_sqft": 2008,
+      "tokens": [
+        "six-senses-residences-dubai-marina",
+        "select-group",
+        "dubai",
+        "dubai-marina",
+        "apartment",
+        "duplex",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "sls-residences-palm-jumeirah",
+      "slug": "sls-residences-palm-jumeirah",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "roya-lifestyle-development",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2026,
+      "price_from_aed": 9100000,
+      "size_from_sqft": 1670,
+      "tokens": [
+        "sls-residences-palm-jumeirah",
+        "roya-lifestyle-development",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "duplex",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "sobha-orbis",
+      "slug": "sobha-orbis",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "motor-city",
+      "developer": "sobha-realty",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 2,
+      "handover_year": 2028,
+      "price_from_aed": 985000,
+      "size_from_sqft": 547,
+      "tokens": [
+        "sobha-orbis",
+        "sobha-realty",
+        "dubai",
+        "motor-city",
+        "apartment",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "sobha-siniya-island",
+      "slug": "sobha-siniya-island",
+      "emirate": "umm-al-quwain",
+      "city": "umm-al-quwain",
+      "area": "siniyah-island",
+      "developer": "sobha-realty",
+      "property_types": [
+        "villa"
+      ],
+      "bedrooms_min": 4,
+      "bedrooms_max": 6,
+      "handover_year": 2028,
+      "price_from_aed": 11000000,
+      "size_from_sqft": 4815,
+      "tokens": [
+        "sobha-siniya-island",
+        "sobha-realty",
+        "umm-al-quwain",
+        "siniyah-island",
+        "villa",
+        "4br",
+        "5br",
+        "6br",
+        "uae"
+      ]
+    },
+    {
+      "key": "sobha-solis",
+      "slug": "sobha-solis",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "motor-city",
+      "developer": "sobha-realty",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 1000000,
+      "size_from_sqft": 535,
+      "tokens": [
+        "sobha-solis",
+        "sobha-realty",
+        "dubai",
+        "motor-city",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "sofitel-residences",
+      "slug": "sofitel-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "downtown-dubai",
+      "developer": "azha-development",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2026,
+      "price_from_aed": 2500000,
+      "size_from_sqft": 4807,
+      "tokens": [
+        "sofitel-residences",
+        "azha-development",
+        "dubai",
+        "downtown-dubai",
+        "apartment",
+        "penthouse",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "solaia-residences",
+      "slug": "solaia-residences",
+      "emirate": "",
+      "city": "",
+      "area": "",
+      "developer": "",
+      "property_types": [],
+      "bedrooms_min": null,
+      "bedrooms_max": null,
+      "handover_year": null,
+      "price_from_aed": null,
+      "size_from_sqft": null,
+      "tokens": [
+        "solaia-residences",
+        "uae"
+      ]
+    },
+    {
+      "key": "soulever-maritime-city",
+      "slug": "soulever-maritime-city",
+      "emirate": "",
+      "city": "",
+      "area": "",
+      "developer": "",
+      "property_types": [],
+      "bedrooms_min": null,
+      "bedrooms_max": null,
+      "handover_year": null,
+      "price_from_aed": null,
+      "size_from_sqft": null,
+      "tokens": [
+        "soulever-maritime-city",
+        "uae"
+      ]
+    },
+    {
+      "key": "alba-residences-dorchester-collection",
+      "slug": "alba-residences-dorchester-collection",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "palm-jumeirah",
+      "developer": "omniyat-group",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 3,
+      "bedrooms_max": 4,
+      "handover_year": 2028,
+      "price_from_aed": 43000000,
+      "size_from_sqft": 5368,
+      "tokens": [
+        "alba-residences-dorchester-collection",
+        "omniyat-group",
+        "dubai",
+        "palm-jumeirah",
+        "apartment",
+        "duplex",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-carlyle-residences",
+      "slug": "the-carlyle-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "difc",
+      "developer": "h-h-development",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 6,
+      "handover_year": 2027,
+      "price_from_aed": 32000000,
+      "size_from_sqft": 5007,
+      "tokens": [
+        "the-carlyle-residences",
+        "h-h-development",
+        "dubai",
+        "difc",
+        "apartment",
+        "penthouse",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-chedi-private-residences",
+      "slug": "the-chedi-private-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "barsha-heights",
+      "developer": "al-seeb-real-estate-development",
+      "property_types": [
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 8,
+      "handover_year": 2029,
+      "price_from_aed": 5500000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "the-chedi-private-residences",
+        "al-seeb-real-estate-development",
+        "dubai",
+        "barsha-heights",
+        "penthouse",
+        "villa",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "6br",
+        "7br",
+        "8br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-edge",
+      "slug": "the-edge",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "select-group",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 2,
+      "handover_year": 2026,
+      "price_from_aed": 1300000,
+      "size_from_sqft": 570,
+      "tokens": [
+        "the-edge",
+        "select-group",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "1br",
+        "2br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-edition",
+      "slug": "the-edition",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-harbour",
+      "developer": "shamal-holding",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2029,
+      "price_from_aed": 8700000,
+      "size_from_sqft": 850,
+      "tokens": [
+        "the-edition",
+        "shamal-holding",
+        "dubai",
+        "dubai-harbour",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-highbury",
+      "slug": "the-highbury",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "mbr-city",
+      "developer": "ellington-properties",
+      "property_types": [
+        "apartment",
+        "penthouse"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2025,
+      "price_from_aed": 1000000,
+      "size_from_sqft": 425,
+      "tokens": [
+        "the-highbury",
+        "ellington-properties",
+        "dubai",
+        "mbr-city",
+        "apartment",
+        "penthouse",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-ritz-carlton-residence-difc",
+      "slug": "the-ritz-carlton-residence-difc",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "difc",
+      "developer": "mag-property-development",
+      "property_types": [
+        "apartment",
+        "penthouse",
+        "villa"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2026,
+      "price_from_aed": 9300000,
+      "size_from_sqft": 1542,
+      "tokens": [
+        "the-ritz-carlton-residence-difc",
+        "mag-property-development",
+        "dubai",
+        "difc",
+        "apartment",
+        "penthouse",
+        "villa",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "the-west-residence-at-serenia-district",
+      "slug": "the-west-residence-at-serenia-district",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "jumeirah-islands",
+      "developer": "palma-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 3,
+      "handover_year": 2028,
+      "price_from_aed": 1850000,
+      "size_from_sqft": 820,
+      "tokens": [
+        "the-west-residence-at-serenia-district",
+        "palma-development",
+        "dubai",
+        "jumeirah-islands",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    },
+    {
+      "key": "vela-viento",
+      "slug": "vela-viento",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "business-bay",
+      "developer": "omniyat-group",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 2,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 28000000,
+      "size_from_sqft": 2852,
+      "tokens": [
+        "vela-viento",
+        "omniyat-group",
+        "dubai",
+        "business-bay",
+        "apartment",
+        "duplex",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "verdania-3-dlrc",
+      "slug": "verdania-3-dlrc",
+      "emirate": "",
+      "city": "",
+      "area": "",
+      "developer": "",
+      "property_types": [],
+      "bedrooms_min": null,
+      "bedrooms_max": null,
+      "handover_year": null,
+      "price_from_aed": null,
+      "size_from_sqft": null,
+      "tokens": [
+        "verdania-3-dlrc",
+        "uae"
+      ]
+    },
+    {
+      "key": "villa-del-arte",
+      "slug": "villa-del-arte",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "mr-eight-development",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 1800000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "villa-del-arte",
+        "mr-eight-development",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "villa-del-brunello",
+      "slug": "villa-del-brunello",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "mr-eight-development",
+      "property_types": [
+        "apartment",
+        "duplex"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 5100000,
+      "size_from_sqft": 700,
+      "tokens": [
+        "villa-del-brunello",
+        "mr-eight-development",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "duplex",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "villa-del-divos",
+      "slug": "villa-del-divos",
+      "emirate": "",
+      "city": "",
+      "area": "",
+      "developer": "",
+      "property_types": [],
+      "bedrooms_min": null,
+      "bedrooms_max": null,
+      "handover_year": null,
+      "price_from_aed": null,
+      "size_from_sqft": null,
+      "tokens": [
+        "villa-del-divos",
+        "uae"
+      ]
+    },
+    {
+      "key": "villa-del-gavi",
+      "slug": "villa-del-gavi",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-islands",
+      "developer": "mr-eight-development",
+      "property_types": [
+        "apartment",
+        "villa"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 2200000,
+      "size_from_sqft": 0,
+      "tokens": [
+        "villa-del-gavi",
+        "mr-eight-development",
+        "dubai",
+        "dubai-islands",
+        "apartment",
+        "villa",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "vincitore-wellness-estate",
+      "slug": "vincitore-wellness-estate",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-science-park",
+      "developer": "vincitore-real-estate-development",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 4,
+      "handover_year": 2027,
+      "price_from_aed": 800000,
+      "size_from_sqft": 398,
+      "tokens": [
+        "vincitore-wellness-estate",
+        "vincitore-real-estate-development",
+        "dubai",
+        "dubai-science-park",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "uae"
+      ]
+    },
+    {
+      "key": "w-residences-dubai-harbour",
+      "slug": "w-residences-dubai-harbour",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-harbour",
+      "developer": "arada",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 1,
+      "bedrooms_max": 5,
+      "handover_year": 2027,
+      "price_from_aed": 4300000,
+      "size_from_sqft": 1072,
+      "tokens": [
+        "w-residences-dubai-harbour",
+        "arada",
+        "dubai",
+        "dubai-harbour",
+        "apartment",
+        "1br",
+        "2br",
+        "3br",
+        "4br",
+        "5br",
+        "uae"
+      ]
+    },
+    {
+      "key": "weybridge-gardens-phase-5",
+      "slug": "weybridge-gardens-phase-5",
+      "emirate": "dubai",
+      "city": "dubai",
+      "area": "dubai-land-residence-complex",
+      "developer": "leos-international",
+      "property_types": [
+        "apartment"
+      ],
+      "bedrooms_min": 0,
+      "bedrooms_max": 3,
+      "handover_year": 2027,
+      "price_from_aed": 724000,
+      "size_from_sqft": 459,
+      "tokens": [
+        "weybridge-gardens-phase-5",
+        "leos-international",
+        "dubai",
+        "dubai-land-residence-complex",
+        "apartment",
+        "0br",
+        "1br",
+        "2br",
+        "3br",
+        "uae"
+      ]
+    }
+  ]
+}

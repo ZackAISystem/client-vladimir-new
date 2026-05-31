@@ -1,0 +1,150 @@
+{
+  "project_key": "binghatti-mercedes-benz",
+  "slug": "binghatti-mercedes-benz",
+
+  "name": {
+    "en": "Binghatti Mercedes-Benz",
+    "ru": "Binghatti Mercedes-Benz",
+    "ar": "بن غاطي مرسيدس-بنز",
+    "hi": "बिंगहट्टी मर्सिडीज-बेंज"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Downtown Dubai",
+    "ru": "Downtown Dubai",
+    "ar": "وسط مدينة دبي",
+    "hi": "डाउनटाउन दुबई"
+  },
+
+  "hero_title": {
+    "en": "Binghatti Mercedes-Benz",
+    "ru": "Binghatti Mercedes-Benz",
+    "ar": "بن غاطي مرسيدس-بنز",
+    "hi": "बिंगहट्टी मर्सिडीज-बेंज"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "10,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–5 BR",
+    "ru": "2–5 спален",
+    "ar": "2–5 غرف نوم",
+    "hi": "2–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 1837 sqft",
+    "ru": "от 1837 sqft",
+    "ar": "ابتداءً من 1837 قدم²",
+    "hi": "1837 sqft से"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Binghatti Mercedes-Benz is a branded luxury tower in Downtown Dubai developed by Binghatti Developers in collaboration with Mercedes-Benz. The project offers 2 to 5-bedroom apartments and penthouses from 1837 to 6909 sqft with panoramic views of Burj Khalifa and the skyline. The architecture blends automotive design language with contemporary residential elegance in one of Dubai’s most prestigious districts.",
+    "ru": "Binghatti Mercedes-Benz — брендированный жилой небоскрёб в Downtown Dubai от Binghatti Developers в сотрудничестве с Mercedes-Benz. В проекте представлены апартаменты и пентхаусы с 2–5 спальнями площадью от 1837 до 6909 sqft с панорамными видами на Burj Khalifa и skyline. Архитектура сочетает автомобильную эстетику и современную жилую роскошь.",
+    "ar": "بن غاطي مرسيدس-بنز هو برج سكني فاخر في وسط مدينة دبي من تطوير بن غاطي وبالتعاون مع مرسيدس-بنز. يضم شققاً وبنتهاوس من 2 إلى 5 غرف نوم بمساحات تبدأ من 1837 حتى 6909 قدم² مع إطلالات بانورامية على برج خليفة وأفق دبي، ويجمع بين لغة تصميم السيارات والفخامة السكنية المعاصرة.",
+    "hi": "बिंगहट्टी मर्सिडीज-बेंज डाउनटाउन दुबई में स्थित एक ब्रांडेड लक्ज़री टॉवर है, जिसे बिंगहट्टी डेवलपर्स ने मर्सिडीज-बेंज के सहयोग से विकसित किया है। इसमें 2 से 5 बेडरूम अपार्टमेंट और पेंटहाउस 1837 से 6909 sqft तक उपलब्ध हैं, जिनसे बुर्ज खलीफा और स्काईलाइन के दृश्य मिलते हैं।"
+  },
+
+  "promo_image": "/img/projects/binghatti-mercedes-benz/promo.png",
+
+  "gallery": [
+    "/img/projects/binghatti-mercedes-benz/gallery_1.png",
+    "/img/projects/binghatti-mercedes-benz/gallery_2.png",
+    "/img/projects/binghatti-mercedes-benz/gallery_3.png",
+    "/img/projects/binghatti-mercedes-benz/gallery_4.png",
+    "/img/projects/binghatti-mercedes-benz/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Burj Khalifa", "time": "5 min" },
+      { "name": "Dubai Mall", "time": "5 min" },
+      { "name": "DIFC", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "Burj Khalifa", "time": "5 мин" },
+      { "name": "Dubai Mall", "time": "5 мин" },
+      { "name": "DIFC", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "برج خليفة", "time": "5 دقائق" },
+      { "name": "دبي مول", "time": "5 دقائق" },
+      { "name": "مركز دبي المالي العالمي", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "बुर्ज खलीफा", "time": "5 मिनट" },
+      { "name": "दुबई मॉल", "time": "5 मिनट" },
+      { "name": "DIFC", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Downtown Dubai, Dubai",
+      "ru": "Downtown Dubai, Дубай",
+      "ar": "وسط مدينة دبي، دبي",
+      "hi": "डाउनटाउन दुबई, दुबई"
+    },
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "downtown-dubai",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2026,
+    "price_from_aed": 10000000,
+    "size_from_sqft": 1837,
+    "tokens_extra": ["uae", "luxury", "branded"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "eden-house-the-park",
+  "slug": "eden-house-the-park",
+
+  "name": {
+    "en": "Eden House The Park",
+    "ru": "Eden House The Park",
+    "ar": "إيدن هاوس ذا بارك",
+    "hi": "एडन हाउस द पार्क"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "اتش اند اتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Jumeirah",
+    "ru": "Jumeirah",
+    "ar": "جميرا",
+    "hi": "जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "Eden House The Park",
+    "ru": "Eden House The Park",
+    "ar": "إيدن هاوس ذا بارك",
+    "hi": "एडन हाउस द पार्क"
+  },
+
+  "handover": {
+    "en": "February 2027",
+    "ru": "Февраль 2027",
+    "ar": "فبراير 2027",
+    "hi": "फरवरी 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "3,240,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–3 BR",
+    "ru": "Студия | 1–3 спальни",
+    "ar": "استوديو | من 1 إلى 3 غرف نوم",
+    "hi": "स्टूडियो | 1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 613 sqft",
+    "ru": "от 613 sqft",
+    "ar": "ابتداءً من 613 قدم²",
+    "hi": "613 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Eden House The Park by H&H Development is an exclusive residential project located in Jumeirah along the Dubai Water Canal. Designed to merge urban sophistication with natural serenity, the development features refined interiors, contemporary architecture, and panoramic canal views. Residences range from studios to spacious three-bedroom apartments, offering generous layouts, premium finishes, and floor-to-ceiling windows. Positioned in one of Dubai’s most prestigious coastal districts, Eden House The Park delivers boutique-style luxury living within minutes of Downtown Dubai and City Walk.",
+    "ru": "Eden House The Park от H&H Development — это эксклюзивный жилой проект в районе Jumeirah у Dubai Water Canal. Комплекс сочетает современную архитектуру, панорамные виды на канал и атмосферу камерного премиума. В проекте представлены студии и апартаменты с 1–3 спальнями с просторными планировками и панорамным остеклением. Локация в престижном районе Jumeirah обеспечивает уединение и одновременно близость к Downtown и City Walk.",
+    "ar": "يُعد إيدن هاوس ذا بارك من تطوير H&H مشروعاً سكنياً حصرياً في جميرا على ضفاف قناة دبي المائية. يجمع المشروع بين الرقي الحضري والطبيعة الهادئة، مع تشطيبات فاخرة وإطلالات بانورامية على القناة. تتنوع الوحدات من استوديوهات إلى شقق بثلاث غرف نوم، بتصاميم واسعة ونوافذ ممتدة من الأرض حتى السقف. يوفر المشروع أسلوب حياة فاخر على بعد دقائق من داون تاون دبي وسيتي ووك.",
+    "hi": "एच एंड एच डेवलपमेंट द्वारा एडन हाउस द पार्क जुमेराह में दुबई वाटर कैनाल के किनारे स्थित एक विशिष्ट आवासीय परियोजना है। यह परियोजना आधुनिक वास्तुकला, प्रीमियम इंटीरियर और कैनाल व्यू के साथ शहरी परिष्कार और प्राकृतिक शांति का संयोजन प्रस्तुत करती है। यहाँ स्टूडियो से लेकर 3-बेडरूम अपार्टमेंट तक उपलब्ध हैं, जिनमें विशाल लेआउट और फ्लोर-टू-सीलिंग विंडोज शामिल हैं। डाउनटाउन दुबई और सिटी वॉक के निकट स्थित यह विकास बुटीक-स्टाइल लक्ज़री जीवन प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/eden-house-the-park/promo.png",
+
+  "gallery": [
+    "/img/projects/eden-house-the-park/gallery_1.png",
+    "/img/projects/eden-house-the-park/gallery_2.png",
+    "/img/projects/eden-house-the-park/gallery_3.png",
+    "/img/projects/eden-house-the-park/gallery_4.png",
+    "/img/projects/eden-house-the-park/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "City Walk", "time": "7 min" },
+      { "name": "Downtown Dubai", "time": "12 min" },
+      { "name": "Dubai International Airport", "time": "18 min" }
+    ],
+    "ru": [
+      { "name": "City Walk", "time": "7 мин" },
+      { "name": "Downtown Dubai", "time": "12 мин" },
+      { "name": "Аэропорт DXB", "time": "18 мин" }
+    ],
+    "ar": [
+      { "name": "سيتي ووك", "time": "7 دقائق" },
+      { "name": "داون تاون دبي", "time": "12 دقيقة" },
+      { "name": "مطار دبي الدولي", "time": "18 دقيقة" }
+    ],
+    "hi": [
+      { "name": "सिटी वॉक", "time": "7 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "12 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "18 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah, Dubai",
+      "ru": "Jumeirah, Дубай",
+      "ar": "جميرا، دبي",
+      "hi": "जुमेराह, दुबई"
+    },
+    "lat": 25.1860,
+    "lng": 55.2345
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah",
+    "developer": "h-h-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 3240000,
+    "size_from_sqft": 613,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}

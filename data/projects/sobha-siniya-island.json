@@ -1,0 +1,150 @@
+{
+  "project_key": "sobha-siniya-island",
+  "slug": "sobha-siniya-island",
+
+  "name": {
+    "en": "Sobha Siniya Island",
+    "ru": "Sobha Siniya Island",
+    "ar": "سوبها جزيرة السينية",
+    "hi": "सोभा सिनीया आइलैंड"
+  },
+
+  "developer": {
+    "en": "Sobha Realty",
+    "ru": "Sobha Realty",
+    "ar": "سوبها العقارية",
+    "hi": "सोभा रियल्टी"
+  },
+
+  "location_text": {
+    "en": "Siniyah Island",
+    "ru": "Siniyah Island",
+    "ar": "جزيرة السينية",
+    "hi": "सिनियाह आइलैंड"
+  },
+
+  "hero_title": {
+    "en": "Sobha Siniya Island",
+    "ru": "Sobha Siniya Island",
+    "ar": "سوبها جزيرة السينية",
+    "hi": "सोभा सिनीया आइलैंड"
+  },
+
+  "handover": {
+    "en": "December 2028",
+    "ru": "Декабрь 2028",
+    "ar": "ديسمبر 2028",
+    "hi": "दिसंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "11,000,000"
+  },
+
+  "property_types": {
+    "en": ["Villa"],
+    "ru": ["Вилла"],
+    "ar": ["فيلا"],
+    "hi": ["विला"]
+  },
+
+  "unit_types": {
+    "en": "4–6 BR",
+    "ru": "4–6 спален",
+    "ar": "4–6 غرف نوم",
+    "hi": "4–6 बेडरूम"
+  },
+
+  "size": {
+    "en": "4815 sqft",
+    "ru": "4815 sqft",
+    "ar": "4815 قدم²",
+    "hi": "4815 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "60/40",
+    "ru": "60/40",
+    "ar": "60/40",
+    "hi": "60/40"
+  },
+
+  "description": {
+    "en": "Sobha Siniya Island by Sobha Realty is an ultra-luxury waterfront villa community in Umm Al Quwain. Offering expansive 4 to 6-bedroom villas from 4,815 sqft, the development features private beaches, marina access, landscaped parks and smart home integration. Designed as an exclusive coastal sanctuary, it combines architectural elegance with resort-style amenities and strong long-term investment potential.",
+    "ru": "Sobha Siniya Island от Sobha Realty — ультралюксовое сообщество вилл на побережье в эмирате Умм-эль-Кувейн. Виллы 4–6 спален площадью от 4 815 sqft располагают приватными пляжами, мариной, ландшафтными парками и системой «умный дом». Проект формирует формат закрытого курортного проживания с высокой инвестиционной привлекательностью.",
+    "ar": "يعد Sobha Siniya Island من سوبها العقارية مجتمع فلل فاخراً على الواجهة البحرية في أم القيوين. يضم فللاً من 4 إلى 6 غرف نوم بمساحات تبدأ من 4,815 قدم² مع شواطئ خاصة ومرسى وحدائق منسقة وأنظمة منزل ذكي. يوفر المشروع أسلوب حياة ساحلي راقٍ مع إمكانات استثمارية قوية.",
+    "hi": "सोभा रियल्टी द्वारा विकसित सोभा सिनीया आइलैंड उम्म अल क्वैन में स्थित एक अल्ट्रा-लक्ज़री वाटरफ्रंट विला कम्युनिटी है। इसमें 4–6 बेडरूम विला 4,815 sqft से शुरू होते हैं, जिनमें निजी बीच, मरीना एक्सेस और स्मार्ट होम फीचर शामिल हैं। यह प्रोजेक्ट एक्सक्लूसिव कोस्टल लाइफस्टाइल और मजबूत निवेश अवसर प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/sobha-siniya-island/promo.png",
+
+  "gallery": [
+    "/img/projects/sobha-siniya-island/gallery_1.png",
+    "/img/projects/sobha-siniya-island/gallery_2.png",
+    "/img/projects/sobha-siniya-island/gallery_3.png",
+    "/img/projects/sobha-siniya-island/gallery_4.png",
+    "/img/projects/sobha-siniya-island/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Umm Al Quwain Marina", "time": "5 min" },
+      { "name": "Sharjah International Airport", "time": "30 min" },
+      { "name": "Downtown Dubai", "time": "60 min" }
+    ],
+    "ru": [
+      { "name": "Umm Al Quwain Marina", "time": "5 мин" },
+      { "name": "Аэропорт Шарджи", "time": "30 мин" },
+      { "name": "Downtown Dubai", "time": "60 мин" }
+    ],
+    "ar": [
+      { "name": "مرسى أم القيوين", "time": "5 دقائق" },
+      { "name": "مطار الشارقة الدولي", "time": "30 دقيقة" },
+      { "name": "داون تاون دبي", "time": "60 دقيقة" }
+    ],
+    "hi": [
+      { "name": "उम्म अल क्वैन मरीना", "time": "5 मिनट" },
+      { "name": "शारजाह अंतर्राष्ट्रीय एयरपोर्ट", "time": "30 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "60 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Siniyah Island",
+      "ru": "Siniyah Island",
+      "ar": "جزيرة السينية",
+      "hi": "सिनियाह आइलैंड"
+    },
+    "lat": 25.5742,
+    "lng": 55.5658
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "umm-al-quwain",
+    "city": "umm-al-quwain",
+    "area": "siniyah-island",
+    "developer": "sobha-realty",
+    "property_types": ["villa"],
+    "bedrooms_min": 4,
+    "bedrooms_max": 6,
+    "handover_year": 2028,
+    "price_from_aed": 11000000,
+    "size_from_sqft": 4815,
+    "tokens_extra": ["uae", "waterfront", "villa-community", "luxury"]
+  }
+}

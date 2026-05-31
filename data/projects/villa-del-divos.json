@@ -1,0 +1,154 @@
+{
+  "project_key": "villa-del-divos",
+  "slug": "villa-del-divos",
+
+  "name": {
+    "en": "Villa Del Divos",
+    "ru": "Villa Del Divos",
+    "ar": "فيلا ديل ديفوس",
+    "hi": "विला डेल डिवोस"
+  },
+
+  "developer": {
+    "en": "Mr Eight Development",
+    "ru": "Mr Eight Development",
+    "ar": "مستر إيت للتطوير",
+    "hi": "मिस्टर एट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands (Palm Deira)",
+    "ru": "Dubai Islands (Palm Deira)",
+    "ar": "جزر دبي (نخلة ديرة)",
+    "hi": "दुबई आइलैंड्स (पाम देइरा)"
+  },
+
+  "hero_title": {
+    "en": "Villa Del Divos at Dubai Islands",
+    "ru": "Villa Del Divos на Dubai Islands",
+    "ar": "فيلا ديل ديفوس في جزر دبي",
+    "hi": "दुबई आइलैंड्स में विला डेल डिवोस"
+  },
+
+  "handover": {
+    "en": "Q1 2027",
+    "ru": "Q1 2027",
+    "ar": "الربع الأول 2027",
+    "hi": "Q1 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–5 BR",
+    "ru": "1–5 спален",
+    "ar": "1–5 غرف نوم",
+    "hi": "1–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "758 sqft",
+    "ru": "758 sqft",
+    "ar": "758 قدم²",
+    "hi": "758 sqft"
+  },
+
+  "down_payment": {
+    "en": "20%",
+    "ru": "20%",
+    "ar": "20%",
+    "hi": "20%"
+  },
+
+  "payment_plan": {
+    "en": "35/65",
+    "ru": "35/65",
+    "ar": "35/65",
+    "hi": "35/65"
+  },
+
+  "description": {
+    "en": "Villa Del Divos by Mr Eight Development is a premium waterfront residential project at Dubai Islands (Palm Deira), offering a curated mix of 1–3 bedroom apartments, a 4-bedroom duplex apartment, and a 5-bedroom penthouse. The concept blends coastal serenity with urban connectivity, pairing sea-view living with resort-style amenities such as pool, fitness spaces, jogging/cycling tracks, retail and dining. With a 20% down payment and a 35/65 payment plan, the project targets both end users and investors seeking a refined island lifestyle close to key Dubai hubs.",
+    "ru": "Villa Del Divos от Mr Eight Development — премиальный жилой проект у воды на Dubai Islands (Palm Deira). В линейке — апартаменты с 1–3 спальнями, 4-спальный дуплекс и 5-спальный пентхаус. Проект сочетает «островную» атмосферу и удобную связь с городом: виды на море, современная инфраструктура, бассейн, спортзоны, беговые/велодорожки, ритейл и рестораны. Условия: 20% первый взнос и план 35/65 — подходящий формат для жизни и инвестиций.",
+    "ar": "فيلا ديل ديفوس من مستر إيت في جزر دبي (نخلة ديرة) هو مشروع سكني فاخر على الواجهة البحرية يضم شقق 1–3 غرف نوم، ودوبلكس 4 غرف، وبنتهاوس 5 غرف. يقدم أسلوب حياة شاطئي مع مرافق مثل المسبح والنادي الرياضي ومسارات الجري وركوب الدراجات وخيارات المطاعم والتجزئة، مع سهولة الوصول إلى أهم مناطق دبي. دفعة أولى 20% وخطة دفع 35/65.",
+    "hi": "मिस्टर एट डेवलपमेंट द्वारा विकसित विला डेल डिवोस दुबई आइलैंड्स (पाम देइरा) में एक वॉटरफ्रंट रेजिडेंशियल प्रोजेक्ट है, जिसमें 1–3 बेडरूम अपार्टमेंट, 4-बेडरूम डुप्लेक्स और 5-बेडरूम पेंटहाउस शामिल हैं। समुद्री दृश्य, पूल, जिम, जॉगिंग/साइक्लिंग ट्रैक और रिटेल/डाइनिंग सुविधाओं के साथ यह प्रोजेक्ट शहर के प्रमुख क्षेत्रों से अच्छी कनेक्टिविटी देता है। डाउन पेमेंट 20% और पेमेंट प्लान 35/65।"
+  },
+
+  "promo_image": "/img/projects/villa-del-divos/promo.png",
+
+  "gallery": [
+    "/img/projects/villa-del-divos/gallery_1.png",
+    "/img/projects/villa-del-divos/gallery_2.png",
+    "/img/projects/villa-del-divos/gallery_3.png",
+    "/img/projects/villa-del-divos/gallery_4.png",
+    "/img/projects/villa-del-divos/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai International Airport (DXB)", "time": "20 min" },
+      { "name": "Downtown Dubai", "time": "24 min" },
+      { "name": "Dubai World Trade Centre", "time": "24 min" },
+      { "name": "Business Bay", "time": "33 min" }
+    ],
+    "ru": [
+      { "name": "Аэропорт DXB", "time": "20 мин" },
+      { "name": "Downtown Dubai", "time": "24 мин" },
+      { "name": "Dubai World Trade Centre", "time": "24 мин" },
+      { "name": "Business Bay", "time": "33 мин" }
+    ],
+    "ar": [
+      { "name": "مطار دبي الدولي (DXB)", "time": "20 دقيقة" },
+      { "name": "داون تاون دبي", "time": "24 دقيقة" },
+      { "name": "مركز دبي التجاري العالمي", "time": "24 دقيقة" },
+      { "name": "الخليج التجاري", "time": "33 دقيقة" }
+    ],
+    "hi": [
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "24 मिनट" },
+      { "name": "दुबई वर्ल्ड ट्रेड सेंटर", "time": "24 मिनट" },
+      { "name": "बिज़नेस बे", "time": "33 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands (Palm Deira), Dubai, UAE",
+      "ru": "Dubai Islands (Palm Deira), Дубай, ОАЭ",
+      "ar": "جزر دبي (نخلة ديرة)، دبي، الإمارات",
+      "hi": "दुबई आइलैंड्स (पाम देइरा), दुबई, यूएई"
+    },
+    "lat": 25.3167,
+    "lng": 55.3000
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "mr-eight-development",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 2300000,
+    "size_from_sqft": 758,
+    "tokens_extra": ["uae", "off-plan", "waterfront", "dubai-islands", "palm-deira", "sea-view", "luxury"]
+  }
+}

@@ -1,0 +1,433 @@
+<section id="results" class="results" aria-hidden="true">
+
+  {{/* ---------- language ---------- */}}
+  {{ $lang := .Site.Language.Lang | default "en" }}
+
+  {{/* ---------- projects dataset ---------- */}}
+  {{ $projects := site.Data.projects }}
+
+  {{/* ---------- assistant ---------- */}}
+  {{ $assistantName := "Sicemco AI" }}
+
+  <!-- fixed search under header -->
+  <div class="results__sticky">
+    <div class="results__sticky-inner">
+      <div class="results__bar">
+
+        <button class="results__brand" type="button" aria-label="Close results and return to Sicemco AI">
+          <span class="results__brand-dot"></span>
+          <span>{{ $assistantName }}</span>
+        </button>
+
+        <input
+          id="resultsQuery"
+          class="results__query results__query--input"
+          type="text"
+          placeholder="Type your search..."
+          autocomplete="off"
+        >
+
+        <button
+          class="results__send"
+          type="submit"
+          aria-label="Send search"
+        >
+          <svg
+            class="results__send-icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <path d="M5 12h13"></path>
+            <path d="M13 6l6 6-6 6"></path>
+          </svg>
+        </button>
+
+        <button
+          class="results__voice"
+          type="button"
+          aria-label="Voice search"
+          aria-pressed="false"
+        >
+          <span class="results__voice-aura" aria-hidden="true"></span>
+          <span class="results__voice-core" aria-hidden="true">
+            <img src="{{ site.Data.site.home.hero.search.voice_icon | default "/img/icons/mic.svg" | relURL }}" alt="">
+          </span>
+        </button>
+
+        <div class="results__voice-popover" aria-live="polite">
+          <div class="results__voice-popover-inner">
+            <span class="results__voice-popover-dot"></span>
+
+            <div class="results__voice-copy">
+              <span class="results__voice-status">Listening…</span>
+              <span class="results__voice-text">Tell {{ $assistantName }} what you want</span>
+            </div>
+
+            <span class="results__voice-bars" aria-hidden="true">
+              <i></i><i></i><i></i><i></i>
+            </span>
+          </div>
+        </div>
+
+        <button class="results__clear" type="button" aria-label="Clear search input">
+          <span></span>
+        </button>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="results__grid results__grid--four">
+    {{ range $key, $p := $projects }}
+
+      {{ $slug := $p.slug | default $key }}
+
+      {{ $title := $slug }}
+      {{ with $p.name }}
+        {{ $title = (index . $lang | default (index . "en") | default $title) }}
+      {{ end }}
+
+      {{ $location := "" }}
+      {{ with $p.location_text }}
+        {{ $location = (index . $lang | default (index . "en") | default "") }}
+      {{ end }}
+
+      {{ $developer := "" }}
+      {{ with $p.developer }}
+        {{ $developer = (index . $lang | default (index . "en") | default "") }}
+      {{ end }}
+
+      {{ $priceCurrency := "" }}
+      {{ $priceAmount := "" }}
+      {{ $price := "" }}
+      {{ with $p.price_from }}
+        {{ $priceCurrency = .currency }}
+        {{ $priceAmount = .amount }}
+        {{ $price = printf "%s %s" .currency .amount }}
+      {{ end }}
+
+      {{ $img := $p.promo_image | default "" }}
+      {{ if and (not $img) $p.gallery }}
+        {{ $img = index $p.gallery 0 }}
+      {{ end }}
+
+      {{ $searchText := printf "%s %s %s %s" $title $location $developer $price }}
+      {{ with $p._search }}
+        {{ $searchText = printf "%s %s %s %s %s" $searchText .area .developer .city .emirate }}
+        {{ with .tokens_extra }}
+          {{ $searchText = printf "%s %s" $searchText (delimit . " ") }}
+        {{ end }}
+      {{ end }}
+
+      <a
+        class="results-card"
+        href="{{ printf "/%s/projects/%s/" $lang $slug | relURL }}"
+        data-search="{{ $searchText | lower }}"
+        data-title="{{ $title }}"
+        data-location="{{ $location }}"
+        data-developer="{{ $developer }}"
+        data-price="{{ $price }}"
+      >
+        <div class="results-card__inner">
+          {{ if $img }}
+            <img class="results-card__img" src="{{ $img | relURL }}" alt="{{ $title }}">
+          {{ else }}
+            <div class="results-card__placeholder"></div>
+          {{ end }}
+
+          <div class="results-card__meta">
+            <h3 class="results-card__title">{{ $title }}</h3>
+
+            {{ if $location }}
+              <div class="results-card__row">
+                <span>Location:</span>
+                <strong>{{ $location }}</strong>
+              </div>
+            {{ end }}
+
+            {{ if $price }}
+              <div class="results-card__row">
+                <span>Price From:</span>
+                <strong class="price">
+                  <span class="price__currency">{{ $priceCurrency }}</span>
+                  <span class="price__value">{{ $priceAmount }}</span>
+                </strong>
+              </div>
+            {{ end }}
+          </div>
+        </div>
+      </a>
+
+    {{ end }}
+  </div>
+
+  <div class="results__bottom-space"></div>
+
+</section>
+
+<script>
+(function () {
+  const section = document.getElementById('results');
+  if (!section || section.dataset.resultsUiReady === '1') return;
+  section.dataset.resultsUiReady = '1';
+
+  const bar = section.querySelector('.results__bar');
+  const input = section.querySelector('#resultsQuery');
+  const sendBtn = section.querySelector('.results__send');
+  const clearBtn = section.querySelector('.results__clear');
+  const brandBtn = section.querySelector('.results__brand');
+  const voiceBtn = section.querySelector('.results__voice');
+  const voiceStatus = section.querySelector('.results__voice-status');
+  const voiceText = section.querySelector('.results__voice-text');
+
+  function getInputValue() {
+    return input ? String(input.value || '').trim() : '';
+  }
+
+  function updateQueryState() {
+    if (!bar) return;
+
+    const hasQuery = !!getInputValue();
+    bar.classList.toggle('has-query', hasQuery);
+
+    if (sendBtn) {
+      sendBtn.setAttribute('aria-hidden', hasQuery ? 'false' : 'true');
+      sendBtn.tabIndex = hasQuery ? 0 : -1;
+    }
+  }
+
+  function dispatchSearch(q) {
+    const value = String(q || '').trim();
+
+    try {
+      window.dispatchEvent(new CustomEvent('search:updated', {
+        detail: { q: value }
+      }));
+    } catch (e) {}
+  }
+
+  function dispatchClear() {
+    try {
+      window.dispatchEvent(new CustomEvent('search:clear'));
+    } catch (e) {}
+  }
+
+  function syncInput(value) {
+    if (!input) return;
+
+    input.value = String(value || '');
+    updateQueryState();
+    dispatchSearch(input.value);
+  }
+
+  function submitSearch() {
+    const value = getInputValue();
+    if (!value) return;
+
+    updateQueryState();
+    dispatchSearch(value);
+  }
+
+  function clearSearchInput() {
+    if (input) {
+      input.value = '';
+      input.textContent = '';
+      input.focus();
+    }
+
+    updateQueryState();
+    dispatchClear();
+    dispatchSearch('');
+  }
+
+  function closeResults() {
+    section.classList.remove('is-open');
+    section.setAttribute('aria-hidden', 'true');
+
+    if (input) {
+      input.value = '';
+      input.textContent = '';
+    }
+
+    updateQueryState();
+    dispatchClear();
+
+    const top = document.getElementById('top') || document.querySelector('.home-hero') || document.body;
+    top.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  if (input) {
+    input.addEventListener('input', function () {
+      updateQueryState();
+      dispatchSearch(input.value);
+    });
+
+    input.addEventListener('change', function () {
+      updateQueryState();
+      dispatchSearch(input.value);
+    });
+
+    input.addEventListener('keydown', function (event) {
+      if (event.key === 'Enter') {
+        event.preventDefault();
+        submitSearch();
+      }
+    });
+
+    /*
+      Compatibility with old hero scripts that do:
+      document.getElementById('resultsQuery').textContent = value
+      even though resultsQuery is now an input.
+    */
+    try {
+      const observer = new MutationObserver(function () {
+        const externalText = String(input.textContent || '').trim();
+
+        if (externalText && externalText !== input.value) {
+          syncInput(externalText);
+          input.textContent = '';
+        }
+      });
+
+      observer.observe(input, {
+        childList: true,
+        characterData: true,
+        subtree: true
+      });
+    } catch (e) {}
+  }
+
+  if (sendBtn) {
+    sendBtn.addEventListener('click', function (event) {
+      event.preventDefault();
+      submitSearch();
+    });
+  }
+
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function (event) {
+      event.preventDefault();
+      clearSearchInput();
+    });
+  }
+
+  if (brandBtn) {
+    brandBtn.addEventListener('click', function (event) {
+      event.preventDefault();
+      closeResults();
+    });
+  }
+
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  let recognition = null;
+  let listening = false;
+  let finalVoiceText = '';
+
+  function setVoice(active, statusText, helperText) {
+    listening = active;
+
+    if (voiceBtn) {
+      voiceBtn.classList.toggle('is-active', active);
+      voiceBtn.setAttribute('aria-pressed', active ? 'true' : 'false');
+    }
+
+    if (bar) {
+      bar.classList.toggle('is-voice-active', active);
+    }
+
+    if (statusText && voiceStatus) {
+      voiceStatus.textContent = statusText;
+    }
+
+    if (helperText && voiceText) {
+      voiceText.textContent = helperText;
+    }
+  }
+
+  function normalizeText(text) {
+    return String(text || '')
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
+
+  if (SpeechRecognition && input && voiceBtn) {
+    recognition = new SpeechRecognition();
+    recognition.lang = document.documentElement.lang || 'en-US';
+    recognition.interimResults = true;
+    recognition.continuous = false;
+
+    recognition.onstart = function () {
+      finalVoiceText = '';
+      input.value = '';
+      input.focus();
+
+      updateQueryState();
+      setVoice(true, 'Listening…', 'Tell Sicemco AI what you want');
+    };
+
+    recognition.onresult = function (event) {
+      let interimText = '';
+
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        const part = event.results[i][0].transcript || '';
+
+        if (event.results[i].isFinal) {
+          finalVoiceText = normalizeText(finalVoiceText + ' ' + part);
+        } else {
+          interimText = normalizeText(interimText + ' ' + part);
+        }
+      }
+
+      const liveText = normalizeText(finalVoiceText + ' ' + interimText);
+
+      if (liveText) {
+        syncInput(liveText);
+
+        if (voiceStatus) voiceStatus.textContent = 'Listening…';
+        if (voiceText) voiceText.textContent = liveText;
+      }
+    };
+
+    recognition.onend = function () {
+      setVoice(false);
+
+      if (input) {
+        input.value = normalizeText(input.value);
+        updateQueryState();
+        dispatchSearch(input.value);
+      }
+    };
+
+    recognition.onerror = function () {
+      setVoice(true, 'Voice paused', 'Type your request or try again');
+
+      window.setTimeout(function () {
+        setVoice(false);
+      }, 900);
+    };
+
+    voiceBtn.addEventListener('click', function () {
+      try {
+        if (listening) {
+          recognition.stop();
+        } else {
+          recognition.start();
+        }
+      } catch (e) {
+        setVoice(false);
+      }
+    });
+  } else if (voiceBtn) {
+    voiceBtn.addEventListener('click', function () {
+      setVoice(true, 'Voice mode', 'Speech recognition is not supported here');
+
+      window.setTimeout(function () {
+        setVoice(false);
+      }, 1800);
+    });
+  }
+
+  updateQueryState();
+})();
+</script>

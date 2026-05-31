@@ -1,0 +1,150 @@
+{
+  "project_key": "binghatti-hills-phase-3",
+  "slug": "binghatti-hills-phase-3",
+
+  "name": {
+    "en": "Binghatti Hills Phase 3",
+    "ru": "Binghatti Hills Phase 3",
+    "ar": "بن غاطي هيلز المرحلة الثالثة",
+    "hi": "बिंगहट्टी हिल्स फेज 3"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Science Park",
+    "ru": "Dubai Science Park",
+    "ar": "دبي ساينس بارك",
+    "hi": "दुबई साइंस पार्क"
+  },
+
+  "hero_title": {
+    "en": "Binghatti Hills Phase 3",
+    "ru": "Binghatti Hills Phase 3",
+    "ar": "بن غاطي هيلز المرحلة الثالثة",
+    "hi": "बिंगहट्टी हिल्स फेज 3"
+  },
+
+  "handover": {
+    "en": "September 2026",
+    "ru": "Сентябрь 2026",
+    "ar": "سبتمبر 2026",
+    "hi": "सितंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "864,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1 | 2 BR",
+    "ru": "Студия | 1 | 2 спальни",
+    "ar": "استوديو | 1 | 2 غرف نوم",
+    "hi": "स्टूडियो | 1 | 2 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 477 sqft",
+    "ru": "от 477 sqft",
+    "ar": "ابتداءً من 477 قدم²",
+    "hi": "477 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Binghatti Hills Phase 3 is a contemporary residential development in Dubai Science Park offering studios and 1–2 bedroom apartments with premium finishes and smart layouts. Surrounded by landscaped areas and innovation hubs, the project balances urban energy with privacy and comfort, making it an attractive option for both end-users and investors seeking steady rental demand in a growing district.",
+    "ru": "Binghatti Hills Phase 3 — современный жилой проект в Dubai Science Park со студиями и апартаментами с 1–2 спальнями. Премиальная отделка, продуманные планировки и благоустроенные пространства формируют комфортную среду для жизни и инвестиций с устойчивым арендным спросом в развивающемся районе.",
+    "ar": "يمثل مشروع بن غاطي هيلز المرحلة الثالثة مجمعاً سكنياً حديثاً في دبي ساينس بارك يضم استوديوهات وشققاً من غرفة وغرفتين نوم بتشطيبات فاخرة وتصاميم ذكية. يجمع بين المساحات الخضراء ومراكز الابتكار ليقدم توازناً مثالياً بين الحيوية الحضرية والراحة، مع فرص استثمارية واعدة.",
+    "hi": "बिंगहट्टी हिल्स फेज 3 दुबई साइंस पार्क में स्थित एक आधुनिक रेजिडेंशियल प्रोजेक्ट है, जिसमें स्टूडियो और 1–2 बेडरूम अपार्टमेंट उपलब्ध हैं। प्रीमियम फिनिश, स्मार्ट लेआउट और विकसित इंफ्रास्ट्रक्चर इसे रहने और निवेश दोनों के लिए आकर्षक बनाते हैं, साथ ही मजबूत रेंटल संभावनाएँ प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/binghatti-hills-phase-3/promo.png",
+
+  "gallery": [
+    "/img/projects/binghatti-hills-phase-3/gallery_1.png",
+    "/img/projects/binghatti-hills-phase-3/gallery_2.png",
+    "/img/projects/binghatti-hills-phase-3/gallery_3.png",
+    "/img/projects/binghatti-hills-phase-3/gallery_4.png",
+    "/img/projects/binghatti-hills-phase-3/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "18 min" },
+      { "name": "DXB Airport", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "18 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "18 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" },
+      { "name": "مرسى دبي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "18 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Science Park, Dubai, UAE",
+      "ru": "Dubai Science Park, Дубай, ОАЭ",
+      "ar": "دبي ساينس بارك، دبي",
+      "hi": "दुबई साइंस पार्क, दुबई"
+    },
+    "lat": 25.1088,
+    "lng": 55.2274
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-science-park",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 2,
+    "handover_year": 2026,
+    "price_from_aed": 864000,
+    "size_from_sqft": 477,
+    "tokens_extra": ["uae"]
+  }
+}

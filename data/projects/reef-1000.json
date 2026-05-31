@@ -1,0 +1,150 @@
+{
+  "project_key": "reef-1000",
+  "slug": "reef-1000",
+
+  "name": {
+    "en": "Reef 1000",
+    "ru": "Reef 1000",
+    "ar": "ريف 1000",
+    "hi": "रीफ 1000"
+  },
+
+  "developer": {
+    "en": "Reef Luxury Development",
+    "ru": "Reef Luxury Development",
+    "ar": "ريف لاكشري للتطوير العقاري",
+    "hi": "रीफ लक्ज़री डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Land Residence Complex (DLRC)",
+    "ru": "Dubai Land Residence Complex (DLRC)",
+    "ar": "مجمع دبي لاند السكني (DLRC)",
+    "hi": "दुबईलैंड रेज़िडेंस कॉम्प्लेक्स (DLRC)"
+  },
+
+  "hero_title": {
+    "en": "Reef 1000",
+    "ru": "Reef 1000",
+    "ar": "ريف 1000",
+    "hi": "रीफ 1000"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "620,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Townhouse"],
+    "ru": ["Апартаменты", "Таунхаус"],
+    "ar": ["شقة", "تاون هاوس"],
+    "hi": ["अपार्टमेंट", "टाउनहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–2 BR",
+    "ru": "1–2 спальни",
+    "ar": "1–2 غرف نوم",
+    "hi": "1–2 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 778 sqft",
+    "ru": "от 778 sqft",
+    "ar": "ابتداءً من 778 قدم²",
+    "hi": "778 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Reef 1000 by Reef Luxury Development is a modern DLRC project built around the signature Sunken Garden concept — a climate-controlled, greenery-filled environment for everyday comfort. Choose 1–2 bedroom apartments and select townhouses with premium finishes, smart planning, and easy access to Dubai’s key roads and attractions.",
+    "ru": "Reef 1000 от Reef Luxury Development — современный проект в DLRC с фирменной концепцией Sunken Garden: климат-контролируемое зелёное пространство для комфорта каждый день. В линейке — апартаменты 1–2 спальни и отдельные таунхаусы, премиальные материалы, продуманные планировки и удобный выезд на ключевые трассы.",
+    "ar": "ريف 1000 من Reef Luxury Development هو مشروع حديث في DLRC يعتمد على مفهوم Sunken Garden المميز: مساحة خضراء مكيّفة ومريحة للاستخدام اليومي. يضم شققاً بغرفة إلى غرفتين نوم مع تاون هاوس مختارة، بتشطيبات فاخرة وتخطيط ذكي، مع وصول سهل إلى الطرق الرئيسية ومعالم المدينة.",
+    "hi": "रीफ लक्ज़री डेवलपमेंट का Reef 1000 DLRC में एक मॉडर्न प्रोजेक्ट है, जिसका मुख्य आकर्षण Sunken Garden कॉन्सेप्ट है — हरियाली के साथ क्लाइमेट-कंट्रोल्ड कम्फर्ट। यहाँ 1–2 बेडरूम अपार्टमेंट्स और चुनिंदा टाउनहाउस मिलते हैं, प्रीमियम फिनिश, स्मार्ट लेआउट और प्रमुख रोड्स/डेस्टिनेशन्स तक आसान कनेक्टिविटी के साथ।"
+  },
+
+  "promo_image": "/img/projects/reef-1000/promo.png",
+
+  "gallery": [
+    "/img/projects/reef-1000/gallery_1.png",
+    "/img/projects/reef-1000/gallery_2.png",
+    "/img/projects/reef-1000/gallery_3.png",
+    "/img/projects/reef-1000/gallery_4.png",
+    "/img/projects/reef-1000/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Global Village", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "DXB Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Global Village", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "غلوبال فيليج", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "ग्लोबल विलेज", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Land Residence Complex (DLRC)",
+      "ru": "Dubai Land Residence Complex (DLRC)",
+      "ar": "مجمع دبي لاند السكني (DLRC)",
+      "hi": "दुबईलैंड रेज़िडेंस कॉम्प्लेक्स (DLRC)"
+    },
+    "lat": 25.085498,
+    "lng": 55.385
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-land-residence-complex",
+    "developer": "reef-luxury-development",
+    "property_types": ["apartment", "townhouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 2,
+    "handover_year": 2026,
+    "price_from_aed": 620000,
+    "size_from_sqft": 778,
+    "tokens_extra": ["uae", "family", "smart", "garden"]
+  }
+}

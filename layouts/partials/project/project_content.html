@@ -1,0 +1,207 @@
+{{ $lang := site.Language.Lang }}
+{{ $slug := .Params.slug | default .File.ContentBaseName }}
+{{ $projectKey := .Params.project_key | default .Params.project | default "" }}
+
+{{ $p := dict }}
+
+{{ if and $projectKey (index site.Data.projects $projectKey) }}
+  {{ $p = index site.Data.projects $projectKey }}
+{{ else if index site.Data.projects $slug }}
+  {{ $p = index site.Data.projects $slug }}
+{{ else }}
+  {{ range $k, $v := site.Data.projects }}
+    {{ if eq $v.slug $slug }}
+      {{ $p = $v }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $name := $slug }}
+{{ with $p.name }}{{ $name = (index . $lang | default (index . "en") | default $name) }}{{ end }}
+
+{{ $description := "" }}
+{{ with $p.description }}{{ $description = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $developer := "" }}
+{{ with $p.developer }}{{ $developer = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $location := "" }}
+{{ with $p.location_text }}{{ $location = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $handover := "" }}
+{{ with $p.handover }}{{ $handover = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $propertyTypes := "" }}
+{{ with $p.property_types }}
+  {{ $types := index . $lang | default (index . "en") }}
+  {{ if $types }}{{ $propertyTypes = delimit $types " · " }}{{ end }}
+{{ end }}
+
+{{ $unitTypes := "" }}
+{{ with $p.unit_types }}{{ $unitTypes = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $size := "" }}
+{{ with $p.size }}{{ $size = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $paymentPlan := "" }}
+{{ with $p.payment_plan }}{{ $paymentPlan = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $nearby := slice }}
+{{ with $p.nearby_landmarks }}
+  {{ $nearby = index . $lang | default (index . "en") | default (slice) }}
+{{ end }}
+
+{{ $address := "" }}
+{{ with $p.map.address }}{{ $address = (index . $lang | default (index . "en") | default "") }}{{ end }}
+
+{{ $phone := site.Data.site.whatsapp.phone | default "" }}
+{{ $url := .Permalink }}
+
+{{ $pdfMessageTpl := index site.Data.site.project_cta_pdf.messages $lang | default (index site.Data.site.project_cta_pdf.messages "en") }}
+{{ $pdfMessage := $pdfMessageTpl | replace "{project}" $name | replace "{url}" $url }}
+{{ $pdfHref := printf "https://wa.me/%s?text=%s" $phone (urlquery $pdfMessage) }}
+
+{{ $callMessageTpl := index site.Data.site.project_cta_call.messages $lang | default (index site.Data.site.project_cta_call.messages "en") }}
+{{ $callMessage := $callMessageTpl | replace "{project}" $name | replace "{url}" $url }}
+{{ $callHref := printf "https://wa.me/%s?text=%s" $phone (urlquery $callMessage) }}
+
+<section class="pd-project-content" id="details">
+  <div class="pd-project-content__inner">
+
+    <div class="pd-project-card-grid">
+
+      <article class="pd-project-card">
+        <div class="pd-project-card__head">
+          <h3>Project details</h3>
+          <span>Key facts</span>
+        </div>
+
+        <div class="pd-project-card__body pd-details-grid">
+          {{ if $handover }}
+            <div class="pd-detail-pill">
+              <span>Handover</span>
+              <strong>{{ $handover }}</strong>
+            </div>
+          {{ end }}
+
+          {{ if $propertyTypes }}
+            <div class="pd-detail-pill">
+              <span>Type</span>
+              <strong>{{ $propertyTypes }}</strong>
+            </div>
+          {{ end }}
+
+          {{ if $unitTypes }}
+            <div class="pd-detail-pill">
+              <span>Units</span>
+              <strong>{{ $unitTypes }}</strong>
+            </div>
+          {{ end }}
+
+          {{ if $paymentPlan }}
+            <div class="pd-detail-pill">
+              <span>Payment plan</span>
+              <strong>{{ $paymentPlan }}</strong>
+            </div>
+          {{ end }}
+
+          {{ if $developer }}
+            <div class="pd-detail-pill">
+              <span>Developer</span>
+              <strong>{{ $developer }}</strong>
+            </div>
+          {{ end }}
+
+          {{ if $size }}
+            <div class="pd-detail-pill">
+              <span>Size from</span>
+              <strong>{{ $size }}</strong>
+            </div>
+          {{ end }}
+        </div>
+      </article>
+
+      {{ if $description }}
+        <article class="pd-project-card">
+          <div class="pd-project-card__head">
+            <h3>Investment view</h3>
+            <span>Summary</span>
+          </div>
+
+          <div class="pd-project-card__body">
+            <p class="pd-project-description">
+              {{ $description }}
+            </p>
+          </div>
+        </article>
+      {{ end }}
+
+    </div>
+
+    <div class="pd-project-card-grid pd-project-card-grid--lower">
+
+      {{ if gt (len $nearby) 0 }}
+        <article class="pd-project-card">
+          <div class="pd-project-card__head">
+            <h3>Nearby landmarks</h3>
+            <span>{{ $location }}</span>
+          </div>
+
+          <div class="pd-project-card__body pd-nearby-list">
+            {{ range $nearby }}
+              <div class="pd-nearby-item">
+                <strong>{{ .name }}</strong>
+                <span>{{ .time }}</span>
+              </div>
+            {{ end }}
+          </div>
+        </article>
+      {{ end }}
+
+      <article class="pd-project-card">
+        <div class="pd-project-card__head">
+          <h3>Location</h3>
+          <span>{{ $address }}</span>
+        </div>
+
+        <div class="pd-project-card__body">
+          <div class="pd-location-box">
+            <div>
+              <span>Map point</span>
+              <strong>{{ $address | default $location }}</strong>
+            </div>
+
+            {{ if and $p.map.lat $p.map.lng }}
+              <a
+                href="https://www.google.com/maps/search/?api=1&query={{ $p.map.lat }},{{ $p.map.lng }}"
+                target="_blank"
+                rel="noopener"
+              >
+                Open map
+              </a>
+            {{ end }}
+          </div>
+        </div>
+      </article>
+
+    </div>
+
+    <article class="pd-project-cta-card" id="contact">
+      <div>
+        <h3>Need this project explained?</h3>
+        <p>
+          Ask Sicemco AI to compare {{ $name }} with similar projects, check the payment logic or send the request to Vladimir Maksimov for private advisory.
+        </p>
+      </div>
+
+      <div class="pd-project-actions">
+        <a href="#projectLeadModal" data-open-project-lead>Ask about this project</a>
+        <a href="{{ $pdfHref }}" target="_blank" rel="noopener">Get full project PDF</a>
+        <a href="{{ $callHref }}" target="_blank" rel="noopener">Request a call</a>
+      </div>
+    </article>
+
+  </div>
+</section>
+
+{{ partial "project/project_lead_modal.html" . }}

@@ -1,0 +1,150 @@
+{
+  "project_key": "mercer-house",
+  "slug": "mercer-house",
+
+  "name": {
+    "en": "Mercer House",
+    "ru": "Mercer House",
+    "ar": "ميرسر هاوس",
+    "hi": "मर्सर हाउस"
+  },
+
+  "developer": {
+    "en": "Ellington Properties",
+    "ru": "Ellington Properties",
+    "ar": "إلينغتون العقارية",
+    "hi": "एलिंगटन प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Jumeirah Lake Towers",
+    "ru": "Jumeirah Lake Towers",
+    "ar": "أبراج بحيرات جميرا",
+    "hi": "जुमेराह लेक टावर्स"
+  },
+
+  "hero_title": {
+    "en": "Mercer House",
+    "ru": "Mercer House",
+    "ar": "ميرسر هاوس",
+    "hi": "मर्सर हाउस"
+  },
+
+  "handover": {
+    "en": "September 2027",
+    "ru": "Сентябрь 2027",
+    "ar": "سبتمبر 2027",
+    "hi": "सितंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "3,200,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–4 BR",
+    "ru": "Студия | 1–4 спальни",
+    "ar": "استوديو | 1–4 غرف نوم",
+    "hi": "स्टूडियो | 1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 513 sqft",
+    "ru": "от 513 sqft",
+    "ar": "ابتداءً من 513 قدم²",
+    "hi": "513 sqft से"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Mercer House by Ellington Properties is a contemporary twin-tower development in Jumeirah Lake Towers offering studios to 4-bedroom apartments and penthouses. The project features organic architectural forms, soft-toned interiors, and expansive glazing that maximizes natural light. Located near Uptown Dubai and Sheikh Zayed Road, it combines waterfront views with central connectivity.",
+    "ru": "Mercer House от Ellington Properties — современный жилой проект из двух башен в районе Jumeirah Lake Towers. В комплексе представлены студии, апартаменты и пентхаусы до 4 спален. Архитектура с плавными формами и панорамным остеклением создаёт светлые пространства. Локация рядом с Uptown Dubai обеспечивает удобную связь с ключевыми районами города.",
+    "ar": "ميرسر هاوس من إلينغتون العقارية هو مشروع سكني معاصر مكوّن من برجين في أبراج بحيرات جميرا. يضم استوديوهات وشققاً وبنتهاوس حتى 4 غرف نوم، مع تصميم عضوي ونوافذ واسعة تعزز الإضاءة الطبيعية. يوفر الموقع القريب من أبتاون دبي اتصالاً مثالياً بالمناطق الحيوية في المدينة.",
+    "hi": "मर्सर हाउस एलिंगटन प्रॉपर्टीज द्वारा विकसित एक आधुनिक ट्विन-टावर प्रोजेक्ट है, जो जुमेराह लेक टावर्स में स्थित है। इसमें स्टूडियो से लेकर 4 बेडरूम अपार्टमेंट और पेंटहाउस उपलब्ध हैं। ऑर्गेनिक डिज़ाइन और बड़े ग्लेज़िंग एरिया प्राकृतिक रोशनी को अधिकतम करते हैं, जबकि लोकेशन उत्कृष्ट कनेक्टिविटी प्रदान करती है।"
+  },
+
+  "promo_image": "/img/projects/mercer-house/promo.png",
+
+  "gallery": [
+    "/img/projects/mercer-house/gallery_1.png",
+    "/img/projects/mercer-house/gallery_2.png",
+    "/img/projects/mercer-house/gallery_3.png",
+    "/img/projects/mercer-house/gallery_4.png",
+    "/img/projects/mercer-house/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Uptown Dubai", "time": "5 min" },
+      { "name": "Dubai Marina", "time": "10 min" },
+      { "name": "Mall of the Emirates", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Uptown Dubai", "time": "5 мин" },
+      { "name": "Dubai Marina", "time": "10 мин" },
+      { "name": "Mall of the Emirates", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "أبتاون دبي", "time": "5 دقائق" },
+      { "name": "دبي مارينا", "time": "10 دقائق" },
+      { "name": "مول الإمارات", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अपटाउन दुबई", "time": "5 मिनट" },
+      { "name": "दुबई मरीना", "time": "10 मिनट" },
+      { "name": "मॉल ऑफ द एमिरेट्स", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Lake Towers, Dubai",
+      "ru": "Jumeirah Lake Towers, Дубай",
+      "ar": "أبراج بحيرات جميرا، دبي",
+      "hi": "जुमेराह लेक टावर्स, दुबई"
+    },
+    "lat": 25.0785,
+    "lng": 55.1403
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-lake-towers",
+    "developer": "ellington-properties",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 3200000,
+    "size_from_sqft": 513,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}

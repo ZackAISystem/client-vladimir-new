@@ -1,0 +1,150 @@
+{
+  "project_key": "capria-west",
+  "slug": "capria-west",
+
+  "name": {
+    "en": "Capria West",
+    "ru": "Capria West",
+    "ar": "كابريا ويست",
+    "hi": "कैप्रिया वेस्ट"
+  },
+
+  "developer": {
+    "en": "Majid Al Futtaim",
+    "ru": "Majid Al Futtaim",
+    "ar": "ماجد الفطيم",
+    "hi": "माजिद अल फुत्तैम"
+  },
+
+  "location_text": {
+    "en": "Ghaf Woods",
+    "ru": "Ghaf Woods",
+    "ar": "غاف وودز",
+    "hi": "घाफ वुड्स"
+  },
+
+  "hero_title": {
+    "en": "Capria West",
+    "ru": "Capria West",
+    "ar": "كابريا ويست",
+    "hi": "कैप्रिया वेस्ट"
+  },
+
+  "handover": {
+    "en": "May 2029",
+    "ru": "Май 2029",
+    "ar": "مايو 2029",
+    "hi": "मई 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1 BR | 2 BR | 3 BR",
+    "ru": "1 | 2 | 3 спальни",
+    "ar": "1 | 2 | 3 غرف نوم",
+    "hi": "1 | 2 | 3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 650 sqft",
+    "ru": "от 650 sqft",
+    "ar": "ابتداءً من 650 قدم²",
+    "hi": "650 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Capria West by Majid Al Futtaim is a nature-integrated residential phase within the Ghaf Woods masterplan, offering contemporary apartments and duplex residences surrounded by forest landscapes. Designed with sustainability at its core, the project combines smart home technology, energy-efficient materials and expansive balconies, delivering a refined lifestyle that balances eco-conscious living with seamless urban connectivity.",
+    "ru": "Capria West от Majid Al Futtaim — фаза жилого комплекса Ghaf Woods, сочетающая апартаменты и дуплексы в окружении природного ландшафта. Проект ориентирован на устойчивое развитие, smart-технологии и энергоэффективные решения.",
+    "ar": "كابريا ويست من ماجد الفطيم هو مشروع سكني ضمن مخطط غاف وودز، يضم شققاً ودوبلكسات عصرية محاطة بالطبيعة.",
+    "hi": "कैप्रिया वेस्ट, माजिद अल फुत्तैम द्वारा विकसित, घाफ वुड्स के भीतर स्थित एक प्रकृति-केंद्रित रेजिडेंशियल चरण है।"
+  },
+
+  "promo_image": "/img/projects/capria-west/promo.png",
+
+  "gallery": [
+    "/img/projects/capria-west/gallery_1.png",
+    "/img/projects/capria-west/gallery_2.png",
+    "/img/projects/capria-west/gallery_3.png",
+    "/img/projects/capria-west/gallery_4.png",
+    "/img/projects/capria-west/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "DXB Airport", "time": "30 min" },
+      { "name": "Dubai Marina", "time": "30 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт DXB", "time": "30 мин" },
+      { "name": "Dubai Marina", "time": "30 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "25 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "30 دقيقة" },
+      { "name": "مرسى دبي", "time": "30 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "30 मिनट" },
+      { "name": "दुबई मरीना", "time": "30 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Ghaf Woods",
+      "ru": "Ghaf Woods",
+      "ar": "غاف وودز",
+      "hi": "घाफ वुड्स"
+    },
+    "lat": 25.0712,
+    "lng": 55.2993
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "ghaf-woods",
+    "developer": "majid-al-futtaim",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2029,
+    "price_from_aed": 1500000,
+    "size_from_sqft": 650,
+    "tokens_extra": ["uae"]
+  }
+}

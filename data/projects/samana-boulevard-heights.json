@@ -1,0 +1,150 @@
+{
+  "project_key": "samana-boulevard-heights",
+  "slug": "samana-boulevard-heights",
+
+  "name": {
+    "en": "Samana Boulevard Heights",
+    "ru": "Samana Boulevard Heights",
+    "ar": "سمانا بوليفارد هايتس",
+    "hi": "समाना बुलेवार्ड हाइट्स"
+  },
+
+  "developer": {
+    "en": "Samana Developers",
+    "ru": "Samana Developers",
+    "ar": "سمانا للتطوير العقاري",
+    "hi": "समाना डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Land Residence Complex",
+    "ru": "Dubai Land Residence Complex",
+    "ar": "مجمع دبي لاند السكني",
+    "hi": "दुबईलैंड रेजिडेंस कॉम्प्लेक्स"
+  },
+
+  "hero_title": {
+    "en": "Samana Boulevard Heights",
+    "ru": "Samana Boulevard Heights",
+    "ar": "سمانا بوليفارد هايتس",
+    "hi": "समाना बुलेवार्ड हाइट्स"
+  },
+
+  "handover": {
+    "en": "August 2027",
+    "ru": "Август 2027",
+    "ar": "أغسطس 2027",
+    "hi": "अगस्त 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": ""
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio–3 BR",
+    "ru": "Студия–3 спальни",
+    "ar": "استوديو–3 غرف نوم",
+    "hi": "स्टूडियो–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "0 sqft",
+    "ru": "0 sqft",
+    "ar": "0 قدم²",
+    "hi": "0 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Samana Boulevard Heights in Dubai Land is a contemporary residential project by Samana Developers designed for modern urban living. The development combines elegant architecture, smart home technology and lifestyle amenities within a calm residential setting, offering residents a balanced environment with access to key Dubai destinations.",
+    "ru": "Samana Boulevard Heights в Dubai Land — современный жилой проект от Samana Developers, ориентированный на комфорт городской жизни. Комплекс объединяет стильную архитектуру, технологии «умный дом» и инфраструктуру для повседневного комфорта в спокойной жилой среде с удобным доступом к ключевым районам Дубая.",
+    "ar": "سمانا بوليفارد هايتس في دبي لاند هو مشروع سكني حديث من سمانا للتطوير العقاري مصمم للحياة الحضرية العصرية. يجمع بين الهندسة المعمارية الأنيقة وتقنيات المنزل الذكي ومرافق نمط الحياة ضمن بيئة سكنية هادئة مع سهولة الوصول إلى أهم وجهات دبي.",
+    "hi": "समाना बुलेवार्ड हाइट्स दुबईलैंड में समाना डेवलपर्स का आधुनिक रेजिडेंशियल प्रोजेक्ट है, जो समकालीन शहरी जीवन के लिए डिज़ाइन किया गया है। यह एलिगेंट आर्किटेक्चर, स्मार्ट होम टेक्नोलॉजी और लाइफस्टाइल सुविधाओं को शांत रेजिडेंशियल माहौल के साथ जोड़ता है, जिससे दुबई के प्रमुख क्षेत्रों तक आसान पहुँच मिलती है।"
+  },
+
+  "promo_image": "/img/projects/samana-boulevard-heights/promo.png",
+
+  "gallery": [
+    "/img/projects/samana-boulevard-heights/gallery_1.png",
+    "/img/projects/samana-boulevard-heights/gallery_2.png",
+    "/img/projects/samana-boulevard-heights/gallery_3.png",
+    "/img/projects/samana-boulevard-heights/gallery_4.png",
+    "/img/projects/samana-boulevard-heights/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "DXB Airport", "time": "22 min" },
+      { "name": "Dubai Marina", "time": "32 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт DXB", "time": "22 мин" },
+      { "name": "Dubai Marina", "time": "32 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "25 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "22 دقيقة" },
+      { "name": "مرسى دبي", "time": "32 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "22 मिनट" },
+      { "name": "दुबई मरीना", "time": "32 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Land Residence Complex",
+      "ru": "Dubai Land Residence Complex",
+      "ar": "مجمع دبي لاند السكني",
+      "hi": "दुबईलैंड रेजिडेंस कॉम्प्लेक्स"
+    },
+    "lat": 25.092722,
+    "lng": 55.381155
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-land-residence-complex",
+    "developer": "samana-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 0,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "dubailand", "smart-home", "investment"]
+  }
+}

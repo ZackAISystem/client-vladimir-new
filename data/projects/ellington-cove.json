@@ -1,0 +1,150 @@
+{
+  "project_key": "ellington-cove",
+  "slug": "ellington-cove",
+
+  "name": {
+    "en": "Ellington Cove",
+    "ru": "Ellington Cove",
+    "ar": "إلينغتون كوف",
+    "hi": "एलिंगटन कोव"
+  },
+
+  "developer": {
+    "en": "Ellington Properties",
+    "ru": "Ellington Properties",
+    "ar": "إلينغتون العقارية",
+    "hi": "एलिंगटन प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands",
+    "ru": "Dubai Islands",
+    "ar": "جزر دبي",
+    "hi": "दुबई आइलैंड्स"
+  },
+
+  "hero_title": {
+    "en": "Ellington Cove",
+    "ru": "Ellington Cove",
+    "ar": "إلينغتون كوف",
+    "hi": "एलिंगटन कोव"
+  },
+
+  "handover": {
+    "en": "June 2028",
+    "ru": "Июнь 2028",
+    "ar": "يونيو 2028",
+    "hi": "जून 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,900,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 816 sqft",
+    "ru": "от 816 sqft",
+    "ar": "ابتداءً من 816 قدم²",
+    "hi": "816 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Ellington Cove by Ellington Properties is a premium waterfront development located on Dubai Islands. The project features a curated collection of 1 to 4-bedroom apartments, duplexes, and penthouses designed with Ellington’s signature contemporary aesthetic and attention to detail. Residences offer expansive layouts, refined interiors, and panoramic views of the sea and Dubai skyline. Positioned within the Dubai Islands masterplan, Ellington Cove combines coastal tranquility with convenient access to the city’s key destinations.",
+    "ru": "Ellington Cove от Ellington Properties — премиальный жилой проект на Dubai Islands. В комплексе представлены апартаменты с 1–4 спальнями, дуплексы и пентхаусы с современным дизайном и продуманными деталями. Просторные планировки и панорамные виды на море формируют атмосферу островной жизни с удобным доступом к ключевым районам города.",
+    "ar": "إلينغتون كوف من تطوير إلينغتون العقارية هو مشروع سكني فاخر على جزر دبي. يضم شققاً من 1 إلى 4 غرف نوم، بالإضافة إلى دوبلكسات وبنتهاوس بتصميم عصري وإطلالات بانورامية على البحر. يوفر المشروع توازناً بين هدوء الحياة الساحلية وسهولة الوصول إلى وجهات دبي الرئيسية.",
+    "hi": "एलिंगटन प्रॉपर्टीज द्वारा विकसित एलिंगटन कोव दुबई आइलैंड्स में स्थित एक प्रीमियम वाटरफ्रंट रेजिडेंशियल प्रोजेक्ट है। इसमें 1 से 4 बेडरूम अपार्टमेंट, डुप्लेक्स और पेंटहाउस शामिल हैं। आधुनिक डिज़ाइन और समुद्र के पैनोरमिक दृश्य इसे विशिष्ट बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/ellington-cove/promo.png",
+
+  "gallery": [
+    "/img/projects/ellington-cove/gallery_1.png",
+    "/img/projects/ellington-cove/gallery_2.png",
+    "/img/projects/ellington-cove/gallery_3.png",
+    "/img/projects/ellington-cove/gallery_4.png",
+    "/img/projects/ellington-cove/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Islands Beach", "time": "3 min" },
+      { "name": "Deira Waterfront", "time": "10 min" },
+      { "name": "DXB Airport", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Пляж Dubai Islands", "time": "3 мин" },
+      { "name": "Deira Waterfront", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "شاطئ جزر دبي", "time": "3 دقائق" },
+      { "name": "واجهة ديرة البحرية", "time": "10 دقائق" },
+      { "name": "مطار دبي DXB", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई आइलैंड्स बीच", "time": "3 मिनट" },
+      { "name": "देइरा वाटरफ्रंट", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands, Dubai",
+      "ru": "Dubai Islands, Дубай",
+      "ar": "جزر دبي، دبي",
+      "hi": "दुबई आइलैंड्स, दुबई"
+    },
+    "lat": 25.3200,
+    "lng": 55.3470
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "ellington-properties",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2028,
+    "price_from_aed": 1900000,
+    "size_from_sqft": 816,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}

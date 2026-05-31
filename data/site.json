@@ -1,0 +1,699 @@
+{
+  "brand": {
+    "name": "Vladimir Maksimov",
+    "logo_header": "",
+    "logo_footer": ""
+  },
+  "contacts": {
+    "phone": {
+      "label": "+971 50 224 7701",
+      "href": "tel:+971502247701"
+    },
+    "email": {
+      "label": "",
+      "href": ""
+    },
+    "whatsapp": {
+      "label": "WhatsApp",
+      "href": "https://wa.me/971502247701"
+    }
+  },
+  "whatsapp": {
+    "phone": "971502247701"
+  },
+  "wa_routing": {
+    "ru": {
+      "phones": [
+        "971502247701"
+      ]
+    },
+    "en": {
+      "phones": [
+        "971502247701"
+      ]
+    },
+    "ar": {
+      "phones": [
+        "971502247701"
+      ]
+    },
+    "hi": {
+      "phones": [
+        "971502247701"
+      ]
+    }
+  },
+  "ui_i18n": {
+    "en": {
+      "cta_get": "Find",
+      "search": "Search",
+      "request_call": "Request a call",
+      "calc_mortgage": "Calculate mortgage",
+      "get_pdf": "Get full project PDF",
+      "nearby": "Nearby landmarks",
+      "location": "Location",
+      "handover": "Handover",
+      "price_from": "Price From",
+      "details": "Details",
+      "developer": "Developer",
+      "property_type": "Property Type",
+      "unit_type": "Unit Type",
+      "size": "Size (sqft)",
+      "down_payment": "Down Payment",
+      "payment_plan": "Payment Plan",
+      "description": "Description",
+      "home_caption": "Sicemco AI search across premium UAE real estate opportunities",
+      "search_placeholder": "Ask Sicemco AI about UAE property investments…",
+      "clear": "Clear",
+      "results_search_placeholder": "Type your search…",
+      "dubai": "Dubai",
+      "abu_dhabi": "Abu Dhabi",
+      "sharjah": "Sharjah",
+      "ras_al_khaimah": "Ras Al Khaimah",
+      "typing_examples": [
+        "Show me Dubai investment properties with strong ROI",
+        "Find luxury off-plan projects for capital growth",
+        "Compare Palm Jumeirah and Downtown Dubai investments"
+      ]
+    },
+    "ru": {
+      "cta_get": "Найти",
+      "search": "Поиск",
+      "request_call": "Заказать звонок",
+      "calc_mortgage": "Рассчитать ипотеку",
+      "get_pdf": "PDF проекта",
+      "nearby": "Рядом",
+      "location": "Локация",
+      "handover": "Сдача",
+      "price_from": "Цена от",
+      "details": "Детали",
+      "developer": "Застройщик",
+      "property_type": "Тип недвижимости",
+      "unit_type": "Тип юнитов",
+      "size": "Площадь (sqft)",
+      "down_payment": "Первый взнос",
+      "payment_plan": "План оплаты",
+      "description": "Описание",
+      "home_caption": "Sicemco AI поиск по премиальной недвижимости ОАЭ",
+      "search_placeholder": "Спросите Sicemco AI об инвестициях в недвижимость ОАЭ…",
+      "clear": "Очистить",
+      "results_search_placeholder": "Введите ваш запрос…",
+      "dubai": "Дубай",
+      "abu_dhabi": "Абу-Даби",
+      "sharjah": "Шарджа",
+      "ras_al_khaimah": "Рас-эль-Хайма",
+      "typing_examples": [
+        "Покажи инвестиционные проекты в Дубае с сильным ROI",
+        "Найди премиальные off-plan объекты для роста капитала",
+        "Сравни инвестиции на Palm Jumeirah и в Downtown Dubai"
+      ]
+    },
+    "ar": {
+      "cta_get": "ابحث",
+      "search": "بحث",
+      "request_call": "طلب مكالمة",
+      "calc_mortgage": "حساب الرهن",
+      "get_pdf": "احصل على ملف PDF للمشروع",
+      "nearby": "معالم قريبة",
+      "location": "الموقع",
+      "handover": "التسليم",
+      "price_from": "السعر من",
+      "details": "التفاصيل",
+      "developer": "المطور",
+      "property_type": "نوع العقار",
+      "unit_type": "نوع الوحدات",
+      "size": "المساحة (قدم²)",
+      "down_payment": "الدفعة الأولى",
+      "payment_plan": "خطة الدفع",
+      "description": "الوصف",
+      "home_caption": "بحث Sicemco AI ضمن فرص العقارات الفاخرة في الإمارات",
+      "search_placeholder": "اسأل Sicemco AI عن استثمارات العقارات في الإمارات…",
+      "clear": "مسح",
+      "results_search_placeholder": "اكتب بحثك…",
+      "dubai": "دبي",
+      "abu_dhabi": "أبوظبي",
+      "sharjah": "الشارقة",
+      "ras_al_khaimah": "رأس الخيمة",
+      "typing_examples": [
+        "اعرض عقارات استثمارية في دبي بعائد قوي",
+        "ابحث عن مشاريع فاخرة على المخطط لنمو رأس المال",
+        "قارن استثمارات نخلة جميرا ووسط مدينة دبي"
+      ]
+    },
+    "hi": {
+      "cta_get": "खोजें",
+      "search": "खोज",
+      "request_call": "कॉल रिक्वेस्ट करें",
+      "calc_mortgage": "मॉर्गेज कैलकुलेट करें",
+      "get_pdf": "प्रोजेक्ट PDF प्राप्त करें",
+      "nearby": "नज़दीकी स्थान",
+      "location": "लोकेशन",
+      "handover": "हैंडओवर",
+      "price_from": "कीमत से",
+      "details": "डिटेल्स",
+      "developer": "डेवलपर",
+      "property_type": "प्रॉपर्टी टाइप",
+      "unit_type": "यूनिट टाइप",
+      "size": "साइज़ (sqft)",
+      "down_payment": "डाउन पेमेंट",
+      "payment_plan": "पेमेंट प्लान",
+      "description": "विवरण",
+      "home_caption": "UAE की प्रीमियम रियल एस्टेट अवसरों में Sicemco AI खोज",
+      "search_placeholder": "UAE property investments के बारे में Sicemco AI से पूछें…",
+      "clear": "क्लियर",
+      "results_search_placeholder": "अपनी खोज लिखें…",
+      "dubai": "दुबई",
+      "abu_dhabi": "अबू धाबी",
+      "sharjah": "शारजाह",
+      "ras_al_khaimah": "रस अल खैमाह",
+      "typing_examples": [
+        "मजबूत ROI वाली Dubai investment properties दिखाएँ",
+        "Capital growth के लिए luxury off-plan projects खोजें",
+        "Palm Jumeirah और Downtown Dubai investments की तुलना करें"
+      ]
+    }
+  },
+  "project_cta_pdf": {
+    "label": "Get full project PDF",
+    "messages": {
+      "en": "Hello! I’m interested in the project {project} via Vladimir Maksimov AI System and would like more details and the full PDF. Project link: {url}",
+      "ru": "Здравствуйте! Меня интересует проект {project} через Vladimir Maksimov AI System. Хочу получить более подробную информацию и полный PDF. Ссылка на проект: {url}",
+      "ar": "مرحبًا! أنا مهتم بمشروع {project} عبر Vladimir Maksimov AI System وأرغب في الحصول على مزيد من التفاصيل وملف PDF الكامل. رابط المشروع: {url}",
+      "hi": "नमस्ते! मुझे Vladimir Maksimov AI System के माध्यम से {project} प्रोजेक्ट में रुचि है और मैं अधिक जानकारी और पूरा PDF प्राप्त करना चाहता/चाहती हूँ। प्रोजेक्ट लिंक: {url}"
+    }
+  },
+  "project_cta_call": {
+    "label": "Request a call",
+    "messages": {
+      "en": "Hello! Please call me back regarding the project {project} via Vladimir Maksimov AI System. Project link: {url}",
+      "ru": "Здравствуйте! Пожалуйста, перезвоните мне по проекту {project} через Vladimir Maksimov AI System. Ссылка на проект: {url}",
+      "ar": "مرحبًا! من فضلك اتصل بي بخصوص مشروع {project} عبر Vladimir Maksimov AI System. رابط المشروع: {url}",
+      "hi": "नमस्ते! कृपया Vladimir Maksimov AI System के माध्यम से {project} प्रोजेक्ट के बारे में मुझे कॉल बैक करें। प्रोजेक्ट लिंक: {url}"
+    }
+  },
+  "address": {
+    "text": "Dubai, UAE"
+  },
+  "socials": [
+    {
+      "name": "Instagram",
+      "icon": "/icons/instagram.png",
+      "url": "https://www.instagram.com/vladimir.maksimov/"
+    },
+    {
+      "name": "LinkedIn",
+      "icon": "/icons/linkedin.png",
+      "url": "https://www.linkedin.com/in/vladimir-maksimov-a1b259296/"
+    },
+    {
+      "name": "WhatsApp",
+      "icon": "/icons/whatsapp.png",
+      "url": "https://wa.me/971502247701"
+    }
+  ],
+  "footer": {
+    "title": "UAE property investments, guided by real advisory",
+    "subtitle": "Sicemco AI System helps clients move from broad interest to the right project, district, developer and investment logic — faster, cleaner and with Vladimir Maksimov’s advisory focus.",
+    "chips": [
+      "UAE off-plan",
+      "Sicemco AI",
+      "Private advisory"
+    ],
+    "copyright": "© Vladimir Maksimov — All rights reserved"
+  },
+  "home": {
+    "hero": {
+      "header": {
+        "badge": "VLADIMIR MAKSIMOV",
+        "nav_aria": "Main navigation",
+        "nav": [
+          {
+            "label": "Top projects",
+            "href": "#projects",
+            "active": true
+          },
+          {
+            "label": "Investment",
+            "href": "#intent",
+            "active": false
+          },
+          {
+            "label": "AI search",
+            "href": "#search",
+            "active": false
+          },
+          {
+            "label": "Contact",
+            "href": "#contact",
+            "active": false
+          }
+        ],
+        "cta": {
+          "label": "Book a call",
+          "href": "#generalLeadModal"
+        }
+      },
+      "name": "Vladimir Maksimov",
+      "role": "CEO at Sicemco Real Estate",
+      "lead": "Dubai-based real estate investment strategist focused on commercial, residential and waterfront properties across the UAE, helping clients choose opportunities by budget, location and investment goals.",
+      "image": {
+        "src": "/img/personal/vladimir-hero.png",
+        "alt": "Vladimir Maksimov, Senior Investment Advisor in UAE real estate"
+      },
+      "insight_card": {
+        "title": "UAE Market Insights in 2026",
+        "rotation_interval": 3600,
+        "items": [
+          {
+            "headline": "Not every property is appreciating in value",
+            "text": "Demand is increasingly concentrated around liquid assets, limited supply, and strong infrastructure."
+          },
+          {
+            "headline": "Returns matter more than marketing",
+            "text": "A strong investment is defined by numbers, the right entry point, and growth potential — not by a project presentation."
+          },
+          {
+            "headline": "The market is becoming more selective",
+            "text": "The gap between strong and weak assets is becoming increasingly visible — especially as supply continues to grow."
+          },
+          {
+            "headline": "Institutional capital is reshaping the market",
+            "text": "Major institutional players are increasing competition for high-quality assets across the UAE, particularly within the prime segment."
+          }
+        ]
+      },
+      "track_card": {
+        "eyebrow": "Personal track record",
+        "aria": "Vladimir Maksimov investment advisory track record",
+        "stats": [
+          {
+            "value": "10",
+            "label": "years in real estate"
+          },
+          {
+            "value": "300+",
+            "label": "completed transactions"
+          },
+          {
+            "value": "$100M+",
+            "label": "closed sales volume"
+          },
+          {
+            "value": "$50M+",
+            "label": "assets under management"
+          }
+        ]
+      },
+      "cta_primary": {
+        "label": "Start with Vladimir",
+        "href": "#search"
+      },
+      "cta_secondary": {
+        "label": "Investment approach",
+        "href": "#intent"
+      },
+      "cta_tertiary": {
+        "label": "Private consultation",
+        "href": "#generalLeadModal"
+      },
+      "cta_results": {
+        "label": "Dubai Investment Cases & Client Results",
+        "href": "#cases"
+      },
+      "title": "UAE real estate investments matched to your goals",
+      "subtitle": "Explore premium off-plan projects, districts and developers in Dubai, Abu Dhabi and across the UAE — guided by investment logic, lifestyle fit and private advisory.",
+      "featured": {
+        "aria": "Featured project",
+        "image": "/img/hero/atelis-featured.jpg",
+        "alt": "Atelis by Meraas in Dubai Design District",
+        "title": "Atelis",
+        "meta": "Dubai Design District · Meraas Holding · July 2029",
+        "price": "from AED 2.1M",
+        "controls_aria": "Featured project controls",
+        "prev_label": "Previous project",
+        "next_label": "Next project"
+      },
+      "featured_projects": [
+        {
+          "image": "/img/hero/atelis-featured.jpg",
+          "alt": "Atelis by Meraas in Dubai Design District",
+          "title": "Atelis",
+          "meta": "Dubai Design District · Meraas Holding · July 2029",
+          "price": "from AED 2.1M"
+        },
+        {
+          "image": "/img/hero/alba-featured.jpg",
+          "alt": "The Alba Residences Dorchester Collection on Palm Jumeirah",
+          "title": "The Alba Residences",
+          "meta": "Palm Jumeirah · Omniyat Group · March 2028",
+          "price": "from AED 43M"
+        },
+        {
+          "image": "/img/hero/baccarat-featured.jpg",
+          "alt": "Baccarat Residences in Downtown Dubai",
+          "title": "Baccarat Residences",
+          "meta": "Downtown Dubai · H&H Development · May 2027",
+          "price": "from AED 18M"
+        }
+      ],
+      "search": {
+        "aria": "Sicemco AI property investment search",
+        "search_icon": "/img/search.png",
+        "voice_icon": "/img/voice.png",
+        "placeholder": "Ask Sicemco AI about UAE property investments…",
+        "button": "Find",
+        "chips": [
+          {
+            "label": "Dubai ROI",
+            "query": "Show me Dubai investment properties with strong ROI"
+          },
+          {
+            "label": "Abu Dhabi",
+            "query": "Find premium investment homes in Abu Dhabi"
+          },
+          {
+            "label": "Sea view",
+            "query": "Show me UAE waterfront properties with capital growth"
+          },
+          {
+            "label": "Payment plan",
+            "query": "Find investment projects with flexible payment plans"
+          },
+          {
+            "label": "Under AED 2M",
+            "query": "Show me Dubai investment options under AED 2M"
+          }
+        ],
+        "caption": "Sicemco AI search across premium UAE real estate opportunities",
+        "typing_examples": [
+          "Show me Dubai investment properties with strong ROI",
+          "Find luxury off-plan projects for capital growth",
+          "Compare Palm Jumeirah and Downtown Dubai investments"
+        ]
+      }
+    },
+    "cases": {
+      "id": "cases",
+      "eyebrow": "Dubai investment cases",
+      "title": "Dubai Investment Cases & Client Results",
+      "subtitle": "Examples of Dubai property investment cases showing capital growth ranging from 54% to 74% on invested equity.",
+      "disclaimer": "*Presentation-ready Dubai case examples based on realistic market scenarios. Replace or verify figures against confirmed transaction records before publishing as actual client results.",
+      "cards_aria": "Dubai property investment case examples",
+      "rotation_interval": 3800,
+      "items": [
+        {
+          "title": "Downtown Views II, Downtown Dubai",
+          "type": "1-bedroom apartment",
+          "roi": "+74% ROI",
+          "period": "22 months",
+          "purchase_price": "AED 1.55M",
+          "invested_capital": "AED 620K",
+          "sale_price": "AED 2.01M",
+          "query": "Explain the Downtown Views II Dubai investment case with 74% ROI"
+        },
+        {
+          "title": "Palm Beach Towers, Palm Jumeirah",
+          "type": "2-bedroom apartment",
+          "roi": "+65% ROI",
+          "period": "26 months",
+          "purchase_price": "AED 4.35M",
+          "invested_capital": "AED 1.74M",
+          "sale_price": "AED 5.48M",
+          "query": "Explain the Palm Beach Towers Palm Jumeirah case with 65% ROI"
+        },
+        {
+          "title": "Peninsula Three, Business Bay",
+          "type": "1-bedroom apartment",
+          "roi": "+60% ROI",
+          "period": "18 months",
+          "purchase_price": "AED 1.29M",
+          "invested_capital": "AED 645K",
+          "sale_price": "AED 1.68M",
+          "query": "Explain the Peninsula Three Business Bay investment case with 60% ROI"
+        },
+        {
+          "title": "Marina Vista, Emaar Beachfront",
+          "type": "2-bedroom apartment",
+          "roi": "+59% ROI",
+          "period": "24 months",
+          "purchase_price": "AED 2.45M",
+          "invested_capital": "AED 1.23M",
+          "sale_price": "AED 3.18M",
+          "query": "Explain the Marina Vista Emaar Beachfront case with 59% ROI"
+        },
+        {
+          "title": "Elvira, Dubai Hills Estate",
+          "type": "2-bedroom apartment",
+          "roi": "+56% ROI",
+          "period": "20 months",
+          "purchase_price": "AED 1.83M",
+          "invested_capital": "AED 915K",
+          "sale_price": "AED 2.34M",
+          "query": "Explain the Elvira Dubai Hills Estate investment case with 56% ROI"
+        },
+        {
+          "title": "Waves Grande, Sobha Hartland",
+          "type": "1-bedroom apartment",
+          "roi": "+54% ROI",
+          "period": "14 months",
+          "purchase_price": "AED 1.22M",
+          "invested_capital": "AED 610K",
+          "sale_price": "AED 1.55M",
+          "query": "Explain the Waves Grande Sobha Hartland case with 54% ROI"
+        }
+      ],
+      "ask": {
+        "badge": "Sicemco AI",
+        "aria": "Ask Sicemco AI about Dubai investment cases",
+        "placeholder": "Ask about ROI, entry price, area, liquidity or exit timing…",
+        "button": "Ask",
+        "quick_aria": "Dubai investment case quick prompts",
+        "typing_examples": [
+          "Which Dubai case had the strongest ROI on invested capital?",
+          "Compare Palm Jumeirah and Downtown Dubai investment exits",
+          "Show me cases with strong liquidity and capital growth",
+          "Which transaction had the fastest exit?"
+        ],
+        "quick_examples": [
+          {
+            "label": "Best ROI",
+            "query": "Which Dubai investment case had the strongest ROI?"
+          },
+          {
+            "label": "Fastest exit",
+            "query": "Which Dubai case had the fastest exit timing?"
+          },
+          {
+            "label": "Capital growth",
+            "query": "Show me Dubai cases with strong capital growth"
+          }
+        ]
+      }
+    },
+    "top_projects": {
+      "eyebrow": "Curated by Sicemco AI",
+      "title": "Top projects",
+      "subtitle": "A concise selection of premium UAE projects — beach, city, investment and lifestyle options matched to real investor intent.",
+      "cards": [
+        {
+          "slug": "passo-by-beyond",
+          "image": "/img/top_projects/passo-featured.jpg",
+          "alt": "Passo by Beyond on Palm Jumeirah",
+          "title": "Passo by Beyond",
+          "meta": "Palm Jumeirah · Beachfront living",
+          "price": "from AED 8.8M",
+          "tags": [
+            "Sea view",
+            "Ultra luxury"
+          ]
+        },
+        {
+          "slug": "peninsula-dubai-residences",
+          "image": "/img/top_projects/peninsula-featured.jpg",
+          "alt": "Peninsula Dubai Residences in Jumeirah 2",
+          "title": "Peninsula Dubai Residences",
+          "meta": "Jumeirah 2 · Coastal luxury",
+          "price": "from AED 18M",
+          "tags": [
+            "Jumeirah",
+            "Luxury"
+          ]
+        },
+        {
+          "slug": "orla-by-omniyat",
+          "image": "/img/top_projects/orla-featured.jpg",
+          "alt": "Orla by Omniyat on Palm Jumeirah",
+          "title": "Orla by Omniyat",
+          "meta": "Palm Jumeirah · Waterfront residences",
+          "price": "from AED 24M",
+          "tags": [
+            "Waterfront",
+            "Ultra luxury"
+          ]
+        },
+        {
+          "slug": "iconic-residences",
+          "image": "/img/top_projects/iconic-featured.jpg",
+          "alt": "Iconic Residences in Dubai Internet City",
+          "title": "Iconic Residences",
+          "meta": "Dubai Internet City · City views",
+          "price": "from AED 2.5M",
+          "tags": [
+            "Business",
+            "City views"
+          ]
+        }
+      ],
+      "ask": {
+        "collapsed_label": "Ask Sicemco AI",
+        "badge": "Sicemco AI",
+        "aria": "Ask Sicemco AI about top projects",
+        "placeholder": "Ask about top projects, ROI, budget or location…",
+        "button": "Ask",
+        "typing_examples": [
+          "Which top project fits a long-term investor?",
+          "Compare Palm Jumeirah projects under AED 10M",
+          "Show me investment-focused projects in Dubai",
+          "Find premium waterfront homes with payment plans"
+        ]
+      }
+    },
+    "top_developers": {
+      "eyebrow": "Developer intelligence",
+      "title": "Top developers",
+      "subtitle": "Trusted UAE developers behind landmark communities, luxury residences and long-term investment value.",
+      "cards": [
+        {
+          "key": "omniyat",
+          "image": "/img/top_developers/omniyat.jpg",
+          "alt": "Omniyat Group luxury real estate developer in Dubai",
+          "founded": "Founded in 2005",
+          "title": "Omniyat Group",
+          "description": "A Gulf region real estate innovator known for art-led design, ultra-luxury residences, apartments and penthouses.",
+          "tags": [
+            "Design-led",
+            "Ultra luxury",
+            "Dubai"
+          ]
+        },
+        {
+          "key": "emaar",
+          "image": "/img/top_developers/emaar.jpg",
+          "alt": "Emaar Properties developer in Dubai",
+          "founded": "Founded in 1997",
+          "title": "Emaar Properties",
+          "description": "The Dubai real estate giant behind Burj Khalifa and Dubai Mall, known for landmark communities and high standards.",
+          "tags": [
+            "Landmarks",
+            "Communities",
+            "Dubai"
+          ]
+        },
+        {
+          "key": "aldar",
+          "image": "/img/top_developers/aldar.jpg",
+          "alt": "Aldar Properties developer in Abu Dhabi",
+          "founded": "Founded in 2004",
+          "title": "Aldar Properties",
+          "description": "Abu Dhabi’s premier developer, shaping world-class communities and luxurious living experiences across the capital.",
+          "tags": [
+            "Abu Dhabi",
+            "Communities",
+            "Lifestyle"
+          ]
+        }
+      ],
+      "ask": {
+        "collapsed_label": "Ask Sicemco AI",
+        "badge": "Sicemco AI",
+        "aria": "Ask Sicemco AI about UAE developers",
+        "placeholder": "Ask about Emaar, Omniyat, Aldar or developer reputation…",
+        "button": "Ask",
+        "typing_examples": [
+          "Which developer is best for waterfront luxury?",
+          "Compare Emaar and Omniyat from an investment view",
+          "Show me Aldar communities with long-term value",
+          "Which UAE developer is strongest for capital growth?"
+        ]
+      }
+    },
+    "intent_block": {
+      "eyebrow": "Investment intent routes",
+      "title": "Explore by investment intent",
+      "subtitle": "Start from the real question: budget, ROI, lifestyle, district, developer, family needs or capital growth — then Sicemco AI routes the client to matching UAE projects.",
+      "routes_aria": "Popular buyer intent routes",
+      "note": "Each route opens a real investment path: area pages, developer logic, budget filters and project recommendations.",
+      "routes": [
+        {
+          "label": "Best ROI areas",
+          "meta": "Investment",
+          "query": "Show me the best ROI areas in Dubai and Abu Dhabi"
+        },
+        {
+          "label": "Capital growth projects",
+          "meta": "Long-term value",
+          "query": "Find UAE projects with strong capital growth potential"
+        },
+        {
+          "label": "Sea view apartments",
+          "meta": "Waterfront",
+          "query": "Show me sea view apartments in Dubai and Abu Dhabi"
+        },
+        {
+          "label": "Payment plan projects",
+          "meta": "Budget logic",
+          "query": "Find off-plan projects with flexible payment plans"
+        },
+        {
+          "label": "Dubai under AED 2M",
+          "meta": "Entry budget",
+          "query": "Show me Dubai investment projects under AED 2M"
+        },
+        {
+          "label": "Abu Dhabi luxury",
+          "meta": "Capital lifestyle",
+          "query": "Find luxury projects in Abu Dhabi near waterfront areas"
+        },
+        {
+          "label": "Top developers",
+          "meta": "Trust",
+          "query": "Compare Emaar, Aldar and Omniyat projects"
+        },
+        {
+          "label": "Best districts to invest",
+          "meta": "Area match",
+          "query": "Which UAE districts are best for investment and long-term value?"
+        }
+      ],
+      "ask": {
+        "eyebrow": "Natural language investment search",
+        "title": "Ask Sicemco AI",
+        "subtitle": "Describe what the client wants in plain language. The system detects intent, area, budget, lifestyle and investment logic, then routes the request to the right project.",
+        "badge": "Sicemco AI",
+        "aria": "Ask Sicemco AI by investment intent",
+        "placeholder": "Ask by area, budget, ROI or investment goal…",
+        "button": "Ask",
+        "typing_examples": [
+          "Find a family apartment with investment value in Dubai",
+          "Which areas are best for ROI under AED 2M?",
+          "Compare waterfront projects in Dubai and Abu Dhabi",
+          "Show me trusted developers with flexible payment plans"
+        ],
+        "quick_examples": [
+          {
+            "label": "ROI under AED 2M",
+            "query": "Which UAE areas have strong ROI under AED 2M?"
+          },
+          {
+            "label": "Capital growth",
+            "query": "Find projects with strong long-term capital growth"
+          },
+          {
+            "label": "Waterfront value",
+            "query": "Show me waterfront projects with investment value"
+          }
+        ]
+      }
+    }
+  }
+}

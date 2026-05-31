@@ -1,0 +1,150 @@
+{
+  "project_key": "ghaf-woods",
+  "slug": "ghaf-woods",
+
+  "name": {
+    "en": "Ghaf Woods",
+    "ru": "Ghaf Woods",
+    "ar": "غاف وودز",
+    "hi": "गाफ वुड्स"
+  },
+
+  "developer": {
+    "en": "Majid Al Futtaim",
+    "ru": "Majid Al Futtaim",
+    "ar": "ماجد الفطيم",
+    "hi": "माजिद अल फुत्तैम"
+  },
+
+  "location_text": {
+    "en": "Ghaf Woods, Dubai Land",
+    "ru": "Ghaf Woods, Dubai Land",
+    "ar": "غاف وودز، دبي لاند",
+    "hi": "गाफ वुड्स, दुबई लैंड"
+  },
+
+  "hero_title": {
+    "en": "Ghaf Woods",
+    "ru": "Ghaf Woods",
+    "ar": "غاف وودز",
+    "hi": "गाफ वुड्स"
+  },
+
+  "handover": {
+    "en": "July 2029",
+    "ru": "Июль 2029",
+    "ar": "يوليو 2029",
+    "hi": "जुलाई 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,500,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Ghaf Woods by Majid Al Futtaim is a forest-inspired residential community in Dubai Land designed around preserved ghaf trees and sustainable living. The project offers 1 to 3-bedroom apartments and duplexes surrounded by landscaped green corridors and wellness-focused amenities. Positioned as one of Dubai’s greenest districts, it combines nature, smart planning and long-term investment appeal.",
+    "ru": "Ghaf Woods от Majid Al Futtaim — жилой проект в Dubai Land, созданный вокруг сохранённых деревьев гаф и концепции экологичного проживания. В комплексе представлены апартаменты и дуплексы с 1–3 спальнями среди зелёных бульваров и инфраструктуры для активной жизни. Район позиционируется как один из самых зелёных в Дубае.",
+    "ar": "غاف وودز من ماجد الفطيم هو مجتمع سكني مستوحى من الطبيعة في دبي لاند، يتمحور حول أشجار الغاف المحفوظة والحياة المستدامة. يضم شققاً ودوبلكسات من 1 إلى 3 غرف نوم ضمن مساحات خضراء ومرافق تركز على أسلوب حياة صحي ومتوازن.",
+    "hi": "गाफ वुड्स माजिद अल फुत्तैम द्वारा विकसित दुबई लैंड में स्थित एक प्रकृति-प्रेरित रेजिडेंशियल कम्युनिटी है। इसमें 1 से 3 बेडरूम अपार्टमेंट और डुप्लेक्स शामिल हैं, जो संरक्षित गाफ पेड़ों और हरित परिदृश्य के बीच स्थित हैं। यह परियोजना सतत जीवनशैली और दीर्घकालिक निवेश क्षमता पर केंद्रित है।"
+  },
+
+  "promo_image": "/img/projects/ghaf-woods/promo.png",
+
+  "gallery": [
+    "/img/projects/ghaf-woods/gallery_1.png",
+    "/img/projects/ghaf-woods/gallery_2.png",
+    "/img/projects/ghaf-woods/gallery_3.png",
+    "/img/projects/ghaf-woods/gallery_4.png",
+    "/img/projects/ghaf-woods/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Global Village", "time": "10 min" },
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Global Village", "time": "10 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "القرية العالمية", "time": "10 دقائق" },
+      { "name": "وسط مدينة دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "ग्लोबल विलेज", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Ghaf Woods, Dubai Land, Dubai",
+      "ru": "Ghaf Woods, Dubai Land, Дубай",
+      "ar": "غاف وودز، دبي لاند، دبي",
+      "hi": "गाफ वुड्स, दुबई लैंड, दुबई"
+    },
+    "lat": 25.0850,
+    "lng": 55.3050
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "ghaf-woods",
+    "developer": "majid-al-futtaim",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2029,
+    "price_from_aed": 1500000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "green-community", "family", "eco"]
+  }
+}

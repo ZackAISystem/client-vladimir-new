@@ -1,0 +1,150 @@
+{
+  "project_key": "soulever-by-beyond",
+  "slug": "soulever-by-beyond",
+
+  "name": {
+    "en": "Soulever by Beyond",
+    "ru": "Soulever by Beyond",
+    "ar": "سوليفر من بيوند",
+    "hi": "बियॉन्ड द्वारा सूलिवर"
+  },
+
+  "developer": {
+    "en": "Beyond",
+    "ru": "Beyond",
+    "ar": "بيوند",
+    "hi": "बियॉन्ड"
+  },
+
+  "location_text": {
+    "en": "Dubai Maritime City",
+    "ru": "Dubai Maritime City",
+    "ar": "مدينة دبي الملاحية",
+    "hi": "दुबई मैरीटाइम सिटी"
+  },
+
+  "hero_title": {
+    "en": "Soulever",
+    "ru": "Soulever",
+    "ar": "سوليفر",
+    "hi": "सूलिवर"
+  },
+
+  "handover": {
+    "en": "January 2029",
+    "ru": "Январь 2029",
+    "ar": "يناير 2029",
+    "hi": "जनवरी 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,530,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–5 BR",
+    "ru": "1–5 спален",
+    "ar": "1–5 غرف نوم",
+    "hi": "1–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "830 sqft",
+    "ru": "830 sqft",
+    "ar": "830 قدم²",
+    "hi": "830 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "50/50",
+    "ru": "50/50",
+    "ar": "50/50",
+    "hi": "50/50"
+  },
+
+  "description": {
+    "en": "Soulever by Beyond is a waterfront off-plan development in Dubai Maritime City with 1–3 bedroom apartments, 4-bedroom duplexes and 5-bedroom penthouses. Homes feature high ceilings (about 3.2 m), floor-to-ceiling glazing, contemporary layouts and turnkey-style finishes with built-in furnishings and appliances. The project is designed around resort-like amenities and strong connectivity to key Dubai destinations, with a 50/50 payment plan and an expected handover in January 2029.",
+    "ru": "Soulever by Beyond — прибрежный off-plan проект в Dubai Maritime City с апартаментами 1–3 спальни, дуплексами 4 спальни и пентхаусами 5 спален. Планировки ориентированы на свет и пространство: высокие потолки (около 3,2 м), панорамное остекление, современные зоны кухни/гостиной, «turnkey» отделка с встроенной мебелью и техникой. Проект поддержан курортной инфраструктурой и удобной логистикой по Дубаю; план оплаты 50/50, ввод ожидается в январе 2029.",
+    "ar": "سوليفر من بيوند مشروع سكني على الواجهة البحرية في مدينة دبي الملاحية يضم شقق 1–3 غرف نوم ودوبلكسات 4 غرف وبنتهاوس 5 غرف. يتميز بارتفاعات سقف كبيرة ونوافذ ممتدة من الأرض للسقف وتشطيبات عالية الجودة وخطة دفع 50/50 مع تسليم متوقع في يناير 2029.",
+    "hi": "बियॉन्ड द्वारा सूलिवर दुबई मैरीटाइम सिटी में एक वॉटरफ्रंट ऑफ-प्लान प्रोजेक्ट है, जिसमें 1–3 बेडरूम अपार्टमेंट, 4-बेडरूम डुप्लेक्स और 5-बेडरूम पेंटहाउस शामिल हैं। इसमें ऊँची छतें, फ्लोर-टू-सीलिंग विंडो, प्रीमियम फिनिश और 50/50 पेमेंट प्लान है, अनुमानित हैंडओवर जनवरी 2029।"
+  },
+
+  "promo_image": "/img/projects/soulever-by-beyond/promo.png",
+
+  "gallery": [
+    "/img/projects/soulever-by-beyond/gallery_1.png",
+    "/img/projects/soulever-by-beyond/gallery_2.png",
+    "/img/projects/soulever-by-beyond/gallery_3.png",
+    "/img/projects/soulever-by-beyond/gallery_4.png",
+    "/img/projects/soulever-by-beyond/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Mina Rashid Marina", "time": "5 min" },
+      { "name": "Jumeirah Beach / La Mer", "time": "10 min" },
+      { "name": "Downtown Dubai / Burj Khalifa", "time": "12 min" }
+    ],
+    "ru": [
+      { "name": "Mina Rashid Marina", "time": "5 мин" },
+      { "name": "Jumeirah Beach / La Mer", "time": "10 мин" },
+      { "name": "Downtown Dubai / Burj Khalifa", "time": "12 мин" }
+    ],
+    "ar": [
+      { "name": "مرسى ميناء راشد", "time": "5 دقائق" },
+      { "name": "شاطئ جميرا / لا مير", "time": "10 دقائق" },
+      { "name": "داون تاون دبي / برج خليفة", "time": "12 دقيقة" }
+    ],
+    "hi": [
+      { "name": "मीना राशिद मरीना", "time": "5 मिनट" },
+      { "name": "जुमेराह बीच / ला मेर", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई / बुर्ज खलीफा", "time": "12 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Maritime City, Dubai, UAE",
+      "ru": "Dubai Maritime City, Дубай, ОАЭ",
+      "ar": "مدينة دبي الملاحية، دبي، الإمارات",
+      "hi": "दुबई मैरीटाइम सिटी, दुबई, यूएई"
+    },
+    "lat": 0,
+    "lng": 0
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-maritime-city",
+    "developer": "beyond",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2029,
+    "price_from_aed": 2530000,
+    "size_from_sqft": 830,
+    "tokens_extra": ["uae", "off-plan", "waterfront", "maritime-city", "payment-plan-50-50", "freehold", "resort-amenities"]
+  }
+}

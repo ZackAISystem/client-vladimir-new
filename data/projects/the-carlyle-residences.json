@@ -1,0 +1,150 @@
+{
+  "project_key": "the-carlyle-residences",
+  "slug": "the-carlyle-residences",
+
+  "name": {
+    "en": "The Carlyle Residences",
+    "ru": "The Carlyle Residences",
+    "ar": "كارلايل ريزيدنسز",
+    "hi": "द कार्लाइल रेजिडेंसेज़"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "إتش آند إتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "DIFC",
+    "ru": "DIFC",
+    "ar": "مركز دبي المالي العالمي",
+    "hi": "डीआईएफसी"
+  },
+
+  "hero_title": {
+    "en": "The Carlyle Residences",
+    "ru": "The Carlyle Residences",
+    "ar": "كارلايل ريزيدنسز",
+    "hi": "द कार्लाइल रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "June 2027",
+    "ru": "Июнь 2027",
+    "ar": "يونيو 2027",
+    "hi": "जून 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "32,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–6 BR",
+    "ru": "2–6 спален",
+    "ar": "2–6 غرف نوم",
+    "hi": "2–6 बेडरूम"
+  },
+
+  "size": {
+    "en": "5007 sqft",
+    "ru": "5007 sqft",
+    "ar": "5007 قدم²",
+    "hi": "5007 sqft"
+  },
+
+  "down_payment": {
+    "en": "20%",
+    "ru": "20%",
+    "ar": "20%",
+    "hi": "20%"
+  },
+
+  "payment_plan": {
+    "en": "50/50",
+    "ru": "50/50",
+    "ar": "50/50",
+    "hi": "50/50"
+  },
+
+  "description": {
+    "en": "The Carlyle Residences is an ultra-luxury residential landmark in DIFC by H&H Development, bringing a New York hospitality legacy to Dubai. Designed by Sir David Chipperfield with interiors by Tristan Auer, it offers a limited collection of expansive 2–6 bedroom homes and signature penthouses with curated amenities and refined, private living in the city’s prime financial district.",
+    "ru": "The Carlyle Residences — ультра-люксовый проект в DIFC от H&H Development, вдохновлённый нью-йоркским наследием Carlyle. Архитектура — сэр Дэвид Чипперфилд, интерьеры — Тристан Оэр. Ограниченная коллекция резиденций 2–6 спален и пентхаусов, премиальные материалы, приватность и клубная инфраструктура в главном деловом районе Дубая.",
+    "ar": "كارلايل ريزيدنسز مشروع سكني فائق الفخامة في مركز دبي المالي العالمي من تطوير H&H، يستلهم إرث الضيافة النيويوركي. صُمم البرج من قبل السير ديفيد تشيبرفيلد مع تصاميم داخلية لتريستان أوير، ويضم مجموعة محدودة من منازل واسعة من 2 إلى 6 غرف نوم وبنتهاوس مميزة، مع مرافق مختارة وحياة خاصة في قلب دبي.",
+    "hi": "द कार्लाइल रेजिडेंसेज़ डीआईएफसी में H&H डेवलपमेंट का अल्ट्रा-लक्ज़री रेजिडेंशियल प्रोजेक्ट है, जो न्यूयॉर्क की हॉस्पिटैलिटी विरासत को दुबई में लाता है। इसे सर डेविड चिपरफील्ड ने डिज़ाइन किया है और इंटीरियर्स ट्रिस्टन ऑयर द्वारा हैं। 2–6 बेडरूम के सीमित घर और सिग्नेचर पेंटहाउस, प्रीमियम सुविधाएँ और प्राइवेट सिटी-लाइफस्टाइल प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/the-carlyle-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/the-carlyle-residences/gallery_1.png",
+    "/img/projects/the-carlyle-residences/gallery_2.png",
+    "/img/projects/the-carlyle-residences/gallery_3.png",
+    "/img/projects/the-carlyle-residences/gallery_4.png",
+    "/img/projects/the-carlyle-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Museum of the Future", "time": "6 min" },
+      { "name": "Dubai Mall", "time": "10 min" },
+      { "name": "DXB Airport", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Museum of the Future", "time": "6 мин" },
+      { "name": "Dubai Mall", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "متحف المستقبل", "time": "6 دقائق" },
+      { "name": "دبي مول", "time": "10 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "म्यूज़ियम ऑफ द फ्यूचर", "time": "6 मिनट" },
+      { "name": "दुबई मॉल", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "DIFC",
+      "ru": "DIFC",
+      "ar": "مركز دبي المالي العالمي",
+      "hi": "डीआईएफसी"
+    },
+    "lat": 25.2136,
+    "lng": 55.2796
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "difc",
+    "developer": "h-h-development",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 6,
+    "handover_year": 2027,
+    "price_from_aed": 32000000,
+    "size_from_sqft": 5007,
+    "tokens_extra": ["uae", "ultra-luxury", "branded-residence", "difc", "new-york-legacy"]
+  }
+}

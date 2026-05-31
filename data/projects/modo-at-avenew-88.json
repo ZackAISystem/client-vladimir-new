@@ -1,0 +1,150 @@
+{
+  "project_key": "modo-at-avenew-88",
+  "slug": "modo-at-avenew-88",
+
+  "name": {
+    "en": "Modo at Avenew 88",
+    "ru": "Modo at Avenew 88",
+    "ar": "مودو في أفنيو 88",
+    "hi": "मोडो एट एवेन्यू 88"
+  },
+
+  "developer": {
+    "en": "Avenew Properties",
+    "ru": "Avenew Properties",
+    "ar": "أفينيو العقارية",
+    "hi": "एवेन्यू प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Dubai South",
+    "ru": "Dubai South",
+    "ar": "دبي الجنوب",
+    "hi": "दुबई साउथ"
+  },
+
+  "hero_title": {
+    "en": "Modo at Avenew 88",
+    "ru": "Modo at Avenew 88",
+    "ar": "مودو في أفنيو 88",
+    "hi": "मोडो एट एवेन्यू 88"
+  },
+
+  "handover": {
+    "en": "March 2028",
+    "ru": "Март 2028",
+    "ar": "مارس 2028",
+    "hi": "मार्च 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 624 sqft",
+    "ru": "от 624 sqft",
+    "ar": "ابتداءً من 624 قدم²",
+    "hi": "624 sqft से"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Modo at Avenew 88 by Avenew Properties is a residential project in Dubai South offering one to three-bedroom apartments starting from 624 sqft. The development features contemporary architecture, landscaped surroundings, and access to Dubai World Central. Positioned in a growing district, it combines modern layouts, family-oriented infrastructure, and investment potential with March 2028 completion.",
+    "ru": "Modo at Avenew 88 от Avenew Properties — жилой проект в районе Dubai South с апартаментами с 1–3 спальнями площадью от 624 sqft. Современная архитектура, благоустроенная территория и близость к Dubai World Central формируют удобную среду для жизни и инвестиций. Завершение запланировано на март 2028 года.",
+    "ar": "يُعد مشروع مودو في أفنيو 88 من أفينيو العقارية مجمعاً سكنياً في دبي الجنوب يضم شققاً من 1 إلى 3 غرف نوم تبدأ مساحتها من 624 قدم². يتميز بتصميم عصري ومناطق خضراء وموقع قريب من دبي ورلد سنترال، مع تسليم متوقع في مارس 2028.",
+    "hi": "मोडो एट एवेन्यू 88, एवेन्यू प्रॉपर्टीज द्वारा विकसित दुबई साउथ में स्थित एक रेजिडेंशियल प्रोजेक्ट है, जिसमें 1 से 3 बेडरूम अपार्टमेंट 624 sqft से शुरू होते हैं। आधुनिक डिज़ाइन, हरित परिवेश और दुबई वर्ल्ड सेंट्रल के निकटता इसे मार्च 2028 हैंडओवर के साथ एक आकर्षक निवेश विकल्प बनाती है।"
+  },
+
+  "promo_image": "/img/projects/modo-at-avenew-88/promo.png",
+
+  "gallery": [
+    "/img/projects/modo-at-avenew-88/gallery_1.png",
+    "/img/projects/modo-at-avenew-88/gallery_2.png",
+    "/img/projects/modo-at-avenew-88/gallery_3.png",
+    "/img/projects/modo-at-avenew-88/gallery_4.png",
+    "/img/projects/modo-at-avenew-88/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai World Central", "time": "5–10 min" },
+      { "name": "Al Maktoum International Airport", "time": "10–15 min" },
+      { "name": "Expo City Dubai", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Dubai World Central", "time": "5–10 мин" },
+      { "name": "Аэропорт Al Maktoum", "time": "10–15 мин" },
+      { "name": "Expo City Dubai", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "دبي ورلد سنترال", "time": "5–10 دقائق" },
+      { "name": "مطار آل مكتوم الدولي", "time": "10–15 دقيقة" },
+      { "name": "إكسبو سيتي دبي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई वर्ल्ड सेंट्रल", "time": "5–10 मिनट" },
+      { "name": "अल मकतूम अंतर्राष्ट्रीय हवाई अड्डा", "time": "10–15 मिनट" },
+      { "name": "एक्सपो सिटी दुबई", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai South, Dubai",
+      "ru": "Dubai South, Дубай",
+      "ar": "دبي الجنوب، دبي",
+      "hi": "दुबई साउथ, दुबई"
+    },
+    "lat": 24.8965,
+    "lng": 55.1614
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-south",
+    "developer": "avenew-properties",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 800000,
+    "size_from_sqft": 624,
+    "tokens_extra": ["uae"]
+  }
+}

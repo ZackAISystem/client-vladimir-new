@@ -1,0 +1,150 @@
+{
+  "project_key": "palm-jebel-ali-fronds-villas",
+  "slug": "palm-jebel-ali-fronds-villas",
+
+  "name": {
+    "en": "Palm Jebel Ali Fronds Villas",
+    "ru": "Palm Jebel Ali Fronds Villas",
+    "ar": "فلل سعف نخلة جبل علي",
+    "hi": "पाम जेबेल अली फ्रोंड्स विला"
+  },
+
+  "developer": {
+    "en": "Nakheel",
+    "ru": "Nakheel",
+    "ar": "نخيل",
+    "hi": "नखील"
+  },
+
+  "location_text": {
+    "en": "Palm Jebel Ali",
+    "ru": "Palm Jebel Ali",
+    "ar": "نخلة جبل علي",
+    "hi": "पाम जेबेल अली"
+  },
+
+  "hero_title": {
+    "en": "Palm Jebel Ali Fronds Villas",
+    "ru": "Palm Jebel Ali Fronds Villas",
+    "ar": "فلل سعف نخلة جبل علي",
+    "hi": "पाम जेबेल अली फ्रोंड्स विला"
+  },
+
+  "handover": {
+    "en": "November 2028",
+    "ru": "Ноябрь 2028",
+    "ar": "نوفمبر 2028",
+    "hi": "नवंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "18,000,000"
+  },
+
+  "property_types": {
+    "en": ["Villa"],
+    "ru": ["Вилла"],
+    "ar": ["فيلا"],
+    "hi": ["विला"]
+  },
+
+  "unit_types": {
+    "en": "5–7 BR",
+    "ru": "5–7 спален",
+    "ar": "5–7 غرف نوم",
+    "hi": "5–7 बेडरूम"
+  },
+
+  "size": {
+    "en": "6000 sqft",
+    "ru": "6000 sqft",
+    "ar": "6000 قدم²",
+    "hi": "6000 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Palm Jebel Ali Fronds Villas by Nakheel is a luxury beachfront villa collection featuring expansive 5–7 bedroom residences from 6000 to 9000 sqft. Located on the iconic Palm Jebel Ali, the project offers private beach access, landscaped gardens, infinity pools, and panoramic sea views within a master-planned island community.",
+    "ru": "Palm Jebel Ali Fronds Villas от Nakheel — коллекция роскошных вилл на первой линии с 5–7 спальнями площадью 6000–9000 sqft. Проект расположен на Palm Jebel Ali и предлагает приватный пляж, ландшафтные сады, infinity-бассейны и панорамные виды на море в рамках масштабного островного комьюнити.",
+    "ar": "فلل سعف نخلة جبل علي من نخيل هي مجموعة فلل فاخرة على الواجهة البحرية تضم من 5 إلى 7 غرف نوم بمساحات تتراوح بين 6000 و9000 قدم². يوفر المشروع شاطئاً خاصاً وحدائق منسقة ومسابح إنفينيتي وإطلالات بحرية بانورامية ضمن مجتمع جزيري متكامل.",
+    "hi": "नखील द्वारा विकसित पाम जेबेल अली फ्रोंड्स विला एक लक्ज़री बीचफ्रंट कलेक्शन है, जिसमें 5–7 बेडरूम विला 6000–9000 sqft के विशाल लेआउट के साथ उपलब्ध हैं। प्राइवेट बीच एक्सेस, लैंडस्केप गार्डन, इन्फिनिटी पूल और समुद्री दृश्य इसे एक आइकॉनिक आइलैंड कम्युनिटी बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/palm-jebel-ali-fronds-villas/promo.png",
+
+  "gallery": [
+    "/img/projects/palm-jebel-ali-fronds-villas/gallery_1.png",
+    "/img/projects/palm-jebel-ali-fronds-villas/gallery_2.png",
+    "/img/projects/palm-jebel-ali-fronds-villas/gallery_3.png",
+    "/img/projects/palm-jebel-ali-fronds-villas/gallery_4.png",
+    "/img/projects/palm-jebel-ali-fronds-villas/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Parks & Resorts", "time": "15 min" },
+      { "name": "Al Maktoum International Airport", "time": "25 min" },
+      { "name": "Dubai Marina", "time": "30 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Parks & Resorts", "time": "15 мин" },
+      { "name": "Al Maktoum International Airport", "time": "25 мин" },
+      { "name": "Dubai Marina", "time": "30 мин" }
+    ],
+    "ar": [
+      { "name": "دبي باركس آند ريزورتس", "time": "15 دقيقة" },
+      { "name": "مطار آل مكتوم الدولي", "time": "25 دقيقة" },
+      { "name": "دبي مارينا", "time": "30 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई पार्क्स एंड रिसॉर्ट्स", "time": "15 मिनट" },
+      { "name": "अल मकतूम इंटरनेशनल एयरपोर्ट", "time": "25 मिनट" },
+      { "name": "दुबई मरीना", "time": "30 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jebel Ali, Dubai",
+      "ru": "Palm Jebel Ali, Дубай",
+      "ar": "نخلة جبل علي، دبي",
+      "hi": "पाम जेबेल अली, दुबई"
+    },
+    "lat": 24.9845,
+    "lng": 55.0213
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jebel-ali",
+    "developer": "nakheel",
+    "property_types": ["villa"],
+    "bedrooms_min": 5,
+    "bedrooms_max": 7,
+    "handover_year": 2028,
+    "price_from_aed": 18000000,
+    "size_from_sqft": 6000,
+    "tokens_extra": ["uae", "waterfront", "luxury"]
+  }
+}

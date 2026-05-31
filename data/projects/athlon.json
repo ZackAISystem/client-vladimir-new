@@ -1,0 +1,150 @@
+{
+  "project_key": "athlon",
+  "slug": "athlon",
+
+  "name": {
+    "en": "Athlon",
+    "ru": "Athlon",
+    "ar": "أثلون",
+    "hi": "एथलॉन"
+  },
+
+  "developer": {
+    "en": "Aldar Properties PJSC",
+    "ru": "Aldar Properties PJSC",
+    "ar": "الدار العقارية",
+    "hi": "अलدار प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Dubailand",
+    "ru": "Dubailand",
+    "ar": "دبي لاند",
+    "hi": "दुबईलैंड"
+  },
+
+  "hero_title": {
+    "en": "Athlon",
+    "ru": "Athlon",
+    "ar": "أثلون",
+    "hi": "एथलॉन"
+  },
+
+  "handover": {
+    "en": "May 2028",
+    "ru": "Май 2028",
+    "ar": "مايو 2028",
+    "hi": "मई 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,800,000"
+  },
+
+  "property_types": {
+    "en": ["Townhouse", "Villa"],
+    "ru": ["Таунхаус", "Вилла"],
+    "ar": ["تاونهاوس", "فيلا"],
+    "hi": ["टाउनहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "3 | 4 | 5 | 6 BR",
+    "ru": "3 | 4 | 5 | 6 спальни",
+    "ar": "3 | 4 | 5 | 6 غرف نوم",
+    "hi": "3 | 4 | 5 | 6 बेडरूम"
+  },
+
+  "size": {
+    "en": "from",
+    "ru": "от",
+    "ar": "ابتداءً من",
+    "hi": "से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Athlon by Aldar is a wellness-focused residential community in Dubailand, designed to integrate movement, sustainability and modern comfort into everyday life. Offering 3 to 6-bedroom villas and townhouses surrounded by parks and green corridors, the project promotes an active lifestyle with cycling tracks, fitness zones and family-friendly amenities, redefining contemporary community living in Dubai.",
+    "ru": "Athlon от Aldar — это wellness-сообщество в Dubailand, где движение, экология и современный комфорт объединены в единую концепцию жизни. Проект предлагает виллы и таунхаусы с 3–6 спальнями среди зелёных парков и прогулочных зон. Велодорожки, фитнес-пространства и семейная инфраструктура создают новый стандарт загородной жизни в Дубае.",
+    "ar": "يمثل مشروع أثلون من الدار مجتمعاً سكنياً يركز على نمط الحياة الصحي في دبي لاند، حيث يدمج بين الاستدامة والحركة والراحة الحديثة. يضم فللاً وتاونهاوس من 3 إلى 6 غرف نوم محاطة بالحدائق والمساحات الخضراء، مع مسارات للدراجات ومرافق رياضية ومناطق عائلية تعيد تعريف مفهوم السكن العصري في دبي.",
+    "hi": "अलदार द्वारा विकसित एथलॉन दुबईलैंड में एक वेलनेस-केंद्रित रेजिडेंशियल कम्युनिटी है, जो स्थिरता, सक्रिय जीवनशैली और आधुनिक आराम को एक साथ जोड़ती है। 3 से 6 बेडरूम विला और टाउनहाउस हरे-भरे पार्कों, साइक्लिंग ट्रैक और फिटनेस ज़ोन से घिरे हैं, जो दुबई में सामुदायिक जीवन की नई परिभाषा प्रस्तुत करते हैं।"
+  },
+
+  "promo_image": "/img/projects/athlon/promo.png",
+
+  "gallery": [
+    "/img/projects/athlon/gallery_1.png",
+    "/img/projects/athlon/gallery_2.png",
+    "/img/projects/athlon/gallery_3.png",
+    "/img/projects/athlon/gallery_4.png",
+    "/img/projects/athlon/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "DXB Airport", "time": "30 min" },
+      { "name": "Dubai Marina", "time": "30 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт DXB", "time": "30 мин" },
+      { "name": "Dubai Marina", "time": "30 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "25 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "30 دقيقة" },
+      { "name": "مرسى دبي", "time": "30 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "30 मिनट" },
+      { "name": "दुबई मरीना", "time": "30 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubailand, Dubai, UAE",
+      "ru": "Dubailand, Дубай, ОАЭ",
+      "ar": "دبي لاند، دبي، الإمارات",
+      "hi": "दुबईलैंड, दुबई, यूएई"
+    },
+    "lat": 25.0605,
+    "lng": 55.2840
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubailand",
+    "developer": "aldar-properties-pjsc",
+    "property_types": ["townhouse", "villa"],
+    "bedrooms_min": 3,
+    "bedrooms_max": 6,
+    "handover_year": 2028,
+    "price_from_aed": 2800000,
+    "size_from_sqft": "",
+    "tokens_extra": ["uae"]
+  }
+}

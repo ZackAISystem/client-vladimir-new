@@ -1,0 +1,150 @@
+{
+  "project_key": "difc-heights-tower",
+  "slug": "difc-heights-tower",
+
+  "name": {
+    "en": "DIFC Heights Tower",
+    "ru": "DIFC Heights Tower",
+    "ar": "برج ديفك هايتس",
+    "hi": "DIFC हाइट्स टॉवर"
+  },
+
+  "developer": {
+    "en": "Dubai International Financial Centre (DIFC)",
+    "ru": "Dubai International Financial Centre (DIFC)",
+    "ar": "مركز دبي المالي العالمي",
+    "hi": "दुबई इंटरनेशनल फाइनेंशियल सेंटर (DIFC)"
+  },
+
+  "location_text": {
+    "en": "DIFC",
+    "ru": "DIFC",
+    "ar": "مركز دبي المالي العالمي",
+    "hi": "DIFC"
+  },
+
+  "hero_title": {
+    "en": "DIFC Heights Tower",
+    "ru": "DIFC Heights Tower",
+    "ar": "برج ديفك هايتس",
+    "hi": "DIFC हाइट्स टॉवर"
+  },
+
+  "handover": {
+    "en": "June 2029",
+    "ru": "Июнь 2029",
+    "ar": "يونيو 2029",
+    "hi": "जून 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "3,900,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR | Duplex",
+    "ru": "1–4 спальни | Дуплекс",
+    "ar": "1–4 غرف نوم | دوبلكس",
+    "hi": "1–4 बेडरूम | डुप्लेक्स"
+  },
+
+  "size": {
+    "en": "from 950 sqft",
+    "ru": "от 950 sqft",
+    "ar": "ابتداءً من 950 قدم²",
+    "hi": "950 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "DIFC Heights Tower is a premium residential landmark located within the Dubai International Financial Centre. Designed to complement the iconic skyline, the tower offers a refined collection of 1 to 4-bedroom apartments and exclusive duplex residences. Interiors feature contemporary finishes, expansive layouts, and floor-to-ceiling windows that frame panoramic city views. Smart home systems and curated amenities enhance everyday living, while direct access to DIFC’s dining, cultural venues, and corporate offices positions the tower at the center of Dubai’s financial and lifestyle ecosystem. DIFC Heights Tower is crafted for professionals, global investors, and families seeking prestige, connectivity, and long-term value in one of the city’s most dynamic districts.",
+    "ru": "DIFC Heights Tower — премиальный жилой комплекс в самом центре Dubai International Financial Centre. Проект включает апартаменты с 1–4 спальнями и эксклюзивные дуплексы с панорамными видами на город. Просторные планировки, современные материалы отделки и панорамные окна формируют комфортную и статусную среду проживания. Башня интегрирована в инфраструктуру DIFC с ресторанами, галереями и офисами международных компаний, обеспечивая высокий инвестиционный потенциал и престижный образ жизни.",
+    "ar": "يُعد برج ديفك هايتس مشروعاً سكنياً فاخراً يقع ضمن مركز دبي المالي العالمي. يضم مجموعة راقية من الشقق من غرفة إلى أربع غرف نوم بالإضافة إلى وحدات دوبلكس حصرية. تتميز الوحدات بتشطيبات عصرية ونوافذ ممتدة توفر إطلالات بانورامية على أفق المدينة، مع أنظمة منزل ذكي ومرافق عالمية المستوى. يوفر الموقع وصولاً مباشراً إلى مطاعم ومراكز ثقافية ومكاتب كبرى الشركات، مما يجعله خياراً مثالياً للمستثمرين والمهنيين الباحثين عن عنوان مرموق في قلب دبي.",
+    "hi": "DIFC हाइट्स टॉवर दुबई इंटरनेशनल फाइनेंशियल सेंटर में स्थित एक प्रीमियम रेजिडेंशियल टॉवर है। इसमें 1 से 4 बेडरूम अपार्टमेंट और एक्सक्लूसिव डुप्लेक्स यूनिट्स उपलब्ध हैं। विशाल लेआउट, आधुनिक फिनिश और फ्लोर-टू-सीलिंग विंडोज़ शहर के शानदार दृश्य प्रदान करते हैं। स्मार्ट होम सिस्टम और प्रीमियम सुविधाएँ इसे पेशेवरों, निवेशकों और परिवारों के लिए एक प्रतिष्ठित पता बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/difc-heights-tower/promo.png",
+
+  "gallery": [
+    "/img/projects/difc-heights-tower/gallery_1.png",
+    "/img/projects/difc-heights-tower/gallery_2.png",
+    "/img/projects/difc-heights-tower/gallery_3.png",
+    "/img/projects/difc-heights-tower/gallery_4.png",
+    "/img/projects/difc-heights-tower/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "وسط مدينة دبي", "time": "5 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "DIFC, Dubai, UAE",
+      "ru": "DIFC, Дубай, ОАЭ",
+      "ar": "مركز دبي المالي العالمي، دبي",
+      "hi": "DIFC, दुबई"
+    },
+    "lat": 25.2129,
+    "lng": 55.2796
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "difc",
+    "developer": "difc",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2029,
+    "price_from_aed": 3900000,
+    "size_from_sqft": 950,
+    "tokens_extra": ["uae"]
+  }
+}

@@ -1,0 +1,489 @@
+{{ $lang := site.Language.Lang }}
+{{ $slug := .Params.slug | default .File.ContentBaseName }}
+{{ $projectKey := .Params.project_key | default .Params.project | default "" }}
+
+{{ $p := dict }}
+
+{{ if and $projectKey (index site.Data.projects $projectKey) }}
+  {{ $p = index site.Data.projects $projectKey }}
+{{ else if index site.Data.projects $slug }}
+  {{ $p = index site.Data.projects $slug }}
+{{ else }}
+  {{ range $k, $v := site.Data.projects }}
+    {{ if eq $v.slug $slug }}
+      {{ $p = $v }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $name := $slug }}
+{{ with $p.name }}
+  {{ $name = (index . $lang | default (index . "en") | default $name) }}
+{{ end }}
+
+{{ $developer := "" }}
+{{ with $p.developer }}
+  {{ $developer = (index . $lang | default (index . "en") | default "") }}
+{{ end }}
+
+{{ $location := "" }}
+{{ with $p.location_text }}
+  {{ $location = (index . $lang | default (index . "en") | default "") }}
+{{ end }}
+
+{{ $price := "" }}
+{{ with $p.price_from }}
+  {{ $price = printf "%s %s" .currency .amount }}
+{{ end }}
+
+{{/* Gallery uses ONLY gallery images. Promo image is NOT used here. */}}
+{{ $gallery := $p.gallery | default (slice) }}
+{{ $slides := slice }}
+
+{{ if gt (len $gallery) 0 }}
+  {{ range $gallery }}
+    {{ if and . (not (in $slides .)) }}
+      {{ $slides = $slides | append . }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $slides = first 6 $slides }}
+
+{{ if eq (len $slides) 0 }}
+  {{ $slides = slice "/img/hero/atelis-featured.jpg" }}
+{{ end }}
+
+{{ $askHints := slice
+  (printf "Compare %s with similar UAE projects" $name)
+  (printf "Show me payment plan and unit options for %s" $name)
+  (printf "Is %s better for living or investment?" $name)
+  (printf "Explain location, access and nearby landmarks")
+}}
+
+{{ with $p.ask_hints }}
+  {{ $askHints = index . $lang | default (index . "en") | default $askHints }}
+{{ end }}
+
+{{ $heroSearch := site.Data.site.home.hero.search }}
+
+<section class="pd-project-hero" id="overview">
+  <div class="pd-project-hero__inner">
+
+    <article class="pd-project-gallery" aria-label="{{ $name }} gallery">
+
+      <div class="pd-project-gallery__stage">
+        {{ range $index, $image := $slides }}
+          <div
+            class="pd-project-slide {{ if eq $index 0 }}is-active{{ end }}"
+            style="background-image: url('{{ $image }}');"
+            data-slide="{{ $index }}"
+          ></div>
+        {{ end }}
+      </div>
+
+      {{ if gt (len $slides) 1 }}
+        <button
+          class="pd-project-gallery__arrow pd-project-gallery__arrow--prev"
+          type="button"
+          aria-label="Previous image"
+          data-project-gallery-prev
+        >
+          ‹
+        </button>
+
+        <button
+          class="pd-project-gallery__arrow pd-project-gallery__arrow--next"
+          type="button"
+          aria-label="Next image"
+          data-project-gallery-next
+        >
+          ›
+        </button>
+      {{ end }}
+
+      <div class="pd-project-gallery__info">
+        <div class="pd-project-title-pill">
+          <h1>{{ $name }}</h1>
+
+          {{ if or $location $developer }}
+            <p>
+              {{ $location }}{{ if and $location $developer }} · {{ end }}{{ $developer }}
+            </p>
+          {{ end }}
+        </div>
+
+        {{ if $price }}
+          <div class="pd-project-price-pill">
+            <span>Price from</span>
+            <strong>{{ $price }}</strong>
+          </div>
+        {{ end }}
+      </div>
+
+    </article>
+
+    <form id="project-ai-search" class="pd-project-ask" aria-label="Ask Sicemco AI about this project">
+      <div class="pd-project-ask__badge">
+        <span></span>
+        Sicemco AI
+      </div>
+
+      <input
+        class="pd-project-ask__input"
+        type="text"
+        name="project_q"
+        placeholder="Ask about {{ $name }}…"
+        autocomplete="off"
+        data-typing-examples='{{ $askHints | jsonify }}'
+      >
+
+      <button
+        class="pd-project-ask__voice"
+        type="button"
+        aria-label="Start voice search"
+        aria-pressed="false"
+      >
+        <span class="pd-project-ask__voice-aura" aria-hidden="true"></span>
+
+        <span class="pd-project-ask__voice-core" aria-hidden="true">
+          <img src="{{ $heroSearch.voice_icon }}" alt="">
+        </span>
+      </button>
+
+      <div class="pd-project-ask__voice-popover" aria-live="polite">
+        <div class="pd-project-ask__voice-popover-inner">
+          <span class="pd-project-ask__voice-dot"></span>
+
+          <div>
+            <span class="pd-project-ask__voice-status">Listening…</span>
+            <span class="pd-project-ask__voice-text">Ask Sicemco AI about this project</span>
+          </div>
+
+          <span class="pd-project-ask__voice-bars" aria-hidden="true">
+            <i></i><i></i><i></i><i></i>
+          </span>
+        </div>
+      </div>
+
+      <button class="pd-project-ask__button" type="submit">
+        Ask
+      </button>
+    </form>
+
+  </div>
+</section>
+
+<script>
+(function () {
+  const root = document.querySelector('.pd-project-hero');
+  if (!root) return;
+
+  if (root.dataset.projectHeroReady === '1') return;
+  root.dataset.projectHeroReady = '1';
+
+  const slides = Array.from(root.querySelectorAll('.pd-project-slide'));
+  const prevBtn = root.querySelector('[data-project-gallery-prev]');
+  const nextBtn = root.querySelector('[data-project-gallery-next]');
+
+  let activeIndex = slides.findIndex(slide => slide.classList.contains('is-active'));
+  if (activeIndex < 0) activeIndex = 0;
+
+  let autoplay = null;
+  let firstAutoplay = null;
+
+  const FIRST_AUTOPLAY_DELAY = 1600;
+  const AUTOPLAY_DELAY = 3400;
+
+  function showSlide(nextIndex, direction) {
+    if (!slides.length) return;
+
+    nextIndex = (nextIndex + slides.length) % slides.length;
+    if (nextIndex === activeIndex) return;
+
+    const current = slides[activeIndex];
+    const next = slides[nextIndex];
+
+    root.style.setProperty('--gallery-dir', direction || 1);
+
+    current.classList.remove('is-active');
+    current.classList.add('is-leaving');
+
+    next.classList.remove('is-leaving');
+    next.classList.add('is-active');
+
+    window.setTimeout(() => {
+      current.classList.remove('is-leaving');
+    }, 1200);
+
+    activeIndex = nextIndex;
+  }
+
+  function nextSlide() {
+    showSlide(activeIndex + 1, 1);
+  }
+
+  function prevSlide() {
+    showSlide(activeIndex - 1, -1);
+  }
+
+  function restartAutoplay(skipFirstDelay) {
+    if (autoplay) window.clearInterval(autoplay);
+    if (firstAutoplay) window.clearTimeout(firstAutoplay);
+
+    autoplay = null;
+    firstAutoplay = null;
+
+    if (slides.length <= 1) return;
+
+    if (skipFirstDelay) {
+      autoplay = window.setInterval(nextSlide, AUTOPLAY_DELAY);
+      return;
+    }
+
+    firstAutoplay = window.setTimeout(() => {
+      nextSlide();
+      autoplay = window.setInterval(nextSlide, AUTOPLAY_DELAY);
+    }, FIRST_AUTOPLAY_DELAY);
+  }
+
+  if (prevBtn) {
+    prevBtn.addEventListener('click', () => {
+      prevSlide();
+      restartAutoplay(true);
+    });
+  }
+
+  if (nextBtn) {
+    nextBtn.addEventListener('click', () => {
+      nextSlide();
+      restartAutoplay(true);
+    });
+  }
+
+  restartAutoplay(false);
+
+  const form = root.querySelector('.pd-project-ask');
+  const input = root.querySelector('.pd-project-ask__input');
+  const voiceBtn = root.querySelector('.pd-project-ask__voice');
+  const voiceStatus = root.querySelector('.pd-project-ask__voice-status');
+  const voiceText = root.querySelector('.pd-project-ask__voice-text');
+
+  if (!form || !input) return;
+
+  form.addEventListener('submit', function (event) {
+    event.preventDefault();
+
+    const value = (input.value || '').trim();
+    const results = document.getElementById('results');
+    const query = document.getElementById('resultsQuery');
+
+    if (results && query) {
+      if (value) {
+        query.value = value;
+        query.textContent = value;
+        query.dispatchEvent(new Event('input', { bubbles: true }));
+      }
+
+      results.classList.add('is-open');
+      results.setAttribute('aria-hidden', 'false');
+      results.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  });
+
+  function getExamples() {
+    const raw = input.getAttribute('data-typing-examples');
+    if (!raw) return [];
+
+    try {
+      const arr = JSON.parse(raw);
+      return Array.isArray(arr) ? arr : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  const examples = getExamples();
+  const basePlaceholder = input.getAttribute('placeholder') || '';
+
+  let typingTimer = null;
+  let exIndex = 0;
+  let charIndex = 0;
+  let typingPaused = false;
+
+  const TYPE_SPEED = 38;
+  const HOLD_END = 1150;
+  const HOLD_BETWEEN = 380;
+
+  function isUserActive() {
+    return document.activeElement === input || ((input.value || '').trim().length > 0);
+  }
+
+  function tickTyping() {
+    if (typingPaused || isUserActive()) return;
+    if (!examples.length) return;
+
+    const full = examples[exIndex] || '';
+    input.setAttribute('placeholder', full.slice(0, charIndex + 1));
+    charIndex++;
+
+    if (charIndex >= full.length) {
+      typingTimer = window.setTimeout(() => {
+        if (typingPaused || isUserActive()) return;
+
+        exIndex = (exIndex + 1) % examples.length;
+        charIndex = 0;
+        input.setAttribute('placeholder', '');
+
+        typingTimer = window.setTimeout(tickTyping, HOLD_BETWEEN);
+      }, HOLD_END);
+
+      return;
+    }
+
+    typingTimer = window.setTimeout(tickTyping, TYPE_SPEED);
+  }
+
+  function startTyping() {
+    if (typingTimer || !examples.length) return;
+
+    typingPaused = false;
+    charIndex = 0;
+    input.setAttribute('placeholder', '');
+
+    typingTimer = window.setTimeout(tickTyping, 400);
+  }
+
+  function stopTyping() {
+    typingPaused = true;
+
+    if (typingTimer) {
+      window.clearTimeout(typingTimer);
+      typingTimer = null;
+    }
+
+    if (!((input.value || '').trim().length)) {
+      input.setAttribute('placeholder', basePlaceholder);
+    }
+  }
+
+  input.addEventListener('focus', stopTyping);
+  input.addEventListener('keydown', stopTyping);
+  input.addEventListener('input', stopTyping);
+
+  input.addEventListener('blur', () => {
+    if (!((input.value || '').trim().length)) {
+      stopTyping();
+      typingPaused = false;
+      typingTimer = null;
+      startTyping();
+    }
+  });
+
+  startTyping();
+
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  let recognition = null;
+  let isListening = false;
+  let fallbackTimer = null;
+
+  if (SpeechRecognition) {
+    recognition = new SpeechRecognition();
+    recognition.lang = document.documentElement.lang || 'en-US';
+    recognition.interimResults = true;
+    recognition.continuous = false;
+
+    recognition.onstart = () => {
+      setVoiceState(true, 'Listening…', 'Ask Sicemco AI about this project');
+    };
+
+    recognition.onresult = event => {
+      let transcript = '';
+
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        transcript += event.results[i][0].transcript;
+      }
+
+      transcript = transcript.trim();
+
+      if (transcript) {
+        input.value = transcript;
+
+        if (voiceStatus) voiceStatus.textContent = 'Got it';
+        if (voiceText) voiceText.textContent = transcript;
+      }
+    };
+
+    recognition.onerror = () => {
+      if (voiceStatus) voiceStatus.textContent = 'Voice paused';
+      if (voiceText) voiceText.textContent = 'Type your request or try again';
+
+      window.setTimeout(() => setVoiceState(false), 900);
+    };
+
+    recognition.onend = () => {
+      if (isListening) {
+        window.setTimeout(() => setVoiceState(false), 700);
+      }
+    };
+  }
+
+  function setVoiceState(active, status, text) {
+    isListening = active;
+    form.classList.toggle('is-voice-active', active);
+
+    if (voiceBtn) {
+      voiceBtn.setAttribute('aria-pressed', active ? 'true' : 'false');
+    }
+
+    if (status && voiceStatus) voiceStatus.textContent = status;
+    if (text && voiceText) voiceText.textContent = text;
+  }
+
+  function startVoice() {
+    stopTyping();
+
+    if (fallbackTimer) {
+      window.clearTimeout(fallbackTimer);
+      fallbackTimer = null;
+    }
+
+    if (!recognition) {
+      setVoiceState(true, 'Voice mode', 'Speech recognition is not supported here');
+
+      fallbackTimer = window.setTimeout(() => {
+        setVoiceState(false);
+      }, 2200);
+
+      return;
+    }
+
+    try {
+      recognition.start();
+    } catch (e) {
+      setVoiceState(true, 'Listening…', 'Ask Sicemco AI about this project');
+
+      fallbackTimer = window.setTimeout(() => {
+        setVoiceState(false);
+      }, 1600);
+    }
+  }
+
+  function stopVoice() {
+    if (recognition && isListening) {
+      try {
+        recognition.stop();
+      } catch (e) {}
+    }
+
+    setVoiceState(false);
+  }
+
+  if (voiceBtn) {
+    voiceBtn.addEventListener('click', () => {
+      if (isListening) stopVoice();
+      else startVoice();
+    });
+  }
+})();
+</script>

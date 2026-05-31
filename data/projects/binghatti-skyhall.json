@@ -1,0 +1,150 @@
+{
+  "project_key": "binghatti-skyhall",
+  "slug": "binghatti-skyhall",
+
+  "name": {
+    "en": "Binghatti Skyhall",
+    "ru": "Binghatti Skyhall",
+    "ar": "بن غاطي سكاي هول",
+    "hi": "बिंगहट्टी स्कायहॉल"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Binghatti Skyhall",
+    "ru": "Binghatti Skyhall",
+    "ar": "بن غاطي سكاي هول",
+    "hi": "बिंगहट्टी स्कायहॉल"
+  },
+
+  "handover": {
+    "en": "December 2026",
+    "ru": "Декабрь 2026",
+    "ar": "ديسمبر 2026",
+    "hi": "दिसंबर 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1 BR",
+    "ru": "Студия | 1 спальня",
+    "ar": "استوديو | غرفة نوم واحدة",
+    "hi": "स्टूडियो | 1 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 400 sqft",
+    "ru": "от 400 sqft",
+    "ar": "ابتداءً من 400 قدم²",
+    "hi": "400 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Binghatti Skyhall is a contemporary residential tower in Business Bay offering studios and one-bedroom apartments with smart home systems and refined finishes. Positioned near Dubai Canal and Downtown Dubai, the project combines striking architecture, floor-to-ceiling windows and spacious balconies, delivering a sophisticated urban lifestyle within one of Dubai’s most dynamic waterfront districts.",
+    "ru": "Binghatti Skyhall — современная жилая башня в Business Bay со студиями и апартаментами с 1 спальней. Проект сочетает выразительную архитектуру, панорамные окна и smart-технологии, создавая комфортную городскую среду рядом с Dubai Canal и Downtown Dubai.",
+    "ar": "يُعد بن غاطي سكاي هول برجاً سكنياً معاصراً في الخليج التجاري، يضم استوديوهات وشققاً بغرفة نوم واحدة مع أنظمة منزل ذكي وتشطيبات راقية. يقع بالقرب من قناة دبي ووسط المدينة، ويجمع بين التصميم المعماري الجريء والشرفات الواسعة ليقدم أسلوب حياة حضري فاخر.",
+    "hi": "बिंगहट्टी स्कायहॉल बिज़नेस बे में स्थित एक आधुनिक रेजिडेंशियल टॉवर है, जिसमें स्टूडियो और 1-बेडरूम अपार्टमेंट उपलब्ध हैं। दुबई कैनाल और डाउनटाउन के पास स्थित यह प्रोजेक्ट स्मार्ट होम टेक्नोलॉजी, बड़े बालकनी और पैनोरमिक विंडोज़ के साथ प्रीमियम शहरी जीवन प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/binghatti-skyhall/promo.png",
+
+  "gallery": [
+    "/img/projects/binghatti-skyhall/gallery_1.png",
+    "/img/projects/binghatti-skyhall/gallery_2.png",
+    "/img/projects/binghatti-skyhall/gallery_3.png",
+    "/img/projects/binghatti-skyhall/gallery_4.png",
+    "/img/projects/binghatti-skyhall/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "7 min" },
+      { "name": "DXB Airport", "time": "18 min" },
+      { "name": "Dubai Marina", "time": "22 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "7 мин" },
+      { "name": "Аэропорт DXB", "time": "18 мин" },
+      { "name": "Dubai Marina", "time": "22 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "7 دقائق" },
+      { "name": "مطار دبي DXB", "time": "18 دقيقة" },
+      { "name": "مرسى دبي", "time": "22 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "7 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "18 मिनट" },
+      { "name": "दुबई मरीना", "time": "22 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai, UAE",
+      "ru": "Business Bay, Дубай, ОАЭ",
+      "ar": "الخليج التجاري، دبي، الإمارات",
+      "hi": "बिज़नेस बे, दुबई, यूएई"
+    },
+    "lat": 25.1857,
+    "lng": 55.2682
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 1,
+    "handover_year": 2026,
+    "price_from_aed": 1000000,
+    "size_from_sqft": 400,
+    "tokens_extra": ["uae"]
+  }
+}

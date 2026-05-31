@@ -1,0 +1,150 @@
+{
+  "project_key": "bayz-101",
+  "slug": "bayz-101",
+
+  "name": {
+    "en": "Bayz 101",
+    "ru": "Bayz 101",
+    "ar": "بايز 101",
+    "hi": "बेयज़ 101"
+  },
+
+  "developer": {
+    "en": "Danube Properties",
+    "ru": "Danube Properties",
+    "ar": "دانوب العقارية",
+    "hi": "डैन्यूब प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Bayz 101",
+    "ru": "Bayz 101",
+    "ar": "بايز 101",
+    "hi": "बेयज़ 101"
+  },
+
+  "handover": {
+    "en": "June 2028",
+    "ru": "Июнь 2028",
+    "ar": "يونيو 2028",
+    "hi": "जून 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,175,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1 | 2 | 3 | 4 BR",
+    "ru": "Студия | 1 | 2 | 3 | 4 спальни",
+    "ar": "استوديو | 1 | 2 | 3 | 4 غرف نوم",
+    "hi": "स्टूडियो | 1 | 2 | 3 | 4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 374 sqft",
+    "ru": "от 374 sqft",
+    "ar": "ابتداءً من 374 قدم²",
+    "hi": "374 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Bayz 101 by Danube Properties is a striking 101-storey residential tower in Business Bay offering studios and 1 to 4-bedroom apartments with contemporary interiors and canal or skyline views. Designed for vibrant urban lifestyles, the project features smart home technology, resort-style amenities and seamless connectivity to Downtown Dubai, creating strong investment appeal in one of the city’s most dynamic districts.",
+    "ru": "Bayz 101 от Danube Properties — 101-этажная башня в Business Bay со студиями и апартаментами с 1–4 спальнями и современными интерьерами. Проект предлагает смарт-технологии, инфраструктуру в стиле курорта и удобную связь с Downtown Dubai, формируя высокий инвестиционный потенциал в одном из самых динамичных районов города.",
+    "ar": "يعد مشروع بايز 101 من دانوب العقارية برجاً سكنياً مميزاً بارتفاع 101 طابق في الخليج التجاري، يضم استوديوهات وشققاً من 1 إلى 4 غرف نوم بإطلالات على القناة أو أفق المدينة. يوفر تقنيات المنزل الذكي ومرافق فاخرة واتصالاً مباشراً بوسط مدينة دبي، ما يجعله فرصة استثمارية قوية في قلب المنطقة الحيوية.",
+    "hi": "डैन्यूब प्रॉपर्टीज द्वारा विकसित बेयज़ 101, बिज़नेस बे में स्थित 101-मंज़िला रेजिडेंशियल टॉवर है, जो स्टूडियो और 1 से 4 बेडरूम अपार्टमेंट प्रदान करता है। आधुनिक इंटीरियर, स्मार्ट होम तकनीक और प्रीमियम सुविधाएँ इसे डाउनटाउन दुबई के पास एक आकर्षक निवेश विकल्प बनाती हैं, जो शहरी जीवनशैली को नई ऊँचाई देती हैं।"
+  },
+
+  "promo_image": "/img/projects/bayz-101/promo.png",
+
+  "gallery": [
+    "/img/projects/bayz-101/gallery_1.png",
+    "/img/projects/bayz-101/gallery_2.png",
+    "/img/projects/bayz-101/gallery_3.png",
+    "/img/projects/bayz-101/gallery_4.png",
+    "/img/projects/bayz-101/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai, UAE",
+      "ru": "Business Bay, Дубай, ОАЭ",
+      "ar": "الخليج التجاري، دبي، الإمارات",
+      "hi": "बिज़नेस बे, दुबई, यूएई"
+    },
+    "lat": 25.1865,
+    "lng": 55.2647
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "danube-properties",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2028,
+    "price_from_aed": 1175000,
+    "size_from_sqft": 374,
+    "tokens_extra": ["uae"]
+  }
+}

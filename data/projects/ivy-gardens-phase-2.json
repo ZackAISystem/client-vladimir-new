@@ -1,0 +1,150 @@
+{
+  "project_key": "ivy-gardens-phase-2",
+  "slug": "ivy-gardens-phase-2",
+
+  "name": {
+    "en": "IVY Gardens Phase 2",
+    "ru": "IVY Gardens Phase 2",
+    "ar": "آيفي جاردنز المرحلة الثانية",
+    "hi": "आईवी गार्डन्स फेज 2"
+  },
+
+  "developer": {
+    "en": "Samana Developers",
+    "ru": "Samana Developers",
+    "ar": "سمانا للتطوير العقاري",
+    "hi": "समाना डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Land Residence Complex",
+    "ru": "Dubai Land Residence Complex",
+    "ar": "مجمع دبي لاند ريزيدنس",
+    "hi": "दुबई लैंड रेजिडेंस कॉम्प्लेक्स"
+  },
+
+  "hero_title": {
+    "en": "IVY Gardens Phase 2",
+    "ru": "IVY Gardens Phase 2",
+    "ar": "آيفي جاردنز المرحلة الثانية",
+    "hi": "आईवी गार्डन्स फेज 2"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "659,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–3 BR",
+    "ru": "Студия | 1–3 спальни",
+    "ar": "استوديو | 1–3 غرف نوم",
+    "hi": "स्टूडियो | 1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 419 sqft",
+    "ru": "от 419 sqft",
+    "ar": "ابتداءً من 419 قدم²",
+    "hi": "419 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "IVY Gardens Phase 2 by Samana Developers is a residential tower in Dubai Land Residence Complex offering studios and 1–3 bedroom apartments from 419 sqft. The project combines landscaped podium areas, leisure amenities, and contemporary interiors designed for modern urban living. Located within a growing residential district, it provides connectivity to key Dubai highways and strong rental potential.",
+    "ru": "IVY Gardens Phase 2 от Samana Developers — жилой проект в Dubai Land Residence Complex со студиями и апартаментами с 1–3 спальнями от 419 sqft. Комплекс сочетает современную архитектуру, благоустроенные зоны отдыха и функциональные планировки. Локация обеспечивает удобный доступ к основным магистралям Дубая и интересна как для жизни, так и для аренды.",
+    "ar": "يُعد آيفي جاردنز المرحلة الثانية من سمانا للتطوير العقاري برجاً سكنياً في مجمع دبي لاند ريزيدنس يضم استوديوهات وشققاً من 1 إلى 3 غرف نوم ابتداءً من 419 قدم². يجمع المشروع بين تصميم عصري ومرافق ترفيهية وموقع متصل بشبكات الطرق الرئيسية في دبي.",
+    "hi": "आईवी गार्डन्स फेज 2, समाना डेवलपर्स द्वारा दुबई लैंड रेजिडेंस कॉम्प्लेक्स में स्थित एक रेजिडेंशियल टॉवर है, जिसमें 419 sqft से स्टूडियो और 1–3 बेडरूम अपार्टमेंट उपलब्ध हैं। आधुनिक डिज़ाइन, अवकाश सुविधाएँ और शहर से अच्छी कनेक्टिविटी इसे रहने और निवेश दोनों के लिए उपयुक्त बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/ivy-gardens-phase-2/promo.png",
+
+  "gallery": [
+    "/img/projects/ivy-gardens-phase-2/gallery_1.png",
+    "/img/projects/ivy-gardens-phase-2/gallery_2.png",
+    "/img/projects/ivy-gardens-phase-2/gallery_3.png",
+    "/img/projects/ivy-gardens-phase-2/gallery_4.png",
+    "/img/projects/ivy-gardens-phase-2/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Academic City", "time": "10 min" },
+      { "name": "Global Village", "time": "12 min" },
+      { "name": "Downtown Dubai", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Academic City", "time": "10 мин" },
+      { "name": "Global Village", "time": "12 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "المدينة الأكاديمية", "time": "10 دقائق" },
+      { "name": "القرية العالمية", "time": "12 دقيقة" },
+      { "name": "وسط مدينة دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अकादमिक सिटी", "time": "10 मिनट" },
+      { "name": "ग्लोबल विलेज", "time": "12 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Land Residence Complex, Dubai",
+      "ru": "Dubai Land Residence Complex, Дубай",
+      "ar": "مجمع دبي لاند ريزيدنس، دبي",
+      "hi": "दुबई लैंड रेजिडेंस कॉम्प्लेक्स, दुबई"
+    },
+    "lat": 25.0930,
+    "lng": 55.3670
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-land-residence-complex",
+    "developer": "samana-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 659000,
+    "size_from_sqft": 419,
+    "tokens_extra": ["uae"]
+  }
+}

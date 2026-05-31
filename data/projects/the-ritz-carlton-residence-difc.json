@@ -1,0 +1,150 @@
+{
+  "project_key": "the-ritz-carlton-residence-difc",
+  "slug": "the-ritz-carlton-residence-difc",
+
+  "name": {
+    "en": "The Ritz-Carlton Residences DIFC",
+    "ru": "The Ritz-Carlton Residences DIFC",
+    "ar": "ريتز كارلتون ريزيدنسز DIFC",
+    "hi": "द रिट्ज-कार्लटन रेजिडेंसेज़ डीआईएफसी"
+  },
+
+  "developer": {
+    "en": "MAG Property Development",
+    "ru": "MAG Property Development",
+    "ar": "ماج للتطوير العقاري",
+    "hi": "एमएजी प्रॉपर्टी डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "DIFC",
+    "ru": "DIFC",
+    "ar": "مركز دبي المالي العالمي",
+    "hi": "डीआईएफसी"
+  },
+
+  "hero_title": {
+    "en": "The Ritz-Carlton Residences at DIFC",
+    "ru": "The Ritz-Carlton Residences в DIFC",
+    "ar": "ريتز كارلتون ريزيدنسز في DIFC",
+    "hi": "डीआईएफसी में द रिट्ज-कार्लटन रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "March 2026",
+    "ru": "Март 2026",
+    "ar": "مارس 2026",
+    "hi": "मार्च 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "9,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse", "Villa"],
+    "ru": ["Апартаменты", "Пентхаус", "Вилла"],
+    "ar": ["شقة", "بنتهاوس", "فيلا"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "1542 sqft",
+    "ru": "1542 sqft",
+    "ar": "1542 قدم²",
+    "hi": "1542 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "The Ritz-Carlton Residences DIFC by MAG Property Development is a branded luxury residential tower located in Dubai International Financial Centre. The project offers fully furnished 1 to 3-bedroom apartments, exclusive penthouses and a unique 4-bedroom duplex villa. Residents benefit from Ritz-Carlton five-star services including concierge, valet, housekeeping and private lifestyle management. Interiors reflect contemporary elegance with premium materials, spacious layouts and panoramic skyline views. Positioned in DIFC, the development provides immediate access to Downtown Dubai, Burj Khalifa, fine dining venues and global business hubs, making it a prime address for both living and investment.",
+    "ru": "The Ritz-Carlton Residences DIFC от MAG Property Development — брендированный жилой проект премиум-класса в центре финансового района Дубая. В комплексе представлены полностью меблированные апартаменты с 1–3 спальнями, пентхаусы и уникальная дуплекс-вилла с 4 спальнями. Владельцы получают сервис уровня Ritz-Carlton: консьерж, валет-парковку, housekeeping и индивидуальное обслуживание. Панорамные виды на небоскрёбы и престижное расположение в DIFC делают проект идеальным для проживания и инвестиций.",
+    "ar": "ريتز كارلتون ريزيدنسز DIFC من تطوير ماج هو برج سكني فاخر بعلامة تجارية في مركز دبي المالي العالمي. يضم شققاً مفروشة من غرفة إلى ثلاث غرف نوم، بنتهاوس فاخرة وفيلا دوبلكس بأربع غرف نوم، مع خدمات فندقية كاملة من ريتز كارلتون.",
+    "hi": "द रिट्ज-कार्लटन रेजिडेंसेज़ डीआईएफसी, एमएजी प्रॉपर्टी डेवलपमेंट द्वारा विकसित, एक ब्रांडेड लक्ज़री रेजिडेंशियल टॉवर है। इसमें 1–3 बेडरूम फर्निश्ड अपार्टमेंट, पेंटहाउस और 4 बेडरूम डुप्लेक्स विला शामिल हैं। निवासियों को रिट्ज-कार्लटन की पाँच सितारा सेवाएँ मिलती हैं।"
+  },
+
+  "promo_image": "/img/projects/the-ritz-carlton-residence-difc/promo.png",
+
+  "gallery": [
+    "/img/projects/the-ritz-carlton-residence-difc/gallery_1.png",
+    "/img/projects/the-ritz-carlton-residence-difc/gallery_2.png",
+    "/img/projects/the-ritz-carlton-residence-difc/gallery_3.png",
+    "/img/projects/the-ritz-carlton-residence-difc/gallery_4.png",
+    "/img/projects/the-ritz-carlton-residence-difc/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "Burj Khalifa", "time": "7 min" },
+      { "name": "Dubai International Airport", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Burj Khalifa", "time": "7 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "برج خليفة", "time": "7 دقائق" },
+      { "name": "مطار دبي الدولي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "बुर्ज खलीफा", "time": "7 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "DIFC, Dubai",
+      "ru": "DIFC, Дубай",
+      "ar": "مركز دبي المالي العالمي، دبي",
+      "hi": "डीआईएफसी, दुबई"
+    },
+    "lat": 25.2122,
+    "lng": 55.2796
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "difc",
+    "developer": "mag-property-development",
+    "property_types": ["apartment", "penthouse", "villa"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2026,
+    "price_from_aed": 9300000,
+    "size_from_sqft": 1542,
+    "tokens_extra": ["uae", "branded-residence", "ritz-carlton", "difc", "luxury"]
+  }
+}

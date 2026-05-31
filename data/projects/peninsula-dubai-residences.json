@@ -1,0 +1,150 @@
+{
+  "project_key": "peninsula-dubai-residences",
+  "slug": "peninsula-dubai-residences",
+
+  "name": {
+    "en": "Peninsula Dubai Residences",
+    "ru": "Peninsula Dubai Residences",
+    "ar": "بينينسولا دبي ريزيدنسز",
+    "hi": "पेनिन्सुला दुबई रेजिडेंसेज़"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "إتش آند إتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Jumeirah 2",
+    "ru": "Jumeirah 2",
+    "ar": "جميرا 2",
+    "hi": "जुमेराह 2"
+  },
+
+  "hero_title": {
+    "en": "Peninsula Dubai Residences",
+    "ru": "Peninsula Dubai Residences",
+    "ar": "بينينسولا دبي ريزيدنسز",
+    "hi": "पेनिन्सुला दुबई रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "January 2029",
+    "ru": "Январь 2029",
+    "ar": "يناير 2029",
+    "hi": "जनवरी 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "18,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio–3 BR",
+    "ru": "Студия–3 спальни",
+    "ar": "استوديو–3 غرف نوم",
+    "hi": "स्टूडियो–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 0 sqft",
+    "ru": "от 0 sqft",
+    "ar": "ابتداءً من 0 قدم²",
+    "hi": "0 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Peninsula Dubai Residences by H&H Development is a luxury residential project located in Jumeirah 2, offering studios to 3-bedroom apartments. The development features contemporary architecture, smart home technologies, premium finishes, and proximity to Dubai’s coastline, delivering refined urban living in one of the city’s most prestigious neighborhoods.",
+    "ru": "Peninsula Dubai Residences от H&H Development — премиальный жилой проект в Jumeirah 2 со студиями и апартаментами с 1–3 спальнями. Современная архитектура, умные технологии и престижное расположение рядом с побережьем формируют формат элитной городской жизни.",
+    "ar": "بينينسولا دبي ريزيدنسز من إتش آند إتش للتطوير هو مشروع سكني فاخر في جميرا 2 يضم استوديوهات وشققاً حتى 3 غرف نوم. يتميز بتصميم عصري وتقنيات منزل ذكي وتشطيبات راقية في أحد أرقى أحياء دبي الساحلية.",
+    "hi": "एच एंड एच डेवलपमेंट का पेनिन्सुला दुबई रेजिडेंसेज़ जुमेराह 2 में स्थित एक लक्ज़री रेजिडेंशियल प्रोजेक्ट है, जिसमें स्टूडियो से 3 बेडरूम अपार्टमेंट उपलब्ध हैं। आधुनिक डिजाइन, स्मार्ट होम टेक्नोलॉजी और तटीय लोकेशन इसे प्रीमियम अर्बन एड्रेस बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/peninsula-dubai-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/peninsula-dubai-residences/gallery_1.png",
+    "/img/projects/peninsula-dubai-residences/gallery_2.png",
+    "/img/projects/peninsula-dubai-residences/gallery_3.png",
+    "/img/projects/peninsula-dubai-residences/gallery_4.png",
+    "/img/projects/peninsula-dubai-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "La Mer Beach", "time": "5 min" },
+      { "name": "City Walk", "time": "10 min" },
+      { "name": "Downtown Dubai", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "La Mer Beach", "time": "5 мин" },
+      { "name": "City Walk", "time": "10 мин" },
+      { "name": "Downtown Dubai", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "شاطئ لا مير", "time": "5 دقائق" },
+      { "name": "سيتي ووك", "time": "10 دقائق" },
+      { "name": "داون تاون دبي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "ला मेर बीच", "time": "5 मिनट" },
+      { "name": "सिटी वॉक", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah 2, Dubai",
+      "ru": "Jumeirah 2, Дубай",
+      "ar": "جميرا 2، دبي",
+      "hi": "जुमेराह 2, दुबई"
+    },
+    "lat": 25.2093,
+    "lng": 55.2545
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-2",
+    "developer": "h-h-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2029,
+    "price_from_aed": 18000000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "luxury"]
+  }
+}

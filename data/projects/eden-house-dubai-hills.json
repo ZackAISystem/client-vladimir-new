@@ -1,0 +1,149 @@
+{
+  "project_key": "eden-house-dubai-hills",
+  "slug": "eden-house-dubai-hills",
+
+  "name": {
+    "en": "Eden House Dubai Hills",
+    "ru": "Eden House Dubai Hills",
+    "ar": "إيدن هاوس دبي هيلز",
+    "hi": "एडन हाउस दुबई हिल्स"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "اتش اند اتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Hills Estate",
+    "ru": "Dubai Hills Estate",
+    "ar": "دبي هيلز استيت",
+    "hi": "दुबई हिल्स एस्टेट"
+  },
+
+  "hero_title": {
+    "en": "Eden House Dubai Hills",
+    "ru": "Eden House Dubai Hills",
+    "ar": "إيدن هاوس دبي هيلز",
+    "hi": "एडन हाउस दुबई हिल्स"
+  },
+
+  "handover": {
+    "en": "May 2027",
+    "ru": "Май 2027",
+    "ar": "مايو 2027",
+    "hi": "मई 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "18,000,000"
+  },
+
+  "property_types": {
+    "en": ["Villa"],
+    "ru": ["Вилла"],
+    "ar": ["فيلا"],
+    "hi": ["विला"]
+  },
+
+  "unit_types": {
+    "en": "5–6 BR Villas",
+    "ru": "Виллы с 5–6 спальнями",
+    "ar": "فلل من 5 إلى 6 غرف نوم",
+    "hi": "5–6 बेडरूम विला"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "Flexible plan available",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة سداد مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Eden House Dubai Hills by H&H Development is an exclusive collection of ultra-luxury villas located within the prestigious Dubai Hills Estate. Designed to blend contemporary architecture with lush green surroundings, the project offers spacious five- and six-bedroom residences crafted for refined family living. Each villa features expansive layouts, private outdoor areas, premium finishes, and smart home systems that enhance both comfort and functionality. Positioned within one of Dubai’s most sought-after master communities, residents benefit from proximity to Dubai Hills Mall, championship golf courses, international schools, and major road connections. Eden House represents privacy, architectural sophistication, and long-term value in a prime green enclave of Dubai.",
+    "ru": "Eden House Dubai Hills от H&H Development — это коллекция ультра-роскошных вилл в престижном районе Dubai Hills Estate. Проект сочетает современную архитектуру и зелёное окружение, предлагая просторные резиденции с 5–6 спальнями для комфортной семейной жизни. Виллы отличаются продуманными планировками, приватными зонами отдыха, премиальной отделкой и smart-системами. Локация обеспечивает доступ к Dubai Hills Mall, гольф-полям, международным школам и ключевым магистралям. Eden House — это приватность, статус и долгосрочная инвестиционная ценность.",
+    "ar": "يقدم مشروع إيدن هاوس دبي هيلز من تطوير H&H مجموعة حصرية من الفلل الفاخرة للغاية داخل مجتمع دبي هيلز استيت المرموق. يجمع المشروع بين العمارة العصرية والطبيعة الخضراء، ويوفر فللاً من خمس وست غرف نوم مصممة للحياة العائلية الراقية. تتميز كل فيلا بمساحات واسعة ومناطق خارجية خاصة وتشطيبات فاخرة وأنظمة منزل ذكي. يقع المشروع بالقرب من دبي هيلز مول وملعب الجولف والمدارس الدولية والطرق الرئيسية، مما يجعله عنواناً مثالياً للخصوصية والاستثمار طويل الأمد.",
+    "hi": "एच एंड एच डेवलपमेंट द्वारा एडन हाउस दुबई हिल्स प्रतिष्ठित दुबई हिल्स एस्टेट में स्थित अल्ट्रा-लक्ज़री विला का एक विशेष संग्रह है। यह परियोजना आधुनिक वास्तुकला और हरे-भरे परिवेश का संतुलन प्रस्तुत करती है, जिसमें 5 और 6 बेडरूम वाले विशाल विला परिवारों के लिए डिज़ाइन किए गए हैं। प्रत्येक निवास में विस्तृत लेआउट, निजी आउटडोर स्पेस, प्रीमियम फिनिश और स्मार्ट होम सिस्टम शामिल हैं। दुबई हिल्स मॉल, गोल्फ कोर्स और प्रमुख सड़कों के निकट स्थित यह परियोजना गोपनीयता, प्रतिष्ठा और दीर्घकालिक निवेश मूल्य का प्रतीक है।"
+  },
+
+  "promo_image": "/img/projects/eden-house-dubai-hills/promo.png",
+
+  "gallery": [
+    "/img/projects/eden-house-dubai-hills/gallery_1.png",
+    "/img/projects/eden-house-dubai-hills/gallery_2.png",
+    "/img/projects/eden-house-dubai-hills/gallery_3.png",
+    "/img/projects/eden-house-dubai-hills/gallery_4.png",
+    "/img/projects/eden-house-dubai-hills/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Hills Mall", "time": "5 min" },
+      { "name": "Downtown Dubai", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Hills Mall", "time": "5 мин" },
+      { "name": "Downtown Dubai", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "دبي هيلز مول", "time": "5 دقائق" },
+      { "name": "داون تاون دبي", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई हिल्स मॉल", "time": "5 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Hills Estate, Dubai",
+      "ru": "Dubai Hills Estate, Дубай",
+      "ar": "دبي هيلز استيت، دبي",
+      "hi": "दुबई हिल्स एस्टेट, दुबई"
+    },
+    "lat": 25.1048,
+    "lng": 55.2370
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-hills-estate",
+    "developer": "h-h-development",
+    "property_types": ["villa"],
+    "bedrooms_min": 5,
+    "bedrooms_max": 6,
+    "handover_year": 2027,
+    "price_from_aed": 18000000,
+    "tokens_extra": ["uae"]
+  }
+}

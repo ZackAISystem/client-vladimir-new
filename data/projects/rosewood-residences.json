@@ -1,0 +1,150 @@
+{
+  "project_key": "rosewood-residences",
+  "slug": "rosewood-residences",
+
+  "name": {
+    "en": "Rosewood Residences",
+    "ru": "Rosewood Residences",
+    "ar": "ريزوود ريزيدنسز",
+    "hi": "रोज़वुड रेजिडेंसेज़"
+  },
+
+  "developer": {
+    "en": "Rosewood",
+    "ru": "Rosewood",
+    "ar": "ريزوود",
+    "hi": "रोज़वुड"
+  },
+
+  "location_text": {
+    "en": "Jumeirah",
+    "ru": "Jumeirah",
+    "ar": "جميرا",
+    "hi": "जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "Rosewood Residences",
+    "ru": "Rosewood Residences",
+    "ar": "ريزوود ريزيدنسز",
+    "hi": "रोज़वुड रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "December 2028",
+    "ru": "Декабрь 2028",
+    "ar": "ديسمبر 2028",
+    "hi": "दिसंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "18,900,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "0",
+    "ru": "0",
+    "ar": "0",
+    "hi": "0"
+  },
+
+  "size": {
+    "en": "from 0 sqft",
+    "ru": "от 0 sqft",
+    "ar": "ابتداءً من 0 قدم²",
+    "hi": "0 sqft से"
+  },
+
+  "down_payment": {
+    "en": "10%",
+    "ru": "10%",
+    "ar": "10%",
+    "hi": "10%"
+  },
+
+  "payment_plan": {
+    "en": "50/50",
+    "ru": "50/50",
+    "ar": "50/50",
+    "hi": "50/50"
+  },
+
+  "description": {
+    "en": "Rosewood Residences is a luxury residential concept in Jumeirah, positioned around the Rosewood lifestyle with hotel-grade services and high-end design. The project is referenced with handover around Q4 2028 and a starting level around AED 18.9M, with a 10% down payment and a 50/50 payment plan.",
+    "ru": "Rosewood Residences — премиальный жилой концепт в Jumeirah, построенный вокруг уровня сервиса Rosewood и архитектуры «ультра-премиум». По доступным материалам: ориентир сдачи — Q4/декабрь 2028, стартовый уровень — около AED 18.9M, первый взнос 10% и план 50/50.",
+    "ar": "ريزوود ريزيدنسز هو مفهوم سكني فاخر في جميرا مستوحى من أسلوب حياة Rosewood مع خدمات بمستوى فندقي وتصميم راقٍ. تشير المواد المتاحة إلى تسليم تقريبي في الربع الرابع/ديسمبر 2028 وسعر يبدأ من نحو 18.9 مليون درهم، مع دفعة أولى 10% وخطة 50/50.",
+    "hi": "रोज़वुड रेजिडेंसेज़ जुमेराह में एक प्रीमियम रेज़िडेंशियल कॉन्सेप्ट है, जो Rosewood-स्टाइल हॉस्पिटैलिटी और हाई-एंड डिज़ाइन पर केंद्रित है। उपलब्ध जानकारी के अनुसार हैंडओवर Q4/दिसंबर 2028 के आसपास और शुरुआती स्तर लगभग AED 18.9M, 10% डाउन पेमेंट और 50/50 पेमेंट प्लान है।"
+  },
+
+  "promo_image": "/img/projects/rosewood-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/rosewood-residences/gallery_1.png",
+    "/img/projects/rosewood-residences/gallery_2.png",
+    "/img/projects/rosewood-residences/gallery_3.png",
+    "/img/projects/rosewood-residences/gallery_4.png",
+    "/img/projects/rosewood-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+  "en": [
+    { "name": "Downtown Dubai", "time": "12 min" },
+    { "name": "DXB Airport", "time": "18 min" },
+    { "name": "Dubai Marina", "time": "20 min" }
+  ],
+  "ru": [
+    { "name": "Downtown Dubai", "time": "12 мин" },
+    { "name": "Аэропорт DXB", "time": "18 мин" },
+    { "name": "Dubai Marina", "time": "20 мин" }
+  ],
+  "ar": [
+    { "name": "داون تاون دبي", "time": "12 دقيقة" },
+    { "name": "مطار دبي DXB", "time": "18 دقيقة" },
+    { "name": "مرسى دبي", "time": "20 دقيقة" }
+  ],
+  "hi": [
+    { "name": "डाउनटाउन दुबई", "time": "12 मिनट" },
+    { "name": "DXB एयरपोर्ट", "time": "18 मिनट" },
+    { "name": "दुबई मरीना", "time": "20 मिनट" }
+  ]
+},
+
+  "map": {
+    "address": {
+      "en": "Jumeirah",
+      "ru": "Jumeirah",
+      "ar": "جميرا",
+      "hi": "जुमेराह"
+    },
+    "lat": 0,
+    "lng": 0
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah",
+    "developer": "rosewood",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 0,
+    "handover_year": 2028,
+    "price_from_aed": 18900000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "luxury"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "binghatti-skyblade",
+  "slug": "binghatti-skyblade",
+
+  "name": {
+    "en": "Binghatti Skyblade",
+    "ru": "Binghatti Skyblade",
+    "ar": "بن غاطي سكاي بليد",
+    "hi": "बिंगहट्टी स्कायब्लेड"
+  },
+
+  "developer": {
+    "en": "Binghatti Developers",
+    "ru": "Binghatti Developers",
+    "ar": "بن غاطي للتطوير العقاري",
+    "hi": "बिंगहट्टी डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Downtown Dubai",
+    "ru": "Downtown Dubai",
+    "ar": "وسط مدينة دبي",
+    "hi": "डाउनटाउन दुबई"
+  },
+
+  "hero_title": {
+    "en": "Binghatti Skyblade",
+    "ru": "Binghatti Skyblade",
+    "ar": "بن غاطي سكاي بليد",
+    "hi": "बिंगहट्टी स्कायब्लेड"
+  },
+
+  "handover": {
+    "en": "November 2027",
+    "ru": "Ноябрь 2027",
+    "ar": "نوفمبر 2027",
+    "hi": "नवंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,700,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1 | 2 | 3 BR",
+    "ru": "Студия | 1 | 2 | 3 спальни",
+    "ar": "استوديو | 1 | 2 | 3 غرف نوم",
+    "hi": "स्टूडियो | 1 | 2 | 3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 450 sqft",
+    "ru": "от 450 sqft",
+    "ar": "ابتداءً من 450 قدم²",
+    "hi": "450 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Binghatti Skyblade is a landmark residential tower in Downtown Dubai, offering studios and one- to three-bedroom apartments with smart home systems and refined finishes. Positioned near Burj Khalifa and Dubai Fountain, the project blends visionary architecture with sustainability and panoramic skyline views, creating an elevated lifestyle in the heart of Dubai’s most iconic district.",
+    "ru": "Binghatti Skyblade — знаковая жилая башня в Downtown Dubai со студиями и апартаментами с 1–3 спальнями. Проект сочетает инновационную архитектуру, экологичные решения и панорамные виды на город рядом с Burj Khalifa и Dubai Fountain, формируя премиальный стиль жизни в самом центре Дубая.",
+    "ar": "يُعد بن غاطي سكاي بليد برجاً سكنياً مميزاً في وسط مدينة دبي، يضم استوديوهات وشققاً بغرفة نوم واحدة إلى ثلاث غرف نوم مع أنظمة منزل ذكي وتشطيبات راقية. يقع بالقرب من برج خليفة ونافورة دبي، ويجمع بين التصميم المعماري المستقبلي والاستدامة ليقدم أسلوب حياة فاخر بإطلالات بانورامية.",
+    "hi": "बिंगहट्टी स्कायब्लेड डाउनटाउन दुबई में स्थित एक प्रतिष्ठित रेजिडेंशियल टॉवर है, जहाँ स्टूडियो और 1–3 बेडरूम अपार्टमेंट उपलब्ध हैं। बुर्ज़ खलीफा और दुबई फाउंटेन के पास स्थित यह प्रोजेक्ट स्मार्ट होम टेक्नोलॉजी, सस्टेनेबल डिज़ाइन और पैनोरमिक व्यू के साथ प्रीमियम शहरी जीवन प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/binghatti-skyblade/promo.png",
+
+  "gallery": [
+    "/img/projects/binghatti-skyblade/gallery_1.png",
+    "/img/projects/binghatti-skyblade/gallery_2.png",
+    "/img/projects/binghatti-skyblade/gallery_3.png",
+    "/img/projects/binghatti-skyblade/gallery_4.png",
+    "/img/projects/binghatti-skyblade/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "3 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "3 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "3 دقائق" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "3 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Downtown Dubai, Dubai, UAE",
+      "ru": "Downtown Dubai, Дубай, ОАЭ",
+      "ar": "وسط مدينة دبي، دبي، الإمارات",
+      "hi": "डाउनटाउन दुबई, दुबई, यूएई"
+    },
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "downtown-dubai",
+    "developer": "binghatti-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 1700000,
+    "size_from_sqft": 450,
+    "tokens_extra": ["uae"]
+  }
+}

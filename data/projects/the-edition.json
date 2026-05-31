@@ -1,0 +1,150 @@
+{
+  "project_key": "the-edition",
+  "slug": "the-edition",
+
+  "name": {
+    "en": "The Residences at The Dubai Beach EDITION",
+    "ru": "The Residences at The Dubai Beach EDITION",
+    "ar": "ذا ريزيدنسز في دبي بيتش إديشن",
+    "hi": "द रेजिडेंसेज़ एट द दुबई बीच एडिशन"
+  },
+
+  "developer": {
+    "en": "Shamal Holding",
+    "ru": "Shamal Holding",
+    "ar": "شمال القابضة",
+    "hi": "शामल होल्डिंग"
+  },
+
+  "location_text": {
+    "en": "Dubai Harbour",
+    "ru": "Dubai Harbour",
+    "ar": "دبي هاربر",
+    "hi": "दुबई हार्बर"
+  },
+
+  "hero_title": {
+    "en": "Private Beach EDITION Residences",
+    "ru": "Private Beach EDITION Residences",
+    "ar": "إديشن ريزيدنسز بشاطئ خاص",
+    "hi": "प्राइवेट बीच एडिशन रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "July 2029",
+    "ru": "Июль 2029",
+    "ar": "يوليو 2029",
+    "hi": "जुलाई 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "8,700,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–5 BR Branded Residences",
+    "ru": "1–5 спален, брендированные резиденции",
+    "ar": "1–5 غرف نوم – ريزيدنسز فندقية",
+    "hi": "1–5 बेडरूम ब्रांडेड रेजिडेंसेज़"
+  },
+
+  "size": {
+    "en": "850 sqft",
+    "ru": "850 sqft",
+    "ar": "850 قدم²",
+    "hi": "850 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "The Residences at The Dubai Beach EDITION is an ultra-exclusive beachfront development in Dubai Harbour offering 1 to 5-bedroom branded residences with private beach access. It is the only EDITION residential project globally with its own private shoreline. Developed by Shamal Holding in collaboration with H&H Development and designed by Rockwell Group, the project blends refined architecture, floor-to-ceiling glazing, expansive terraces and curated hospitality services. Residents benefit from full EDITION hotel services including concierge, valet, wellness facilities, beach club access, rooftop venues and signature dining. Positioned between JBR and Palm Jumeirah, the address combines marina living with direct Gulf views and long-term capital preservation potential.",
+    "ru": "The Residences at The Dubai Beach EDITION — ультра-эксклюзивный проект в Dubai Harbour с приватным пляжем и брендированными резиденциями с 1–5 спальнями. Это единственные в мире резиденции EDITION с собственным частным побережьем. Проект реализуется Shamal Holding совместно с H&H Development, интерьеры разработаны Rockwell Group. Панорамные окна, просторные террасы и сервис уровня отеля EDITION формируют уникальный формат проживания. Владельцы получают доступ к пляжному клубу, wellness-центру, ресторанам и полному гостиничному обслуживанию.",
+    "ar": "يُعد ذا ريزيدنسز في دبي بيتش إديشن أحد أكثر المشاريع السكنية تميزاً في دبي هاربر، حيث يضم ريزيدنسز فندقية من غرفة إلى خمس غرف نوم مع شاطئ خاص. يتم تطوير المشروع من قبل شمال القابضة بالتعاون مع H&H، وتتميز التصميمات الداخلية بتوقيع Rockwell Group، مع خدمات فندقية كاملة من علامة EDITION.",
+    "hi": "द रेजिडेंसेज़ एट द दुबई बीच एडिशन दुबई हार्बर में स्थित एक अल्ट्रा-एक्सक्लूसिव बीचफ्रंट प्रोजेक्ट है, जिसमें 1 से 5 बेडरूम ब्रांडेड रेजिडेंसेज़ निजी समुद्र तट के साथ उपलब्ध हैं। यह दुनिया का एकमात्र एडिशन रेजिडेंशियल प्रोजेक्ट है जिसका अपना प्राइवेट बीच है। इसमें होटल-स्तरीय सेवाएँ, बीच क्लब, वेलनेस सेंटर और प्रीमियम डाइनिंग सुविधाएँ शामिल हैं।"
+  },
+
+  "promo_image": "/img/projects/the-edition/promo.png",
+
+  "gallery": [
+    "/img/projects/the-edition/gallery_1.png",
+    "/img/projects/the-edition/gallery_2.png",
+    "/img/projects/the-edition/gallery_3.png",
+    "/img/projects/the-edition/gallery_4.png",
+    "/img/projects/the-edition/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Palm Jumeirah", "time": "5 min" },
+      { "name": "Dubai Marina", "time": "5 min" },
+      { "name": "Bluewaters Island", "time": "7 min" }
+    ],
+    "ru": [
+      { "name": "Palm Jumeirah", "time": "5 мин" },
+      { "name": "Dubai Marina", "time": "5 мин" },
+      { "name": "Bluewaters Island", "time": "7 мин" }
+    ],
+    "ar": [
+      { "name": "نخلة جميرا", "time": "5 دقائق" },
+      { "name": "دبي مارينا", "time": "5 دقائق" },
+      { "name": "جزيرة بلوواترز", "time": "7 دقائق" }
+    ],
+    "hi": [
+      { "name": "पाम जुमेराह", "time": "5 मिनट" },
+      { "name": "दुबई मरीना", "time": "5 मिनट" },
+      { "name": "ब्लूवॉटर्स आइलैंड", "time": "7 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Harbour, Dubai",
+      "ru": "Dubai Harbour, Дубай",
+      "ar": "دبي هاربر، دبي",
+      "hi": "दुबई हार्बर, दुबई"
+    },
+    "lat": 25.0925,
+    "lng": 55.1380
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-harbour",
+    "developer": "shamal-holding",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2029,
+    "price_from_aed": 8700000,
+    "size_from_sqft": 850,
+    "tokens_extra": ["uae", "branded-residence", "private-beach", "dubai-harbour", "edition"]
+  }
+}

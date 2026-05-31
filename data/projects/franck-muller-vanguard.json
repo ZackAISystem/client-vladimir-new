@@ -1,0 +1,150 @@
+{
+  "project_key": "franck-muller-vanguard",
+  "slug": "franck-muller-vanguard",
+
+  "name": {
+    "en": "Franck Muller Vanguard",
+    "ru": "Franck Muller Vanguard",
+    "ar": "فرانك مولر فانغارد",
+    "hi": "फ्रैंक मुलर वैनगार्ड"
+  },
+
+  "developer": {
+    "en": "London Gate",
+    "ru": "London Gate",
+    "ar": "لندن غيت",
+    "hi": "लंदन गेट"
+  },
+
+  "location_text": {
+    "en": "Dubai Marina",
+    "ru": "Dubai Marina",
+    "ar": "دبي مارينا",
+    "hi": "दुबई मरीना"
+  },
+
+  "hero_title": {
+    "en": "Franck Muller Vanguard",
+    "ru": "Franck Muller Vanguard",
+    "ar": "فرانك مولر فانغارد",
+    "hi": "फ्रैंक मुलर वैनगार्ड"
+  },
+
+  "handover": {
+    "en": "November 2027",
+    "ru": "Ноябрь 2027",
+    "ar": "نوفمبر 2027",
+    "hi": "नवंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–3 BR",
+    "ru": "Студия | 1–3 спальни",
+    "ar": "استوديو | 1–3 غرف نوم",
+    "hi": "स्टूडियो | 1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Franck Muller Vanguard is a branded residential tower in Dubai Marina developed by London Gate in collaboration with Swiss watchmaker Franck Muller. The project offers studios and 1 to 3-bedroom apartments inspired by precision design and modern architecture. Located in one of Dubai’s most dynamic waterfront districts, it combines marina views, lifestyle amenities and strong investment appeal.",
+    "ru": "Franck Muller Vanguard — брендированный жилой проект в Dubai Marina от London Gate в сотрудничестве со швейцарским брендом Franck Muller. В комплексе представлены студии и апартаменты с 1–3 спальнями с акцентом на современный дизайн и архитектуру. Локация в одном из самых востребованных районов у воды обеспечивает высокий инвестиционный потенциал.",
+    "ar": "فرانك مولر فانغارد هو مشروع سكني بعلامة تجارية في دبي مارينا من تطوير لندن غيت بالتعاون مع دار الساعات السويسرية فرانك مولر. يضم استوديوهات وشققاً من 1 إلى 3 غرف نوم بتصميم عصري مستوحى من الدقة الهندسية، مع موقع مميز على الواجهة البحرية وفرص استثمار قوية.",
+    "hi": "फ्रैंक मुलर वैनगार्ड दुबई मरीना में स्थित एक ब्रांडेड रेजिडेंशियल प्रोजेक्ट है, जिसे लंदन गेट ने स्विस वॉच ब्रांड फ्रैंक मुलर के सहयोग से विकसित किया है। इसमें स्टूडियो और 1–3 बेडरूम अपार्टमेंट शामिल हैं, जो आधुनिक डिज़ाइन और प्रीमियम वाटरफ्रंट लोकेशन के साथ उच्च निवेश क्षमता प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/franck-muller-vanguard/promo.png",
+
+  "gallery": [
+    "/img/projects/franck-muller-vanguard/gallery_1.png",
+    "/img/projects/franck-muller-vanguard/gallery_2.png",
+    "/img/projects/franck-muller-vanguard/gallery_3.png",
+    "/img/projects/franck-muller-vanguard/gallery_4.png",
+    "/img/projects/franck-muller-vanguard/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Marina Walk", "time": "5 min" },
+      { "name": "JBR Beach", "time": "7 min" },
+      { "name": "Dubai Mall", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Marina Walk", "time": "5 мин" },
+      { "name": "JBR Beach", "time": "7 мин" },
+      { "name": "Dubai Mall", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "مارينا ووك", "time": "5 دقائق" },
+      { "name": "شاطئ جميرا بيتش ريزيدنس", "time": "7 دقائق" },
+      { "name": "دبي مول", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "मरीना वॉक", "time": "5 मिनट" },
+      { "name": "जेबीआर बीच", "time": "7 मिनट" },
+      { "name": "दुबई मॉल", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Marina, Dubai",
+      "ru": "Dubai Marina, Дубай",
+      "ar": "دبي مارينا، دبي",
+      "hi": "दुबई मरीना, दुबई"
+    },
+    "lat": 25.0800,
+    "lng": 55.1400
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-marina",
+    "developer": "london-gate",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 1300000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "waterfront", "branded", "luxury"]
+  }
+}

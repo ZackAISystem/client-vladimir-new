@@ -1,0 +1,150 @@
+{
+  "project_key": "samana-hills-south-2",
+  "slug": "samana-hills-south-2",
+
+  "name": {
+    "en": "Samana Hills South 2",
+    "ru": "Samana Hills South 2",
+    "ar": "سمانا هيلز ساوث 2",
+    "hi": "समाना हिल्स साउथ 2"
+  },
+
+  "developer": {
+    "en": "Samana Developers",
+    "ru": "Samana Developers",
+    "ar": "سمانا للتطوير العقاري",
+    "hi": "समाना डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Industrial City",
+    "ru": "Dubai Industrial City",
+    "ar": "مدينة دبي الصناعية",
+    "hi": "दुबई इंडस्ट्रियल सिटी"
+  },
+
+  "hero_title": {
+    "en": "Samana Hills South 2",
+    "ru": "Samana Hills South 2",
+    "ar": "سمانا هيلز ساوث 2",
+    "hi": "समाना हिल्स साउथ 2"
+  },
+
+  "handover": {
+    "en": "September 2028",
+    "ru": "Сентябрь 2028",
+    "ar": "سبتمبر 2028",
+    "hi": "सितंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "599,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio–2 BR",
+    "ru": "Студия–2 спальни",
+    "ar": "استوديو–2 غرف نوم",
+    "hi": "स्टूडियो–2 बेडरूम"
+  },
+
+  "size": {
+    "en": "386 sqft",
+    "ru": "386 sqft",
+    "ar": "386 قدم²",
+    "hi": "386 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Samana Hills South 2 in Dubai Industrial City is a contemporary mid-rise project by Samana Developers offering studios and 1–2 bedroom apartments. Designed with open layouts, smart home features and modern finishes, the development blends urban convenience with calm surroundings, making it suitable for both end-users and long-term investors.",
+    "ru": "Samana Hills South 2 в Dubai Industrial City — современный жилой проект от Samana Developers со студиями и апартаментами 1–2 спальни. Открытые планировки, технологии «умный дом» и современная отделка сочетают городской комфорт со спокойной атмосферой, что делает проект привлекательным для жизни и инвестиций.",
+    "ar": "سمانا هيلز ساوث 2 في مدينة دبي الصناعية هو مشروع سكني متوسط الارتفاع من سمانا للتطوير يضم استوديوهات وشققاً من غرفة إلى غرفتين نوم. يتميز بتصميم مفتوح وتقنيات المنزل الذكي وتشطيبات عصرية، ويوفر توازناً بين الراحة الحضرية والأجواء الهادئة للمستثمرين والسكان.",
+    "hi": "समाना हिल्स साउथ 2 दुबई इंडस्ट्रियल सिटी में समाना डेवलपर्स का आधुनिक मिड-राइज प्रोजेक्ट है, जिसमें स्टूडियो और 1–2 बेडरूम अपार्टमेंट शामिल हैं। ओपन लेआउट, स्मार्ट होम फीचर्स और मॉडर्न फिनिश इसे एंड-यूज़र्स और लॉन्ग-टर्म इन्वेस्टर्स दोनों के लिए उपयुक्त बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/samana-hills-south-2/promo.png",
+
+  "gallery": [
+    "/img/projects/samana-hills-south-2/gallery_1.png",
+    "/img/projects/samana-hills-south-2/gallery_2.png",
+    "/img/projects/samana-hills-south-2/gallery_3.png",
+    "/img/projects/samana-hills-south-2/gallery_4.png",
+    "/img/projects/samana-hills-south-2/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Al Maktoum International Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "30 min" },
+      { "name": "Downtown Dubai", "time": "35 min" }
+    ],
+    "ru": [
+      { "name": "Аэропорт Al Maktoum", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "30 мин" },
+      { "name": "Downtown Dubai", "time": "35 мин" }
+    ],
+    "ar": [
+      { "name": "مطار آل مكتوم الدولي", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "30 دقيقة" },
+      { "name": "داون تاون دبي", "time": "35 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अल मकतूम इंटरनेशनल एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "30 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "35 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Industrial City",
+      "ru": "Dubai Industrial City",
+      "ar": "مدينة دبي الصناعية",
+      "hi": "दुबई इंडस्ट्रियल सिटी"
+    },
+    "lat": 24.8807,
+    "lng": 55.1364
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-industrial-city",
+    "developer": "samana-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 2,
+    "handover_year": 2028,
+    "price_from_aed": 599000,
+    "size_from_sqft": 386,
+    "tokens_extra": ["uae", "industrial-city", "affordable", "investment"]
+  }
+}

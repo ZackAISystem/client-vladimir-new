@@ -1,0 +1,150 @@
+{
+  "project_key": "serra-at-ghaf-woods",
+  "slug": "serra-at-ghaf-woods",
+
+  "name": {
+    "en": "Serra at Ghaf Woods",
+    "ru": "Serra at Ghaf Woods",
+    "ar": "سيرا في غاف وودز",
+    "hi": "सेरा एट ग़ाफ वुड्स"
+  },
+
+  "developer": {
+    "en": "Majid Al Futtaim",
+    "ru": "Majid Al Futtaim",
+    "ar": "ماجد الفطيم",
+    "hi": "माजिद अल फुत्तैम"
+  },
+
+  "location_text": {
+    "en": "Ghaf Woods",
+    "ru": "Ghaf Woods",
+    "ar": "غاف وودز",
+    "hi": "ग़ाफ वुड्स"
+  },
+
+  "hero_title": {
+    "en": "Serra at Ghaf Woods",
+    "ru": "Serra at Ghaf Woods",
+    "ar": "سيرا في غاف وودز",
+    "hi": "सेरा एट ग़ाफ वुड्स"
+  },
+
+  "handover": {
+    "en": "September 2027",
+    "ru": "Сентябрь 2027",
+    "ar": "سبتمبر 2027",
+    "hi": "सितंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,200,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "800 sqft",
+    "ru": "800 sqft",
+    "ar": "800 قدم²",
+    "hi": "800 sqft"
+  },
+
+  "down_payment": {
+    "en": "10% Down Payment",
+    "ru": "10% Первый взнос",
+    "ar": "10% الدفعة الأولى",
+    "hi": "10% डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "60/40",
+    "ru": "60/40",
+    "ar": "60/40",
+    "hi": "60/40"
+  },
+
+  "description": {
+    "en": "Serra at Ghaf Woods by Majid Al Futtaim is a nature-inspired residential project in Dubai Land offering 1 to 3-bedroom apartments and duplexes. Located within the master-planned forest community of Ghaf Woods, it combines sustainable design, forest views and resort-style amenities with modern layouts, creating a premium lifestyle address with strong long-term investment appeal.",
+    "ru": "Serra at Ghaf Woods от Majid Al Futtaim — жилой проект в Dubai Land с апартаментами и дуплексами 1–3 спальни, расположенный в мастер-план сообществе Ghaf Woods. Комплекс сочетает экологичный дизайн, виды на зелёные массивы и инфраструктуру уровня курорта, формируя премиальный адрес для жизни и инвестиций.",
+    "ar": "سيرا في غاف وودز من ماجد الفطيم هو مشروع سكني مستوحى من الطبيعة في دبي لاند يضم شققاً ودوبلكسات من 1 إلى 3 غرف نوم. يقع داخل مجتمع غاف وودز المخطط بعناية ويجمع بين التصميم المستدام وإطلالات الغابات والمرافق الفاخرة، ليقدم أسلوب حياة راقٍ وفرصة استثمارية قوية.",
+    "hi": "माजिद अल फुत्तैम द्वारा विकसित सेरा एट ग़ाफ वुड्स दुबई लैंड में स्थित एक नेचर-इंस्पायर्ड रेजिडेंशियल प्रोजेक्ट है, जिसमें 1–3 बेडरूम अपार्टमेंट और डुप्लेक्स उपलब्ध हैं। यह मास्टर-प्लांड ग़ाफ वुड्स कम्युनिटी में स्थित है और सस्टेनेबल डिज़ाइन, फॉरेस्ट व्यू और रिसॉर्ट-स्टाइल सुविधाओं के साथ प्रीमियम लाइफस्टाइल प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/serra-at-ghaf-woods/promo.png",
+
+  "gallery": [
+    "/img/projects/serra-at-ghaf-woods/gallery_1.png",
+    "/img/projects/serra-at-ghaf-woods/gallery_2.png",
+    "/img/projects/serra-at-ghaf-woods/gallery_3.png",
+    "/img/projects/serra-at-ghaf-woods/gallery_4.png",
+    "/img/projects/serra-at-ghaf-woods/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Global Village", "time": "10 min" },
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Global Village", "time": "10 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "القرية العالمية", "time": "10 دقائق" },
+      { "name": "داون تاون دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "ग्लोबल विलेज", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Ghaf Woods",
+      "ru": "Ghaf Woods",
+      "ar": "غاف وودز",
+      "hi": "ग़ाफ वुड्स"
+    },
+    "lat": 25.0665,
+    "lng": 55.3137
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "ghaf-woods",
+    "developer": "majid-al-futtaim",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2027,
+    "price_from_aed": 1200000,
+    "size_from_sqft": 800,
+    "tokens_extra": ["uae", "forest-community", "luxury", "investment"]
+  }
+}

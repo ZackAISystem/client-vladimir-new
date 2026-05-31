@@ -1,0 +1,150 @@
+{
+  "project_key": "the-west-residence-at-serenia-district",
+  "slug": "the-west-residence-at-serenia-district",
+
+  "name": {
+    "en": "The West Residence at Serenia District",
+    "ru": "The West Residence at Serenia District",
+    "ar": "ذا ويست ريزيدنس في سيرينيا ديستريكت",
+    "hi": "द वेस्ट रेजिडेंस एट सेरेनिया डिस्ट्रिक्ट"
+  },
+
+  "developer": {
+    "en": "Palma Development",
+    "ru": "Palma Development",
+    "ar": "بالما للتطوير",
+    "hi": "पाल्मा डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Jumeirah Islands",
+    "ru": "Jumeirah Islands",
+    "ar": "جزر جميرا",
+    "hi": "जुमेराह आइलैंड्स"
+  },
+
+  "hero_title": {
+    "en": "The West Residence",
+    "ru": "The West Residence",
+    "ar": "ذا ويست ريزيدنس",
+    "hi": "द वेस्ट रेजिडेंस"
+  },
+
+  "handover": {
+    "en": "December 2028",
+    "ru": "Декабрь 2028",
+    "ar": "ديسمبر 2028",
+    "hi": "दिसंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,850,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "820 sqft",
+    "ru": "820 sqft",
+    "ar": "820 قدم²",
+    "hi": "820 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "The West Residence at Serenia District by Palma Development is a 46-storey residential tower in Jumeirah Islands featuring Japanese-inspired architecture and refined contemporary interiors. The project offers 1 to 3-bedroom apartments with serene lake, pool and skyline views, complemented by access to the Serenia Signature Clubhouse. Designed to blend nature with modern urban comfort, the development includes wellness spaces, infinity pools and landscaped terraces, creating a tranquil yet connected lifestyle just minutes from Dubai Marina and Sheikh Zayed Road.",
+    "ru": "The West Residence в Serenia District от Palma Development — 46-этажная башня в районе Jumeirah Islands с архитектурой в японском стиле и современными интерьерами. Проект включает апартаменты с 1–3 спальнями с видами на воду, бассейны и городской горизонт, а также доступ к клубному комплексу Serenia Signature. Резиденты получают приватную атмосферу, wellness-инфраструктуру и удобное расположение рядом с Dubai Marina.",
+    "ar": "ذا ويست ريزيدنس في سيرينيا ديستريكت من تطوير بالما هو برج سكني مكون من 46 طابقاً في جزر جميرا يتميز بتصميم مستوحى من العمارة اليابانية. يوفر شققاً من غرفة إلى ثلاث غرف نوم مع إطلالات على البحيرات والمسابح وأفق دبي، بالإضافة إلى مرافق عصرية ونادي سيرينيا المميز.",
+    "hi": "पाल्मा डेवलपमेंट द्वारा विकसित द वेस्ट रेजिडेंस एट सेरेनिया डिस्ट्रिक्ट जुमेराह आइलैंड्स में स्थित 46-मंजिला टॉवर है, जो जापानी-प्रेरित वास्तुकला और आधुनिक इंटीरियर के साथ 1–3 बेडरूम अपार्टमेंट प्रदान करता है। परियोजना में लेक और स्काईलाइन व्यू, क्लबहाउस और वेलनेस सुविधाएँ शामिल हैं।"
+  },
+
+  "promo_image": "/img/projects/the-west-residence-at-serenia-district/promo.png",
+
+  "gallery": [
+    "/img/projects/the-west-residence-at-serenia-district/gallery_1.png",
+    "/img/projects/the-west-residence-at-serenia-district/gallery_2.png",
+    "/img/projects/the-west-residence-at-serenia-district/gallery_3.png",
+    "/img/projects/the-west-residence-at-serenia-district/gallery_4.png",
+    "/img/projects/the-west-residence-at-serenia-district/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "10 min" },
+      { "name": "Palm Jumeirah", "time": "15 min" },
+      { "name": "Mall of the Emirates", "time": "18 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "10 мин" },
+      { "name": "Palm Jumeirah", "time": "15 мин" },
+      { "name": "Mall of the Emirates", "time": "18 мин" }
+    ],
+    "ar": [
+      { "name": "دبي مارينا", "time": "10 دقائق" },
+      { "name": "نخلة جميرا", "time": "15 دقيقة" },
+      { "name": "مول الإمارات", "time": "18 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "10 मिनट" },
+      { "name": "पाम जुमेराह", "time": "15 मिनट" },
+      { "name": "मॉल ऑफ द एमिरेट्स", "time": "18 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Islands",
+      "ru": "Jumeirah Islands",
+      "ar": "جزر جميرا",
+      "hi": "जुमेराह आइलैंड्स"
+    },
+    "lat": 25.0657,
+    "lng": 55.1486
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-islands",
+    "developer": "palma-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 1850000,
+    "size_from_sqft": 820,
+    "tokens_extra": ["uae", "serenia-district", "japanese-design", "lake-view"]
+  }
+}

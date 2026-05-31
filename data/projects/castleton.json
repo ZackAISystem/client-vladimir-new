@@ -1,0 +1,150 @@
+{
+  "project_key": "castleton",
+  "slug": "castleton",
+
+  "name": {
+    "en": "Castleton",
+    "ru": "Castleton",
+    "ar": "كاسلتون",
+    "hi": "कैसलटन"
+  },
+
+  "developer": {
+    "en": "Meraas Holding",
+    "ru": "Meraas Holding",
+    "ar": "مراس القابضة",
+    "hi": "मेराas होल्डिंग"
+  },
+
+  "location_text": {
+    "en": "City Walk",
+    "ru": "City Walk",
+    "ar": "سيتي ووك",
+    "hi": "सिटी वॉक"
+  },
+
+  "hero_title": {
+    "en": "Castleton",
+    "ru": "Castleton",
+    "ar": "كاسلتون",
+    "hi": "कैसलटन"
+  },
+
+  "handover": {
+    "en": "March 2026",
+    "ru": "Март 2026",
+    "ar": "مارس 2026",
+    "hi": "मार्च 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,100,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 781 sqft",
+    "ru": "от 781 sqft",
+    "ar": "ابتداءً من 781 قدم²",
+    "hi": "781 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Castleton at Central Park, City Walk by Meraas is a premium residential development offering contemporary apartments and expansive penthouses surrounded by lush greenery. Designed to integrate urban sophistication with park-side tranquility, the project features refined interiors, generous terraces, and direct access to landscaped pathways and leisure zones. Located in the heart of City Walk, Castleton delivers a rare blend of nature and cosmopolitan lifestyle.",
+    "ru": "Castleton в Central Park at City Walk от Meraas — премиальный жилой проект с современными апартаментами и просторными пентхаусами, окружёнными зелёными парками. Архитектура сочетает городскую элегантность и атмосферу уединения, а просторные террасы и благоустроенные зоны отдыха создают ощущение курортного образа жизни в центре Дубая.",
+    "ar": "كاسلتون في سنترال بارك بسيتي ووك من مراس هو مشروع سكني فاخر يضم شققاً عصرية وبنتهاوسات واسعة تحيط بها المساحات الخضراء. يجمع المشروع بين الرقي الحضري وهدوء الحياة بجوار الحديقة، مع تصاميم داخلية أنيقة وتراسات رحبة ومسارات طبيعية خلابة.",
+    "hi": "सेंट्रल पार्क एट सिटी वॉक में मेराas द्वारा विकसित कैसलटन एक प्रीमियम रेजिडेंशियल प्रोजेक्ट है, जो आधुनिक अपार्टमेंट और विशाल पेंटहाउस प्रदान करता है। हरे-भरे पार्क, खुले टेरेस और शानदार इंटीरियर इसे शहरी जीवन और प्राकृतिक शांति का अनोखा संगम बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/castleton/promo.png",
+
+  "gallery": [
+    "/img/projects/castleton/gallery_1.png",
+    "/img/projects/castleton/gallery_2.png",
+    "/img/projects/castleton/gallery_3.png",
+    "/img/projects/castleton/gallery_4.png",
+    "/img/projects/castleton/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "5 min" },
+      { "name": "Burj Khalifa", "time": "7 min" },
+      { "name": "Jumeirah Beach", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "5 мин" },
+      { "name": "Burj Khalifa", "time": "7 мин" },
+      { "name": "Пляж Jumeirah", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "5 دقائق" },
+      { "name": "برج خليفة", "time": "7 دقائق" },
+      { "name": "شاطئ جميرا", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "5 मिनट" },
+      { "name": "बुर्ज खलीफा", "time": "7 मिनट" },
+      { "name": "जुमेराह बीच", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "City Walk",
+      "ru": "City Walk",
+      "ar": "سيتي ووك",
+      "hi": "सिटी वॉक"
+    },
+    "lat": 25.2075,
+    "lng": 55.2654
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "city-walk",
+    "developer": "meraas-holding",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2026,
+    "price_from_aed": 2100000,
+    "size_from_sqft": 781,
+    "tokens_extra": ["uae"]
+  }
+}

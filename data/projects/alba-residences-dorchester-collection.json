@@ -1,0 +1,150 @@
+{
+  "project_key": "alba-residences-dorchester-collection",
+  "slug": "alba-residences-dorchester-collection",
+
+  "name": {
+    "en": "The Alba Residences Dorchester Collection",
+    "ru": "The Alba Residences Dorchester Collection",
+    "ar": "ألبا ريزيدنسز – دورشيستر كوليكشن",
+    "hi": "द अल्बा रेजिडेंसेज़ डॉर्चेस्टर कलेक्शन"
+  },
+
+  "developer": {
+    "en": "Omniyat Group",
+    "ru": "Omniyat Group",
+    "ar": "أمنيات جروب",
+    "hi": "ओमनियाट ग्रुप"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "The Alba Residences",
+    "ru": "The Alba Residences",
+    "ar": "ألبا ريزيدنسز",
+    "hi": "द अल्बा रेजिडेंसेज़"
+  },
+
+  "handover": {
+    "en": "March 2028",
+    "ru": "Март 2028",
+    "ar": "مارس 2028",
+    "hi": "मार्च 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "43,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "3–4 BR",
+    "ru": "3–4 спальни",
+    "ar": "3–4 غرف نوم",
+    "hi": "3–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "5368 sqft",
+    "ru": "5368 sqft",
+    "ar": "5368 قدم²",
+    "hi": "5368 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "The Alba Residences Dorchester Collection by Omniyat Group is an ultra-luxury beachfront development on Palm Jumeirah offering an exclusive selection of 3 and 4-bedroom apartments and duplexes. Managed under the prestigious Dorchester Collection brand, the project features dual-aspect layouts, panoramic sea and skyline views, bespoke interiors and five-star hospitality services. With only around 60 residences, it represents one of Dubai’s most private and architecturally refined addresses.",
+    "ru": "The Alba Residences Dorchester Collection от Omniyat Group — ультра-люксовый жилой проект на Palm Jumeirah с ограниченной коллекцией апартаментов и дуплексов с 3–4 спальнями. Резиденции под управлением бренда Dorchester Collection отличаются двусторонними планировками, панорамными видами на море и небоскрёбы, индивидуальной отделкой и сервисом уровня пятизвёздочного отеля. Проект включает около 60 резиденций и относится к самым эксклюзивным адресам Дубая.",
+    "ar": "يعد مشروع ألبا ريزيدنسز – دورشيستر كوليكشن من أمنيات أحد أفخم المشاريع السكنية على نخلة جميرا، ويضم مجموعة محدودة من الشقق والدوبلكس بثلاث وأربع غرف نوم. يتم تشغيل المشروع تحت علامة دورشيستر كوليكشن العالمية، ويتميز بتصاميم مزدوجة الإطلالة وإطلالات بانورامية على البحر وأفق دبي، بالإضافة إلى خدمات فندقية فاخرة.",
+    "hi": "ओमनियाट ग्रुप द्वारा विकसित द अल्बा रेजिडेंसेज़ डॉर्चेस्टर कलेक्शन पाम जुमेराह पर स्थित एक अल्ट्रा-लक्ज़री बीचफ्रंट प्रोजेक्ट है। इसमें 3 और 4 बेडरूम अपार्टमेंट व डुप्लेक्स सीमित संख्या में उपलब्ध हैं। डॉर्चेस्टर कलेक्शन ब्रांड के तहत संचालित यह परियोजना समुद्र और दुबई स्काईलाइन के मनोरम दृश्य, डुअल-एस्पेक्ट लेआउट और फाइव-स्टार सेवाएँ प्रदान करती है।"
+  },
+
+  "promo_image": "/img/projects/the-alba-residences-dorchester-collection/promo.png",
+
+  "gallery": [
+    "/img/projects/the-alba-residences-dorchester-collection/gallery_1.png",
+    "/img/projects/the-alba-residences-dorchester-collection/gallery_2.png",
+    "/img/projects/the-alba-residences-dorchester-collection/gallery_3.png",
+    "/img/projects/the-alba-residences-dorchester-collection/gallery_4.png",
+    "/img/projects/the-alba-residences-dorchester-collection/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Atlantis The Palm", "time": "5 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Atlantis The Palm", "time": "5 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "أتلانتس النخلة", "time": "5 دقائق" },
+      { "name": "دبي مارينا", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अटलांटिस द पाम", "time": "5 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah",
+      "ru": "Palm Jumeirah",
+      "ar": "نخلة جميرا",
+      "hi": "पाम जुमेराह"
+    },
+    "lat": 25.1124,
+    "lng": 55.1390
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "omniyat-group",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 3,
+    "bedrooms_max": 4,
+    "handover_year": 2028,
+    "price_from_aed": 43000000,
+    "size_from_sqft": 5368,
+    "tokens_extra": ["uae", "ultra-luxury", "branded-residence", "beachfront"]
+  }
+}

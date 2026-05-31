@@ -1,0 +1,150 @@
+{
+  "project_key": "baccarat-residences",
+  "slug": "baccarat-residences",
+
+  "name": {
+    "en": "Baccarat Residences",
+    "ru": "Baccarat Residences",
+    "ar": "باكارات ريزيدنسز",
+    "hi": "बैकारा रेजिडेंसेस"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "إتش آند إتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Downtown Dubai",
+    "ru": "Downtown Dubai",
+    "ar": "وسط مدينة دبي",
+    "hi": "डाउनटाउन दुबई"
+  },
+
+  "hero_title": {
+    "en": "Baccarat Residences",
+    "ru": "Baccarat Residences",
+    "ar": "باكارات ريزيدنسز",
+    "hi": "बैकारा रेजिडेंसेस"
+  },
+
+  "handover": {
+    "en": "May 2027",
+    "ru": "Май 2027",
+    "ar": "مايو 2027",
+    "hi": "मई 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "18,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "2 | 3 | 4 | 5 BR",
+    "ru": "2 | 3 | 4 | 5 спальни",
+    "ar": "2 | 3 | 4 | 5 غرف نوم",
+    "hi": "2 | 3 | 4 | 5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2,400 sqft",
+    "ru": "от 2,400 sqft",
+    "ar": "ابتداءً من 2,400 قدم²",
+    "hi": "2,400 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Baccarat Residences Dubai by H&H Development is an ultra-luxury residential tower in Downtown Dubai offering expansive 2 to 5-bedroom apartments and duplexes with uninterrupted views of the Burj Khalifa. Inspired by the iconic French brand, the project blends refined craftsmanship, five-star hospitality services and bespoke interiors, placing residents steps from Dubai Mall and the city’s most prestigious cultural landmarks.",
+    "ru": "Baccarat Residences Dubai от H&H Development — ультра-люксовый жилой комплекс в Downtown Dubai с апартаментами и дуплексами с 2–5 спальнями и панорамными видами на Burj Khalifa. Вдохновлённый эстетикой французского бренда, проект сочетает премиальные интерьеры, сервис пятизвёздочного отеля и шаговую доступность к Dubai Mall и главным культурным локациям города.",
+    "ar": "يمثل مشروع باكارات ريزيدنسز دبي من تطوير إتش آند إتش برجاً سكنياً فائق الفخامة في وسط مدينة دبي، يضم شققاً ودوبلكس من 2 إلى 5 غرف نوم بإطلالات مباشرة على برج خليفة. مستوحى من العلامة الفرنسية الشهيرة، يجمع المشروع بين الحرفية الراقية وخدمات الضيافة الفندقية والموقع المميز قرب دبي مول وأبرز المعالم الثقافية.",
+    "hi": "एच एंड एच डेवलपमेंट द्वारा विकसित बैकारा रेजिडेंसेस दुबई, डाउनटाउन दुबई में स्थित एक अल्ट्रा-लक्ज़री रेजिडेंशियल टावर है, जिसमें 2 से 5 बेडरूम अपार्टमेंट और डुप्लेक्स उपलब्ध हैं। बुर्ज खलीफा के शानदार व्यू, फाइव-स्टार हॉस्पिटैलिटी सेवाएँ और प्रीमियम इंटीरियर इसे दुबई मॉल और प्रमुख सांस्कृतिक स्थलों के पास एक प्रतिष्ठित जीवनशैली प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/baccarat-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/baccarat-residences/gallery_1.png",
+    "/img/projects/baccarat-residences/gallery_2.png",
+    "/img/projects/baccarat-residences/gallery_3.png",
+    "/img/projects/baccarat-residences/gallery_4.png",
+    "/img/projects/baccarat-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "2 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "2 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "2 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "2 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Downtown Dubai, Dubai, UAE",
+      "ru": "Downtown Dubai, Дубай, ОАЭ",
+      "ar": "وسط مدينة دبي، دبي، الإمارات",
+      "hi": "डाउनटाउन दुबई, दुबई, यूएई"
+    },
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "downtown-dubai",
+    "developer": "h&h-development",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 18000000,
+    "size_from_sqft": 2400,
+    "tokens_extra": ["uae"]
+  }
+}

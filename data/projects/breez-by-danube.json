@@ -1,0 +1,150 @@
+{
+  "project_key": "breez-by-danube",
+  "slug": "breez-by-danube",
+
+  "name": {
+    "en": "Breez by Danube",
+    "ru": "Breez by Danube",
+    "ar": "بريز من دانوب",
+    "hi": "ब्रीज़ बाय डेन्यूब"
+  },
+
+  "developer": {
+    "en": "Danube Properties",
+    "ru": "Danube Properties",
+    "ar": "دانوب العقارية",
+    "hi": "डेन्यूब प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Dubai Maritime City",
+    "ru": "Dubai Maritime City",
+    "ar": "مدينة دبي الملاحية",
+    "hi": "दुबई मैरीटाइम सिटी"
+  },
+
+  "hero_title": {
+    "en": "Breez by Danube",
+    "ru": "Breez by Danube",
+    "ar": "بريز من دانوب",
+    "hi": "ब्रीज़ बाय डेन्यूब"
+  },
+
+  "handover": {
+    "en": "March 2029",
+    "ru": "Март 2029",
+    "ar": "مارس 2029",
+    "hi": "मार्च 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–4 BR Apartments | 5 BR Duplex",
+    "ru": "Студия | 1–4 спальни | Дуплекс 5 спален",
+    "ar": "استوديو | شقق 1–4 غرف | دوبلكس 5 غرف",
+    "hi": "स्टूडियो | 1–4 बेडरूम | 5 बेडरूम डुप्लेक्स"
+  },
+
+  "size": {
+    "en": "from 400 sqft",
+    "ru": "от 400 sqft",
+    "ar": "ابتداءً من 400 قدم²",
+    "hi": "400 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "1% monthly (6-year plan)",
+    "ru": "1% в месяц (6 лет)",
+    "ar": "1٪ شهرياً (خطة 6 سنوات)",
+    "hi": "1% मासिक (6 वर्ष योजना)"
+  },
+
+  "description": {
+    "en": "Breez by Danube is a 60-storey waterfront tower in Dubai Maritime City offering studios, 1–4 bedroom apartments, and an exclusive 5-bedroom duplex. Designed with maritime-inspired architecture and floor-to-ceiling windows, residences capture panoramic sea views and refined interiors. With over 40 resort-style amenities and a flexible post-handover payment plan, the project blends coastal serenity with strong investment potential.",
+    "ru": "Breez by Danube — 60-этажная башня в Dubai Maritime City с апартаментами от студий до 4 спален и эксклюзивным дуплексом с 5 спальнями. Панорамные окна, морские виды и более 40 курортных удобств формируют сбалансированную среду для жизни и инвестиций у воды.",
+    "ar": "يُعد بريز من دانوب برجاً سكنياً مكوناً من 60 طابقاً في دبي مارينا سيتي، يضم استوديوهات وشققاً من 1 إلى 4 غرف نوم بالإضافة إلى دوبلكس فاخر من 5 غرف. يتميز بإطلالات بحرية بانورامية وأكثر من 40 مرفقاً بأسلوب المنتجعات مع خطة دفع مرنة.",
+    "hi": "ब्रीज़ बाय डेन्यूब दुबई मैरीटाइम सिटी में स्थित 60-मंज़िला वॉटरफ्रंट टावर है, जिसमें स्टूडियो से लेकर 4-बेडरूम अपार्टमेंट और 5-बेडरूम डुप्लेक्स उपलब्ध हैं। पैनोरमिक सी व्यू, 40+ रिज़ॉर्ट-स्टाइल सुविधाएँ और लचीली भुगतान योजना इसे निवेश और प्रीमियम जीवन के लिए आकर्षक बनाती है।"
+  },
+
+  "promo_image": "/img/projects/breez-by-danube/promo.png",
+
+  "gallery": [
+    "/img/projects/breez-by-danube/gallery_1.png",
+    "/img/projects/breez-by-danube/gallery_2.png",
+    "/img/projects/breez-by-danube/gallery_3.png",
+    "/img/projects/breez-by-danube/gallery_4.png",
+    "/img/projects/breez-by-danube/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "15 min" },
+      { "name": "DXB Airport", "time": "20 min" },
+      { "name": "Mina Rashid Marina", "time": "5 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "15 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" },
+      { "name": "Mina Rashid Marina", "time": "5 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "15 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "20 دقيقة" },
+      { "name": "مرسى ميناء راشد", "time": "5 دقائق" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "15 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" },
+      { "name": "मीना राशिद मरीना", "time": "5 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Maritime City, Dubai, UAE",
+      "ru": "Dubai Maritime City, Дубай, ОАЭ",
+      "ar": "مدينة دبي الملاحية، دبي",
+      "hi": "दुबई मैरीटाइम सिटी, दुबई"
+    },
+    "lat": 25.2734,
+    "lng": 55.2921
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-maritime-city",
+    "developer": "danube-properties",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 5,
+    "handover_year": 2029,
+    "price_from_aed": 1300000,
+    "size_from_sqft": 400,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}

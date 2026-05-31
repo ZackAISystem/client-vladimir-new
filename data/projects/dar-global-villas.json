@@ -1,0 +1,150 @@
+{
+  "project_key": "dar-global-villas",
+  "slug": "dar-global-villas",
+
+  "name": {
+    "en": "Dar Global Villas",
+    "ru": "Dar Global Villas",
+    "ar": "فلل دار جلوبال",
+    "hi": "डार ग्लोबल विला"
+  },
+
+  "developer": {
+    "en": "Dar Global",
+    "ru": "Dar Global",
+    "ar": "دار جلوبال",
+    "hi": "डार ग्लोबल"
+  },
+
+  "location_text": {
+    "en": "Jumeirah Golf Estates",
+    "ru": "Jumeirah Golf Estates",
+    "ar": "جميرا جولف إستيتس",
+    "hi": "जुमेराह गोल्फ एस्टेट्स"
+  },
+
+  "hero_title": {
+    "en": "Dar Global Villas",
+    "ru": "Dar Global Villas",
+    "ar": "فلل دار جلوبال",
+    "hi": "डार ग्लोबल विला"
+  },
+
+  "handover": {
+    "en": "December 2028",
+    "ru": "Декабрь 2028",
+    "ar": "ديسمبر 2028",
+    "hi": "दिसंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "5,300,000"
+  },
+
+  "property_types": {
+    "en": ["Villa"],
+    "ru": ["Вилла"],
+    "ar": ["فيلا"],
+    "hi": ["विला"]
+  },
+
+  "unit_types": {
+    "en": "4–5 BR Villas",
+    "ru": "Виллы 4–5 спален",
+    "ar": "فلل 4–5 غرف نوم",
+    "hi": "4–5 बेडरूम विला"
+  },
+
+  "size": {
+    "en": "from 4,200 sqft",
+    "ru": "от 4 200 sqft",
+    "ar": "ابتداءً من 4,200 قدم²",
+    "hi": "4,200 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Dar Global Villas at Jumeirah Golf Estates present an exclusive collection of 4 and 5-bedroom residences overlooking championship fairways. Designed with contemporary architecture and expansive floor plans, each villa features private pools, landscaped gardens, and panoramic golf course views. The community offers a refined lifestyle surrounded by lush greenery, premium leisure facilities, and seamless access to Dubai’s key destinations, making it ideal for families and investors seeking tranquility with prestige.",
+    "ru": "Dar Global Villas в Jumeirah Golf Estates — это эксклюзивная коллекция вилл с 4 и 5 спальнями с видом на чемпионские гольф-поля. Современная архитектура, просторные планировки, частные бассейны и ландшафтные сады создают атмосферу уединённой роскоши. Проект сочетает престиж, зелёные пейзажи и удобный доступ к ключевым районам Дубая.",
+    "ar": "تقدم فلل دار جلوبال في جميرا جولف إستيتس مجموعة حصرية من فلل 4 و5 غرف نوم بإطلالات مباشرة على ملاعب الجولف. تتميز بتصميم معماري معاصر ومساحات واسعة مع مسابح خاصة وحدائق منسقة. يوفر المشروع أسلوب حياة راقياً وسط مساحات خضراء مع وصول سهل إلى أهم وجهات دبي.",
+    "hi": "जुमेराह गोल्फ एस्टेट्स में डार ग्लोबल विला 4 और 5 बेडरूम की एक्सक्लूसिव रेजिडेंस प्रदान करते हैं, जिनसे चैंपियनशिप गोल्फ कोर्स के दृश्य दिखाई देते हैं। आधुनिक वास्तुकला, निजी पूल, लैंडस्केप्ड गार्डन और विशाल लेआउट इसे परिवारों और निवेशकों के लिए प्रीमियम विकल्प बनाते हैं।"
+  },
+
+  "promo_image": "/img/projects/dar-global-villas/promo.png",
+
+  "gallery": [
+    "/img/projects/dar-global-villas/gallery_1.png",
+    "/img/projects/dar-global-villas/gallery_2.png",
+    "/img/projects/dar-global-villas/gallery_3.png",
+    "/img/projects/dar-global-villas/gallery_4.png",
+    "/img/projects/dar-global-villas/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Marina", "time": "20 min" },
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "Al Maktoum International Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Marina", "time": "20 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт Al Maktoum", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "دبي مارينا", "time": "20 دقيقة" },
+      { "name": "وسط مدينة دبي", "time": "25 دقيقة" },
+      { "name": "مطار آل مكتوم", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई मरीना", "time": "20 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "अल मकतूम एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah Golf Estates, Dubai, UAE",
+      "ru": "Jumeirah Golf Estates, Дубай, ОАЭ",
+      "ar": "جميرا جولف إستيتس، دبي",
+      "hi": "जुमेराह गोल्फ एस्टेट्स, दुबई"
+    },
+    "lat": 25.0215,
+    "lng": 55.1832
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-golf-estates",
+    "developer": "dar-global",
+    "property_types": ["villa"],
+    "bedrooms_min": 4,
+    "bedrooms_max": 5,
+    "handover_year": 2028,
+    "price_from_aed": 5300000,
+    "size_from_sqft": 4200,
+    "tokens_extra": ["uae"]
+  }
+}

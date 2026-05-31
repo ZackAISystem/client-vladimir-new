@@ -1,0 +1,150 @@
+{
+  "project_key": "samana-avenue",
+  "slug": "samana-avenue",
+
+  "name": {
+    "en": "Samana Avenue",
+    "ru": "Samana Avenue",
+    "ar": "سامانا أفينيو",
+    "hi": "समाना एवेन्यू"
+  },
+
+  "developer": {
+    "en": "Samana Developers",
+    "ru": "Samana Developers",
+    "ar": "سمانا للتطوير العقاري",
+    "hi": "समाना डेवलपर्स"
+  },
+
+  "location_text": {
+    "en": "Dubai Land Residence Complex",
+    "ru": "Dubai Land Residence Complex",
+    "ar": "مجمع دبي لاند السكني",
+    "hi": "दुबईलैंड रेजिडेंस कॉम्प्लेक्स"
+  },
+
+  "hero_title": {
+    "en": "Samana Avenue",
+    "ru": "Samana Avenue",
+    "ar": "سامانا أفينيو",
+    "hi": "समाना एवेन्यू"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "Studio–2 BR",
+    "ru": "Студия–2 спальни",
+    "ar": "استوديو–2 غرف نوم",
+    "hi": "स्टूडियो–2 बेडरूम"
+  },
+
+  "size": {
+    "en": "426 sqft",
+    "ru": "426 sqft",
+    "ar": "426 قدم²",
+    "hi": "426 sqft"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Samana Avenue is a modern residential project in Dubai Land Residence Complex by Samana Developers. The concept focuses on contemporary layouts, smart-home comfort and lifestyle amenities in a calm, family-friendly area with fast access to main highways. A practical choice for living or investment in Dubailand.",
+    "ru": "Samana Avenue — современный жилой проект в Dubai Land Residence Complex от Samana Developers. Концепция — удобные планировки, комфорт с умными решениями и инфраструктура для повседневной жизни в спокойном семейном районе с быстрым выездом на главные магистрали. Подходит для жизни и инвестиций.",
+    "ar": "سامانا أفينيو مشروع سكني حديث في مجمع دبي لاند السكني من سمانا للتطوير. يركز على مخططات عملية وراحة منزل ذكي ومرافق أسلوب حياة في منطقة هادئة مناسبة للعائلات مع وصول سريع للطرق الرئيسية. خيار مناسب للسكن أو الاستثمار في دبي لاند.",
+    "hi": "समाना एवेन्यू दुबईलैंड रेजिडेंस कॉम्प्लेक्स में समाना डेवलपर्स का आधुनिक रेजिडेंशियल प्रोजेक्ट है। इसमें प्रैक्टिकल लेआउट, स्मार्ट-होम कम्फर्ट और लाइफस्टाइल सुविधाएँ हैं, साथ ही शांत फैमिली-फ्रेंडली लोकेशन और हाईवे तक तेज़ पहुँच—लिविंग और इन्वेस्टमेंट दोनों के लिए उपयुक्त।"
+  },
+
+  "promo_image": "/img/projects/samana-avenue/promo.png",
+
+  "gallery": [
+    "/img/projects/samana-avenue/gallery_1.png",
+    "/img/projects/samana-avenue/gallery_2.png",
+    "/img/projects/samana-avenue/gallery_3.png",
+    "/img/projects/samana-avenue/gallery_4.png",
+    "/img/projects/samana-avenue/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "25 min" },
+      { "name": "DXB Airport", "time": "22 min" },
+      { "name": "Dubai Marina", "time": "32 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "25 мин" },
+      { "name": "Аэропорт DXB", "time": "22 мин" },
+      { "name": "Dubai Marina", "time": "32 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "25 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "22 دقيقة" },
+      { "name": "مرسى دبي", "time": "32 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "22 मिनट" },
+      { "name": "दुबई मरीना", "time": "32 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Land Residence Complex",
+      "ru": "Dubai Land Residence Complex",
+      "ar": "مجمع دبي لاند السكني",
+      "hi": "दुबईलैंड रेजिडेंस कॉम्प्लेक्स"
+    },
+    "lat": 25.092722,
+    "lng": 55.381155
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-land-residence-complex",
+    "developer": "samana-developers",
+    "property_types": ["apartment"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 2,
+    "handover_year": 2027,
+    "price_from_aed": 1000000,
+    "size_from_sqft": 426,
+    "tokens_extra": ["uae", "dubailand", "family", "investment"]
+  }
+}

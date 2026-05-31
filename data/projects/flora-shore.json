@@ -1,0 +1,149 @@
+{
+  "project_key": "flora-shore",
+  "slug": "flora-shore",
+
+  "name": {
+    "en": "Flora Shore",
+    "ru": "Flora Shore",
+    "ar": "فلورا شور",
+    "hi": "फ्लोरा शोर"
+  },
+
+  "developer": {
+    "en": "Calgary Properties",
+    "ru": "Calgary Properties",
+    "ar": "كالجاري العقارية",
+    "hi": "कैलगरी प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands",
+    "ru": "Dubai Islands",
+    "ar": "جزر دبي",
+    "hi": "दुबई आइलैंड्स"
+  },
+
+  "hero_title": {
+    "en": "Flora Shore",
+    "ru": "Flora Shore",
+    "ar": "فلورا شور",
+    "hi": "फ्लोरा शोर"
+  },
+
+  "handover": {
+    "en": "September 2027",
+    "ru": "Сентябрь 2027",
+    "ar": "سبتمبر 2027",
+    "hi": "सितंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": ""
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "2–4 BR",
+    "ru": "2–4 спальни",
+    "ar": "2–4 غرف نوم",
+    "hi": "2–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Flora Shore by Calgary Properties is a waterfront residential project on Dubai Islands offering 2 to 4-bedroom apartments with sea views and contemporary interiors. The development blends coastal serenity with urban accessibility, positioned near beaches, marinas and upcoming island infrastructure. Designed for family living and long-term investment, it combines modern architecture with a tranquil island setting.",
+    "ru": "Flora Shore от Calgary Properties — жилой проект на первой линии Dubai Islands с апартаментами с 2–4 спальнями и видами на море. Комплекс сочетает островную атмосферу, современную архитектуру и близость к пляжам и маринам. Проект ориентирован на семейное проживание и инвестиции, предлагая спокойную среду в развивающемся районе.",
+    "ar": "فلورا شور من كالجاري العقارية هو مشروع سكني على الواجهة البحرية في جزر دبي يضم شققاً من 2 إلى 4 غرف نوم مع إطلالات بحرية وتصميم عصري. يجمع بين هدوء الحياة الساحلية وسهولة الوصول إلى مرافق الجزيرة والشواطئ والمراسي، مما يجعله مناسباً للسكن العائلي والاستثمار طويل الأمد.",
+    "hi": "कैलगरी प्रॉपर्टीज द्वारा विकसित फ्लोरा शोर दुबई आइलैंड्स पर स्थित एक वाटरफ्रंट रेजिडेंशियल प्रोजेक्ट है, जिसमें 2 से 4 बेडरूम अपार्टमेंट समुद्री दृश्य के साथ उपलब्ध हैं। यह आधुनिक डिज़ाइन, बीच एक्सेस और उभरती द्वीप इंफ्रास्ट्रक्चर के साथ शांत जीवनशैली प्रदान करता है, जो परिवारों और निवेशकों दोनों के लिए उपयुक्त है।"
+  },
+
+  "promo_image": "/img/projects/flora-shore/promo.png",
+
+  "gallery": [
+    "/img/projects/flora-shore/gallery_1.png",
+    "/img/projects/flora-shore/gallery_2.png",
+    "/img/projects/flora-shore/gallery_3.png",
+    "/img/projects/flora-shore/gallery_4.png",
+    "/img/projects/flora-shore/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Islands Beach", "time": "3 min" },
+      { "name": "Deira Waterfront", "time": "10 min" },
+      { "name": "DXB Airport", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Пляж Dubai Islands", "time": "3 мин" },
+      { "name": "Deira Waterfront", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "شاطئ جزر دبي", "time": "3 دقائق" },
+      { "name": "واجهة ديرة البحرية", "time": "10 دقائق" },
+      { "name": "مطار دبي DXB", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई आइलैंड्स बीच", "time": "3 मिनट" },
+      { "name": "देइरा वाटरफ्रंट", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands, Dubai",
+      "ru": "Dubai Islands, Дубай",
+      "ar": "جزر دبي، دبي",
+      "hi": "दुबई आइलैंड्स, दुबई"
+    },
+    "lat": 25.3200,
+    "lng": 55.3470
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "calgary-properties",
+    "property_types": ["apartment"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 0,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}

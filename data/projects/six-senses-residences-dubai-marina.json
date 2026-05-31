@@ -1,0 +1,150 @@
+{
+  "project_key": "six-senses-residences-dubai-marina",
+  "slug": "six-senses-residences-dubai-marina",
+
+  "name": {
+    "en": "Six Senses Residences Dubai Marina",
+    "ru": "Six Senses Residences Dubai Marina",
+    "ar": "سيكس سينسز ريزيدنسز دبي مارينا",
+    "hi": "सिक्स सेंसिस रेजिडेंसेज़ दुबई मरीना"
+  },
+
+  "developer": {
+    "en": "Select Group",
+    "ru": "Select Group",
+    "ar": "سيلكت جروب",
+    "hi": "सेलेक्ट ग्रुप"
+  },
+
+  "location_text": {
+    "en": "Dubai Marina",
+    "ru": "Dubai Marina",
+    "ar": "دبي مارينا",
+    "hi": "दुबई मरीना"
+  },
+
+  "hero_title": {
+    "en": "Six Senses Residences Dubai Marina",
+    "ru": "Six Senses Residences Dubai Marina",
+    "ar": "سيكس سينسز ريزيدنسز دبي مارينا",
+    "hi": "सिक्स सेंसिस रेजिडेंसेज़ दुबई मरीना"
+  },
+
+  "handover": {
+    "en": "July 2028",
+    "ru": "Июль 2028",
+    "ar": "يوليو 2028",
+    "hi": "जुलाई 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "5,800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–5 BR",
+    "ru": "2–5 спален",
+    "ar": "2–5 غرف نوم",
+    "hi": "2–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "2008 sqft",
+    "ru": "2008 sqft",
+    "ar": "2008 قدم²",
+    "hi": "2008 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Six Senses Residences Dubai Marina by Select Group is a branded ultra-luxury waterfront tower offering 2 to 5-bedroom apartments, duplexes and penthouses. Designed around wellness and sustainability, the project features sky gardens, spa facilities and panoramic marina views. With exclusive services and refined interiors, it sets a new benchmark for elevated living in Dubai Marina.",
+    "ru": "Six Senses Residences Dubai Marina от Select Group — ультралюксовый брендированный проект на набережной с апартаментами, дуплексами и пентхаусами 2–5 спален. Концепция основана на wellness-философии, включает sky gardens, спа-инфраструктуру и панорамные виды на марину. Проект задаёт новый стандарт премиального проживания в Dubai Marina.",
+    "ar": "سيكس سينسز ريزيدنسز دبي مارينا من سيلكت جروب هو مشروع سكني فاخر بعلامة تجارية عالمية يضم شققاً ودوبلكسات وبنتهاوس من 2 إلى 5 غرف نوم. يتميز بمرافق صحية متكاملة وحدائق سماوية وإطلالات بانورامية على المارينا، ليقدم أسلوب حياة راقياً بمعايير عالمية في قلب دبي مارينا.",
+    "hi": "सेलेक्ट ग्रुप द्वारा विकसित सिक्स सेंसिस रेजिडेंसेज़ दुबई मरीना एक अल्ट्रा-लक्ज़री ब्रांडेड वाटरफ्रंट टॉवर है, जिसमें 2–5 बेडरूम अपार्टमेंट, डुप्लेक्स और पेंटहाउस उपलब्ध हैं। यह वेलनेस-केंद्रित डिज़ाइन, स्काई गार्डन और स्पा सुविधाओं के साथ मरीना के पैनोरमिक व्यू प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/six-senses-residences-dubai-marina/promo.png",
+
+  "gallery": [
+    "/img/projects/six-senses-residences-dubai-marina/gallery_1.png",
+    "/img/projects/six-senses-residences-dubai-marina/gallery_2.png",
+    "/img/projects/six-senses-residences-dubai-marina/gallery_3.png",
+    "/img/projects/six-senses-residences-dubai-marina/gallery_4.png",
+    "/img/projects/six-senses-residences-dubai-marina/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Palm Jumeirah", "time": "10 min" },
+      { "name": "Downtown Dubai", "time": "20 min" },
+      { "name": "DXB Airport", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Palm Jumeirah", "time": "10 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" },
+      { "name": "Аэропорт DXB", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "نخلة جميرا", "time": "10 دقائق" },
+      { "name": "داون تاون دبي", "time": "20 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "पाम जुमेराह", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Marina",
+      "ru": "Dubai Marina",
+      "ar": "دبي مارينا",
+      "hi": "दुबई मरीना"
+    },
+    "lat": 25.0785,
+    "lng": 55.1387
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-marina",
+    "developer": "select-group",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2028,
+    "price_from_aed": 5800000,
+    "size_from_sqft": 2008,
+    "tokens_extra": ["uae", "waterfront", "branded-residence", "luxury"]
+  }
+}

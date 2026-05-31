@@ -1,0 +1,151 @@
+{
+  "project_key": "eden-house-the-canal",
+  "slug": "eden-house-the-canal",
+
+  "name": {
+    "en": "Eden House The Canal",
+    "ru": "Eden House The Canal",
+    "ar": "إيدن هاوس ذا كانال",
+    "hi": "एडन हाउस द कैनाल"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "اتش اند اتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Jumeirah 2",
+    "ru": "Jumeirah 2",
+    "ar": "جميرا 2",
+    "hi": "जुमेराह 2"
+  },
+
+  "hero_title": {
+    "en": "Eden House The Canal",
+    "ru": "Eden House The Canal",
+    "ar": "إيدن هاوس ذا كانال",
+    "hi": "एडन हाउस द कैनाल"
+  },
+
+  "handover": {
+    "en": "September 2025",
+    "ru": "Сентябрь 2025",
+    "ar": "سبتمبر 2025",
+    "hi": "सितंबर 2025"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "5,300,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "Studio | 1–4 BR",
+    "ru": "Студия | 1–4 спальни",
+    "ar": "استوديو | من 1 إلى 4 غرف نوم",
+    "hi": "स्टूडियो | 1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 764 sqft",
+    "ru": "от 764 sqft",
+    "ar": "ابتداءً من 764 قدم²",
+    "hi": "764 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Eden House The Canal by H&H Development is an exclusive waterfront residential collection located in Jumeirah 2 along the Dubai Water Canal. Designed with a boutique, hotel-inspired philosophy, the project combines refined architecture, premium finishes, and curated amenities to create a private sanctuary in the heart of the city. Residences range from studios to expansive four-bedroom duplexes and penthouses, offering generous layouts, floor-to-ceiling windows, and elegant contemporary interiors. Positioned minutes from City Walk and Downtown Dubai, Eden House The Canal delivers a rare blend of coastal tranquility and central connectivity, making it ideal for end-users and long-term investors seeking prime canalfront real estate.",
+    "ru": "Eden House The Canal от H&H Development — это эксклюзивная коллекция резиденций у Dubai Water Canal в районе Jumeirah 2. Проект выполнен в формате бутик-жилья с атмосферой премиального отеля: современная архитектура, продуманные детали и высокий уровень сервиса. В комплексе представлены студии, апартаменты, дуплексы и пентхаусы до 4 спален с просторными планировками и панорамным остеклением. Локация рядом с City Walk и Downtown обеспечивает редкое сочетание уединённой набережной и центра города.",
+    "ar": "يقدم مشروع إيدن هاوس ذا كانال من تطوير H&H مجموعة سكنية حصرية على ضفاف قناة دبي المائية في جميرا 2. يتميز المشروع بتصميم مستوحى من فنادق البوتيك الفاخرة، مع تشطيبات راقية ومرافق منتقاة بعناية. تتنوع الوحدات من استوديوهات إلى شقق ودوبلكسات وبنتهاوس بأربع غرف نوم، مع مساحات واسعة ونوافذ ممتدة من الأرض حتى السقف. يقع المشروع على بعد دقائق من سيتي ووك وداون تاون دبي، مما يجمع بين الهدوء الساحلي والموقع المركزي المميز.",
+    "hi": "एच एंड एच डेवलपमेंट द्वारा एडन हाउस द कैनाल जुमेराह 2 में दुबई वाटर कैनाल के किनारे स्थित एक विशेष वाटरफ्रंट रेजिडेंशियल कलेक्शन है। बुटीक होटल से प्रेरित डिज़ाइन, प्रीमियम फिनिश और परिष्कृत सुविधाएँ इसे शहर के बीचोंबीच एक निजी आश्रय बनाती हैं। यहाँ स्टूडियो से लेकर 4-बेडरूम डुप्लेक्स और पेंटहाउस तक उपलब्ध हैं, जिनमें विशाल लेआउट और फ्लोर-टू-सीलिंग विंडोज शामिल हैं। सिटी वॉक और डाउनटाउन के निकट स्थित यह परियोजना शांत तटीय जीवन और केंद्रीय कनेक्टिविटी का अनूठा संतुलन प्रदान करती है।"
+  },
+
+  "promo_image": "/img/projects/eden-house-the-canal/promo.png",
+
+  "gallery": [
+    "/img/projects/eden-house-the-canal/gallery_1.png",
+    "/img/projects/eden-house-the-canal/gallery_2.png",
+    "/img/projects/eden-house-the-canal/gallery_3.png",
+    "/img/projects/eden-house-the-canal/gallery_4.png",
+    "/img/projects/eden-house-the-canal/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "City Walk", "time": "5 min" },
+      { "name": "Downtown Dubai", "time": "10 min" },
+      { "name": "Dubai International Airport", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "City Walk", "time": "5 мин" },
+      { "name": "Downtown Dubai", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "سيتي ووك", "time": "5 دقائق" },
+      { "name": "داون تاون دبي", "time": "10 دقائق" },
+      { "name": "مطار دبي الدولي", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "सिटी वॉक", "time": "5 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah 2, Dubai",
+      "ru": "Jumeirah 2, Дубай",
+      "ar": "جميرا 2، دبي",
+      "hi": "जुमेराह 2, दुबई"
+    },
+    "lat": 25.1868,
+    "lng": 55.2334
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah-2",
+    "developer": "h-h-development",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2025,
+    "price_from_aed": 5300000,
+    "size_from_sqft": 764,
+    "tokens_extra": ["uae", "waterfront"]
+  }
+}
+

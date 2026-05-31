@@ -1,0 +1,150 @@
+{
+  "project_key": "eden-house-zaabeel",
+  "slug": "eden-house-zaabeel",
+
+  "name": {
+    "en": "Eden House Za’abeel",
+    "ru": "Eden House Za’abeel",
+    "ar": "إيدن هاوس زعبيل",
+    "hi": "एडन हाउस ज़ाबील"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "اتش اند اتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Za’abeel",
+    "ru": "Za’abeel",
+    "ar": "زعبيل",
+    "hi": "ज़ाबील"
+  },
+
+  "hero_title": {
+    "en": "Eden House Za’abeel",
+    "ru": "Eden House Za’abeel",
+    "ar": "إيدن هاوس زعبيل",
+    "hi": "एडन हाउस ज़ाबील"
+  },
+
+  "handover": {
+    "en": "December 2028",
+    "ru": "Декабрь 2028",
+    "ar": "ديسمبر 2028",
+    "hi": "दिसंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "4,700,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 1132 sqft",
+    "ru": "от 1132 sqft",
+    "ar": "ابتداءً من 1132 قدم²",
+    "hi": "1132 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Eden House Za’abeel by H&H Development is a premium residential tower located in the prestigious Za’abeel district. Designed as a vertical community, the project blends contemporary architecture with landscaped terraces and curated communal spaces. Residences range from one to three-bedroom apartments with expansive layouts, floor-to-ceiling windows, and refined finishes. Positioned close to DIFC and Za’abeel Park, the development offers a balance of urban energy and tranquil retreat.",
+    "ru": "Eden House Za’abeel от H&H Development — премиальный жилой проект в районе Za’abeel. Концепция «вертикального сообщества» объединяет современную архитектуру, озеленённые террасы и продуманные общественные пространства. В проекте представлены апартаменты с 1–3 спальнями с просторными планировками и панорамным остеклением. Локация рядом с DIFC и Za’abeel Park создаёт баланс динамики и уединения.",
+    "ar": "يُعد إيدن هاوس زعبيل من تطوير H&H برجاً سكنياً فاخراً في منطقة زعبيل المرموقة. يعتمد المشروع مفهوم المجتمع العمودي مع مساحات خضراء مشتركة وتصميم معماري معاصر. تتنوع الوحدات من غرفة نوم واحدة إلى ثلاث غرف نوم مع مساحات واسعة وتشطيبات راقية. يوفر الموقع توازناً مثالياً بين حيوية المنطقة المالية وهدوء الحدائق المجاورة.",
+    "hi": "एच एंड एच डेवलपमेंट द्वारा एडन हाउस ज़ाबील दुबई के प्रतिष्ठित ज़ाबील क्षेत्र में स्थित एक प्रीमियम रेजिडेंशियल टॉवर है। यह परियोजना 'वर्टिकल कम्युनिटी' कॉन्सेप्ट पर आधारित है, जिसमें हरित टेरेस और परिष्कृत साझा स्थान शामिल हैं। यहाँ 1 से 3 बेडरूम अपार्टमेंट उपलब्ध हैं, जिनमें विशाल लेआउट और फ्लोर-टू-सीलिंग विंडोज़ हैं।"
+  },
+
+  "promo_image": "/img/projects/eden-house-zaabeel/promo.png",
+
+  "gallery": [
+    "/img/projects/eden-house-zaabeel/gallery_1.png",
+    "/img/projects/eden-house-zaabeel/gallery_2.png",
+    "/img/projects/eden-house-zaabeel/gallery_3.png",
+    "/img/projects/eden-house-zaabeel/gallery_4.png",
+    "/img/projects/eden-house-zaabeel/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "DIFC", "time": "5 min" },
+      { "name": "Za’abeel Park", "time": "3 min" },
+      { "name": "Downtown Dubai", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "DIFC", "time": "5 мин" },
+      { "name": "Za’abeel Park", "time": "3 мин" },
+      { "name": "Downtown Dubai", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "مركز دبي المالي العالمي", "time": "5 دقائق" },
+      { "name": "حديقة زعبيل", "time": "3 دقائق" },
+      { "name": "داون تاون دبي", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "DIFC", "time": "5 मिनट" },
+      { "name": "ज़ाबील पार्क", "time": "3 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Za’abeel, Dubai",
+      "ru": "Za’abeel, Дубай",
+      "ar": "زعبيل، دبي",
+      "hi": "ज़ाबील, दुबई"
+    },
+    "lat": 25.2178,
+    "lng": 55.3006
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "zaabeel",
+    "developer": "h-h-development",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 4700000,
+    "size_from_sqft": 1132,
+    "tokens_extra": ["uae", "difc"]
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "project_key": "bluewaters-bay",
+  "slug": "bluewaters-bay",
+
+  "name": {
+    "en": "Bluewaters Bay",
+    "ru": "Bluewaters Bay",
+    "ar": "بلوواترز باي",
+    "hi": "ब्लूवॉटर्स बे"
+  },
+
+  "developer": {
+    "en": "Meraas Holding",
+    "ru": "Meraas Holding",
+    "ar": "مِراس القابضة",
+    "hi": "मिरास होल्डिंग"
+  },
+
+  "location_text": {
+    "en": "Bluewaters Island",
+    "ru": "Bluewaters Island",
+    "ar": "جزيرة بلوواترز",
+    "hi": "ब्लूवॉटर्स आइलैंड"
+  },
+
+  "hero_title": {
+    "en": "Bluewaters Bay",
+    "ru": "Bluewaters Bay",
+    "ar": "بلوواترز باي",
+    "hi": "ब्लूवॉटर्स बे"
+  },
+
+  "handover": {
+    "en": "March 2027",
+    "ru": "Март 2027",
+    "ar": "مارس 2027",
+    "hi": "मार्च 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,900,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR Apartments | 5 BR Penthouse",
+    "ru": "1–4 спальни | Пентхаус 5 спален",
+    "ar": "شقق 1–4 غرف نوم | بنتهاوس 5 غرف",
+    "hi": "1–4 बेडरूम अपार्टमेंट | 5 बेडरूम पेंटहाउस"
+  },
+
+  "size": {
+    "en": "from 799 sqft",
+    "ru": "от 799 sqft",
+    "ar": "ابتداءً من 799 قدم²",
+    "hi": "799 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Bluewaters Bay by Meraas is a premium waterfront development located between Bluewaters Island and The Beach at JBR. The project offers 1–4 bedroom apartments and exclusive 5-bedroom penthouses with expansive terraces and panoramic sea views. Designed for seamless indoor-outdoor living, it combines coastal serenity with direct access to Dubai Marina’s vibrant lifestyle and dining destinations.",
+    "ru": "Bluewaters Bay от Meraas — премиальный жилой проект между островом Bluewaters и The Beach at JBR. В комплексе представлены апартаменты с 1–4 спальнями и эксклюзивные пентхаусы с 5 спальнями, просторными террасами и панорамными видами на море. Проект сочетает приватность прибрежной жизни с доступом к динамике Dubai Marina.",
+    "ar": "بلوواترز باي من مِراس هو مشروع سكني فاخر يقع بين جزيرة بلوواترز وشاطئ JBR. يضم شققاً من 1 إلى 4 غرف نوم وبنتهاوس حصرية من 5 غرف مع شرفات واسعة وإطلالات بانورامية على البحر، جامعاً بين هدوء الساحل وحيوية مرسى دبي.",
+    "hi": "मिरास द्वारा ब्लूवॉटर्स बे, ब्लूवॉटर्स आइलैंड और JBR बीच के बीच स्थित एक प्रीमियम वाटरफ्रंट प्रोजेक्ट है। इसमें 1–4 बेडरूम अपार्टमेंट और 5-बेडरूम पेंटहाउस उपलब्ध हैं, जिनमें बड़ी टेरेस और समुद्री दृश्य हैं। यह कोस्टल शांति और दुबई मरीना की लाइफस्टाइल का संतुलन प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/bluewaters-bay/promo.png",
+
+  "gallery": [
+    "/img/projects/bluewaters-bay/gallery_1.png",
+    "/img/projects/bluewaters-bay/gallery_2.png",
+    "/img/projects/bluewaters-bay/gallery_3.png",
+    "/img/projects/bluewaters-bay/gallery_4.png",
+    "/img/projects/bluewaters-bay/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "The Beach at JBR", "time": "5 min walk" },
+      { "name": "Dubai Marina", "time": "10 min" },
+      { "name": "Downtown Dubai", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "The Beach at JBR", "time": "5 мин пешком" },
+      { "name": "Dubai Marina", "time": "10 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "ذا بيتش في جميرا بيتش ريزيدنس", "time": "5 دقائق سيراً" },
+      { "name": "مرسى دبي", "time": "10 دقائق" },
+      { "name": "داون تاون دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "JBR बीच", "time": "5 मिनट पैदल" },
+      { "name": "दुबई मरीना", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Bluewaters Island, Dubai, UAE",
+      "ru": "Bluewaters Island, Дубай, ОАЭ",
+      "ar": "جزيرة بلوواترز، دبي",
+      "hi": "ब्लूवॉटर्स आइलैंड, दुबई"
+    },
+    "lat": 25.0834,
+    "lng": 55.1216
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "bluewaters-island",
+    "developer": "meraas-holding",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 2900000,
+    "size_from_sqft": 799,
+    "tokens_extra": ["uae", "waterfront", "marina"]
+  }
+}

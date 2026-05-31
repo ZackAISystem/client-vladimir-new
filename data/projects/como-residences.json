@@ -1,0 +1,150 @@
+{
+  "project_key": "como-residences",
+  "slug": "como-residences",
+
+  "name": {
+    "en": "Como Residences",
+    "ru": "Como Residences",
+    "ar": "كومو ريزيدنسز",
+    "hi": "कोमो रेजिडेंसेस"
+  },
+
+  "developer": {
+    "en": "Nakheel",
+    "ru": "Nakheel",
+    "ar": "نخيل",
+    "hi": "नखी़ल"
+  },
+
+  "location_text": {
+    "en": "Palm Jumeirah",
+    "ru": "Palm Jumeirah",
+    "ar": "نخلة جميرا",
+    "hi": "पाम जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "Como Residences",
+    "ru": "Como Residences",
+    "ar": "كومو ريزيدنسز",
+    "hi": "कोमो रेजिडेंसेस"
+  },
+
+  "handover": {
+    "en": "Q3 2027",
+    "ru": "III квартал 2027",
+    "ar": "الربع الثالث 2027",
+    "hi": "Q3 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "21,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex", "Penthouse"],
+    "ru": ["Апартаменты", "Дуплекс", "Пентхаус"],
+    "ar": ["شقة", "دوبلكس", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–7 BR | Sky Mansions | Penthouses",
+    "ru": "2–7 спален | Sky Mansions | Пентхаусы",
+    "ar": "2–7 غرف نوم | سكاي مانشن | بنتهاوس",
+    "hi": "2–7 बेडरूम | स्काई मेंशन | पेंटहाउस"
+  },
+
+  "size": {
+    "en": "from 4,469 sqft",
+    "ru": "от 4 469 sqft",
+    "ar": "ابتداءً من 4,469 قدم²",
+    "hi": "4,469 sqft से"
+  },
+
+  "down_payment": {
+    "en": "20% Down Payment",
+    "ru": "20% первоначальный взнос",
+    "ar": "20٪ دفعة أولى",
+    "hi": "20% डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Como Residences by Nakheel is a landmark ultra-luxury tower rising above Palm Jumeirah. Designed with a sculptural organic form inspired by ocean waves, the development offers expansive 2 to 7-bedroom residences, duplexes, sky mansions, and signature penthouses. Each home features private lift access, panoramic 360-degree views of the Arabian Gulf and Dubai skyline, and resort-style amenities including a rooftop infinity pool, private beach access, wellness facilities, and concierge services. Como Residences represents a vertical private island lifestyle in one of Dubai’s most prestigious addresses.",
+    "ru": "Como Residences от Nakheel — знаковая ультра-люкс башня на Palm Jumeirah с архитектурой, вдохновлённой формой морских волн. В проекте представлены резиденции с 2–7 спальнями, дуплексы, sky mansions и пентхаусы с панорамой 360° на Персидский залив и skyline Дубая. Частные лифты, rooftop-инфинити бассейн, private beach access и сервис уровня пятизвёздочного курорта формируют концепцию «вертикального частного острова».",
+    "ar": "كومو ريزيدنسز من نخيل هو برج فائق الفخامة على نخلة جميرا، يتميز بتصميم معماري مستوحى من أمواج البحر. يضم وحدات من 2 إلى 7 غرف نوم، دوبلكسات، سكاي مانشن وبنتهاوس مع إطلالات بانورامية بزاوية 360 درجة على الخليج العربي وأفق دبي. يوفر المشروع مسبح إنفينيتي على السطح، شاطئاً خاصاً، مرافق صحية وخدمات كونسيرج راقية.",
+    "hi": "नखी़ल द्वारा विकसित कोमो रेजिडेंसेस पाम जुमेराह पर स्थित एक प्रतिष्ठित अल्ट्रा-लक्ज़री टॉवर है, जिसका डिज़ाइन समुद्री लहरों से प्रेरित है। इसमें 2 से 7 बेडरूम रेजिडेंस, डुप्लेक्स, स्काई मेंशन और सिग्नेचर पेंटहाउस शामिल हैं, जो 360° समुद्र और दुबई स्काईलाइन व्यू प्रदान करते हैं। रूफटॉप इन्फिनिटी पूल, प्राइवेट बीच एक्सेस और प्रीमियम कंसीयर्ज सेवाएं इसे एक वर्टिकल प्राइवेट आइलैंड जीवनशैली बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/como-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/como-residences/gallery_1.png",
+    "/img/projects/como-residences/gallery_2.png",
+    "/img/projects/como-residences/gallery_3.png",
+    "/img/projects/como-residences/gallery_4.png",
+    "/img/projects/como-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Atlantis The Royal", "time": "5 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Atlantis The Royal", "time": "5 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "أتلانتس ذا رويال", "time": "5 دقائق" },
+      { "name": "دبي مارينا", "time": "15 دقيقة" },
+      { "name": "وسط مدينة دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "अटलांटिस द रॉयल", "time": "5 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Palm Jumeirah, Dubai, UAE",
+      "ru": "Palm Jumeirah, Дубай, ОАЭ",
+      "ar": "نخلة جميرا، دبي",
+      "hi": "पाम जुमेराह, दुबई"
+    },
+    "lat": 25.1124,
+    "lng": 55.1388
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "palm-jumeirah",
+    "developer": "nakheel",
+    "property_types": ["apartment", "duplex", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 7,
+    "handover_year": 2027,
+    "price_from_aed": 21000000,
+    "size_from_sqft": 4469,
+    "tokens_extra": ["uae"]
+  }
+}

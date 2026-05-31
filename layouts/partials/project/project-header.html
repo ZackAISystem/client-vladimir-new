@@ -1,0 +1,109 @@
+{{ $hero := site.Data.site.home.hero }}
+{{ $header := $hero.header }}
+
+{{ $badge := $header.badge | default "VLADIMIR MAKSIMOV" }}
+{{ $badge = replace $badge "VLADIMIR MAKSIMOV" "VLADIMIR MAKSIMOV" }}
+{{ $badge = replace $badge "Vladimir Maksimov" "Vladimir Maksimov" }}
+{{ $badge = replace $badge "Vladimir" "Vladimir" }}
+{{ $badge = replace $badge "Sicemco AI" "Sicemco AI" }}
+{{ $badge = replace $badge "Sicemco" "Sicemco" }}
+{{ $badge = replace $badge "SICEMCO" "SICEMCO" }}
+
+{{ $ctaLabel := $header.cta.label | default "Book a call" }}
+{{ $ctaLabel = replace $ctaLabel "Vladimir Maksimov" "Vladimir Maksimov" }}
+{{ $ctaLabel = replace $ctaLabel "Vladimir" "Vladimir" }}
+{{ $ctaLabel = replace $ctaLabel "Sicemco AI" "Sicemco AI" }}
+{{ $ctaLabel = replace $ctaLabel "Sicemco" "Sicemco" }}
+{{ $ctaLabel = replace $ctaLabel "SICEMCO" "SICEMCO" }}
+
+{{ $lang := site.Language.Lang }}
+{{ $slug := .Params.slug | default .File.ContentBaseName }}
+{{ $projectKey := .Params.project_key | default .Params.project | default "" }}
+
+{{ $p := dict }}
+
+{{ if and $projectKey (index site.Data.projects $projectKey) }}
+  {{ $p = index site.Data.projects $projectKey }}
+{{ else if index site.Data.projects $slug }}
+  {{ $p = index site.Data.projects $slug }}
+{{ else }}
+  {{ range $k, $v := site.Data.projects }}
+    {{ if eq $v.slug $slug }}
+      {{ $p = $v }}
+    {{ end }}
+  {{ end }}
+{{ end }}
+
+{{ $developer := "Developer" }}
+{{ with $p.developer }}
+  {{ $developer = (index . $lang | default (index . "en") | default "Developer") }}
+{{ end }}
+
+<header class="pd-header">
+  <div class="pd-header__inner">
+
+    <a class="pd-header__badge" href="{{ "/" | relLangURL }}" aria-label="{{ $badge }}">
+      <span class="pd-header__badge-dot"></span>
+      <span class="pd-header__badge-text">{{ $badge }}</span>
+    </a>
+
+    <nav class="pd-header__nav" aria-label="Project navigation">
+      <a class="pd-header__nav-link is-active" href="#developer-projects">
+        {{ $developer }} projects
+      </a>
+
+      <a class="pd-header__nav-link pd-header__nav-link--ai" href="#project-ai-search">
+        AI search
+      </a>
+    </nav>
+
+    <div class="pd-header__right">
+      <a
+        class="pd-header__cta"
+        href="#projectLeadModal"
+        data-open-project-lead
+      >
+        {{ $ctaLabel }}
+      </a>
+    </div>
+
+  </div>
+</header>
+
+<script>
+(function () {
+  const header = document.querySelector('.pd-header');
+  if (!header) return;
+
+  const links = Array.from(header.querySelectorAll('.pd-header__nav-link'));
+  if (!links.length) return;
+
+  function setActive(hash) {
+    const target = hash || window.location.hash || '#developer-projects';
+    let found = false;
+
+    links.forEach(link => {
+      const active = link.getAttribute('href') === target;
+      link.classList.toggle('is-active', active);
+
+      if (active) {
+        found = true;
+      }
+    });
+
+    if (!found) {
+      links[0].classList.add('is-active');
+    }
+  }
+
+  links.forEach(link => {
+    link.addEventListener('click', () => {
+      links.forEach(item => item.classList.remove('is-active'));
+      link.classList.add('is-active');
+    });
+  });
+
+  window.addEventListener('hashchange', () => setActive(window.location.hash));
+  setActive(window.location.hash);
+})();
+</script>

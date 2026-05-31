@@ -1,0 +1,150 @@
+{
+  "project_key": "villa-del-gavi",
+  "slug": "villa-del-gavi",
+
+  "name": {
+    "en": "Villa del Gavi",
+    "ru": "Villa del Gavi",
+    "ar": "فيلا ديل غافي",
+    "hi": "विला डेल गावी"
+  },
+
+  "developer": {
+    "en": "Mr Eight Development",
+    "ru": "Mr Eight Development",
+    "ar": "مستر إيت للتطوير",
+    "hi": "मिस्टर एट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands, Deira",
+    "ru": "Dubai Islands, Deira",
+    "ar": "جزر دبي، ديرة",
+    "hi": "दुबई आइलैंड्स, देइरा"
+  },
+
+  "hero_title": {
+    "en": "Villa del Gavi at Dubai Islands",
+    "ru": "Villa del Gavi на Dubai Islands",
+    "ar": "فيلا ديل غافي في جزر دبي",
+    "hi": "दुबई आइलैंड्स में विला डेल गावी"
+  },
+
+  "handover": {
+    "en": "January 2027",
+    "ru": "Январь 2027",
+    "ar": "يناير 2027",
+    "hi": "जनवरी 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "2,200,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Villa"],
+    "ru": ["Апартаменты", "Вилла"],
+    "ar": ["شقة", "فيلا"],
+    "hi": ["अपार्टमेंट", "विला"]
+  },
+
+  "unit_types": {
+    "en": "1–5 BR Apartments",
+    "ru": "Апартаменты 1–5 спален",
+    "ar": "شقق من 1 إلى 5 غرف نوم",
+    "hi": "1–5 बेडरूम अपार्टमेंट"
+  },
+
+  "size": {
+    "en": "",
+    "ru": "",
+    "ar": "",
+    "hi": ""
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Villa del Gavi by Mr Eight Development is a premium waterfront residential project on Dubai Islands in Deira offering a refined collection of 1 to 5-bedroom apartments. Inspired by coastal elegance, the development blends contemporary architecture with panoramic sea and skyline views, creating a serene seaside retreat within Dubai’s evolving island district. Residences are designed with spacious layouts, premium finishes and large terraces that maximize natural light and waterfront perspectives. Located within Dubai Islands, the project provides access to beaches, promenades, marinas and leisure facilities, while maintaining convenient connectivity to Downtown Dubai and Dubai International Airport.",
+    "ru": "Villa del Gavi от Mr Eight Development — премиальный жилой проект на Dubai Islands в районе Deira, предлагающий коллекцию апартаментов с 1–5 спальнями. Архитектура комплекса сочетает современный стиль и панорамные виды на море и городской горизонт, формируя атмосферу уединённого прибрежного проживания. Просторные планировки, большие террасы и качественная отделка подчёркивают статус проекта. Расположение на Dubai Islands обеспечивает доступ к пляжам, набережным и маринам при удобном сообщении с центром Дубая и аэропортом.",
+    "ar": "فيلا ديل غافي من مستر إيت للتطوير هو مشروع سكني فاخر على جزر دبي في ديرة، يضم شققاً من 1 إلى 5 غرف نوم بإطلالات بحرية مميزة وتصاميم عصرية أنيقة.",
+    "hi": "विला डेल गावी, मिस्टर एट डेवलपमेंट द्वारा दुबई आइलैंड्स (देइरा) में विकसित एक प्रीमियम वॉटरफ्रंट प्रोजेक्ट है, जिसमें 1 से 5 बेडरूम अपार्टमेंट उपलब्ध हैं। यह परियोजना आधुनिक डिजाइन, समुद्री दृश्य और शांत तटीय जीवनशैली का संगम प्रस्तुत करती है।"
+  },
+
+  "promo_image": "/img/projects/villa-del-gavi/promo.png",
+
+  "gallery": [
+    "/img/projects/villa-del-gavi/gallery_1.png",
+    "/img/projects/villa-del-gavi/gallery_2.png",
+    "/img/projects/villa-del-gavi/gallery_3.png",
+    "/img/projects/villa-del-gavi/gallery_4.png",
+    "/img/projects/villa-del-gavi/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai International Airport", "time": "20 min" },
+      { "name": "Gold Souk", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Аэропорт DXB", "time": "20 мин" },
+      { "name": "Gold Souk", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "مطار دبي الدولي", "time": "20 دقيقة" },
+      { "name": "سوق الذهب", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" },
+      { "name": "गोल्ड सूक", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands, Deira, Dubai, UAE",
+      "ru": "Dubai Islands, Deira, Дубай, ОАЭ",
+      "ar": "جزر دبي، ديرة، دبي، الإمارات",
+      "hi": "दुबई आइलैंड्स, देइरा, दुबई, यूएई"
+    },
+    "lat": 25.3090,
+    "lng": 55.3280
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "mr-eight-development",
+    "property_types": ["apartment", "villa"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 2200000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "waterfront", "island-living", "coastal-residence"]
+  }
+}

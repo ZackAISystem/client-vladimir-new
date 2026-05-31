@@ -1,0 +1,150 @@
+{
+  "project_key": "baccarat-hotel-residences-phase-2",
+  "slug": "baccarat-hotel-residences-phase-2",
+
+  "name": {
+    "en": "Baccarat Hotel & Residences Phase 2",
+    "ru": "Baccarat Hotel & Residences Phase 2",
+    "ar": "باكارات فندق وريزيدنسز – المرحلة الثانية",
+    "hi": "बैकारा होटल एंड रेजिडेंसेस फेज 2"
+  },
+
+  "developer": {
+    "en": "Shamal Holding",
+    "ru": "Shamal Holding",
+    "ar": "شمال القابضة",
+    "hi": "शमाल होल्डिंग"
+  },
+
+  "location_text": {
+    "en": "Downtown Dubai",
+    "ru": "Downtown Dubai",
+    "ar": "وسط مدينة دبي",
+    "hi": "डाउनटाउन दुबई"
+  },
+
+  "hero_title": {
+    "en": "Baccarat Hotel & Residences II",
+    "ru": "Baccarat Hotel & Residences II",
+    "ar": "باكارات فندق وريزيدنسز – المرحلة الثانية",
+    "hi": "बैकारा होटल एंड रेजिडेंसेस फेज 2"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "17,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "2 | 3 | 4 BR",
+    "ru": "2 | 3 | 4 спальни",
+    "ar": "2 | 3 | 4 غرف نوم",
+    "hi": "2 | 3 | 4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2,200 sqft",
+    "ru": "от 2,200 sqft",
+    "ar": "ابتداءً من 2,200 قدم²",
+    "hi": "2,200 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Baccarat Hotel & Residences Phase 2 is a landmark ultra-luxury development in Downtown Dubai by Shamal Holding, bringing the iconic French brand to the Burj Khalifa district. Offering expansive 2 to 4-bedroom residences with refined interiors and five-star hotel services, the project combines crystal-inspired design, panoramic skyline views and exclusive amenities steps from Dubai Mall and Dubai Fountain.",
+    "ru": "Baccarat Hotel & Residences Phase 2 — ультра-люксовый проект в Downtown Dubai от Shamal Holding, воплощающий эстетику легендарного французского бренда рядом с Burj Khalifa. Просторные резиденции с 2–4 спальнями, сервис пятизвёздочного отеля и панорамные виды на центр города формируют новый стандарт премиальной жизни в Дубае.",
+    "ar": "يمثل مشروع باكارات فندق وريزيدنسز – المرحلة الثانية تحفة سكنية فائقة الفخامة في وسط مدينة دبي من تطوير شمال القابضة. يوفر شققاً واسعة من 2 إلى 4 غرف نوم بتصاميم مستوحاة من كريستال باكارات وخدمات فندقية خمس نجوم، مع إطلالات بانورامية على أفق المدينة وعلى مقربة من دبي مول ونافورة دبي.",
+    "hi": "बैकारा होटल एंड रेजिडेंसेस फेज 2, डाउनटाउन दुबई में शमाल होल्डिंग द्वारा विकसित एक अल्ट्रा-लक्ज़री प्रोजेक्ट है, जो प्रतिष्ठित फ्रेंच ब्रांड की भव्यता को बुर्ज खलीफा जिले में लाता है। 2 से 4 बेडरूम रेजिडेंस, पाँच सितारा होटल सेवाएँ और शानदार स्काईलाइन व्यू इसे दुबई मॉल और दुबई फाउंटेन के पास एक विशिष्ट जीवनशैली प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/baccarat-hotel-residences-phase-2/promo.png",
+
+  "gallery": [
+    "/img/projects/baccarat-hotel-residences-phase-2/gallery_1.png",
+    "/img/projects/baccarat-hotel-residences-phase-2/gallery_2.png",
+    "/img/projects/baccarat-hotel-residences-phase-2/gallery_3.png",
+    "/img/projects/baccarat-hotel-residences-phase-2/gallery_4.png",
+    "/img/projects/baccarat-hotel-residences-phase-2/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "2 min" },
+      { "name": "DXB Airport", "time": "15 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "2 мин" },
+      { "name": "Аэропорт DXB", "time": "15 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "2 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "15 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "2 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "15 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Downtown Dubai, Dubai, UAE",
+      "ru": "Downtown Dubai, Дубай, ОАЭ",
+      "ar": "وسط مدينة دبي، دبي، الإمارات",
+      "hi": "डाउनटाउन दुबई, दुबई, यूएई"
+    },
+    "lat": 25.1972,
+    "lng": 55.2744
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "downtown-dubai",
+    "developer": "shamal-holding",
+    "property_types": ["apartment"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 17000000,
+    "size_from_sqft": 2200,
+    "tokens_extra": ["uae"]
+  }
+}

@@ -1,0 +1,403 @@
+<script>
+(function () {
+  // =========================================================
+  // GetHome Search Engine (NO fetch, NO layout changes)
+  // Works with:
+  // - data/search/dict.json
+  // - data/search/search_index.json
+  // Listens:
+  // - search:set {q}
+  // - search:updated {q}
+  // - search:clear
+  // =========================================================
+
+  const LANGS = ["en","ru","ar","hi"];
+  const STORAGE_KEY = "results_query";
+
+  function getLang(){
+    const l = (document.documentElement.getAttribute("lang") || "en").toLowerCase();
+    return LANGS.includes(l) ? l : "en";
+  }
+
+  // --- embed DICT + INDEX from Hugo data (no fetch!) ---
+  let DICT = {{ site.Data.search.dict | jsonify }};
+  if (typeof DICT === "string") {
+    try { DICT = JSON.parse(DICT); } catch(e){ DICT = {}; }
+  }
+
+  let INDEX = {{ site.Data.search.search_index | jsonify }};
+  if (typeof INDEX === "string") {
+    try { INDEX = JSON.parse(INDEX); } catch(e){ INDEX = {}; }
+  }
+
+  const projectsIndex = Array.isArray(INDEX && INDEX.projects) ? INDEX.projects : [];
+
+  // Build fast lookup by slug
+  const bySlug = new Map();
+  for (const p of projectsIndex) {
+    if (p && p.slug) bySlug.set(String(p.slug), p);
+  }
+
+  // --- normalizer (stopwords + synonyms) ---
+  function buildNormalizer(dict, lang){
+    const stop = new Set([
+      ...(dict.stopwords?.en || []),
+      ...(dict.stopwords?.[lang] || [])
+    ].map(x => String(x).toLowerCase()));
+
+    const map = new Map();
+
+    function addBlock(block){
+      if (!block) return;
+      for (const canonical of Object.keys(block)) {
+        map.set(canonical.toLowerCase(), canonical.toLowerCase());
+        for (const v of block[canonical]) map.set(String(v).toLowerCase(), canonical.toLowerCase());
+      }
+    }
+
+    addBlock(dict.synonyms?.global);
+    addBlock(dict.synonyms?.[lang]);
+
+    function tokenize(q){
+      return String(q || "")
+        .toLowerCase()
+        .replace(/[^\p{L}\p{N}\s\-]/gu, " ")
+        .replace(/\s+/g, " ")
+        .trim()
+        .split(" ")
+        .filter(Boolean);
+    }
+
+    function normalize(q){
+      const raw = tokenize(q);
+      const filtered = raw.filter(tok => !stop.has(tok));
+
+      // glue: "1 br" -> "1br"
+      const glued = [];
+      for (let i=0; i<filtered.length; i++){
+        const a = filtered[i];
+        const b = filtered[i+1];
+        if (/^[0-9]$/.test(a) && (b === "br" || b === "bedroom" || b === "bedrooms")) {
+          glued.push(a + "br");
+          i++;
+          continue;
+        }
+        glued.push(a);
+      }
+
+      return glued.map(tok => map.get(tok) || tok);
+    }
+
+    return { normalize };
+  }
+
+  // --- DOM helpers (do not change markup) ---
+  function getResultsRoot(){ return document.getElementById("results"); }
+  function getResultsInput(){ return document.getElementById("resultsQuery"); }
+
+  function getCards(){
+    const root = getResultsRoot();
+    if (!root) return [];
+    return Array.from(root.querySelectorAll('a.results-card'));
+  }
+
+  function extractSlugFromHref(href){
+    try {
+      const url = new URL(href, window.location.origin);
+      const parts = url.pathname.split("/").filter(Boolean);
+      const i = parts.indexOf("projects");
+      if (i >= 0 && parts[i+1]) return parts[i+1];
+      return parts[parts.length - 1] || "";
+    } catch(e) {
+      return "";
+    }
+  }
+
+  // --- Emirate canonicalization (multi-language) ---
+  const EMIRATE_CANON = {
+    // EN
+    "dubai": "dubai",
+    "abu dhabi": "abu-dhabi",
+    "abudhabi": "abu-dhabi",
+    "sharjah": "sharjah",
+    "ras al khaimah": "ras-al-khaimah",
+    "rasalkhaimah": "ras-al-khaimah",
+
+    // RU
+    "дубай": "dubai",
+    "абу даби": "abu-dhabi",
+    "абудаби": "abu-dhabi",
+    "шарджа": "sharjah",
+    "рас-эль-хайма": "ras-al-khaimah",
+    "рас эль хайма": "ras-al-khaimah",
+    "расэльхайма": "ras-al-khaimah",
+
+    // AR
+    "دبي": "dubai",
+    "أبوظبي": "abu-dhabi",
+    "ابوظبي": "abu-dhabi",
+    "الشارقة": "sharjah",
+    "رأس الخيمة": "ras-al-khaimah",
+    "راس الخيمة": "ras-al-khaimah",
+
+    // HI
+    "दुबई": "dubai",
+    "अबू धाबी": "abu-dhabi",
+    "शारजाह": "sharjah",
+    "रास अल खैमाह": "ras-al-khaimah"
+  };
+
+  const EMIRATE_SET = new Set(["dubai","abu-dhabi","sharjah","ras-al-khaimah"]);
+
+  function canonEmirateFromText(txt){
+    const s = String(txt || "").toLowerCase().trim().replace(/\s+/g, " ");
+    return EMIRATE_CANON[s] || "";
+  }
+
+  function detectEmiratesFromTokens(tokens){
+    const out = new Set();
+
+    for (const t of tokens) {
+      const c = canonEmirateFromText(t);
+      if (c) out.add(c);
+    }
+
+    for (let i=0; i<tokens.length-1; i++){
+      const bi = (tokens[i] + " " + tokens[i+1]).trim();
+      const c = canonEmirateFromText(bi);
+      if (c) out.add(c);
+    }
+
+    for (let i=0; i<tokens.length-2; i++){
+      const tri = (tokens[i] + " " + tokens[i+1] + " " + tokens[i+2]).trim();
+      const c = canonEmirateFromText(tri);
+      if (c) out.add(c);
+    }
+
+    return Array.from(out);
+  }
+
+  function projectHasEmirate(p, canon){
+    if (!p || !canon) return false;
+
+    const direct = (p.emirate || p._emirate || "").toString().toLowerCase();
+    if (direct) {
+      const d = direct.replace(/\s+/g,"-");
+      if (d === canon) return true;
+    }
+
+    const ptokens = Array.isArray(p.tokens) ? p.tokens.map(x => String(x).toLowerCase()) : [];
+
+    const c1 = canon;
+    const c2 = canon.replace(/-/g, " ");
+    const c3 = canon.replace(/-/g, "");
+    const c4 = canon.replace(/-/g, "_");
+
+    return ptokens.includes(c1) || ptokens.includes(c2) || ptokens.includes(c3) || ptokens.includes(c4);
+  }
+
+  const STRONG_TOKEN_SET = new Set([
+    "apartment","villa","penthouse","townhouse","duplex",
+    "0br","1br","2br","3br","4br","5br","6br","7br","8br","9br"
+  ]);
+
+  function splitQueryToParts(q, lang){
+    const normalizer = buildNormalizer(DICT, lang);
+    const tokens = normalizer.normalize(q).map(x => String(x).toLowerCase());
+
+    const emirsFromWhole = canonEmirateFromText(q) ? [canonEmirateFromText(q)] : [];
+    const emirsFromTokens = detectEmiratesFromTokens(tokens);
+
+    const fromBullets = String(q || "")
+      .split(/[\u00B7•,|/]+/g)
+      .map(s => s.trim())
+      .filter(Boolean)
+      .map(s => canonEmirateFromText(s))
+      .filter(Boolean);
+
+    const emiratesWanted = Array.from(new Set([...emirsFromWhole, ...emirsFromTokens, ...fromBullets]))
+      .filter(e => EMIRATE_SET.has(e));
+
+    const nonEmirTokens = tokens.filter(t => !EMIRATE_SET.has(t));
+
+    const strong = nonEmirTokens.filter(t => STRONG_TOKEN_SET.has(t));
+    const weak   = nonEmirTokens.filter(t => !STRONG_TOKEN_SET.has(t));
+
+    return { emiratesWanted, strong, weak, tokens };
+  }
+
+  function applyFilter(q){
+    const root = getResultsRoot();
+    if (!root) return;
+
+    const query = String(q || "").trim();
+    const cards = getCards();
+
+    if (!query) {
+      for (const a of cards) a.style.display = "";
+      return;
+    }
+
+    const lang = getLang();
+    const parts = splitQueryToParts(query, lang);
+
+    const emiratesWanted = parts.emiratesWanted;
+    const required = parts.strong;
+
+    if (!emiratesWanted.length && !required.length && !parts.weak.length) {
+      for (const a of cards) a.style.display = "";
+      return;
+    }
+
+    // ✅ FIX: считаем совпадения ТОЛЬКО среди тех, кто есть в индексе
+    let matchedIndexedCount = 0;
+
+    for (const a of cards) {
+      const slug = extractSlugFromHref(a.getAttribute("href") || "");
+      const p = bySlug.get(slug);
+
+      // soft fail: нет в индексе — временно показываем (но НЕ считаем как match)
+      if (!p) { a.style.display = ""; continue; }
+
+      const ptokens = Array.isArray(p.tokens) ? p.tokens.map(x => String(x).toLowerCase()) : [];
+
+      if (emiratesWanted.length) {
+        let emirOk = false;
+        for (const e of emiratesWanted) {
+          if (projectHasEmirate(p, e)) { emirOk = true; break; }
+        }
+        if (!emirOk) { a.style.display = "none"; continue; }
+      }
+
+      let ok = true;
+      for (const r of required) {
+        if (!ptokens.includes(r)) { ok = false; break; }
+      }
+      if (!ok) { a.style.display = "none"; continue; }
+
+      a.style.display = "";
+      matchedIndexedCount++;
+    }
+
+    // ✅ FIX: если в индексе совпадений НОЛЬ — показываем всё
+    if (matchedIndexedCount === 0) {
+      for (const a of cards) a.style.display = "";
+    }
+  }
+
+  function readSavedQuery(){
+    try { return (localStorage.getItem(STORAGE_KEY) || "").trim(); } catch(e){ return ""; }
+  }
+
+  function writeSavedQuery(v){
+    const s = String(v || "").trim();
+    try {
+      if (s) localStorage.setItem(STORAGE_KEY, s);
+      else localStorage.removeItem(STORAGE_KEY);
+    } catch(e){}
+  }
+
+  function parseEmiratesFromQueryText(q){
+    const parts = String(q || "")
+      .split(/[\u00B7•,|/]+/g)
+      .map(s => s.trim())
+      .filter(Boolean);
+
+    const out = [];
+    for (const p of parts) {
+      const c = canonEmirateFromText(p);
+      if (c) out.push(c);
+    }
+    return out;
+  }
+
+  function rebuildCanonQuery(emiratesCanon, keepText){
+    const base = Array.from(new Set(emiratesCanon)).join(" · ");
+    const tail = String(keepText || "").trim();
+    if (!tail) return base;
+    if (!base) return tail;
+    return (tail + " · " + base).trim();
+  }
+
+  window.addEventListener("search:set", function(e){
+    const q = (e.detail && e.detail.q) ? String(e.detail.q) : "";
+    applyFilter(q);
+  });
+
+  window.addEventListener("search:updated", function(e){
+    const q = (e && e.detail && typeof e.detail.q !== "undefined")
+      ? String(e.detail.q)
+      : (getResultsInput() ? (getResultsInput().value || "") : "");
+    applyFilter(q);
+  });
+
+  window.addEventListener("search:clear", function(){
+    applyFilter("");
+  });
+
+  document.addEventListener("click", function(ev){
+    const btn = ev.target && ev.target.closest ? ev.target.closest(".home-hero__chip") : null;
+    if (!btn) return;
+
+    const txt = (btn.textContent || "").trim();
+    const emir = canonEmirateFromText(txt);
+    if (!emir) return;
+
+    ev.preventDefault();
+    ev.stopPropagation();
+    if (typeof ev.stopImmediatePropagation === "function") ev.stopImmediatePropagation();
+
+    const heroInput = document.querySelector(".home-hero__input");
+    const rInput = getResultsInput();
+
+    const currentText = heroInput ? (heroInput.value || "") : (rInput ? (rInput.value || "") : readSavedQuery());
+
+    const lang = getLang();
+    const normalizer = buildNormalizer(DICT, lang);
+    const tokens = normalizer.normalize(currentText);
+
+    const existingEmirs = parseEmiratesFromQueryText(currentText);
+    const set = new Set(existingEmirs);
+    set.add(emir);
+
+    const emirsDetected = new Set(detectEmiratesFromTokens(tokens));
+    const typedTokens = tokens.filter(t => !emirsDetected.has(canonEmirateFromText(t)) && !EMIRATE_SET.has(t));
+    const typedText = typedTokens.join(" ").trim();
+
+    const canonQuery = rebuildCanonQuery(Array.from(set), typedText);
+    writeSavedQuery(canonQuery);
+
+    const labels = [];
+    if (typedText) labels.push(typedText);
+
+    for (const c of Array.from(set)) {
+      if (c === emir) {
+        labels.push(txt);
+      } else {
+        if (c === "dubai") labels.push("Dubai");
+        if (c === "abu-dhabi") labels.push("Abu Dhabi");
+        if (c === "sharjah") labels.push("Sharjah");
+        if (c === "ras-al-khaimah") labels.push("Ras Al Khaimah");
+      }
+    }
+
+    const displayText = labels.join(" · ").trim();
+
+    if (heroInput) heroInput.value = displayText;
+    if (rInput) rInput.value = displayText;
+
+    try { window.dispatchEvent(new CustomEvent("search:set", { detail: { q: canonQuery } })); } catch(e){}
+  }, true);
+
+  window.addEventListener("i18n:applied", function(){
+    const q = readSavedQuery();
+    applyFilter(q);
+  });
+
+  (function boot(){
+    const saved = readSavedQuery();
+    if (saved) applyFilter(saved);
+  })();
+
+})();
+</script>

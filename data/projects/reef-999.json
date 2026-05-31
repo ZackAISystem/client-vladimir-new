@@ -1,0 +1,150 @@
+{
+  "project_key": "reef-999",
+  "slug": "reef-999",
+
+  "name": {
+    "en": "Reef 999",
+    "ru": "Reef 999",
+    "ar": "ريف 999",
+    "hi": "रीफ 999"
+  },
+
+  "developer": {
+    "en": "Reef Luxury Development",
+    "ru": "Reef Luxury Development",
+    "ar": "ريف للتطوير العقاري",
+    "hi": "रीफ लग्ज़री डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Al Furjan",
+    "ru": "Al Furjan",
+    "ar": "الفرجان",
+    "hi": "अल फुरजान"
+  },
+
+  "hero_title": {
+    "en": "Reef 999",
+    "ru": "Reef 999",
+    "ar": "ريف 999",
+    "hi": "रीफ 999"
+  },
+
+  "handover": {
+    "en": "July 2027",
+    "ru": "Июль 2027",
+    "ar": "يوليو 2027",
+    "hi": "जुलाई 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,200,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Villa"],
+    "ru": ["Апартаменты", "Вилла"],
+    "ar": ["شقة", "فيلا"],
+    "hi": ["अपार्टमेंट", "विला"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 793 sqft",
+    "ru": "от 793 sqft",
+    "ar": "ابتداءً من 793 قدم²",
+    "hi": "793 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Reef 999 by Reef Luxury Development is a premium residential project in Al Furjan offering 1 to 4-bedroom apartments and villas. Residences start from 793 sqft and feature contemporary architecture, smart home technology, landscaped surroundings, and family-oriented amenities designed for modern urban living.",
+    "ru": "Reef 999 от Reef Luxury Development — современный жилой проект в районе Al Furjan с апартаментами и виллами с 1–4 спальнями площадью от 793 sqft. Продуманная архитектура, технологии «умного дома» и благоустроенная территория формируют комфортную среду для семейной жизни и инвестиций.",
+    "ar": "ريف 999 من ريف للتطوير العقاري هو مشروع سكني فاخر في الفرجان يضم شققاً وفللاً من 1 إلى 4 غرف نوم بمساحات تبدأ من 793 قدم². يتميز بتصميم عصري وتقنيات المنزل الذكي ومرافق عائلية متكاملة.",
+    "hi": "रीफ लग्ज़री डेवलपमेंट का रीफ 999 अल फुरजान में स्थित एक प्रीमियम रेजिडेंशियल प्रोजेक्ट है, जिसमें 1 से 4 बेडरूम अपार्टमेंट और विला 793 sqft से शुरू होते हैं। आधुनिक आर्किटेक्चर और स्मार्ट होम तकनीक इसे परिवारों और निवेशकों के लिए उपयुक्त बनाती है।"
+  },
+
+  "promo_image": "/img/projects/reef-999/promo.png",
+
+  "gallery": [
+    "/img/projects/reef-999/gallery_1.png",
+    "/img/projects/reef-999/gallery_2.png",
+    "/img/projects/reef-999/gallery_3.png",
+    "/img/projects/reef-999/gallery_4.png",
+    "/img/projects/reef-999/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Ibn Battuta Mall", "time": "8 min" },
+      { "name": "Dubai Marina", "time": "15 min" },
+      { "name": "Expo City Dubai", "time": "12 min" }
+    ],
+    "ru": [
+      { "name": "Ibn Battuta Mall", "time": "8 мин" },
+      { "name": "Dubai Marina", "time": "15 мин" },
+      { "name": "Expo City Dubai", "time": "12 мин" }
+    ],
+    "ar": [
+      { "name": "ابن بطوطة مول", "time": "8 دقائق" },
+      { "name": "دبي مارينا", "time": "15 دقيقة" },
+      { "name": "إكسبو سيتي دبي", "time": "12 دقيقة" }
+    ],
+    "hi": [
+      { "name": "इब्न बतूता मॉल", "time": "8 मिनट" },
+      { "name": "दुबई मरीना", "time": "15 मिनट" },
+      { "name": "एक्सपो सिटी दुबई", "time": "12 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Al Furjan",
+      "ru": "Al Furjan",
+      "ar": "الفرجان",
+      "hi": "अल फुरजान"
+    },
+    "lat": 25.0395,
+    "lng": 55.1445
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "al-furjan",
+    "developer": "reef-luxury-development",
+    "property_types": ["apartment", "villa"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 1200000,
+    "size_from_sqft": 793,
+    "tokens_extra": ["uae", "family", "smart-home"]
+  }
+}

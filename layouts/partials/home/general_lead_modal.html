@@ -1,0 +1,321 @@
+{{ $voiceIcon := site.Data.site.home.hero.search.voice_icon | default "/img/icons/mic.svg" }}
+
+{{ $preparedText := "Hello, I would like to book a call with Vladimir Maksimov about UAE real estate investments." }}
+{{ $placeholderText := "Tell Sicemco AI what you are looking for: area, budget, lifestyle, investment goal or developer..." }}
+
+<div class="pd-lead-modal" id="generalLeadModal" aria-hidden="true">
+  <div class="pd-lead-modal__backdrop" data-general-lead-close></div>
+
+  <section class="pd-lead-modal__panel" role="dialog" aria-modal="true" aria-label="Book a call form">
+    <button class="pd-lead-modal__close" type="button" data-general-lead-close aria-label="Close enquiry form">
+      ×
+    </button>
+
+    <div class="pd-lead-modal__head">
+      <span class="pd-lead-modal__eyebrow">Private request</span>
+
+      <h2>Book a call with Vladimir Maksimov</h2>
+
+      <p>
+        Tell us what you are looking for. Add your contact details or record a short voice note for Sicemco AI.
+      </p>
+    </div>
+
+    <form class="pd-lead-form" data-general-lead-form>
+      <input type="hidden" name="source" value="home_header_book_call">
+      <input type="hidden" name="system" value="Vladimir Maksimov AI System">
+      <input type="hidden" name="assistant" value="Sicemco AI">
+
+      <div class="pd-lead-form__grid">
+        <label class="pd-lead-field">
+          <span>Your name</span>
+          <input type="text" name="name" placeholder="Name">
+        </label>
+
+        <label class="pd-lead-field">
+          <span>Phone / WhatsApp</span>
+          <input type="tel" name="phone" placeholder="+971">
+        </label>
+
+        <label class="pd-lead-field">
+          <span>Email optional</span>
+          <input type="email" name="email" placeholder="email@example.com">
+        </label>
+      </div>
+
+      <label class="pd-lead-field pd-lead-field--comment">
+        <span>Prepared request</span>
+
+        <div class="pd-lead-ai-row">
+          <div class="pd-lead-ai-row__badge">
+            <i></i>
+            Sicemco AI
+          </div>
+
+          <textarea
+            name="comment"
+            data-general-lead-comment
+            placeholder="{{ $placeholderText }}"
+          >{{ $preparedText }}</textarea>
+
+          <button
+            class="pd-lead-voice"
+            type="button"
+            data-general-lead-voice
+            aria-label="Dictate request by voice"
+            aria-pressed="false"
+          >
+            <span class="pd-lead-voice__aura" aria-hidden="true"></span>
+
+            <span class="pd-lead-voice__core" aria-hidden="true">
+              <img src="{{ $voiceIcon | relURL }}" alt="">
+            </span>
+          </button>
+
+          <div class="pd-lead-voice-popover" aria-live="polite">
+            <div class="pd-lead-voice-popover__inner">
+              <span class="pd-lead-voice-popover__dot"></span>
+
+              <div class="pd-lead-voice-popover__copy">
+                <span class="pd-lead-voice-popover__status">Listening…</span>
+                <span class="pd-lead-voice-popover__text">Tell Sicemco AI what you want</span>
+              </div>
+
+              <span class="pd-lead-voice-popover__bars" aria-hidden="true">
+                <i></i><i></i><i></i><i></i>
+              </span>
+            </div>
+          </div>
+
+          <button class="pd-lead-submit" type="submit">
+            Send
+          </button>
+        </div>
+
+        <small data-general-lead-voice-status>
+          Click the voice button to replace the request with a spoken note.
+        </small>
+      </label>
+    </form>
+  </section>
+</div>
+
+<script>
+(function () {
+  const modal = document.getElementById('generalLeadModal');
+  if (!modal) return;
+
+  if (modal.dataset.ready === '1') return;
+  modal.dataset.ready = '1';
+
+  const openButtons = Array.from(document.querySelectorAll('[data-open-general-lead]'));
+  const closeButtons = modal.querySelectorAll('[data-general-lead-close]');
+  const form = modal.querySelector('[data-general-lead-form]');
+  const comment = modal.querySelector('[data-general-lead-comment]');
+  const voiceBtn = modal.querySelector('[data-general-lead-voice]');
+  const voiceStatus = modal.querySelector('[data-general-lead-voice-status]');
+  const aiRow = modal.querySelector('.pd-lead-ai-row');
+  const voicePopoverStatus = modal.querySelector('.pd-lead-voice-popover__status');
+  const voicePopoverText = modal.querySelector('.pd-lead-voice-popover__text');
+
+  let recognition = null;
+  let listening = false;
+  let voiceFinalText = '';
+
+  function openModal(event) {
+    if (event) event.preventDefault();
+
+    modal.classList.add('is-open');
+    modal.setAttribute('aria-hidden', 'false');
+    document.documentElement.classList.add('pd-modal-open');
+
+    window.setTimeout(() => {
+      const firstInput = modal.querySelector('input[name="name"]');
+      if (firstInput) firstInput.focus();
+    }, 260);
+  }
+
+  function closeModal() {
+    modal.classList.remove('is-open');
+    modal.setAttribute('aria-hidden', 'true');
+    document.documentElement.classList.remove('pd-modal-open');
+  }
+
+  function normalizeSpaces(text) {
+    return String(text || '')
+      .replace(/\s+/g, ' ')
+      .replace(/\s+([,.!?;:])/g, '$1')
+      .trim();
+  }
+
+  function setVoiceState(active, statusText, helperText) {
+    listening = active;
+
+    if (voiceBtn) {
+      voiceBtn.classList.toggle('is-active', active);
+      voiceBtn.setAttribute('aria-pressed', active ? 'true' : 'false');
+    }
+
+    if (aiRow) {
+      aiRow.classList.toggle('is-voice-active', active);
+    }
+
+    if (voiceStatus && helperText) {
+      voiceStatus.textContent = helperText;
+    }
+
+    if (voicePopoverStatus && statusText) {
+      voicePopoverStatus.textContent = statusText;
+    }
+
+    if (voicePopoverText && helperText) {
+      voicePopoverText.textContent = helperText;
+    }
+  }
+
+  openButtons.forEach(button => {
+    button.addEventListener('click', openModal);
+  });
+
+  closeButtons.forEach(button => {
+    button.addEventListener('click', closeModal);
+  });
+
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && modal.classList.contains('is-open')) {
+      closeModal();
+    }
+  });
+
+  if (form) {
+    form.addEventListener('submit', event => {
+      event.preventDefault();
+
+      const data = new FormData(form);
+      const payload = Object.fromEntries(data.entries());
+
+      console.log('Vladimir general lead:', payload);
+
+      const submit = form.querySelector('.pd-lead-submit');
+
+      if (submit) {
+        submit.textContent = 'Sent';
+        submit.classList.add('is-done');
+
+        window.setTimeout(() => {
+          submit.textContent = 'Send';
+          submit.classList.remove('is-done');
+        }, 1800);
+      }
+    });
+  }
+
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+
+  if (SpeechRecognition) {
+    recognition = new SpeechRecognition();
+    recognition.lang = document.documentElement.lang || 'en-US';
+    recognition.interimResults = true;
+    recognition.continuous = false;
+
+    recognition.onstart = () => {
+      voiceFinalText = '';
+
+      if (comment) {
+        comment.value = '';
+        comment.focus();
+      }
+
+      setVoiceState(
+        true,
+        'Listening…',
+        'Speak naturally — your note will replace the prepared request.'
+      );
+    };
+
+    recognition.onresult = event => {
+      if (!comment) return;
+
+      let interimText = '';
+
+      for (let i = event.resultIndex; i < event.results.length; i++) {
+        const part = event.results[i][0].transcript || '';
+
+        if (event.results[i].isFinal) {
+          voiceFinalText = normalizeSpaces(voiceFinalText + ' ' + part);
+        } else {
+          interimText = normalizeSpaces(interimText + ' ' + part);
+        }
+      }
+
+      const liveText = normalizeSpaces(voiceFinalText + ' ' + interimText);
+
+      if (liveText) {
+        comment.value = liveText;
+
+        setVoiceState(
+          true,
+          'Listening…',
+          liveText
+        );
+      }
+    };
+
+    recognition.onerror = () => {
+      setVoiceState(
+        false,
+        'Voice paused',
+        'Voice paused. You can type your note manually.'
+      );
+    };
+
+    recognition.onend = () => {
+      if (comment) {
+        comment.value = normalizeSpaces(comment.value);
+      }
+
+      setVoiceState(
+        false,
+        'Voice note added',
+        'Voice note added. You can edit the request before sending.'
+      );
+    };
+  }
+
+  if (voiceBtn) {
+    voiceBtn.addEventListener('click', () => {
+      if (!recognition) {
+        setVoiceState(
+          true,
+          'Voice mode',
+          'Voice recognition is not supported in this browser.'
+        );
+
+        window.setTimeout(() => {
+          setVoiceState(
+            false,
+            'Voice unavailable',
+            'You can type your note manually.'
+          );
+        }, 1800);
+
+        return;
+      }
+
+      try {
+        if (listening) {
+          recognition.stop();
+        } else {
+          recognition.start();
+        }
+      } catch (e) {
+        setVoiceState(
+          false,
+          'Voice paused',
+          'Voice is already active. Try again in a moment.'
+        );
+      }
+    });
+  }
+})();
+</script>

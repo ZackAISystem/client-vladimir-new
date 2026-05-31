@@ -1,0 +1,150 @@
+{
+  "project_key": "sobha-solis",
+  "slug": "sobha-solis",
+
+  "name": {
+    "en": "Sobha Solis",
+    "ru": "Sobha Solis",
+    "ar": "سوبها سوليس",
+    "hi": "सोभा सोलिस"
+  },
+
+  "developer": {
+    "en": "Sobha Realty",
+    "ru": "Sobha Realty",
+    "ar": "سوبها العقارية",
+    "hi": "सोभा रियल्टी"
+  },
+
+  "location_text": {
+    "en": "Motor City",
+    "ru": "Motor City",
+    "ar": "موتور سيتي",
+    "hi": "मोटर सिटी"
+  },
+
+  "hero_title": {
+    "en": "Sobha Solis",
+    "ru": "Sobha Solis",
+    "ar": "سوبها سوليس",
+    "hi": "सोभा सोलिस"
+  },
+
+  "handover": {
+    "en": "December 2028",
+    "ru": "Декабрь 2028",
+    "ar": "ديسمبر 2028",
+    "hi": "दिसंबर 2028"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment"],
+    "ru": ["Апартаменты"],
+    "ar": ["شقة"],
+    "hi": ["अपार्टमेंट"]
+  },
+
+  "unit_types": {
+    "en": "1–3 BR",
+    "ru": "1–3 спальни",
+    "ar": "1–3 غرف نوم",
+    "hi": "1–3 बेडरूम"
+  },
+
+  "size": {
+    "en": "535 sqft",
+    "ru": "535 sqft",
+    "ar": "535 قدم²",
+    "hi": "535 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "60/40",
+    "ru": "60/40",
+    "ar": "60/40",
+    "hi": "60/40"
+  },
+
+  "description": {
+    "en": "Sobha Solis by Sobha Realty is a premium residential development in Motor City offering 1 to 3-bedroom apartments with contemporary architecture and refined interiors. Set within landscaped surroundings, the project combines urban connectivity with community-focused amenities, creating a balanced lifestyle destination with strong rental appeal and long-term investment potential in Dubai.",
+    "ru": "Sobha Solis от Sobha Realty — премиальный жилой комплекс в районе Motor City с апартаментами 1–3 спальни. Современная архитектура, качественная отделка и благоустроенные пространства сочетаются с развитой инфраструктурой и удобной транспортной доступностью. Проект формирует комфортную среду для жизни и инвестиций в Дубае.",
+    "ar": "يعد Sobha Solis من سوبها العقارية مشروعاً سكنياً مميزاً في موتور سيتي يضم شققاً من 1 إلى 3 غرف نوم بتصميم عصري وتشطيبات راقية. يوفر بيئة سكنية متكاملة مع مرافق حديثة ومساحات خضراء، مما يجعله وجهة مثالية للحياة والاستثمار في دبي.",
+    "hi": "सोभा रियल्टी द्वारा विकसित सोभा सोलिस मोटर सिटी में स्थित एक प्रीमियम रेजिडेंशियल प्रोजेक्ट है, जिसमें 1–3 बेडरूम अपार्टमेंट उपलब्ध हैं। आधुनिक डिज़ाइन, उच्च गुणवत्ता वाली फिनिश और सामुदायिक सुविधाओं के साथ यह शहरी कनेक्टिविटी और निवेश संभावनाओं का संतुलन प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/sobha-solis/promo.png",
+
+  "gallery": [
+    "/img/projects/sobha-solis/gallery_1.png",
+    "/img/projects/sobha-solis/gallery_2.png",
+    "/img/projects/sobha-solis/gallery_3.png",
+    "/img/projects/sobha-solis/gallery_4.png",
+    "/img/projects/sobha-solis/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai Autodrome", "time": "3 min" },
+      { "name": "Mall of the Emirates", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Dubai Autodrome", "time": "3 мин" },
+      { "name": "Mall of the Emirates", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "دبي أوتودروم", "time": "3 دقائق" },
+      { "name": "مول الإمارات", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "दुबई ऑटोड्रोम", "time": "3 मिनट" },
+      { "name": "मॉल ऑफ द एमिरेट्स", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Motor City",
+      "ru": "Motor City",
+      "ar": "موتور سيتي",
+      "hi": "मोटर सिटी"
+    },
+    "lat": 25.0435,
+    "lng": 55.2388
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "motor-city",
+    "developer": "sobha-realty",
+    "property_types": ["apartment"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 3,
+    "handover_year": 2028,
+    "price_from_aed": 1000000,
+    "size_from_sqft": 535,
+    "tokens_extra": ["uae", "motor-city", "family-friendly", "investment"]
+  }
+}

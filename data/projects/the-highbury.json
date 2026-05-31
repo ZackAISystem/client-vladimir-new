@@ -1,0 +1,150 @@
+{
+  "project_key": "the-highbury",
+  "slug": "the-highbury",
+
+  "name": {
+    "en": "The Highbury",
+    "ru": "The Highbury",
+    "ar": "ذا هايبري",
+    "hi": "द हाईबरी"
+  },
+
+  "developer": {
+    "en": "Ellington Properties",
+    "ru": "Ellington Properties",
+    "ar": "إلينغتون العقارية",
+    "hi": "एलिंगटन प्रॉपर्टीज़"
+  },
+
+  "location_text": {
+    "en": "Mohammed Bin Rashid City (MBR City)",
+    "ru": "Mohammed Bin Rashid City (MBR City)",
+    "ar": "مدينة محمد بن راشد",
+    "hi": "मोहम्मद बिन राशिद सिटी"
+  },
+
+  "hero_title": {
+    "en": "The Highbury at MBR City",
+    "ru": "The Highbury в MBR City",
+    "ar": "ذا هايبري في مدينة محمد بن راشد",
+    "hi": "एमबीआर सिटी में द हाईबरी"
+  },
+
+  "handover": {
+    "en": "September 2025",
+    "ru": "Сентябрь 2025",
+    "ar": "سبتمبر 2025",
+    "hi": "सितंबर 2025"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "Studio – 4 BR",
+    "ru": "Студия – 4 спальни",
+    "ar": "استوديو – 4 غرف نوم",
+    "hi": "स्टूडियो – 4 बेडरूम"
+  },
+
+  "size": {
+    "en": "425 sqft",
+    "ru": "425 sqft",
+    "ar": "425 قدم²",
+    "hi": "425 sqft"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "The Highbury by Ellington Properties is a premium residential tower in Mohammed Bin Rashid City offering studios to expansive 4-bedroom apartments and penthouses. Designed with floor-to-ceiling glazing, curated interiors and generous layouts, the development focuses on natural light, panoramic views and refined finishes. Residents enjoy resort-style amenities including rooftop leisure decks, swimming pools, fitness facilities and landscaped communal areas. Positioned in MBR City, the project offers quick access to Downtown Dubai, Dubai Mall and major highways, combining tranquil living with strong long-term investment potential.",
+    "ru": "The Highbury от Ellington Properties — премиальный жилой проект в Mohammed Bin Rashid City с коллекцией от студий до просторных апартаментов и пентхаусов с 4 спальнями. Панорамное остекление, продуманные планировки и дизайнерская отделка создают атмосферу светлого и элегантного пространства. Резиденты получают доступ к бассейнам, фитнес-залам, лаунж-зонам и благоустроенным общественным пространствам. Локация в MBR City обеспечивает быстрый доступ к Downtown Dubai и ключевым автомагистралям.",
+    "ar": "يعد ذا هايبري من إلينغتون العقارية برجاً سكنياً فاخراً في مدينة محمد بن راشد، ويضم استوديوهات وشققاً حتى أربع غرف نوم بالإضافة إلى بنتهاوس. يتميز المشروع بتصميم عصري وإطلالات بانورامية ومرافق فاخرة تشمل مسابح وصالات رياضية ومساحات ترفيهية.",
+    "hi": "द हाईबरी, एलिंगटन प्रॉपर्टीज़ द्वारा विकसित, मोहम्मद बिन राशिद सिटी में स्थित एक प्रीमियम रेजिडेंशियल टॉवर है, जिसमें स्टूडियो से लेकर 4 बेडरूम अपार्टमेंट और पेंटहाउस उपलब्ध हैं। विशाल लेआउट, फ्लोर-टू-सीलिंग विंडोज़ और लक्ज़री सुविधाएँ इसे उच्च स्तर का शहरी निवास बनाती हैं।"
+  },
+
+  "promo_image": "/img/projects/the-highbury/promo.png",
+
+  "gallery": [
+    "/img/projects/the-highbury/gallery_1.png",
+    "/img/projects/the-highbury/gallery_2.png",
+    "/img/projects/the-highbury/gallery_3.png",
+    "/img/projects/the-highbury/gallery_4.png",
+    "/img/projects/the-highbury/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "10 min" },
+      { "name": "Dubai Mall", "time": "10 min" },
+      { "name": "Dubai International Airport", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "10 мин" },
+      { "name": "Dubai Mall", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "10 دقائق" },
+      { "name": "دبي مول", "time": "10 دقائق" },
+      { "name": "مطار دبي الدولي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" },
+      { "name": "दुबई मॉल", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Mohammed Bin Rashid City, Dubai",
+      "ru": "Mohammed Bin Rashid City, Дубай",
+      "ar": "مدينة محمد بن راشد، دبي",
+      "hi": "मोहम्मद बिन राशिद सिटी, दुबई"
+    },
+    "lat": 25.1810,
+    "lng": 55.3047
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "mbr-city",
+    "developer": "ellington-properties",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 0,
+    "bedrooms_max": 4,
+    "handover_year": 2025,
+    "price_from_aed": 1000000,
+    "size_from_sqft": 425,
+    "tokens_extra": ["uae", "ellington", "luxury-apartments", "mbr-city", "dubai"]
+  }
+}

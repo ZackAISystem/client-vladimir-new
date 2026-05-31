@@ -1,0 +1,184 @@
+{{ $hero := site.Data.site.home.hero }}
+{{ $header := $hero.header }}
+
+{{ $badge := "VLADIMIR MAKSIMOV" }}
+
+<header class="site-header">
+  <div class="site-header__inner">
+
+    <a class="site-header__badge" href="{{ "/" | relLangURL }}" aria-label="{{ $badge }}">
+      <span class="site-header__badge-dot" aria-hidden="true"></span>
+      <span class="site-header__badge-text">{{ $badge }}</span>
+    </a>
+
+    <nav class="site-header__nav" aria-label="{{ $header.nav_aria }}">
+      {{ range $index, $item := $header.nav }}
+
+        {{ $href := $item.href }}
+
+        {{ if eq $index 0 }}
+          {{ $href = "#projects" }}
+        {{ else if eq $index 1 }}
+          {{ $href = "#intent" }}
+        {{ else if eq $index 2 }}
+          {{ $href = "#search" }}
+        {{ else if eq $index 3 }}
+          {{ $href = "#contact" }}
+        {{ end }}
+
+        <a
+          class="site-header__nav-link {{ if $item.active }}is-active{{ end }}"
+          href="{{ $href }}"
+        >
+          {{ $item.label }}
+        </a>
+
+      {{ end }}
+    </nav>
+
+    <div class="site-header__right">
+      <a
+        class="site-header__cta"
+        href="{{ $header.cta.href }}"
+        data-open-general-lead
+      >
+        {{ $header.cta.label }}
+      </a>
+    </div>
+
+  </div>
+</header>
+
+<script>
+(function () {
+  const header = document.querySelector('.site-header');
+  if (!header) return;
+
+  const links = Array.from(header.querySelectorAll('.site-header__nav-link'));
+  if (!links.length) return;
+
+  function getTargetByHash(hash) {
+    if (!hash || hash === '#') return null;
+
+    if (hash === '#projects') {
+      return (
+        document.querySelector('#projects') ||
+        document.querySelector('.top-projects')
+      );
+    }
+
+    if (hash === '#intent') {
+      return (
+        document.querySelector('#intent') ||
+        document.querySelector('#investment') ||
+        document.querySelector('.intent-block') ||
+        document.querySelector('[data-intent-block]')
+      );
+    }
+
+    if (hash === '#search') {
+      return (
+        document.querySelector('#search') ||
+        document.querySelector('.home-search') ||
+        document.querySelector('.search-section') ||
+        document.querySelector('[data-home-search]')
+      );
+    }
+
+    if (hash === '#contact') {
+      return (
+        document.querySelector('#contact') ||
+        document.querySelector('.site-footer')
+      );
+    }
+
+    return document.querySelector(hash);
+  }
+
+  function normalizeActiveHash(hash) {
+    if (!hash || hash === '#') return '#projects';
+
+    if (hash === '#investment' || hash === '#investments') return '#intent';
+    if (hash === '#ai-search') return '#search';
+
+    return hash;
+  }
+
+  function setActiveByHash(hash) {
+    const targetHash = normalizeActiveHash(hash || window.location.hash || '#projects');
+    let found = false;
+
+    links.forEach(link => {
+      const href = link.getAttribute('href');
+      const isMatch = href === targetHash;
+
+      link.classList.toggle('is-active', isMatch);
+
+      if (isMatch) {
+        found = true;
+      }
+    });
+
+    if (!found) {
+      const first =
+        links.find(link => link.getAttribute('href') === '#projects') ||
+        links[0];
+
+      if (first) {
+        first.classList.add('is-active');
+      }
+    }
+  }
+
+  function scrollToHash(hash) {
+    const normalizedHash = normalizeActiveHash(hash);
+    const target = getTargetByHash(normalizedHash);
+
+    if (!target) return;
+
+    const headerHeight = header.offsetHeight || 0;
+    const extraOffset = 28;
+
+    const top =
+      target.getBoundingClientRect().top +
+      window.pageYOffset -
+      headerHeight -
+      extraOffset;
+
+    window.scrollTo({
+      top: Math.max(0, top),
+      behavior: 'smooth'
+    });
+  }
+
+  links.forEach(link => {
+    link.addEventListener('click', event => {
+      const href = link.getAttribute('href');
+
+      if (!href || !href.startsWith('#')) return;
+
+      const target = getTargetByHash(href);
+      if (!target) return;
+
+      event.preventDefault();
+
+      links.forEach(item => item.classList.remove('is-active'));
+      link.classList.add('is-active');
+
+      if (window.location.hash !== href) {
+        history.pushState(null, '', href);
+      }
+
+      scrollToHash(href);
+    });
+  });
+
+  window.addEventListener('hashchange', () => {
+    const normalizedHash = normalizeActiveHash(window.location.hash);
+    setActiveByHash(normalizedHash);
+    scrollToHash(normalizedHash);
+  });
+
+  setActiveByHash(window.location.hash);
+})();
+</script>

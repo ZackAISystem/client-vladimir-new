@@ -1,0 +1,5942 @@
+    {
+  "areas": [
+    {
+      "key": "academic-city",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Academic City",
+        "ru": "Академический городок",
+        "ar": "المدينة الأكاديمية",
+        "hi": "अकादमिक सिटी"
+      },
+      "aliases": {
+        "en": ["academic city", "academic-city", "academiccity", "dubai academic city"],
+        "ru": ["академик сити", "академикити", "академический городок", "академический город", "academic city"],
+        "ar": ["المدينة الأكاديمية", "مدينة أكاديمية", "المدينة الاكاديمية", "academic city"],
+        "hi": ["अकादमिक सिटी", "अकॅडमिक सिटी", "अकादमिक सिटी दुबई", "academic city"]
+      }
+    },
+    {
+      "key": "ajman-corniche",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Ajman Corniche",
+        "ru": "Аджман Корниш",
+        "ar": "كورنيش عجمان",
+        "hi": "अजमान कॉर्निश"
+      },
+      "aliases": {
+        "en": ["ajman corniche", "ajman-corniche", "corniche", "ajman cornish"],
+        "ru": ["аджман корниш", "корниш аджман", "корниш", "ajman corniche"],
+        "ar": ["كورنيش عجمان", "كورنيش", "عجمان كورنيش", "ajman corniche"],
+        "hi": ["अजमान कॉर्निश", "कॉर्निश अजमान", "कॉर्निश", "ajman corniche"]
+      }
+    },
+    {
+      "key": "ajman-downtown",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Ajman Downtown",
+        "ru": "Центр Аджмана",
+        "ar": "وسط عجمان",
+        "hi": "अजमान डाउनटाउन"
+      },
+      "aliases": {
+        "en": ["ajman downtown", "ajman-downtown", "downtown", "downtown ajman"],
+        "ru": ["центр аджмана", "даунтаун аджман", "даунтаун", "ajman downtown"],
+        "ar": ["وسط عجمان", "داون تاون عجمان", "داونتاون عجمان", "ajman downtown"],
+        "hi": ["अजमान डाउनटाउन", "डाउनटाउन अजमान", "डाउनटाउन", "ajman downtown"]
+      }
+    },
+    {
+      "key": "ajman-industrial",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Ajman Industrial",
+        "ru": "Промышленный район Аджмана",
+        "ar": "المنطقة الصناعية عجمان",
+        "hi": "अजमान इंडस्ट्रियल"
+      },
+      "aliases": {
+        "en": ["ajman industrial", "ajman-industrial", "industrial", "industrial ajman"],
+        "ru": ["аджман индустриал", "промышленный аджман", "промышленная зона аджман", "промзона аджман", "ajman industrial"],
+        "ar": ["المنطقة الصناعية عجمان", "صناعية عجمان", "عجمان الصناعية", "ajman industrial"],
+        "hi": ["अजमान इंडस्ट्रियल", "इंडस्ट्रियल अजमान", "अजमान औद्योगिक", "ajman industrial"]
+      }
+    },
+    {
+      "key": "al-amerah",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Amerah",
+        "ru": "Аль-Амера",
+        "ar": "العامرة",
+        "hi": "अल अमेरा"
+      },
+      "aliases": {
+        "en": ["al amerah", "al-amerah", "al amera", "alamera", "al amirah"],
+        "ru": ["аль амера", "аль-амера", "аль амерах", "ал амера", "al amerah"],
+        "ar": ["العامرة", "ال عامرة", "عامرة", "al amerah"],
+        "hi": ["अल अमेरा", "अल-अमेरा", "अल आमेरा", "al amerah"]
+      }
+    },
+    {
+      "key": "al-aqah",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Al Aqah",
+        "ru": "Аль-Ака",
+        "ar": "العقة",
+        "hi": "अल अक़ाह"
+      },
+      "aliases": {
+        "en": ["al aqah", "al-aqah", "alaqah", "al aqah beach"],
+        "ru": ["аль ака", "аль-ака", "аль ака фуджейра", "al aqah"],
+        "ar": ["العقة", "العقه", "شاطئ العقة", "al aqah"],
+        "hi": ["अल अक़ाह", "अल अकाह", "अल अक़ाह बीच", "al aqah"]
+      }
+    },
+    {
+      "key": "al-aweer-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Aweer 1",
+        "ru": "Аль-Ауир 1",
+        "ar": "العوير 1",
+        "hi": "अल अवीर 1"
+      },
+      "aliases": {
+        "en": ["al aweer 1", "al-aweer-1", "al aweer", "aweer 1", "al awir 1"],
+        "ru": ["аль ауир 1", "аль-ауир 1", "аль ауир", "ауир 1", "al aweer 1"],
+        "ar": ["العوير 1", "العوير١", "العوير", "al aweer 1"],
+        "hi": ["अल अवीर 1", "अल-अवीर 1", "अवीर 1", "al aweer 1"]
+      }
+    },
+    {
+      "key": "al-aweer-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Aweer 2",
+        "ru": "Аль-Ауир 2",
+        "ar": "العوير 2",
+        "hi": "अल अवीर 2"
+      },
+      "aliases": {
+        "en": ["al aweer 2", "al-aweer-2", "al aweer", "aweer 2", "al awir 2"],
+        "ru": ["аль ауир 2", "аль-ауир 2", "аль ауир", "ауир 2", "al aweer 2"],
+        "ar": ["العوير 2", "العوير٢", "العوير", "al aweer 2"],
+        "hi": ["अल अवीर 2", "अल-अवीर 2", "अवीर 2", "al aweer 2"]
+      }
+    },
+    {
+      "key": "al-bahia",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Bahia",
+        "ru": "Аль-Бахия",
+        "ar": "الباهية",
+        "hi": "अल बाहिया"
+      },
+      "aliases": {
+        "en": ["al bahia", "al-bahia", "al bahya", "bahia", "al bahia ajman"],
+        "ru": ["аль бахия", "аль-бахия", "аль бахья", "бахия", "al bahia"],
+        "ar": ["الباهية", "ال باهية", "باهية", "al bahia"],
+        "hi": ["अल बाहिया", "अल-बाहिया", "बाहिया", "al bahia"]
+      }
+    },
+    {
+      "key": "al-bahya",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Bahya",
+        "ru": "Аль-Бахья",
+        "ar": "الباهية",
+        "hi": "अल बाह्या"
+      },
+      "aliases": {
+        "en": ["al bahya", "al-bahya", "al bahia", "bahya", "al bahya abu dhabi"],
+        "ru": ["аль бахья", "аль-бахья", "аль бахия", "бахья", "al bahya"],
+        "ar": ["الباهية", "ال باهية", "باهية", "al bahya"],
+        "hi": ["अल बाह्या", "अल-बाह्या", "बाह्या", "al bahya"]
+      }
+    },
+        {
+      "key": "al-bani-yas-east",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Bani Yas East",
+        "ru": "Аль-Бани-Яс Ист",
+        "ar": "بني ياس شرق",
+        "hi": "अल बनी यास ईस्ट"
+      },
+      "aliases": {
+        "en": ["al bani yas east", "al-bani-yas-east", "bani yas east", "baniyas east"],
+        "ru": ["аль бани яс ист", "аль-бани-яс ист", "бани яс ист", "банияс ист", "al bani yas east"],
+        "ar": ["بني ياس شرق", "بني ياس الشرقية", "شرق بني ياس", "al bani yas east"],
+        "hi": ["अल बनी यास ईस्ट", "बनी यास ईस्ट", "बनियास ईस्ट", "al bani yas east"]
+      }
+    },
+    {
+      "key": "al-barari",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Barari",
+        "ru": "Аль-Барари",
+        "ar": "البراري",
+        "hi": "अल बरारी"
+      },
+      "aliases": {
+        "en": ["al barari", "al-barari", "barari", "the nest al barari"],
+        "ru": ["аль барари", "аль-барари", "барари", "al barari"],
+        "ar": ["البراري", "براري", "حي البراري", "al barari"],
+        "hi": ["अल बरारी", "बरारी", "अल-बरारी", "al barari"]
+      }
+    },
+    {
+      "key": "al-barsha-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Barsha 1",
+        "ru": "Аль-Барша 1",
+        "ar": "البرشاء 1",
+        "hi": "अल बरशा 1"
+      },
+      "aliases": {
+        "en": ["al barsha 1", "al-barsha-1", "barsha 1", "al barsha one"],
+        "ru": ["аль барша 1", "аль-барша 1", "барша 1", "al barsha 1"],
+        "ar": ["البرشاء 1", "برشاء 1", "البرشا 1", "al barsha 1"],
+        "hi": ["अल बरशा 1", "बरशा 1", "अल-बरशा 1", "al barsha 1"]
+      }
+    },
+    {
+      "key": "al-barsha-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Barsha 2",
+        "ru": "Аль-Барша 2",
+        "ar": "البرشاء 2",
+        "hi": "अल बरशा 2"
+      },
+      "aliases": {
+        "en": ["al barsha 2", "al-barsha-2", "barsha 2", "al barsha two"],
+        "ru": ["аль барша 2", "аль-барша 2", "барша 2", "al barsha 2"],
+        "ar": ["البرشاء 2", "برشاء 2", "البرشا 2", "al barsha 2"],
+        "hi": ["अल बरशा 2", "बरशा 2", "अल-बरशा 2", "al barsha 2"]
+      }
+    },
+    {
+      "key": "al-barsha-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Barsha 3",
+        "ru": "Аль-Барша 3",
+        "ar": "البرشاء 3",
+        "hi": "अल बरशा 3"
+      },
+      "aliases": {
+        "en": ["al barsha 3", "al-barsha-3", "barsha 3", "al barsha three"],
+        "ru": ["аль барша 3", "аль-барша 3", "барша 3", "al barsha 3"],
+        "ar": ["البرشاء 3", "برشاء 3", "البرشا 3", "al barsha 3"],
+        "hi": ["अल बरशा 3", "बरशा 3", "अल-बरशा 3", "al barsha 3"]
+      }
+    },
+    {
+      "key": "al-barsha-south",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Barsha South",
+        "ru": "Аль-Барша Саут",
+        "ar": "البرشاء جنوب",
+        "hi": "अल बरशा साउथ"
+      },
+      "aliases": {
+        "en": ["al barsha south", "al-barsha-south", "barsha south", "south barsha"],
+        "ru": ["аль барша саут", "аль-барша саут", "барша юг", "barsha south"],
+        "ar": ["البرشاء جنوب", "جنوب البرشاء", "برشاء جنوب", "al barsha south"],
+        "hi": ["अल बरशा साउथ", "बरशा साउथ", "बरशा दक्षिण", "al barsha south"]
+      }
+    },
+    {
+      "key": "al-bataeh",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Bataeh",
+        "ru": "Аль-Батайх",
+        "ar": "البطائح",
+        "hi": "अल बतैह"
+      },
+      "aliases": {
+        "en": ["al bataeh", "al-bataeh", "bataeh", "al bataih"],
+        "ru": ["аль батайх", "аль-батайх", "батайх", "al bataeh"],
+        "ar": ["البطائح", "بطائح", "البطايح", "al bataeh"],
+        "hi": ["अल बतैह", "बतैह", "अल-बतैह", "al bataeh"]
+      }
+    },
+    {
+      "key": "al-bateen",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Bateen",
+        "ru": "Аль-Батин",
+        "ar": "البطين",
+        "hi": "अल बतीन"
+      },
+      "aliases": {
+        "en": ["al bateen", "al-bateen", "bateen", "al batein"],
+        "ru": ["аль батин", "аль-батин", "батин", "al bateen"],
+        "ar": ["البطين", "بطين", "الباتين", "al bateen"],
+        "hi": ["अल बतीन", "बतीन", "अल-बतीन", "al bateen"]
+      }
+    },
+    {
+      "key": "al-butina",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Butina",
+        "ru": "Аль-Бутина",
+        "ar": "البطينة",
+        "hi": "अल बुटीना"
+      },
+      "aliases": {
+        "en": ["al butina", "al-butina", "butina", "al buteena"],
+        "ru": ["аль бутина", "аль-бутина", "бутина", "al butina"],
+        "ar": ["البطينة", "بطينة", "البوتينة", "al butina"],
+        "hi": ["अल बुटीना", "बुटीना", "अल-बुटीना", "al butina"]
+      }
+    },
+    {
+      "key": "al-dana-island",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Dana Island",
+        "ru": "Остров Аль-Дана",
+        "ar": "جزيرة الدانة",
+        "hi": "अल दाना आइलैंड"
+      },
+      "aliases": {
+        "en": ["al dana island", "al-dana-island", "dana island", "al dana"],
+        "ru": ["аль дана айленд", "остров аль дана", "аль дана", "al dana island"],
+        "ar": ["جزيرة الدانة", "الدانة", "دانه آيلاند", "al dana island"],
+        "hi": ["अल दाना आइलैंड", "दाना आइलैंड", "अल दाना", "al dana island"]
+      }
+    },
+        {
+      "key": "al-danah",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Danah",
+        "ru": "Аль-Дана",
+        "ar": "الدانة",
+        "hi": "अल दानाह"
+      },
+      "aliases": {
+        "en": ["al danah", "al-danah", "danah", "al dana"],
+        "ru": ["аль дана", "аль-дана", "дана", "al danah"],
+        "ar": ["الدانة", "الدانه", "al danah"],
+        "hi": ["अल दानाह", "अल दाना", "दानाह", "al danah"]
+      }
+    },
+    {
+      "key": "al-dar-al-baida",
+      "emirate": "uaq",
+      "city": "uaq",
+      "labels": {
+        "en": "Al Dar Al Baida",
+        "ru": "Аль-Дар Аль-Байда",
+        "ar": "الدار البيضاء",
+        "hi": "अल दार अल बैदा"
+      },
+      "aliases": {
+        "en": ["al dar al baida", "al-dar-al-baida", "dar al baida", "al dar al bayda"],
+        "ru": ["аль дар аль байда", "аль-дар аль-байда", "дар аль байда", "al dar al baida"],
+        "ar": ["الدار البيضاء", "دار البيضاء", "الدار البيضا", "al dar al baida"],
+        "hi": ["अल दार अल बैदा", "दार अल बैदा", "al dar al baida"]
+      }
+    },
+    {
+      "key": "al-dhaid",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Dhaid",
+        "ru": "Аль-Дайда",
+        "ar": "الذيد",
+        "hi": "अल धैद"
+      },
+      "aliases": {
+        "en": ["al dhaid", "al-dhaid", "dhaid", "al dhayd"],
+        "ru": ["аль дайда", "аль-дайда", "дайда", "al dhaid"],
+        "ar": ["الذيد", "الذيد الشارقة", "al dhaid"],
+        "hi": ["अल धैद", "धैद", "al dhaid"]
+      }
+    },
+    {
+      "key": "al-dhait",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Dhait",
+        "ru": "Аль-Дайт",
+        "ar": "الضيت",
+        "hi": "अल धैत"
+      },
+      "aliases": {
+        "en": ["al dhait", "al-dhait", "dhait", "al dhayt"],
+        "ru": ["аль дайт", "аль-дaйт", "дайт", "al dhait"],
+        "ar": ["الضيت", "الضيت رأس الخيمة", "al dhait"],
+        "hi": ["अल धैत", "धैत", "al dhait"]
+      }
+    },
+    {
+      "key": "al-dhait-north",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Dhait North",
+        "ru": "Аль-Дайт Норт",
+        "ar": "الضيت شمال",
+        "hi": "अल धैत नॉर्थ"
+      },
+      "aliases": {
+        "en": ["al dhait north", "al-dhait-north", "dhait north", "north dhait"],
+        "ru": ["аль дайт норт", "аль-дaйт норт", "дайт север", "al dhait north"],
+        "ar": ["الضيت شمال", "شمال الضيت", "al dhait north"],
+        "hi": ["अल धैत नॉर्थ", "धैत नॉर्थ", "धैत उत्तर", "al dhait north"]
+      }
+    },
+    {
+      "key": "al-dhait-south",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Dhait South",
+        "ru": "Аль-Дайт Саут",
+        "ar": "الضيت جنوب",
+        "hi": "अल धैत साउथ"
+      },
+      "aliases": {
+        "en": ["al dhait south", "al-dhait-south", "dhait south", "south dhait"],
+        "ru": ["аль дайт саут", "аль-дaйт саут", "дайт юг", "al dhait south"],
+        "ar": ["الضيت جنوب", "جنوب الضيت", "al dhait south"],
+        "hi": ["अल धैत साउथ", "धैत साउथ", "धैत दक्षिण", "al dhait south"]
+      }
+    },
+    {
+      "key": "al-falah",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Falah",
+        "ru": "Аль-Фалах",
+        "ar": "الفلاح",
+        "hi": "अल फलाह"
+      },
+      "aliases": {
+        "en": ["al falah", "al-falah", "falah"],
+        "ru": ["аль фалах", "аль-фалах", "фалах", "al falah"],
+        "ar": ["الفلاح", "حي الفلاح", "al falah"],
+        "hi": ["अल फलाह", "फलाह", "al falah"]
+      }
+    },
+    {
+      "key": "al-falah-south",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Falah South",
+        "ru": "Аль-Фалах Саут",
+        "ar": "الفلاح جنوب",
+        "hi": "अल फलाह साउथ"
+      },
+      "aliases": {
+        "en": ["al falah south", "al-falah-south", "falah south", "south falah"],
+        "ru": ["аль фалах саут", "аль-фалах саут", "фалах юг", "al falah south"],
+        "ar": ["الفلاح جنوب", "جنوب الفلاح", "al falah south"],
+        "hi": ["अल फलाह साउथ", "फलाह साउथ", "फलाह दक्षिण", "al falah south"]
+      }
+    },
+    {
+      "key": "al-falaj",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Falaj",
+        "ru": "Аль-Фаладж",
+        "ar": "الفَلَج",
+        "hi": "अल फालाज"
+      },
+      "aliases": {
+        "en": ["al falaj", "al-falaj", "falaj"],
+        "ru": ["аль фаладж", "аль-фаладж", "фаладж", "al falaj"],
+        "ar": ["الفَلَج", "الفلج", "al falaj"],
+        "hi": ["अल फालाज", "फालाज", "al falaj"]
+      }
+    },
+    {
+      "key": "al-faseel",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Al Faseel",
+        "ru": "Аль-Фасил",
+        "ar": "الفصيل",
+        "hi": "अल फसील"
+      },
+      "aliases": {
+        "en": ["al faseel", "al-faseel", "faseel", "al fasel"],
+        "ru": ["аль фасил", "аль-фасил", "фасил", "al faseel"],
+        "ar": ["الفصيل", "الفَصِيل", "al faseel"],
+        "hi": ["अल फसील", "फसील", "al faseel"]
+      }
+    },
+    {
+      "key": "al-faseel-south",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Al Faseel South",
+        "ru": "Аль-Фасил Саут",
+        "ar": "الفصيل جنوب",
+        "hi": "अल फसील साउथ"
+      },
+      "aliases": {
+        "en": ["al faseel south", "al-faseel-south", "faseel south", "south faseel"],
+        "ru": ["аль фасил саут", "аль-фасил саут", "фасил юг", "al faseel south"],
+        "ar": ["الفصيل جنوب", "جنوب الفصيل", "al faseel south"],
+        "hi": ["अल फसील साउथ", "फसील साउथ", "फसील दक्षिण", "al faseel south"]
+      }
+    },
+    {
+      "key": "al-fisht",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Fisht",
+        "ru": "Аль-Фишт",
+        "ar": "الفشت",
+        "hi": "अल फिश्त"
+      },
+      "aliases": {
+        "en": ["al fisht", "al-fisht", "fisht"],
+        "ru": ["аль фишт", "аль-фишт", "фишт", "al fisht"],
+        "ar": ["الفشت", "al fisht"],
+        "hi": ["अल फिश्त", "फिश्त", "al fisht"]
+      }
+    },
+    {
+      "key": "al-furjan",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Furjan",
+        "ru": "Аль-Фурджан",
+        "ar": "الفرجان",
+        "hi": "अल फुरजान"
+      },
+      "aliases": {
+        "en": ["al furjan", "al-furjan", "furjan", "al furjaan"],
+        "ru": ["аль фурджан", "аль-фурджан", "фурджан", "al furjan"],
+        "ar": ["الفرجان", "فرجان", "al furjan"],
+        "hi": ["अल फुरजान", "फुरजान", "al furjan"]
+      }
+    },
+        {
+      "key": "al-garhoud-south",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Garhoud South",
+        "ru": "Аль-Гархуд Саут",
+        "ar": "القرهود جنوب",
+        "hi": "अल गरहूद साउथ"
+      },
+      "aliases": {
+        "en": ["al garhoud south", "al-garhoud-south", "garhoud south", "south garhoud"],
+        "ru": ["аль гархуд саут", "аль-гархуд саут", "гархуд юг", "al garhoud south"],
+        "ar": ["القرهود جنوب", "جنوب القرهود", "al garhoud south"],
+        "hi": ["अल गरहूद साउथ", "गरहूद साउथ", "गरहूद दक्षिण", "al garhoud south"]
+      }
+    },
+    {
+      "key": "al-haditha",
+      "emirate": "uaq",
+      "city": "uaq",
+      "labels": {
+        "en": "Al Haditha",
+        "ru": "Аль-Хадита",
+        "ar": "الحديثة",
+        "hi": "अल हदीथा"
+      },
+      "aliases": {
+        "en": ["al haditha", "al-haditha", "haditha"],
+        "ru": ["аль хадита", "аль-хадита", "хадита", "al haditha"],
+        "ar": ["الحديثة", "حي الحديثة", "al haditha"],
+        "hi": ["अल हदीथा", "हदीथा", "al haditha"]
+      }
+    },
+    {
+      "key": "al-hala",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Al Hala",
+        "ru": "Аль-Хала",
+        "ar": "الحلة",
+        "hi": "अल हला"
+      },
+      "aliases": {
+        "en": ["al hala", "al-hala", "hala"],
+        "ru": ["аль хала", "аль-хала", "хала", "al hala"],
+        "ar": ["الحلة", "الحلا", "al hala"],
+        "hi": ["अल हला", "हला", "al hala"]
+      }
+    },
+    {
+      "key": "al-hamidiya",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Hamidiya",
+        "ru": "Аль-Хамидия",
+        "ar": "الحميدية",
+        "hi": "अल हमीदिया"
+      },
+      "aliases": {
+        "en": ["al hamidiya", "al-hamidiya", "hamidiya", "hamidiya ajman"],
+        "ru": ["аль хамидия", "аль-хамидия", "хамидия", "al hamidiya"],
+        "ar": ["الحميدية", "حي الحميدية", "al hamidiya"],
+        "hi": ["अल हमीदिया", "हमीदिया", "al hamidiya"]
+      }
+    },
+    {
+      "key": "al-hamra-village",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Hamra Village",
+        "ru": "Аль-Хамра Виллидж",
+        "ar": "قرية الحمراء",
+        "hi": "अल हमरा विलेज"
+      },
+      "aliases": {
+        "en": ["al hamra village", "al-hamra-village", "hamra village", "al hamra"],
+        "ru": ["аль хамра виллидж", "аль-хамра виллидж", "хамра виллидж", "al hamra village"],
+        "ar": ["قرية الحمراء", "الحمراء", "al hamra village"],
+        "hi": ["अल हमरा विलेज", "हमरा विलेज", "al hamra village"]
+      }
+    },
+    {
+      "key": "al-hamriya",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Hamriya",
+        "ru": "Аль-Хамрия",
+        "ar": "الحمرية",
+        "hi": "अल हमरिया"
+      },
+      "aliases": {
+        "en": ["al hamriya", "al-hamriya", "hamriya"],
+        "ru": ["аль хамрия", "аль-хамрия", "хамрия", "al hamriya"],
+        "ar": ["الحمرية", "al hamriya"],
+        "hi": ["अल हमरिया", "हमरिया", "al hamriya"]
+      }
+    },
+    {
+      "key": "al-hayl",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Al Hayl",
+        "ru": "Аль-Хайль",
+        "ar": "الحيل",
+        "hi": "अल हायल"
+      },
+      "aliases": {
+        "en": ["al hayl", "al-hayl", "hayl"],
+        "ru": ["аль хайль", "аль-хайль", "хайль", "al hayl"],
+        "ar": ["الحيل", "حي الحيل", "al hayl"],
+        "hi": ["अल हायल", "हायल", "al hayl"]
+      }
+    },
+    {
+      "key": "al-helio-south",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Helio South",
+        "ru": "Аль-Хелио Саут",
+        "ar": "الحليو جنوب",
+        "hi": "अल हेलियो साउथ"
+      },
+      "aliases": {
+        "en": ["al helio south", "al-helio-south", "helio south", "south helio"],
+        "ru": ["аль хелио саут", "аль-хелио саут", "хелио юг", "al helio south"],
+        "ar": ["الحليو جنوب", "جنوب الحليو", "al helio south"],
+        "hi": ["अल हेलियो साउथ", "हेलियो साउथ", "हेलियो दक्षिण", "al helio south"]
+      }
+    },
+    {
+      "key": "al-humrah",
+      "emirate": "uaq",
+      "city": "uaq",
+      "labels": {
+        "en": "Al Humrah",
+        "ru": "Аль-Хумра",
+        "ar": "الحمراء",
+        "hi": "अल हुमरा"
+      },
+      "aliases": {
+        "en": ["al humrah", "al-humrah", "humrah"],
+        "ru": ["аль хумра", "аль-хумра", "хумра", "al humrah"],
+        "ar": ["الحمراء", "al humrah"],
+        "hi": ["अल हुमरा", "हुमरा", "al humrah"]
+      }
+    },
+    {
+      "key": "al-jaddaf",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Jaddaf",
+        "ru": "Аль-Джаддаф",
+        "ar": "الجداف",
+        "hi": "अल जद्दाफ"
+      },
+      "aliases": {
+        "en": ["al jaddaf", "al-jaddaf", "jaddaf"],
+        "ru": ["аль джаддаф", "аль-джаддаф", "джаддаф", "al jaddaf"],
+        "ar": ["الجداف", "al jaddaf"],
+        "hi": ["अल जद्दाफ", "जद्दाफ", "al jaddaf"]
+      }
+    },
+    {
+      "key": "al-jazirah-al-hamra",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Jazirah Al Hamra",
+        "ru": "Аль-Джазира Аль-Хамра",
+        "ar": "الجزيرة الحمراء",
+        "hi": "अल जज़ीरा अल हमरा"
+      },
+      "aliases": {
+        "en": ["al jazirah al hamra", "al-jazirah-al-hamra", "jazirah hamra", "al jazira al hamra"],
+        "ru": ["аль джазира аль хамра", "аль-джазира аль-хамра", "джазира хамра", "al jazirah al hamra"],
+        "ar": ["الجزيرة الحمراء", "جزيرة الحمراء", "al jazirah al hamra"],
+        "hi": ["अल जज़ीरा अल हमरा", "जज़ीरा हमरा", "al jazirah al hamra"]
+      }
+    },
+    {
+      "key": "al-jurf",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Jurf",
+        "ru": "Аль-Джурф",
+        "ar": "الجرف",
+        "hi": "अल जुरफ"
+      },
+      "aliases": {
+        "en": ["al jurf", "al-jurf", "jurf"],
+        "ru": ["аль джурф", "аль-джурф", "джурф", "al jurf"],
+        "ar": ["الجرف", "al jurf"],
+        "hi": ["अल जुरफ", "जुरफ", "al jurf"]
+      }
+    },
+    {
+      "key": "al-karama",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Karama",
+        "ru": "Аль-Карама",
+        "ar": "الكرامة",
+        "hi": "अल करामा"
+      },
+      "aliases": {
+        "en": ["al karama", "al-karama", "karama"],
+        "ru": ["аль карама", "аль-карама", "карама", "al karama"],
+        "ar": ["الكرامة", "al karama"],
+        "hi": ["अल करामा", "करामा", "al karama"]
+      }
+    },
+        {
+      "key": "al-khalidiyah",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Khalidiyah",
+        "ru": "Аль-Халидия",
+        "ar": "الخالدية",
+        "hi": "अल खालिदियाह"
+      },
+      "aliases": {
+        "en": ["al khalidiyah", "al-khalidiyah", "khalidiyah", "khalidiya"],
+        "ru": ["аль халидия", "аль-халидия", "халидия", "al khalidiyah"],
+        "ar": ["الخالدية", "حي الخالدية", "al khalidiyah"],
+        "hi": ["अल खालिदियाह", "खालिदियाह", "al khalidiyah"]
+      }
+    },
+    {
+      "key": "al-khan",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Khan",
+        "ru": "Аль-Хан",
+        "ar": "الخان",
+        "hi": "अल खान"
+      },
+      "aliases": {
+        "en": ["al khan", "al-khan", "khan sharjah"],
+        "ru": ["аль хан", "аль-хан", "хан шарджа", "al khan"],
+        "ar": ["الخان", "حي الخان", "al khan"],
+        "hi": ["अल खान", "खान शारजाह", "al khan"]
+      }
+    },
+    {
+      "key": "al-khawaneej-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Khawaneej 1",
+        "ru": "Аль-Хаваниж 1",
+        "ar": "الخوانيج 1",
+        "hi": "अल खावनीज 1"
+      },
+      "aliases": {
+        "en": ["al khawaneej 1", "al-khawaneej-1", "khawaneej 1"],
+        "ru": ["аль хаваниж 1", "аль-хаваниж 1", "хаваниж 1", "al khawaneej 1"],
+        "ar": ["الخوانيج 1", "الخوانيج الاولى", "al khawaneej 1"],
+        "hi": ["अल खावनीज 1", "खावनीज 1", "al khawaneej 1"]
+      }
+    },
+    {
+      "key": "al-khawaneej-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Khawaneej 2",
+        "ru": "Аль-Хаваниж 2",
+        "ar": "الخوانيج 2",
+        "hi": "अल खावनीज 2"
+      },
+      "aliases": {
+        "en": ["al khawaneej 2", "al-khawaneej-2", "khawaneej 2"],
+        "ru": ["аль хаваниж 2", "аль-хаваниж 2", "хаваниж 2", "al khawaneej 2"],
+        "ar": ["الخوانيج 2", "الخوانيج الثانية", "al khawaneej 2"],
+        "hi": ["अल खावनीज 2", "खावनीज 2", "al khawaneej 2"]
+      }
+    },
+    {
+      "key": "al-kheeran",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Kheeran",
+        "ru": "Аль-Хиран",
+        "ar": "الخيران",
+        "hi": "अल खीरान"
+      },
+      "aliases": {
+        "en": ["al kheeran", "al-kheeran", "kheeran"],
+        "ru": ["аль хиран", "аль-хиран", "хиран", "al kheeran"],
+        "ar": ["الخيران", "al kheeran"],
+        "hi": ["अल खीरान", "खीरान", "al kheeran"]
+      }
+    },
+    {
+      "key": "al-khor-uaq",
+      "emirate": "uaq",
+      "city": "uaq",
+      "labels": {
+        "en": "Al Khor (UAQ)",
+        "ru": "Аль-Хор (UAQ)",
+        "ar": "الخور أم القيوين",
+        "hi": "अल खोर UAQ"
+      },
+      "aliases": {
+        "en": ["al khor uaq", "al-khor-uaq", "khor uaq", "al khor umm al quwain"],
+        "ru": ["аль хор uaq", "аль-хор умм аль кувейн", "хор uaq", "al khor uaq"],
+        "ar": ["الخور ام القيوين", "خور ام القيوين", "al khor uaq"],
+        "hi": ["अल खोर यूएक्यू", "खोर उम अल क्वैन", "al khor uaq"]
+      }
+    },
+    {
+      "key": "al-madam",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Madam",
+        "ru": "Аль-Мадам",
+        "ar": "المدام",
+        "hi": "अल मादम"
+      },
+      "aliases": {
+        "en": ["al madam", "al-madam", "madam sharjah"],
+        "ru": ["аль мадам", "аль-мадам", "мадам шарджа", "al madam"],
+        "ar": ["المدام", "al madam"],
+        "hi": ["अल मादम", "मादम शारजाह", "al madam"]
+      }
+    },
+    {
+      "key": "al-mafraq",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Mafraq",
+        "ru": "Аль-Мафрак",
+        "ar": "المفرق",
+        "hi": "अल मफरक"
+      },
+      "aliases": {
+        "en": ["al mafraq", "al-mafraq", "mafraq abu dhabi"],
+        "ru": ["аль мафрак", "аль-мафрак", "мафрак", "al mafraq"],
+        "ar": ["المفرق", "al mafraq"],
+        "hi": ["अल मफरक", "मफरक", "al mafraq"]
+      }
+    },
+    {
+      "key": "al-majaz",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Majaz",
+        "ru": "Аль-Маджаз",
+        "ar": "المجاز",
+        "hi": "अल मजाज़"
+      },
+      "aliases": {
+        "en": ["al majaz", "al-majaz", "majaz sharjah"],
+        "ru": ["аль маджаз", "аль-маджаз", "маджаз", "al majaz"],
+        "ar": ["المجاز", "al majaz"],
+        "hi": ["अल मजाज़", "मजाज़", "al majaz"]
+      }
+    },
+    {
+      "key": "al-maktoum-international-zone",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Maktoum International Zone",
+        "ru": "Al Maktoum International Zone",
+        "ar": "منطقة مطار آل مكتوم",
+        "hi": "अल मक्तूम इंटरनेशनल ज़ोन"
+      },
+      "aliases": {
+        "en": ["al maktoum international zone", "al-maktoum-international-zone", "maktoum airport zone", "dwc area"],
+        "ru": ["аль мактум интернешнл зон", "зона аэропорта мактум", "dwc район", "al maktoum international zone"],
+        "ar": ["منطقة مطار ال مكتوم", "مطار ال مكتوم", "al maktoum zone"],
+        "hi": ["अल मक्तूम इंटरनेशनल ज़ोन", "मक्तूम एयरपोर्ट एरिया", "al maktoum zone"]
+      }
+    },
+    {
+      "key": "al-mamourah",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Mamourah",
+        "ru": "Аль-Мамура",
+        "ar": "المعمورة",
+        "hi": "अल मामूरा"
+      },
+      "aliases": {
+        "en": ["al mamourah", "al-mamourah", "mamourah"],
+        "ru": ["аль мамура", "аль-мамура", "мамура", "al mamourah"],
+        "ar": ["المعمورة", "al mamourah"],
+        "hi": ["अल मामूरा", "मामूरा", "al mamourah"]
+      }
+    },
+    {
+      "key": "al-mamzar",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Mamzar",
+        "ru": "Аль-Мамзар",
+        "ar": "الممزر",
+        "hi": "अल ममज़र"
+      },
+      "aliases": {
+        "en": ["al mamzar", "al-mamzar", "mamzar dubai"],
+        "ru": ["аль мамзар", "аль-мамзар", "мамзар дубай", "al mamzar"],
+        "ar": ["الممزر", "al mamzar"],
+        "hi": ["अल ममज़र", "ममज़र", "al mamzar"]
+      }
+    },
+    {
+      "key": "al-mamzar-sharjah",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Mamzar (Sharjah)",
+        "ru": "Аль-Мамзар (Шарджа)",
+        "ar": "الممزر الشارقة",
+        "hi": "अल ममज़र शारजाह"
+      },
+      "aliases": {
+        "en": ["al mamzar sharjah", "al-mamzar-sharjah", "mamzar sharjah"],
+        "ru": ["аль мамзар шарджа", "мамзар шарджа", "al mamzar sharjah"],
+        "ar": ["الممزر الشارقة", "ممزر الشارقة", "al mamzar sharjah"],
+        "hi": ["अल ममज़र शारजाह", "ममज़र शारजाह", "al mamzar sharjah"]
+      }
+    },
+        {
+      "key": "al-maqtaa",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Maqtaa",
+        "ru": "Аль-Мактаа",
+        "ar": "المقطع",
+        "hi": "अल मकता"
+      },
+      "aliases": {
+        "en": ["al maqtaa", "al-maqtaa", "maqtaa", "maqta"],
+        "ru": ["аль мактаа", "аль-мактаа", "мактаа", "al maqtaa"],
+        "ar": ["المقطع", "منطقة المقطع", "al maqtaa"],
+        "hi": ["अल मकता", "मकता", "al maqtaa"]
+      }
+    },
+    {
+      "key": "al-marjan-island",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Marjan Island",
+        "ru": "Аль-Марджан Айленд",
+        "ar": "جزيرة المرجان",
+        "hi": "अल मरजान आइलैंड"
+      },
+      "aliases": {
+        "en": ["al marjan island", "al-marjan-island", "marjan island", "marjan rak"],
+        "ru": ["аль марджан айленд", "маржан айленд", "аль маржан", "al marjan island"],
+        "ar": ["جزيرة المرجان", "المرجان", "al marjan island"],
+        "hi": ["अल मरजान आइलैंड", "मरजान आइलैंड", "al marjan island"]
+      }
+    },
+    {
+      "key": "al-markaziyah",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Markaziyah",
+        "ru": "Аль-Марказия",
+        "ar": "المركزية",
+        "hi": "अल मरकज़ियाह"
+      },
+      "aliases": {
+        "en": ["al markaziyah", "al-markaziyah", "markaziyah", "downtown abu dhabi"],
+        "ru": ["аль марказия", "аль-марказия", "марказия", "al markaziyah"],
+        "ar": ["المركزية", "المنطقة المركزية", "al markaziyah"],
+        "hi": ["अल मरकज़ियाह", "मरकज़ियाह", "al markaziyah"]
+      }
+    },
+    {
+      "key": "al-maryah-island",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Maryah Island",
+        "ru": "Аль-Мария Айленд",
+        "ar": "جزيرة المارية",
+        "hi": "अल मरियाह आइलैंड"
+      },
+      "aliases": {
+        "en": ["al maryah island", "al-maryah-island", "maryah island", "maryah abu dhabi"],
+        "ru": ["аль мария айленд", "мария айленд", "аль мария", "al maryah island"],
+        "ar": ["جزيرة المارية", "المارية", "al maryah island"],
+        "hi": ["अल मरियाह आइलैंड", "मरियाह आइलैंड", "al maryah island"]
+      }
+    },
+    {
+      "key": "al-mirfa",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Mirfa",
+        "ru": "Аль-Мирфа",
+        "ar": "المرفأ",
+        "hi": "अल मिरफ़ा"
+      },
+      "aliases": {
+        "en": ["al mirfa", "al-mirfa", "mirfa"],
+        "ru": ["аль мирфа", "аль-мирфа", "мирфа", "al mirfa"],
+        "ar": ["المرفأ", "الميرفا", "al mirfa"],
+        "hi": ["अल मिरफ़ा", "मिरफ़ा", "al mirfa"]
+      }
+    },
+    {
+      "key": "al-mirgab",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Mirgab",
+        "ru": "Аль-Миргаб",
+        "ar": "المرقاب",
+        "hi": "अल मिरग़ाब"
+      },
+      "aliases": {
+        "en": ["al mirgab", "al-mirgab", "mirgab"],
+        "ru": ["аль миргаб", "аль-миргаб", "миргаб", "al mirgab"],
+        "ar": ["المرقاب", "al mirgab"],
+        "hi": ["अल मिरग़ाब", "मिरग़ाब", "al mirgab"]
+      }
+    },
+    {
+      "key": "al-mizhar-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Mizhar 1",
+        "ru": "Аль-Мизхар 1",
+        "ar": "المزهر 1",
+        "hi": "अल मिज़हर 1"
+      },
+      "aliases": {
+        "en": ["al mizhar 1", "al-mizhar-1", "mizhar 1"],
+        "ru": ["аль мизхар 1", "аль-мизхар 1", "мизхар 1", "al mizhar 1"],
+        "ar": ["المزهر 1", "المزهر الاولى", "al mizhar 1"],
+        "hi": ["अल मिज़हर 1", "मिज़हर 1", "al mizhar 1"]
+      }
+    },
+    {
+      "key": "al-mizhar-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Mizhar 2",
+        "ru": "Аль-Мизхар 2",
+        "ar": "المزهر 2",
+        "hi": "अल मिज़हर 2"
+      },
+      "aliases": {
+        "en": ["al mizhar 2", "al-mizhar-2", "mizhar 2"],
+        "ru": ["аль мизхар 2", "аль-мизхар 2", "мизхар 2", "al mizhar 2"],
+        "ar": ["المزهر 2", "المزهر الثانية", "al mizhar 2"],
+        "hi": ["अल मिज़हर 2", "मिज़हर 2", "al mizhar 2"]
+      }
+    },
+    {
+      "key": "al-mowaihat",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Mowaihat",
+        "ru": "Аль-Мувайхат",
+        "ar": "المويهات",
+        "hi": "अल मोवैहात"
+      },
+      "aliases": {
+        "en": ["al mowaihat", "al-mowaihat", "mowaihat"],
+        "ru": ["аль мувайхат", "аль-мувайхат", "мувайхат", "al mowaihat"],
+        "ar": ["المويهات", "al mowaihat"],
+        "hi": ["अल मोवैहात", "मोवैहात", "al mowaihat"]
+      }
+    },
+    {
+      "key": "al-muntazi",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Muntazi",
+        "ru": "Аль-Мунтази",
+        "ar": "المنتزي",
+        "hi": "अल मुन्तज़ी"
+      },
+      "aliases": {
+        "en": ["al muntazi", "al-muntazi", "muntazi"],
+        "ru": ["аль мунтази", "аль-мунтази", "мунтази", "al muntazi"],
+        "ar": ["المنتزي", "al muntazi"],
+        "hi": ["अल मुन्तज़ी", "मुन्तज़ी", "al muntazi"]
+      }
+    },
+    {
+      "key": "al-muroor",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Muroor",
+        "ru": "Аль-Мурур",
+        "ar": "المرور",
+        "hi": "अल मुरूर"
+      },
+      "aliases": {
+        "en": ["al muroor", "al-muroor", "muroor"],
+        "ru": ["аль мурур", "аль-мурур", "мурур", "al muroor"],
+        "ar": ["المرور", "al muroor"],
+        "hi": ["अल मुरूर", "मुरूर", "al muroor"]
+      }
+    },
+    {
+      "key": "al-mushrif",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Mushrif",
+        "ru": "Аль-Мушриф",
+        "ar": "المشرف",
+        "hi": "अल मुश्रिफ"
+      },
+      "aliases": {
+        "en": ["al mushrif", "al-mushrif", "mushrif"],
+        "ru": ["аль мушриф", "аль-мушриф", "мушриф", "al mushrif"],
+        "ar": ["المشرف", "al mushrif"],
+        "hi": ["अल मुश्रिफ", "मुश्रिफ", "al mushrif"]
+      }
+    },
+    {
+      "key": "al-muteena-east",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Muteena East",
+        "ru": "Аль-Мутена Ист",
+        "ar": "المطينة شرق",
+        "hi": "अल मुतीना ईस्ट"
+      },
+      "aliases": {
+        "en": ["al muteena east", "al-muteena-east", "muteena east"],
+        "ru": ["аль мутена ист", "аль-мутена ист", "мутена ист", "al muteena east"],
+        "ar": ["المطينة شرق", "المطينة الشرقية", "al muteena east"],
+        "hi": ["अल मुतीना ईस्ट", "मूतीना ईस्ट", "al muteena east"]
+      }
+    },
+        {
+      "key": "al-nahda-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Nahda 1",
+        "ru": "Аль-Нахда 1",
+        "ar": "النهدة 1",
+        "hi": "अल नहदा 1"
+      },
+      "aliases": {
+        "en": ["al nahda 1", "al-nahda-1", "nahda 1", "nahda dubai"],
+        "ru": ["аль нахда 1", "аль-нахда 1", "нахда 1", "al nahda 1"],
+        "ar": ["النهدة 1", "النهدة الاولى", "al nahda 1"],
+        "hi": ["अल नहदा 1", "नहदा 1", "al nahda 1"]
+      }
+    },
+    {
+      "key": "al-nahda-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Nahda 2",
+        "ru": "Аль-Нахда 2",
+        "ar": "النهدة 2",
+        "hi": "अल नहदा 2"
+      },
+      "aliases": {
+        "en": ["al nahda 2", "al-nahda-2", "nahda 2"],
+        "ru": ["аль нахда 2", "аль-нахда 2", "нахда 2", "al nahda 2"],
+        "ar": ["النهدة 2", "النهدة الثانية", "al nahda 2"],
+        "hi": ["अल नहदा 2", "नहदा 2", "al nahda 2"]
+      }
+    },
+    {
+      "key": "al-nahda-sharjah",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Nahda Sharjah",
+        "ru": "Аль-Нахда (Шарджа)",
+        "ar": "النهدة الشارقة",
+        "hi": "अल नहदा शारजाह"
+      },
+      "aliases": {
+        "en": ["al nahda sharjah", "nahda sharjah", "al nahda shj"],
+        "ru": ["аль нахда шаржа", "нахда шаржа", "al nahda sharjah"],
+        "ar": ["النهدة الشارقة", "نهدة الشارقة", "al nahda sharjah"],
+        "hi": ["अल नहदा शारजाह", "नहदा शारजाह", "al nahda sharjah"]
+      }
+    },
+    {
+      "key": "al-nahyan",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Nahyan",
+        "ru": "Аль-Нахаян",
+        "ar": "آل نهيان",
+        "hi": "अल नहयान"
+      },
+      "aliases": {
+        "en": ["al nahyan", "al-nahyan", "nahyan"],
+        "ru": ["аль нахаян", "нахаян", "al nahyan"],
+        "ar": ["آل نهيان", "ال نهيان", "al nahyan"],
+        "hi": ["अल नहयान", "नहयान", "al nahyan"]
+      }
+    },
+    {
+      "key": "al-nakheel",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Nakheel",
+        "ru": "Аль-Нахил",
+        "ar": "النخيل",
+        "hi": "अल नखील"
+      },
+      "aliases": {
+        "en": ["al nakheel", "al-nakheel", "nakheel rak"],
+        "ru": ["аль нахил", "нахил", "al nakheel"],
+        "ar": ["النخيل", "al nakheel"],
+        "hi": ["अल नखील", "नखील", "al nakheel"]
+      }
+    },
+    {
+      "key": "al-nakheel-corniche",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Nakheel Corniche",
+        "ru": "Аль-Нахил Корниш",
+        "ar": "كورنيش النخيل",
+        "hi": "अल नखील कॉर्निश"
+      },
+      "aliases": {
+        "en": ["al nakheel corniche", "nakheel corniche", "rak corniche"],
+        "ru": ["аль нахил корниш", "нахил корниш", "al nakheel corniche"],
+        "ar": ["كورنيش النخيل", "كورنيش رأس الخيمة", "al nakheel corniche"],
+        "hi": ["अल नखील कॉर्निश", "नखील कॉर्निश", "al nakheel corniche"]
+      }
+    },
+    {
+      "key": "al-nasserya",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Nasserya",
+        "ru": "Аль-Нассерия",
+        "ar": "الناصرية",
+        "hi": "अल नासेरिया"
+      },
+      "aliases": {
+        "en": ["al nasserya", "al-nasserya", "nasserya"],
+        "ru": ["аль нассерия", "нассерия", "al nasserya"],
+        "ar": ["الناصرية", "al nasserya"],
+        "hi": ["अल नासेरिया", "नासेरिया", "al nasserya"]
+      }
+    },
+    {
+      "key": "al-nuaimiya",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Nuaimiya",
+        "ru": "Аль-Нуаймия",
+        "ar": "النعيمية",
+        "hi": "अल नुऐमिया"
+      },
+      "aliases": {
+        "en": ["al nuaimiya", "al-nuaimiya", "nuaimiya"],
+        "ru": ["аль нуаймия", "нуаймия", "al nuaimiya"],
+        "ar": ["النعيمية", "al nuaimiya"],
+        "hi": ["अल नुऐमिया", "नुऐमिया", "al nuaimiya"]
+      }
+    },
+    {
+      "key": "al-qasimia",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Qasimia",
+        "ru": "Аль-Касимия",
+        "ar": "القاسمية",
+        "hi": "अल कासिमिया"
+      },
+      "aliases": {
+        "en": ["al qasimia", "al-qasimia", "qasimia"],
+        "ru": ["аль касимия", "касимия", "al qasimia"],
+        "ar": ["القاسمية", "al qasimia"],
+        "hi": ["अल कासिमिया", "कासिमिया", "al qasimia"]
+      }
+    },
+    {
+      "key": "al-quoz-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz 1",
+        "ru": "Аль-Куоз 1",
+        "ar": "القوز 1",
+        "hi": "अल क़ूज़ 1"
+      },
+      "aliases": {
+        "en": ["al quoz 1", "al-quoz-1", "quoz 1"],
+        "ru": ["аль куоз 1", "куоз 1", "al quoz 1"],
+        "ar": ["القوز 1", "al quoz 1"],
+        "hi": ["अल क़ूज़ 1", "क़ूज़ 1", "al quoz 1"]
+      }
+    },
+    {
+      "key": "al-quoz-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz 2",
+        "ru": "Аль-Куоз 2",
+        "ar": "القوز 2",
+        "hi": "अल क़ूज़ 2"
+      },
+      "aliases": {
+        "en": ["al quoz 2", "al-quoz-2", "quoz 2"],
+        "ru": ["аль куоз 2", "куоз 2", "al quoz 2"],
+        "ar": ["القوز 2", "al quoz 2"],
+        "hi": ["अल क़ूज़ 2", "क़ूज़ 2", "al quoz 2"]
+      }
+    },
+    {
+      "key": "al-quoz-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz 3",
+        "ru": "Аль-Куоз 3",
+        "ar": "القوز 3",
+        "hi": "अल क़ूज़ 3"
+      },
+      "aliases": {
+        "en": ["al quoz 3", "al-quoz-3", "quoz 3"],
+        "ru": ["аль куоз 3", "куоз 3", "al quoz 3"],
+        "ar": ["القوز 3", "al quoz 3"],
+        "hi": ["अल क़ूज़ 3", "क़ूज़ 3", "al quoz 3"]
+      }
+    },
+    {
+      "key": "al-quoz-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz 4",
+        "ru": "Аль-Куоз 4",
+        "ar": "القوز 4",
+        "hi": "अल क़ूज़ 4"
+      },
+      "aliases": {
+        "en": ["al quoz 4", "al-quoz-4", "quoz 4"],
+        "ru": ["аль куоз 4", "куоз 4", "al quoz 4"],
+        "ar": ["القوز 4", "al quoz 4"],
+        "hi": ["अल क़ूज़ 4", "क़ूज़ 4", "al quoz 4"]
+      }
+    },
+        {
+      "key": "al-quoz-industrial-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz Industrial 1",
+        "ru": "Аль-Куоз Индастриал 1",
+        "ar": "القوز الصناعية 1",
+        "hi": "अल क़ूज़ इंडस्ट्रियल 1"
+      },
+      "aliases": {
+        "en": ["al quoz industrial 1", "al-quoz-industrial-1", "quoz industrial 1"],
+        "ru": ["аль куоз индастриал 1", "куоз индастриал 1", "al quoz industrial 1"],
+        "ar": ["القوز الصناعية 1", "القوز الصناعية الاولى", "al quoz industrial 1"],
+        "hi": ["अल क़ूज़ इंडस्ट्रियल 1", "क़ूज़ इंडस्ट्रियल 1", "al quoz industrial 1"]
+      }
+    },
+    {
+      "key": "al-quoz-industrial-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz Industrial 2",
+        "ru": "Аль-Куоз Индастриал 2",
+        "ar": "القوز الصناعية 2",
+        "hi": "अल क़ूज़ इंडस्ट्रियल 2"
+      },
+      "aliases": {
+        "en": ["al quoz industrial 2", "al-quoz-industrial-2", "quoz industrial 2"],
+        "ru": ["аль куоз индастриал 2", "куоз индастриал 2", "al quoz industrial 2"],
+        "ar": ["القوز الصناعية 2", "القوز الصناعية الثانية", "al quoz industrial 2"],
+        "hi": ["अल क़ूज़ इंडस्ट्रियल 2", "क़ूज़ इंडस्ट्रियल 2", "al quoz industrial 2"]
+      }
+    },
+    {
+      "key": "al-quoz-industrial-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz Industrial 3",
+        "ru": "Аль-Куоз Индастриал 3",
+        "ar": "القوز الصناعية 3",
+        "hi": "अल क़ूज़ इंडस्ट्रियल 3"
+      },
+      "aliases": {
+        "en": ["al quoz industrial 3", "al-quoz-industrial-3", "quoz industrial 3"],
+        "ru": ["аль куоз индастриал 3", "куоз индастриал 3", "al quoz industrial 3"],
+        "ar": ["القوز الصناعية 3", "al quoz industrial 3"],
+        "hi": ["अल क़ूज़ इंडस्ट्रियल 3", "क़ूज़ इंडस्ट्रियल 3", "al quoz industrial 3"]
+      }
+    },
+    {
+      "key": "al-quoz-industrial-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Quoz Industrial 4",
+        "ru": "Аль-Куоз Индастриал 4",
+        "ar": "القوز الصناعية 4",
+        "hi": "अल क़ूज़ इंडस्ट्रियल 4"
+      },
+      "aliases": {
+        "en": ["al quoz industrial 4", "al-quoz-industrial-4", "quoz industrial 4"],
+        "ru": ["аль куоз индастриал 4", "куоз индастриал 4", "al quoz industrial 4"],
+        "ar": ["القوز الصناعية 4", "al quoz industrial 4"],
+        "hi": ["अल क़ूज़ इंडस्ट्रियल 4", "क़ूज़ इंडस्ट्रियल 4", "al quoz industrial 4"]
+      }
+    },
+    {
+      "key": "al-qurm",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Qurm",
+        "ru": "Аль-Курм",
+        "ar": "القرم",
+        "hi": "अल कुरम"
+      },
+      "aliases": {
+        "en": ["al qurm", "al-qurm", "qurm"],
+        "ru": ["аль курм", "курм", "al qurm"],
+        "ar": ["القرم", "al qurm"],
+        "hi": ["अल कुरम", "कुरम", "al qurm"]
+      }
+    },
+    {
+      "key": "al-qusaidat",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Qusaidat",
+        "ru": "Аль-Кусайдат",
+        "ar": "القصيدات",
+        "hi": "अल कुसैदात"
+      },
+      "aliases": {
+        "en": ["al qusaidat", "al-qusaidat", "qusaidat"],
+        "ru": ["аль кусайдат", "кусайдат", "al qusaidat"],
+        "ar": ["القصيدات", "al qusaidat"],
+        "hi": ["अल कुसैदात", "कुसैदात", "al qusaidat"]
+      }
+    },
+    {
+      "key": "al-qusais-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais 1",
+        "ru": "Аль-Кусейс 1",
+        "ar": "القصيص 1",
+        "hi": "अल क़ुसैस 1"
+      },
+      "aliases": {
+        "en": ["al qusais 1", "al-qusais-1", "qusais 1"],
+        "ru": ["аль кусейс 1", "кусейс 1", "al qusais 1"],
+        "ar": ["القصيص 1", "al qusais 1"],
+        "hi": ["अल क़ुसैस 1", "क़ुसैस 1", "al qusais 1"]
+      }
+    },
+    {
+      "key": "al-qusais-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais 2",
+        "ru": "Аль-Кусейс 2",
+        "ar": "القصيص 2",
+        "hi": "अल क़ुसैस 2"
+      },
+      "aliases": {
+        "en": ["al qusais 2", "al-qusais-2", "qusais 2"],
+        "ru": ["аль кусейс 2", "кусейс 2", "al qusais 2"],
+        "ar": ["القصيص 2", "al qusais 2"],
+        "hi": ["अल क़ुसैस 2", "क़ुसैस 2", "al qusais 2"]
+      }
+    },
+    {
+      "key": "al-qusais-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais 3",
+        "ru": "Аль-Кусейс 3",
+        "ar": "القصيص 3",
+        "hi": "अल क़ुसैस 3"
+      },
+      "aliases": {
+        "en": ["al qusais 3", "al-qusais-3", "qusais 3"],
+        "ru": ["аль кусейс 3", "кусейс 3", "al qusais 3"],
+        "ar": ["القصيص 3", "al qusais 3"],
+        "hi": ["अल क़ुसैस 3", "क़ुसैस 3", "al qusais 3"]
+      }
+    },
+    {
+      "key": "al-qusais-industrial-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais Industrial 1",
+        "ru": "Аль-Кусейс Индастриал 1",
+        "ar": "القصيص الصناعية 1",
+        "hi": "अल क़ुसैस इंडस्ट्रियल 1"
+      },
+      "aliases": {
+        "en": ["al qusais industrial 1", "qusais industrial 1"],
+        "ru": ["аль кусейс индастриал 1", "кусейс индастриал 1"],
+        "ar": ["القصيص الصناعية 1", "al qusais industrial 1"],
+        "hi": ["अल क़ुसैस इंडस्ट्रियल 1", "क़ुसैस इंडस्ट्रियल 1"]
+      }
+    },
+    {
+      "key": "al-qusais-industrial-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais Industrial 2",
+        "ru": "Аль-Кусейс Индастриал 2",
+        "ar": "القصيص الصناعية 2",
+        "hi": "अल क़ुसैस इंडस्ट्रियल 2"
+      },
+      "aliases": {
+        "en": ["al qusais industrial 2", "qusais industrial 2"],
+        "ru": ["аль кусейс индастриал 2", "кусейс индастриал 2"],
+        "ar": ["القصيص الصناعية 2", "al qusais industrial 2"],
+        "hi": ["अल क़ुसैस इंडस्ट्रियल 2", "क़ुसैस इंडस्ट्रियल 2"]
+      }
+    },
+    {
+      "key": "al-qusais-industrial-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais Industrial 3",
+        "ru": "Аль-Кусейс Индастриал 3",
+        "ar": "القصيص الصناعية 3",
+        "hi": "अल क़ुसैस इंडस्ट्रियल 3"
+      },
+      "aliases": {
+        "en": ["al qusais industrial 3", "qusais industrial 3"],
+        "ru": ["аль кусейс индастриал 3", "кусейс индастриал 3"],
+        "ar": ["القصيص الصناعية 3", "al qusais industrial 3"],
+        "hi": ["अल क़ुसैस इंडस्ट्रियल 3", "क़ुसैस इंडस्ट्रियल 3"]
+      }
+    },
+    {
+      "key": "al-qusais-industrial-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais Industrial 4",
+        "ru": "Аль-Кусейс Индастриал 4",
+        "ar": "القصيص الصناعية 4",
+        "hi": "अल क़ुसैस इंडस्ट्रियल 4"
+      },
+      "aliases": {
+        "en": ["al qusais industrial 4", "qusais industrial 4"],
+        "ru": ["аль кусейс индастриал 4", "кусейс индастриал 4"],
+        "ar": ["القصيص الصناعية 4", "al qusais industrial 4"],
+        "hi": ["अल क़ुसैस इंडस्ट्रियल 4", "क़ुसैस इंडस्ट्रियल 4"]
+      }
+    },
+        {
+      "key": "al-qusais-industrial-5",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Qusais Industrial 5",
+        "ru": "Аль-Кусейс Индастриал 5",
+        "ar": "القصيص الصناعية 5",
+        "hi": "अल क़ुसैस इंडस्ट्रियल 5"
+      },
+      "aliases": {
+        "en": ["al qusais industrial 5", "qusais industrial 5"],
+        "ru": ["аль кусейс индастриал 5", "кусейс индастриал 5"],
+        "ar": ["القصيص الصناعية 5", "al qusais industrial 5"],
+        "hi": ["अल क़ुसैस इंडस्ट्रियल 5", "क़ुसैस इंडस्ट्रियल 5"]
+      }
+    },
+    {
+      "key": "al-raas",
+      "emirate": "uaq",
+      "city": "uaq",
+      "labels": {
+        "en": "Al Raas",
+        "ru": "Аль-Раас",
+        "ar": "الرأس",
+        "hi": "अल रास"
+      },
+      "aliases": {
+        "en": ["al raas", "al-raas", "raas"],
+        "ru": ["аль раас", "раас", "al raas"],
+        "ar": ["الرأس", "al raas"],
+        "hi": ["अल रास", "रास", "al raas"]
+      }
+    },
+    {
+      "key": "al-raffa",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Raffa",
+        "ru": "Аль-Раффа",
+        "ar": "الرفاعة",
+        "hi": "अल रफ़्फ़ा"
+      },
+      "aliases": {
+        "en": ["al raffa", "al-raffa", "raffa"],
+        "ru": ["аль раффа", "раффа", "al raffa"],
+        "ar": ["الرفاعة", "al raffa"],
+        "hi": ["अल रफ़्फ़ा", "रफ़्फ़ा", "al raffa"]
+      }
+    },
+    {
+      "key": "al-raha-beach",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Raha Beach",
+        "ru": "Аль-Раха Бич",
+        "ar": "شاطئ الراحة",
+        "hi": "अल राहा बीच"
+      },
+      "aliases": {
+        "en": ["al raha beach", "raha beach", "al-raha-beach"],
+        "ru": ["аль раха бич", "раха бич", "al raha beach"],
+        "ar": ["شاطئ الراحة", "الراحة بيتش"],
+        "hi": ["अल राहा बीच", "राहा बीच", "al raha beach"]
+      }
+    },
+    {
+      "key": "al-raha-gardens",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Raha Gardens",
+        "ru": "Аль-Раха Гарденс",
+        "ar": "حدائق الراحة",
+        "hi": "अल राहा गार्डन्स"
+      },
+      "aliases": {
+        "en": ["al raha gardens", "raha gardens"],
+        "ru": ["аль раха гарденс", "раха гарденс"],
+        "ar": ["حدائق الراحة", "al raha gardens"],
+        "hi": ["अल राहा गार्डन्स", "राहा गार्डन्स"]
+      }
+    },
+    {
+      "key": "al-rahba",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Rahba",
+        "ru": "Аль-Рахба",
+        "ar": "الرحبة",
+        "hi": "अल रहबा"
+      },
+      "aliases": {
+        "en": ["al rahba", "al-rahba", "rahba"],
+        "ru": ["аль рахба", "рахба"],
+        "ar": ["الرحبة"],
+        "hi": ["अल रहबा", "रहबा"]
+      }
+    },
+    {
+      "key": "al-rahmania-extension",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Rahmania Extension",
+        "ru": "Аль-Рахмания Экстеншн",
+        "ar": "امتداد الرحمانية",
+        "hi": "अल रहमानिया एक्सटेंशन"
+      },
+      "aliases": {
+        "en": ["al rahmania extension", "rahmania extension"],
+        "ru": ["аль рахмания экстеншн", "рахмания экстеншн"],
+        "ar": ["امتداد الرحمانية"],
+        "hi": ["अल रहमानिया एक्सटेंशन"]
+      }
+    },
+    {
+      "key": "al-rahmaniya",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Rahmaniya",
+        "ru": "Аль-Рахмания",
+        "ar": "الرحمانية",
+        "hi": "अल रहमानिया"
+      },
+      "aliases": {
+        "en": ["al rahmaniya", "rahmaniya"],
+        "ru": ["аль рахмания", "рахмания"],
+        "ar": ["الرحمانية"],
+        "hi": ["अल रहमानिया"]
+      }
+    },
+    {
+      "key": "al-ramla",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Ramla",
+        "ru": "Аль-Рамла",
+        "ar": "الرملة",
+        "hi": "अल रमला"
+      },
+      "aliases": {
+        "en": ["al ramla", "ramla"],
+        "ru": ["аль рамла", "рамла"],
+        "ar": ["الرملة"],
+        "hi": ["अल रमला"]
+      }
+    },
+    {
+      "key": "al-rams",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Rams",
+        "ru": "Аль-Рамс",
+        "ar": "الرمس",
+        "hi": "अल राम्स"
+      },
+      "aliases": {
+        "en": ["al rams", "rams"],
+        "ru": ["аль рамс", "рамс"],
+        "ar": ["الرمس"],
+        "hi": ["अल राम्स"]
+      }
+    },
+    {
+      "key": "al-rawda",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Rawda",
+        "ru": "Аль-Равда",
+        "ar": "الروضة",
+        "hi": "अल रौदा"
+      },
+      "aliases": {
+        "en": ["al rawda", "rawda"],
+        "ru": ["аль равда", "равда"],
+        "ar": ["الروضة"],
+        "hi": ["अल रौदा"]
+      }
+    },
+    {
+      "key": "al-reef",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Reef",
+        "ru": "Аль-Риф",
+        "ar": "الريف",
+        "hi": "अल रीफ"
+      },
+      "aliases": {
+        "en": ["al reef", "reef"],
+        "ru": ["аль риф", "риф"],
+        "ar": ["الريف"],
+        "hi": ["अल रीफ"]
+      }
+    },
+    {
+      "key": "al-reem-island",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Reem Island",
+        "ru": "Аль-Рим Айленд",
+        "ar": "جزيرة الريم",
+        "hi": "अल रीम आइलैंड"
+      },
+      "aliases": {
+        "en": ["al reem island", "reem island", "al-reem-island"],
+        "ru": ["аль рим айленд", "рим айленд"],
+        "ar": ["جزيرة الريم", "الريم آيلاند"],
+        "hi": ["अल रीम आइलैंड", "रीम आइलैंड"]
+      }
+    },
+        {
+      "key": "al-rifaah",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al RifaaH",
+        "ru": "Аль-Рифаа",
+        "ar": "الرفاعة",
+        "hi": "अल रिफ़ाआ"
+      },
+      "aliases": {
+        "en": ["al rifaah", "al-rifaah", "rifaah", "rifaa"],
+        "ru": ["аль рифаа", "рифаа", "al rifaah"],
+        "ar": ["الرفاعة", "al rifaah"],
+        "hi": ["अल रिफ़ाआ", "रिफ़ाआ", "al rifaah"]
+      }
+    },
+    {
+      "key": "al-rigga-north",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Rigga North",
+        "ru": "Аль-Ригга Норт",
+        "ar": "الرقّة الشمالية",
+        "hi": "अल रिग्गा नॉर्थ"
+      },
+      "aliases": {
+        "en": ["al rigga north", "rigga north", "al-rigga-north"],
+        "ru": ["аль ригга норт", "ригга норт", "al rigga north"],
+        "ar": ["الرقّة الشمالية", "الرقه الشمالية"],
+        "hi": ["अल रिग्गा नॉर्थ", "रिग्गा नॉर्थ"]
+      }
+    },
+    {
+      "key": "al-rumailah",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Rumailah",
+        "ru": "Аль-Румайла",
+        "ar": "الرُمَيْلة",
+        "hi": "अल रुमैला"
+      },
+      "aliases": {
+        "en": ["al rumailah", "al-rumailah", "rumailah", "rumaila"],
+        "ru": ["аль румайла", "румайла", "al rumailah"],
+        "ar": ["الرُمَيْلة", "الرميلة", "الرميلة"],
+        "hi": ["अल रुमैला", "रुमैला"]
+      }
+    },
+    {
+      "key": "al-safa-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Safa 1",
+        "ru": "Аль-Сафа 1",
+        "ar": "الصفا 1",
+        "hi": "अल सफ़ा 1"
+      },
+      "aliases": {
+        "en": ["al safa 1", "safa 1", "al-safa-1"],
+        "ru": ["аль сафа 1", "сафа 1", "al safa 1"],
+        "ar": ["الصفا 1", "الصفا١"],
+        "hi": ["अल सफ़ा 1", "सफ़ा 1"]
+      }
+    },
+    {
+      "key": "al-safa-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Safa 2",
+        "ru": "Аль-Сафа 2",
+        "ar": "الصفا 2",
+        "hi": "अल सफ़ा 2"
+      },
+      "aliases": {
+        "en": ["al safa 2", "safa 2", "al-safa-2"],
+        "ru": ["аль сафа 2", "сафа 2", "al safa 2"],
+        "ar": ["الصفا 2", "الصفا٢"],
+        "hi": ["अल सफ़ा 2", "सफ़ा 2"]
+      }
+    },
+    {
+      "key": "al-salma",
+      "emirate": "uaq",
+      "city": "uaq",
+      "labels": {
+        "en": "Al Salma",
+        "ru": "Аль-Сальма",
+        "ar": "السلمة",
+        "hi": "अल सलमा"
+      },
+      "aliases": {
+        "en": ["al salma", "al-salma", "salma"],
+        "ru": ["аль сальма", "сальма", "al salma"],
+        "ar": ["السلمة", "al salma"],
+        "hi": ["अल सलमा", "सलमा"]
+      }
+    },
+    {
+      "key": "al-satwa",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Satwa",
+        "ru": "Аль-Сатва",
+        "ar": "السطوة",
+        "hi": "अल सतवा"
+      },
+      "aliases": {
+        "en": ["al satwa", "al-satwa", "satwa"],
+        "ru": ["аль сатва", "сатва", "al satwa"],
+        "ar": ["السطوة", "al satwa"],
+        "hi": ["अल सतवा", "सतवा"]
+      }
+    },
+    {
+      "key": "al-seer",
+      "emirate": "rak",
+      "city": "rak",
+      "labels": {
+        "en": "Al Seer",
+        "ru": "Аль-Сир",
+        "ar": "السير",
+        "hi": "अल सीर"
+      },
+      "aliases": {
+        "en": ["al seer", "al-seer", "seer"],
+        "ru": ["аль сир", "сир", "al seer"],
+        "ar": ["السير"],
+        "hi": ["अल सीर"]
+      }
+    },
+    {
+      "key": "al-shamka-north",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Shamka North",
+        "ru": "Аль-Шамха Норт",
+        "ar": "الشامخة الشمالية",
+        "hi": "अल शामखा नॉर्थ"
+      },
+      "aliases": {
+        "en": ["al shamka north", "shamka north", "al-shamka-north"],
+        "ru": ["аль шамха норт", "шамха норт", "al shamka north"],
+        "ar": ["الشامخة الشمالية"],
+        "hi": ["अल शामखा नॉर्थ", "शामखा नॉर्थ"]
+      }
+    },
+    {
+      "key": "al-shamkha",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Shamkha",
+        "ru": "Аль-Шамха",
+        "ar": "الشامخة",
+        "hi": "अल शामखा"
+      },
+      "aliases": {
+        "en": ["al shamkha", "al-shamkha", "shamkha"],
+        "ru": ["аль шамха", "шамха", "al shamkha"],
+        "ar": ["الشامخة"],
+        "hi": ["अल शामखा", "शामखा"]
+      }
+    },
+    {
+      "key": "al-shamkha-south",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Shamkha South",
+        "ru": "Аль-Шамха Саут",
+        "ar": "الشامخة الجنوبية",
+        "hi": "अल शामखा साउथ"
+      },
+      "aliases": {
+        "en": ["al shamkha south", "shamkha south", "al-shamkha-south"],
+        "ru": ["аль шамха саут", "шамха саут", "al shamkha south"],
+        "ar": ["الشامخة الجنوبية"],
+        "hi": ["अल शामखा साउथ", "शामखा साउथ"]
+      }
+    },
+    {
+      "key": "al-shawamekh",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Shawamekh",
+        "ru": "Аль-Шавамех",
+        "ar": "الشوامخ",
+        "hi": "अल शवामेख"
+      },
+      "aliases": {
+        "en": ["al shawamekh", "al-shawamekh", "shawamekh"],
+        "ru": ["аль шавамех", "шавамех", "al shawamekh"],
+        "ar": ["الشوامخ"],
+        "hi": ["अल शवामेख", "शवामेख"]
+      }
+    },
+    {
+      "key": "al-shindagha",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Shindagha",
+        "ru": "Аль-Шиндага",
+        "ar": "الشندغة",
+        "hi": "अल शिंदाघा"
+      },
+      "aliases": {
+        "en": ["al shindagha", "al-shindagha", "shindagha"],
+        "ru": ["аль шиндага", "шиндага", "al shindagha"],
+        "ar": ["الشندغة"],
+        "hi": ["अल शिंदाघा", "शिंदाघा"]
+      }
+    },
+        {
+      "key": "al-suyoh",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Suyoh",
+        "ru": "Аль-Суйох",
+        "ar": "السيوح",
+        "hi": "अल सुयोह"
+      },
+      "aliases": {
+        "en": ["al suyoh", "al-suyoh", "suyoh"],
+        "ru": ["аль суйох", "суйох", "al suyoh"],
+        "ar": ["السيوح"],
+        "hi": ["अल सुयोह", "सुयोह"]
+      }
+    },
+    {
+      "key": "al-taawun",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Taawun",
+        "ru": "Аль-Таавун",
+        "ar": "التعاون",
+        "hi": "अल तआवुन"
+      },
+      "aliases": {
+        "en": ["al taawun", "al-taawun", "taawun", "al tawun"],
+        "ru": ["аль таавун", "таавун", "al taawun"],
+        "ar": ["التعاون"],
+        "hi": ["अल तआवुन", "तआवुन"]
+      }
+    },
+    {
+      "key": "al-tallah",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Tallah",
+        "ru": "Аль-Таллах",
+        "ar": "التلة",
+        "hi": "अल तल्‍लाह"
+      },
+      "aliases": {
+        "en": ["al tallah", "al-tallah", "tallah"],
+        "ru": ["аль таллах", "таллах", "al tallah"],
+        "ar": ["التلة"],
+        "hi": ["अल तल्‍लाह", "तल्लाह"]
+      }
+    },
+    {
+      "key": "al-twar-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Twar 1",
+        "ru": "Аль-Твар 1",
+        "ar": "الطوار 1",
+        "hi": "अल त्वर 1"
+      },
+      "aliases": {
+        "en": ["al twar 1", "twar 1", "al-twar-1"],
+        "ru": ["аль твар 1", "твар 1", "al twar 1"],
+        "ar": ["الطوار 1", "الطوار١"],
+        "hi": ["अल त्वर 1", "त्वर 1"]
+      }
+    },
+    {
+      "key": "al-twar-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Twar 2",
+        "ru": "Аль-Твар 2",
+        "ar": "الطوار 2",
+        "hi": "अल त्वर 2"
+      },
+      "aliases": {
+        "en": ["al twar 2", "twar 2", "al-twar-2"],
+        "ru": ["аль твар 2", "твар 2", "al twar 2"],
+        "ar": ["الطوار 2", "الطوار٢"],
+        "hi": ["अल त्वर 2", "त्वर 2"]
+      }
+    },
+    {
+      "key": "al-twar-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Twar 3",
+        "ru": "Аль-Твар 3",
+        "ar": "الطوار 3",
+        "hi": "अल त्वर 3"
+      },
+      "aliases": {
+        "en": ["al twar 3", "twar 3", "al-twar-3"],
+        "ru": ["аль твар 3", "твар 3", "al twar 3"],
+        "ar": ["الطوار 3", "الطوار٣"],
+        "hi": ["अल त्वर 3", "त्वर 3"]
+      }
+    },
+    {
+      "key": "al-warsan-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Warsan 1",
+        "ru": "Аль-Варсан 1",
+        "ar": "الورسان 1",
+        "hi": "अल वरसान 1"
+      },
+      "aliases": {
+        "en": ["al warsan 1", "warsan 1", "al-warsan-1"],
+        "ru": ["аль варсан 1", "варсан 1", "al warsan 1"],
+        "ar": ["الورسان 1", "الورسان١"],
+        "hi": ["अल वरसान 1", "वरसान 1"]
+      }
+    },
+    {
+      "key": "al-warsan-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Warsan 2",
+        "ru": "Аль-Варсан 2",
+        "ar": "الورسان 2",
+        "hi": "अल वरसान 2"
+      },
+      "aliases": {
+        "en": ["al warsan 2", "warsan 2", "al-warsan-2"],
+        "ru": ["аль варсан 2", "варсан 2", "al warsan 2"],
+        "ar": ["الورسان 2", "الورسان٢"],
+        "hi": ["अल वरसान 2", "वरसान 2"]
+      }
+    },
+    {
+      "key": "al-warsan-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Warsan 3",
+        "ru": "Аль-Варсан 3",
+        "ar": "الورسان 3",
+        "hi": "अल वरसान 3"
+      },
+      "aliases": {
+        "en": ["al warsan 3", "warsan 3", "al-warsan-3"],
+        "ru": ["аль варсан 3", "варсан 3", "al warsan 3"],
+        "ar": ["الورسان 3", "الورسان٣"],
+        "hi": ["अल वरसान 3", "वरसान 3"]
+      }
+    },
+    {
+      "key": "al-warsan-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Warsan 4",
+        "ru": "Аль-Варсан 4",
+        "ar": "الورسان 4",
+        "hi": "अल वरसान 4"
+      },
+      "aliases": {
+        "en": ["al warsan 4", "warsan 4", "al-warsan-4"],
+        "ru": ["аль варсан 4", "варсан 4", "al warsan 4"],
+        "ar": ["الورسان 4", "الورسان٤"],
+        "hi": ["अल वरसान 4", "वरसान 4"]
+      }
+    },
+    {
+      "key": "al-wasl",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Al Wasl",
+        "ru": "Аль-Васл",
+        "ar": "الوصل",
+        "hi": "अल वस्ल"
+      },
+      "aliases": {
+        "en": ["al wasl", "al-wasl", "wasl"],
+        "ru": ["аль васл", "васл", "al wasl"],
+        "ar": ["الوصل"],
+        "hi": ["अल वस्ल", "वस्ल"]
+      }
+    },
+    {
+      "key": "al-wathba",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Wathba",
+        "ru": "Аль-Ватба",
+        "ar": "الوثبة",
+        "hi": "अल वथ्बा"
+      },
+      "aliases": {
+        "en": ["al wathba", "al-wathba", "wathba"],
+        "ru": ["аль ватба", "ватба", "al wathba"],
+        "ar": ["الوثبة"],
+        "hi": ["अल वथ्बा", "वथ्बा"]
+      }
+    },
+    {
+      "key": "al-yarmook",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Al Yarmook",
+        "ru": "Аль-Ярмук",
+        "ar": "اليرموك",
+        "hi": "अल यरमूक"
+      },
+      "aliases": {
+        "en": ["al yarmook", "al-yarmook", "yarmook"],
+        "ru": ["аль ярмук", "ярмук", "al yarmook"],
+        "ar": ["اليرموك"],
+        "hi": ["अल यरमूक", "यरमूक"]
+      }
+    },
+        {
+      "key": "al-zahiyah",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Al Zahiyah",
+        "ru": "Аль-Захия",
+        "ar": "الزاهية",
+        "hi": "अल ज़ाहिया"
+      },
+      "aliases": {
+        "en": ["al zahiyah", "al-zahiyah", "zahiyah"],
+        "ru": ["аль захия", "захия", "al zahiyah"],
+        "ar": ["الزاهية"],
+        "hi": ["अल ज़ाहिया", "ज़ाहिया"]
+      }
+    },
+    {
+      "key": "al-zahra",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Zahra",
+        "ru": "Аль-Захра",
+        "ar": "الزهراء",
+        "hi": "अल ज़हरा"
+      },
+      "aliases": {
+        "en": ["al zahra", "al-zahra", "zahra"],
+        "ru": ["аль захра", "захра", "al zahra"],
+        "ar": ["الزهراء"],
+        "hi": ["अल ज़हरा", "ज़हरा"]
+      }
+    },
+    {
+      "key": "al-zubair",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Al Zubair",
+        "ru": "Аль-Зубайр",
+        "ar": "الزبير",
+        "hi": "अल ज़ुबैर"
+      },
+      "aliases": {
+        "en": ["al zubair", "al-zubair", "zubair"],
+        "ru": ["аль зубайр", "зубайр", "al zubair"],
+        "ar": ["الزبير"],
+        "hi": ["अल ज़ुबैर", "ज़ुबैर"]
+      }
+    },
+    {
+      "key": "aljada",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Aljada",
+        "ru": "Альджада",
+        "ar": "الجادة",
+        "hi": "अलजादा"
+      },
+      "aliases": {
+        "en": ["aljada", "al jada", "al-jada"],
+        "ru": ["альджада", "аль джада", "aljada"],
+        "ar": ["الجادة"],
+        "hi": ["अलजादा", "अल जादा"]
+      }
+    },
+    {
+      "key": "arabian-ranches",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Arabian Ranches",
+        "ru": "Arabian Ranches",
+        "ar": "المرابع العربية",
+        "hi": "अरबियन रैंचेस"
+      },
+      "aliases": {
+        "en": ["arabian ranches", "ranches dubai"],
+        "ru": ["арабиан ранчес", "arabian ranches дубай"],
+        "ar": ["المرابع العربية"],
+        "hi": ["अरबियन रैंचेस"]
+      }
+    },
+    {
+      "key": "arabian-ranches-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Arabian Ranches 2",
+        "ru": "Arabian Ranches 2",
+        "ar": "المرابع العربية 2",
+        "hi": "अरबियन रैंचेस 2"
+      },
+      "aliases": {
+        "en": ["arabian ranches 2", "ranches 2"],
+        "ru": ["арабиан ранчес 2"],
+        "ar": ["المرابع العربية 2", "المرابع العربية٢"],
+        "hi": ["अरबियन रैंचेस 2"]
+      }
+    },
+    {
+      "key": "arabian-ranches-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Arabian Ranches 3",
+        "ru": "Arabian Ranches 3",
+        "ar": "المرابع العربية 3",
+        "hi": "अरबियन रैंचेस 3"
+      },
+      "aliases": {
+        "en": ["arabian ranches 3", "ranches 3"],
+        "ru": ["арабиан ранчес 3"],
+        "ar": ["المرابع العربية 3", "المرابع العربية٣"],
+        "hi": ["अरबियन रैंचेस 3"]
+      }
+    },
+    {
+      "key": "ayal-nasir",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Ayal Nasir",
+        "ru": "Аял Насир",
+        "ar": "عيال ناصر",
+        "hi": "अयाल नासिर"
+      },
+      "aliases": {
+        "en": ["ayal nasir", "ayal-nasir"],
+        "ru": ["аял насир", "al nasir dubai"],
+        "ar": ["عيال ناصر"],
+        "hi": ["अयाल नासिर"]
+      }
+    },
+    {
+      "key": "bani-yas",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Bani Yas",
+        "ru": "Бани Яс",
+        "ar": "بني ياس",
+        "hi": "बनी यास"
+      },
+      "aliases": {
+        "en": ["bani yas", "bani-yas"],
+        "ru": ["бани яс", "bani yas abu dhabi"],
+        "ar": ["بني ياس"],
+        "hi": ["बनी यास"]
+      }
+    },
+    {
+      "key": "bluewaters",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Bluewaters",
+        "ru": "Bluewaters",
+        "ar": "بلوواترز",
+        "hi": "ब्लूवॉटर्‍स"
+      },
+      "aliases": {
+        "en": ["bluewaters", "blue waters island", "bluewaters island"],
+        "ru": ["блюватерс", "bluewaters дубай"],
+        "ar": ["بلوواترز"],
+        "hi": ["ब्लूवॉटर्‍स"]
+      }
+    },
+    {
+      "key": "bu-tina",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Bu Tina",
+        "ru": "Бу Тина",
+        "ar": "بوطينة",
+        "hi": "बु टीना"
+      },
+      "aliases": {
+        "en": ["bu tina", "butina"],
+        "ru": ["бу тина", "бутина"],
+        "ar": ["بوطينة"],
+        "hi": ["बु टीना"]
+      }
+    },
+    {
+      "key": "bur-dubai",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Bur Dubai",
+        "ru": "Бур Дубай",
+        "ar": "بر دبي",
+        "hi": "बुर दुबई"
+      },
+      "aliases": {
+        "en": ["bur dubai", "bur-dubai"],
+        "ru": ["бур дубай", "bur dubai"],
+        "ar": ["بر دبي"],
+        "hi": ["बुर दुबई"]
+      }
+    },
+    {
+      "key": "business-bay",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Business Bay",
+        "ru": "Business Bay",
+        "ar": "الخليج التجاري",
+        "hi": "बिज़नेस बे"
+      },
+      "aliases": {
+        "en": ["business bay", "business-bay"],
+        "ru": ["бизнес бей", "business bay дубай"],
+        "ar": ["الخليج التجاري"],
+        "hi": ["बिज़नेस बे"]
+      }
+    },
+        {
+      "key": "capital-district",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Capital District",
+        "ru": "Capital District",
+        "ar": "منطقة العاصمة",
+        "hi": "कैपिटल डिस्ट्रिक्ट"
+      },
+      "aliases": {
+        "en": ["capital district", "abu dhabi capital district"],
+        "ru": ["capital district абу даби"],
+        "ar": ["منطقة العاصمة"],
+        "hi": ["कैपिटल डिस्ट्रिक्ट"]
+      }
+    },
+    {
+      "key": "city-walk",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "City Walk",
+        "ru": "City Walk",
+        "ar": "سيتي ووك",
+        "hi": "सिटी वॉक"
+      },
+      "aliases": {
+        "en": ["city walk", "citywalk"],
+        "ru": ["сити уок", "city walk дубай"],
+        "ar": ["سيتي ووك"],
+        "hi": ["सिटी वॉक"]
+      }
+    },
+    {
+      "key": "corniche-abu-dhabi",
+      "emirate": "abu_dhabi",
+      "city": "abu_dhabi",
+      "labels": {
+        "en": "Corniche Abu Dhabi",
+        "ru": "Корниш Абу-Даби",
+        "ar": "كورنيش أبوظبي",
+        "hi": "कॉर्निश अबू धाबी"
+      },
+      "aliases": {
+        "en": ["corniche abu dhabi", "abu dhabi corniche"],
+        "ru": ["корниш абу даби"],
+        "ar": ["كورنيش أبوظبي"],
+        "hi": ["कॉर्निश अबू धाबी"]
+      }
+    },
+    {
+      "key": "creek-harbour",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Creek Harbour",
+        "ru": "Dubai Creek Harbour",
+        "ar": "خور دبي هاربور",
+        "hi": "क्रीक हार्बर"
+      },
+      "aliases": {
+        "en": ["creek harbour", "dubai creek harbour", "creek harbor"],
+        "ru": ["дубай крик харбор", "creek harbour дубай"],
+        "ar": ["خور دبي هاربور"],
+        "hi": ["क्रीक हार्बर"]
+      }
+    },
+    {
+      "key": "creekside-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Creekside 1",
+        "ru": "Creekside 1",
+        "ar": "كريكسايد 1",
+        "hi": "क्रीकसाइड 1"
+      },
+      "aliases": {
+        "en": ["creekside 1"],
+        "ru": ["creekside 1 дубай"],
+        "ar": ["كريكسايد 1"],
+        "hi": ["क्रीकसाइड 1"]
+      }
+    },
+    {
+      "key": "creekside-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Creekside 2",
+        "ru": "Creekside 2",
+        "ar": "كريكسايد 2",
+        "hi": "क्रीकसाइड 2"
+      },
+      "aliases": {
+        "en": ["creekside 2"],
+        "ru": ["creekside 2 дубай"],
+        "ar": ["كريكسايد 2"],
+        "hi": ["क्रीकसाइड 2"]
+      }
+    },
+    {
+      "key": "crescent-east",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Crescent East",
+        "ru": "Crescent East",
+        "ar": "الهلال الشرقي",
+        "hi": "क्रेसेंट ईस्ट"
+      },
+      "aliases": {
+        "en": ["crescent east"],
+        "ru": ["crescent east дубай"],
+        "ar": ["الهلال الشرقي"],
+        "hi": ["क्रेसेंट ईस्ट"]
+      }
+    },
+    {
+      "key": "crescent-west",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Crescent West",
+        "ru": "Crescent West",
+        "ar": "الهلال الغربي",
+        "hi": "क्रेसेंट वेस्ट"
+      },
+      "aliases": {
+        "en": ["crescent west"],
+        "ru": ["crescent west дубай"],
+        "ar": ["الهلال الغربي"],
+        "hi": ["क्रेसेंट वेस्ट"]
+      }
+    },
+    {
+      "key": "dadna",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Dadna",
+        "ru": "Дадна",
+        "ar": "دَدْنَا",
+        "hi": "ददना"
+      },
+      "aliases": {
+        "en": ["dadna"],
+        "ru": ["дадна"],
+        "ar": ["دَدْنَا"],
+        "hi": ["ददना"]
+      }
+    },
+    {
+      "key": "damac-hills",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "DAMAC Hills",
+        "ru": "DAMAC Hills",
+        "ar": "داماك هيلز",
+        "hi": "डामैक हिल्स"
+      },
+      "aliases": {
+        "en": ["damac hills", "damac-hills"],
+        "ru": ["дамак хиллс"],
+        "ar": ["داماك هيلز"],
+        "hi": ["डामैक हिल्स"]
+      }
+    },
+    {
+      "key": "damac-hills-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "DAMAC Hills 2",
+        "ru": "DAMAC Hills 2",
+        "ar": "داماك هيلز 2",
+        "hi": "डामैक हिल्स 2"
+      },
+      "aliases": {
+        "en": ["damac hills 2", "damac-hills-2"],
+        "ru": ["дамак хиллс 2"],
+        "ar": ["داماك هيلز 2"],
+        "hi": ["डामैक हिल्स 2"]
+      }
+    },
+    {
+      "key": "deira",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Deira",
+        "ru": "Дейра",
+        "ar": "ديرة",
+        "hi": "दीरा"
+      },
+      "aliases": {
+        "en": ["deira"],
+        "ru": ["дейра", "дейра дубай"],
+        "ar": ["ديرة"],
+        "hi": ["दीरा"]
+      }
+    },
+    {
+      "key": "dibba-fujairah",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Dibba Fujairah",
+        "ru": "Дибба Фуджейра",
+        "ar": "دبا الفجيرة",
+        "hi": "दिब्बा फुजैरा"
+      },
+      "aliases": {
+        "en": ["dibba fujairah", "dibba"],
+        "ru": ["дибба фуджейра", "дибба"],
+        "ar": ["دبا الفجيرة"],
+        "hi": ["दिब्बा फुजैरा"]
+      }
+    },
+        {
+      "key": "dip",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Investment Park (DIP)",
+        "ru": "Dubai Investment Park",
+        "ar": "مجمع دبي للاستثمار",
+        "hi": "दुबई इन्वेस्टमेंट पार्क"
+      },
+      "aliases": {
+        "en": ["dip", "dubai investment park"],
+        "ru": ["дип дубай", "dubai investment park"],
+        "ar": ["مجمع دبي للاستثمار"],
+        "hi": ["दुबई इन्वेस्टमेंट पार्क"]
+      }
+    },
+    {
+      "key": "discovery-gardens",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Discovery Gardens",
+        "ru": "Discovery Gardens",
+        "ar": "ديسكفري جاردنز",
+        "hi": "डिस्कवरी गार्डन्स"
+      },
+      "aliases": {
+        "en": ["discovery gardens"],
+        "ru": ["дискавери гарденс"],
+        "ar": ["ديسكفري جاردنز"],
+        "hi": ["डिस्कवरी गार्डन्स"]
+      }
+    },
+    {
+      "key": "downtown-dubai",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Downtown Dubai",
+        "ru": "Даунтаун Дубай",
+        "ar": "وسط مدينة دبي",
+        "hi": "डाउनटाउन दुबई"
+      },
+      "aliases": {
+        "en": ["downtown dubai", "downtown"],
+        "ru": ["даунтаун дубай"],
+        "ar": ["وسط مدينة دبي"],
+        "hi": ["डाउनटाउन दुबई"]
+      }
+    },
+    {
+      "key": "dubai-festival-city",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Festival City",
+        "ru": "Dubai Festival City",
+        "ar": "دبي فستيفال سيتي",
+        "hi": "दुबई फेस्टिवल सिटी"
+      },
+      "aliases": {
+        "en": ["dubai festival city", "festival city"],
+        "ru": ["дубай фестиваль сити"],
+        "ar": ["دبي فستيفال سيتي"],
+        "hi": ["दुबई फेस्टिवल सिटी"]
+      }
+    },
+    {
+      "key": "dubai-hills",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Hills",
+        "ru": "Dubai Hills",
+        "ar": "دبي هيلز",
+        "hi": "दुबई हिल्स"
+      },
+      "aliases": {
+        "en": ["dubai hills", "hills"],
+        "ru": ["дубай хиллс"],
+        "ar": ["دبي هيلز"],
+        "hi": ["दुबई हिल्स"]
+      }
+    },
+    {
+      "key": "dubai-industrial-park",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Industrial Park",
+        "ru": "Dubai Industrial Park",
+        "ar": "مجمع دبي الصناعي",
+        "hi": "दुबई इंडस्ट्रियल पार्क"
+      },
+      "aliases": {
+        "en": ["dubai industrial park"],
+        "ru": ["дубай индустриал парк"],
+        "ar": ["مجمع دبي الصناعي"],
+        "hi": ["दुबई इंडस्ट्रियल पार्क"]
+      }
+    },
+    {
+      "key": "dubai-investment-park-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Investment Park 1",
+        "ru": "Dubai Investment Park 1",
+        "ar": "مجمع دبي للاستثمار 1",
+        "hi": "दुबई इन्वेस्टमेंट पार्क 1"
+      },
+      "aliases": {
+        "en": ["dubai investment park 1"],
+        "ru": ["dip 1"],
+        "ar": ["مجمع دبي للاستثمار 1"],
+        "hi": ["दुबई इन्वेस्टमेंट पार्क 1"]
+      }
+    },
+    {
+      "key": "dubai-investment-park-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Investment Park 2",
+        "ru": "Dubai Investment Park 2",
+        "ar": "مجمع دبي للاستثمار 2",
+        "hi": "दुबई इन्वेस्टमेंट पार्क 2"
+      },
+      "aliases": {
+        "en": ["dubai investment park 2"],
+        "ru": ["dip 2"],
+        "ar": ["مجمع دبي للاستثمار 2"],
+        "hi": ["दुबई इन्वेस्टमेंट पार्क 2"]
+      }
+    },
+    {
+      "key": "dubai-marina",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Marina",
+        "ru": "Дубай Марина",
+        "ar": "مرسى دبي",
+        "hi": "दुबई मरीना"
+      },
+      "aliases": {
+        "en": ["dubai marina", "marina"],
+        "ru": ["дубай марина"],
+        "ar": ["مرسى دبي"],
+        "hi": ["दुबई मरीना"]
+      }
+    },
+    {
+      "key": "dubai-silicon-oasis",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai Silicon Oasis",
+        "ru": "Dubai Silicon Oasis",
+        "ar": "واحة دبي للسيليكون",
+        "hi": "दुबई सिलिकॉन ओएसिस"
+      },
+      "aliases": {
+        "en": ["dubai silicon oasis", "silicon oasis"],
+        "ru": ["дубай силикон оазис"],
+        "ar": ["واحة دبي للسيليكون"],
+        "hi": ["दुबई सिलिकॉन ओएसिस"]
+      }
+    },
+    {
+      "key": "dubai-south",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Dubai South",
+        "ru": "Dubai South",
+        "ar": "دبي الجنوب",
+        "hi": "दुबई साउथ"
+      },
+      "aliases": {
+        "en": ["dubai south", "south dubai"],
+        "ru": ["дубай саут"],
+        "ar": ["دبي الجنوب"],
+        "hi": ["दुबई साउथ"]
+      }
+    },
+    {
+      "key": "emaar-south",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Emaar South",
+        "ru": "Emaar South",
+        "ar": "إعمار الجنوب",
+        "hi": "इमार साउथ"
+      },
+      "aliases": {
+        "en": ["emaar south"],
+        "ru": ["эмар саут"],
+        "ar": ["إعمار الجنوب"],
+        "hi": ["इमार साउथ"]
+      }
+    },
+        {
+      "key": "emirates-hills",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Emirates Hills",
+        "ru": "Emirates Hills",
+        "ar": "تلال الإمارات",
+        "hi": "एमिरेट्स हिल्स"
+      },
+      "aliases": {
+        "en": ["emirates hills"],
+        "ru": ["эмирейтс хиллс"],
+        "ar": ["تلال الإمارات"],
+        "hi": ["एमिरेट्स हिल्स"]
+      }
+    },
+    {
+      "key": "expo-city-mangrove",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Expo City Mangrove",
+        "ru": "Expo City Mangrove",
+        "ar": "إكسبو سيتي مانغروف",
+        "hi": "एक्सपो सिटी मैंग्रोव"
+      },
+      "aliases": {
+        "en": ["expo city mangrove"],
+        "ru": ["экспо сити мангров"],
+        "ar": ["إكسبو سيتي مانغروف"],
+        "hi": ["एक्सपो सिटी मैंग्रोव"]
+      }
+    },
+    {
+      "key": "expo-city-ridge",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Expo City Ridge",
+        "ru": "Expo City Ridge",
+        "ar": "إكسبو سيتي ريدج",
+        "hi": "एक्सपो सिटी रिज"
+      },
+      "aliases": {
+        "en": ["expo city ridge"],
+        "ru": ["экспо сити ридж"],
+        "ar": ["إكسبو سيتي ريدج"],
+        "hi": ["एक्सपो सिटी रिज"]
+      }
+    },
+    {
+      "key": "expo-valley",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Expo Valley",
+        "ru": "Expo Valley",
+        "ar": "إكسبو فالي",
+        "hi": "एक्सपो वैली"
+      },
+      "aliases": {
+        "en": ["expo valley"],
+        "ru": ["экспо валли"],
+        "ar": ["إكسبو فالي"],
+        "hi": ["एक्सपो वैली"]
+      }
+    },
+    {
+      "key": "expo-village",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Expo Village",
+        "ru": "Expo Village",
+        "ar": "قرية إكسبو",
+        "hi": "एक्सपो विलेज"
+      },
+      "aliases": {
+        "en": ["expo village"],
+        "ru": ["экспо вилладж"],
+        "ar": ["قرية إكسبو"],
+        "hi": ["एक्सपो विलेज"]
+      }
+    },
+    {
+      "key": "falaj-al-mualla",
+      "emirate": "uaq",
+      "city": "falaj-al-mualla",
+      "labels": {
+        "en": "Falaj Al Mualla",
+        "ru": "Falaj Al Mualla",
+        "ar": "فلج المعلا",
+        "hi": "फालज अल मुआल्ला"
+      },
+      "aliases": {
+        "en": ["falaj al mualla"],
+        "ru": ["фаладж аль муалла"],
+        "ar": ["فلج المعلا"],
+        "hi": ["फालज अल मुआल्ला"]
+      }
+    },
+    {
+      "key": "frond-a",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond A",
+        "ru": "Palm Jumeirah Frond A",
+        "ar": "سعفة A نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड A"
+      },
+      "aliases": {
+        "en": ["frond a", "palm frond a"],
+        "ru": ["фронд а"],
+        "ar": ["سعفة A"],
+        "hi": ["फ्रॉन्ड ए"]
+      }
+    },
+    {
+      "key": "frond-h",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond H",
+        "ru": "Palm Jumeirah Frond H",
+        "ar": "سعفة H نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड H"
+      },
+      "aliases": {
+        "en": ["frond h", "palm frond h"],
+        "ru": ["фронд h"],
+        "ar": ["سعفة H"],
+        "hi": ["फ्रॉन्ड H"]
+      }
+    },
+    {
+      "key": "frond-i",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond I",
+        "ru": "Palm Jumeirah Frond I",
+        "ar": "سعفة I نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड I"
+      },
+      "aliases": {
+        "en": ["frond i", "palm frond i"],
+        "ru": ["фронд i"],
+        "ar": ["سعفة I"],
+        "hi": ["फ्रॉन्ड I"]
+      }
+    },
+    {
+      "key": "frond-j",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond J",
+        "ru": "Palm Jumeirah Frond J",
+        "ar": "سعفة J نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड J"
+      },
+      "aliases": {
+        "en": ["frond j", "palm frond j"],
+        "ru": ["фронд j"],
+        "ar": ["سعفة J"],
+        "hi": ["फ्रॉन्ड J"]
+      }
+    },
+    {
+      "key": "frond-k",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond K",
+        "ru": "Palm Jumeirah Frond K",
+        "ar": "سعفة K نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड K"
+      },
+      "aliases": {
+        "en": ["frond k", "palm frond k"],
+        "ru": ["фронд k"],
+        "ar": ["سعفة K"],
+        "hi": ["फ्रॉन्ड K"]
+      }
+    },
+    {
+      "key": "frond-l",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond L",
+        "ru": "Palm Jumeirah Frond L",
+        "ar": "سعفة L نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड L"
+      },
+      "aliases": {
+        "en": ["frond l", "palm frond l"],
+        "ru": ["фронд l"],
+        "ar": ["سعفة L"],
+        "hi": ["फ्रॉन्ड L"]
+      }
+    },
+    {
+      "key": "frond-m",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond M",
+        "ru": "Palm Jumeirah Frond M",
+        "ar": "سعفة M نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड M"
+      },
+      "aliases": {
+        "en": ["frond m", "palm frond m"],
+        "ru": ["фронд m"],
+        "ar": ["سعفة M"],
+        "hi": ["फ्रॉन्ड M"]
+      }
+    },
+    {
+      "key": "frond-n",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond N",
+        "ru": "Palm Jumeirah Frond N",
+        "ar": "سعفة N نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड N"
+      },
+      "aliases": {
+        "en": ["frond n", "palm frond n"],
+        "ru": ["фронд n"],
+        "ar": ["سعفة N"],
+        "hi": ["फ्रॉन्ड N"]
+      }
+    },
+    {
+      "key": "frond-o",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond O",
+        "ru": "Palm Jumeirah Frond O",
+        "ar": "سعفة O نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड O"
+      },
+      "aliases": {
+        "en": ["frond o", "palm frond o"],
+        "ru": ["фронд o"],
+        "ar": ["سعفة O"],
+        "hi": ["फ्रॉन्ड O"]
+      }
+    },
+    {
+      "key": "frond-p",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Frond P",
+        "ru": "Palm Jumeirah Frond P",
+        "ar": "سعفة P نخلة جميرا",
+        "hi": "पाम जुमेराह फ्रॉन्ड P"
+      },
+      "aliases": {
+        "en": ["frond p", "palm frond p"],
+        "ru": ["фронд p"],
+        "ar": ["سعفة P"],
+        "hi": ["फ्रॉन्ड P"]
+      }
+    },
+    {
+      "key": "fujairah-city",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Fujairah City",
+        "ru": "Фуджейра",
+        "ar": "مدينة الفجيرة",
+        "hi": "फुजैरा सिटी"
+      },
+      "aliases": {
+        "en": ["fujairah city", "fujairah"],
+        "ru": ["фуджейра", "город фуджейра"],
+        "ar": ["مدينة الفجيرة"],
+        "hi": ["फुजैरा"]
+      }
+    },
+    {
+      "key": "fujairah-corniche",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Fujairah Corniche",
+        "ru": "Fujairah Corniche",
+        "ar": "كورنيش الفجيرة",
+        "hi": "फुजैरा कॉर्निश"
+      },
+      "aliases": {
+        "en": ["fujairah corniche", "corniche fujairah"],
+        "ru": ["корниш фуджейра"],
+        "ar": ["كورنيش الفجيرة"],
+        "hi": ["फुजैरा कॉर्निश"]
+      }
+    },
+    {
+      "key": "ghalilah",
+      "emirate": "rak",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Ghalilah",
+        "ru": "Галиля",
+        "ar": "غليلة",
+        "hi": "घलीला"
+      },
+      "aliases": {
+        "en": ["ghalilah"],
+        "ru": ["галиля"],
+        "ar": ["غليلة"],
+        "hi": ["घलीला"]
+      }
+    },
+    {
+      "key": "ghantoot",
+      "emirate": "abu-dhabi",
+      "city": "ghantoot",
+      "labels": {
+        "en": "Ghantoot",
+        "ru": "Гантуут",
+        "ar": "غنتوت",
+        "hi": "घंटूत"
+      },
+      "aliases": {
+        "en": ["ghantoot"],
+        "ru": ["гантуут"],
+        "ar": ["غنتوت"],
+        "hi": ["घंटूत"]
+      }
+    },
+    {
+      "key": "ghantoot-west",
+      "emirate": "abu-dhabi",
+      "city": "ghantoot",
+      "labels": {
+        "en": "Ghantoot West",
+        "ru": "Гантуут Вест",
+        "ar": "غنتوت غرب",
+        "hi": "घंटूत वेस्ट"
+      },
+      "aliases": {
+        "en": ["ghantoot west"],
+        "ru": ["гантуут вест"],
+        "ar": ["غنتوت غرب"],
+        "hi": ["घंटूत वेस्ट"]
+      }
+    },
+    {
+      "key": "ghayathi",
+      "emirate": "abu-dhabi",
+      "city": "ghayathi",
+      "labels": {
+        "en": "Ghayathi",
+        "ru": "Гаяти",
+        "ar": "غياثي",
+        "hi": "ग़याथी"
+      },
+      "aliases": {
+        "en": ["ghayathi"],
+        "ru": ["гаяти"],
+        "ar": ["غياثي"],
+        "hi": ["ग़याथी"]
+      }
+    },
+    {
+      "key": "golden-mile",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Golden Mile",
+        "ru": "Golden Mile",
+        "ar": "جولدن مايل",
+        "hi": "गोल्डन माइल"
+      },
+      "aliases": {
+        "en": ["golden mile", "palm golden mile"],
+        "ru": ["голден майл"],
+        "ar": ["جولدن مايل"],
+        "hi": ["गोल्डन माइल"]
+      }
+    },
+    {
+      "key": "green-community",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Green Community",
+        "ru": "Green Community",
+        "ar": "جرين كوميونيتي",
+        "hi": "ग्रीन कम्युनिटी"
+      },
+      "aliases": {
+        "en": ["green community"],
+        "ru": ["грин комьюнити"],
+        "ar": ["جرين كوميونيتي"],
+        "hi": ["ग्रीन कम्युनिटी"]
+      }
+    },
+    {
+      "key": "gurfah",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Gurfah",
+        "ru": "Гурфа",
+        "ar": "القرفه",
+        "hi": "गुरफ़ा"
+      },
+      "aliases": {
+        "en": ["gurfah"],
+        "ru": ["гурфа"],
+        "ar": ["القرفه"],
+        "hi": ["गुरफ़ा"]
+      }
+    },
+    {
+      "key": "hamidiya-extension",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Hamidiya Extension",
+        "ru": "Hamidiya Extension",
+        "ar": "امتداد الحميدية",
+        "hi": "हमिदिया एक्सटेंशन"
+      },
+      "aliases": {
+        "en": ["hamidiya extension"],
+        "ru": ["хамидия экстеншн"],
+        "ar": ["امتداد الحميدية"],
+        "hi": ["हमिदिया एक्सटेंशन"]
+      }
+    },
+    {
+      "key": "hatta",
+      "emirate": "dubai",
+      "city": "hatta",
+      "labels": {
+        "en": "Hatta",
+        "ru": "Хатта",
+        "ar": "حتا",
+        "hi": "हट्टा"
+      },
+      "aliases": {
+        "en": ["hatta"],
+        "ru": ["хатта"],
+        "ar": ["حتا"],
+        "hi": ["हट्टा"]
+      }
+    },
+    {
+      "key": "helio",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Helio",
+        "ru": "Helio",
+        "ar": "هيليو",
+        "hi": "हेलियो"
+      },
+      "aliases": {
+        "en": ["helio"],
+        "ru": ["хелио"],
+        "ar": ["هيليو"],
+        "hi": ["हेलियो"]
+      }
+    },
+    {
+      "key": "hor-al-anz",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Hor Al Anz",
+        "ru": "Хор Аль Анз",
+        "ar": "هور العنز",
+        "hi": "होर अल अंज"
+      },
+      "aliases": {
+        "en": ["hor al anz"],
+        "ru": ["хор аль анз"],
+        "ar": ["هور العنز"],
+        "hi": ["होर अल अंज"]
+      }
+    },
+    {
+      "key": "hor-al-anz-east",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Hor Al Anz East",
+        "ru": "Хор Аль Анз Ист",
+        "ar": "هور العنز شرق",
+        "hi": "होर अल अंज ईस्ट"
+      },
+      "aliases": {
+        "en": ["hor al anz east"],
+        "ru": ["хор аль анз ист"],
+        "ar": ["هور العنز شرق"],
+        "hi": ["होर अल अंज ईस्ट"]
+      }
+    },
+    {
+      "key": "hudayriat-island",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Hudayriat Island",
+        "ru": "Остров Худейрият",
+        "ar": "جزيرة الحديريات",
+        "hi": "हुडैरियात आइलैंड"
+      },
+      "aliases": {
+        "en": ["hudayriat island"],
+        "ru": ["худейрият"],
+        "ar": ["جزيرة الحديريات"],
+        "hi": ["हुडैरियात"]
+      }
+    },
+    {
+      "key": "impz",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "IMPZ",
+        "ru": "IMPZ",
+        "ar": "المنطقة الدولية للإنتاج الإعلامي",
+        "hi": "IMPZ"
+      },
+      "aliases": {
+        "en": ["impz", "international media production zone"],
+        "ru": ["импз"],
+        "ar": ["المنطقة الدولية للإنتاج الإعلامي"],
+        "hi": ["इम्पज़"]
+      }
+    },
+    {
+      "key": "international-city",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "International City",
+        "ru": "International City",
+        "ar": "المدينة العالمية",
+        "hi": "इंटरनेशनल सिटी"
+      },
+      "aliases": {
+        "en": ["international city"],
+        "ru": ["интернешнл сити"],
+        "ar": ["المدينة العالمية"],
+        "hi": ["इंटरनेशनल सिटी"]
+      }
+    },
+    {
+      "key": "international-city-phase-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "International City Phase 2",
+        "ru": "International City Phase 2",
+        "ar": "المدينة العالمية المرحلة الثانية",
+        "hi": "इंटरनेशनल सिटी फेज 2"
+      },
+      "aliases": {
+        "en": ["international city phase 2"],
+        "ru": ["интернешнл сити фаза 2"],
+        "ar": ["المدينة العالمية المرحلة الثانية"],
+        "hi": ["इंटरनेशनल सिटी फेज 2"]
+      }
+    },
+    {
+      "key": "island-a",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Island A",
+        "ru": "Island A",
+        "ar": "الجزيرة A",
+        "hi": "आइलैंड A"
+      },
+      "aliases": {
+        "en": ["island a"],
+        "ru": ["айленд а"],
+        "ar": ["الجزيرة a"],
+        "hi": ["आइलैंड a"]
+      }
+    },
+    {
+      "key": "island-b",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Island B",
+        "ru": "Island B",
+        "ar": "الجزيرة B",
+        "hi": "आइलैंड B"
+      },
+      "aliases": {
+        "en": ["island b"],
+        "ru": ["айленд б"],
+        "ar": ["الجزيرة b"],
+        "hi": ["आइलैंड b"]
+      }
+    },
+    {
+      "key": "island-c",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Island C",
+        "ru": "Island C",
+        "ar": "الجزيرة C",
+        "hi": "आइलैंड C"
+      },
+      "aliases": {
+        "en": ["island c"],
+        "ru": ["айленд с"],
+        "ar": ["الجزيرة c"],
+        "hi": ["आइलैंड c"]
+      }
+    },
+    {
+      "key": "island-d",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Island D",
+        "ru": "Island D",
+        "ar": "الجزيرة D",
+        "hi": "आइलैंड D"
+      },
+      "aliases": {
+        "en": ["island d"],
+        "ru": ["айленд д"],
+        "ar": ["الجزيرة d"],
+        "hi": ["आइलैंड d"]
+      }
+    },
+    {
+      "key": "island-e",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Island E",
+        "ru": "Island E",
+        "ar": "الجزيرة E",
+        "hi": "आइलैंड E"
+      },
+      "aliases": {
+        "en": ["island e"],
+        "ru": ["айленд е"],
+        "ar": ["الجزيرة e"],
+        "hi": ["आइलैंड e"]
+      }
+    },
+    {
+      "key": "jbr",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "JBR",
+        "ru": "JBR",
+        "ar": "جميرا بيتش ريزيدنس",
+        "hi": "जेबीआर"
+      },
+      "aliases": {
+        "en": ["jbr", "jumeirah beach residence"],
+        "ru": ["джбр", "джумейра бич резиденс"],
+        "ar": ["جميرا بيتش ريزيدنس"],
+        "hi": ["जेबीआर"]
+      }
+    },
+    {
+      "key": "jebel-ali-free-zone",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jebel Ali Free Zone",
+        "ru": "Jebel Ali Free Zone",
+        "ar": "المنطقة الحرة بجبل علي",
+        "hi": "जेबेल अली फ्री ज़ोन"
+      },
+      "aliases": {
+        "en": ["jebel ali free zone", "jafza"],
+        "ru": ["джебель али фри зон", "джафза"],
+        "ar": ["المنطقة الحرة بجبل علي"],
+        "hi": ["जेबेल अली फ्री ज़ोन"]
+      }
+    },
+    {
+      "key": "jebel-ali-hills",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jebel Ali Hills",
+        "ru": "Jebel Ali Hills",
+        "ar": "تلال جبل علي",
+        "hi": "जेबेल अली हिल्स"
+      },
+      "aliases": {
+        "en": ["jebel ali hills"],
+        "ru": ["джебель али хиллс"],
+        "ar": ["تلال جبل علي"],
+        "hi": ["जेबेल अली हिल्स"]
+      }
+    },
+    {
+      "key": "jebel-ali-industrial",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jebel Ali Industrial",
+        "ru": "Jebel Ali Industrial",
+        "ar": "جبل علي الصناعية",
+        "hi": "जेबेल अली इंडस्ट्रियल"
+      },
+      "aliases": {
+        "en": ["jebel ali industrial"],
+        "ru": ["джебель али индустриал"],
+        "ar": ["جبل علي الصناعية"],
+        "hi": ["जेबेल अली इंडस्ट्रियल"]
+      }
+    },
+    {
+      "key": "jebel-ali-palm",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jebel Ali Palm",
+        "ru": "Пальма Джебель Али",
+        "ar": "نخلة جبل علي",
+        "hi": "जेबेल अली पाम"
+      },
+      "aliases": {
+        "en": ["jebel ali palm", "palm jebel ali"],
+        "ru": ["пальма джебель али"],
+        "ar": ["نخلة جبل علي"],
+        "hi": ["जेबेल अली पाम"]
+      }
+    },
+    {
+      "key": "jebel-ali-village",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jebel Ali Village",
+        "ru": "Jebel Ali Village",
+        "ar": "قرية جبل علي",
+        "hi": "जेबेल अली विलेज"
+      },
+      "aliases": {
+        "en": ["jebel ali village"],
+        "ru": ["джебель али вилладж"],
+        "ar": ["قرية جبل علي"],
+        "hi": ["जेबेल अली विलेज"]
+      }
+    },
+    {
+      "key": "jebel-jais-base",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Jebel Jais Base",
+        "ru": "Jebel Jais Base",
+        "ar": "قاعدة جبل جيس",
+        "hi": "जेबेल जैस बेस"
+      },
+      "aliases": {
+        "en": ["jebel jais base"],
+        "ru": ["джебель джейс"],
+        "ar": ["قاعدة جبل جيس"],
+        "hi": ["जेबेल जैस"]
+      }
+    },
+    {
+      "key": "jlt",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "JLT",
+        "ru": "JLT",
+        "ar": "أبراج بحيرات جميرا",
+        "hi": "जेएलटी"
+      },
+      "aliases": {
+        "en": ["jlt", "jumeirah lakes towers"],
+        "ru": ["джлт", "джумейра лейкс тауэрс"],
+        "ar": ["أبراج بحيرات جميرا"],
+        "hi": ["जेएलटी"]
+      }
+    },
+    {
+      "key": "jubail-island-gate",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Jubail Island Gate",
+        "ru": "Jubail Island Gate",
+        "ar": "بوابة جزيرة الجبيل",
+        "hi": "जुबैल आइलैंड गेट"
+      },
+      "aliases": {
+        "en": ["jubail island gate"],
+        "ru": ["джубайл айленд гейт"],
+        "ar": ["بوابة جزيرة الجبيل"],
+        "hi": ["जुबैल आइलैंड गेट"]
+      }
+    },
+    {
+      "key": "jubail-mangroves",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Jubail Mangroves",
+        "ru": "Jubail Mangroves",
+        "ar": "مانغروف الجبيل",
+        "hi": "जुबैल मैंग्रोव्स"
+      },
+      "aliases": {
+        "en": ["jubail mangroves"],
+        "ru": ["джубайл мангров"],
+        "ar": ["مانغروف الجبيل"],
+        "hi": ["जुबैल मैंग्रोव्स"]
+      }
+    },
+    {
+      "key": "julphar",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Julphar",
+        "ru": "Julphar",
+        "ar": "جلفار",
+        "hi": "जुल्फार"
+      },
+      "aliases": {
+        "en": ["julphar"],
+        "ru": ["джульфар"],
+        "ar": ["جلفار"],
+        "hi": ["जुल्फार"]
+      }
+    },
+    {
+      "key": "julphar-towers-district",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Julphar Towers District",
+        "ru": "Julphar Towers District",
+        "ar": "منطقة أبراج جلفار",
+        "hi": "जुल्फार टावर्स डिस्ट्रिक्ट"
+      },
+      "aliases": {
+        "en": ["julphar towers district"],
+        "ru": ["джульфар тауэрс"],
+        "ar": ["أبراج جلفار"],
+        "hi": ["जुल्फार टावर्स"]
+      }
+    },
+    {
+      "key": "jumeirah-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jumeirah 1",
+        "ru": "Jumeirah 1",
+        "ar": "جميرا 1",
+        "hi": "जुमैरा 1"
+      },
+      "aliases": {
+        "en": ["jumeirah 1"],
+        "ru": ["джумейра 1"],
+        "ar": ["جميرا 1"],
+        "hi": ["जुमैरा 1"]
+      }
+    },
+    {
+      "key": "jumeirah-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jumeirah 2",
+        "ru": "Jumeirah 2",
+        "ar": "جميرا 2",
+        "hi": "जुमैरा 2"
+      },
+      "aliases": {
+        "en": ["jumeirah 2"],
+        "ru": ["джумейра 2"],
+        "ar": ["جميرا 2"],
+        "hi": ["जुमैरा 2"]
+      }
+    },
+    {
+      "key": "jumeirah-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jumeirah 3",
+        "ru": "Jumeirah 3",
+        "ar": "جميرا 3",
+        "hi": "जुमैरा 3"
+      },
+      "aliases": {
+        "en": ["jumeirah 3"],
+        "ru": ["джумейра 3"],
+        "ar": ["جميرا 3"],
+        "hi": ["जुमैरा 3"]
+      }
+    },
+    {
+      "key": "jumeirah-heights",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Jumeirah Heights",
+        "ru": "Jumeirah Heights",
+        "ar": "مرتفعات جميرا",
+        "hi": "जुमैरा हाइट्स"
+      },
+      "aliases": {
+        "en": ["jumeirah heights"],
+        "ru": ["джумейра хайц"],
+        "ar": ["مرتفعات جميرا"],
+        "hi": ["जुमैरा हाइट्स"]
+      }
+    },
+    {
+      "key": "jvc",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "JVC",
+        "ru": "JVC",
+        "ar": "دائرة قرية جميرا",
+        "hi": "जेवीसी"
+      },
+      "aliases": {
+        "en": ["jvc", "jumeirah village circle"],
+        "ru": ["джвс", "джумейра вилладж циркл"],
+        "ar": ["دائرة قرية جميرا"],
+        "hi": ["जेवीसी"]
+      }
+    },
+    {
+      "key": "jvt",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "JVT",
+        "ru": "JVT",
+        "ar": "مثلث قرية جميرا",
+        "hi": "जेवीटी"
+      },
+      "aliases": {
+        "en": ["jvt", "jumeirah village triangle"],
+        "ru": ["джвт", "джумейра вилладж трайангл"],
+        "ar": ["مثلث قرية جميرا"],
+        "hi": ["जेवीटी"]
+      }
+    },
+    {
+      "key": "kalba-beach",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Kalba Beach",
+        "ru": "Kalba Beach",
+        "ar": "شاطئ كلباء",
+        "hi": "कल्बा बीच"
+      },
+      "aliases": {
+        "en": ["kalba beach"],
+        "ru": ["калба бич"],
+        "ar": ["شاطئ كلباء"],
+        "hi": ["कल्बा बीच"]
+      }
+    },
+    {
+      "key": "kalba-central",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Kalba Central",
+        "ru": "Kalba Central",
+        "ar": "وسط كلباء",
+        "hi": "कल्बा सेंट्रल"
+      },
+      "aliases": {
+        "en": ["kalba central"],
+        "ru": ["калба центр"],
+        "ar": ["وسط كلباء"],
+        "hi": ["कल्बा सेंट्रल"]
+      }
+    },
+    {
+      "key": "karama",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Karama",
+        "ru": "Карама",
+        "ar": "الكرامة",
+        "hi": "करामा"
+      },
+      "aliases": {
+        "en": ["karama", "al karama"],
+        "ru": ["карама", "аль карама"],
+        "ar": ["الكرامة"],
+        "hi": ["करामा"]
+      }
+    },
+    {
+      "key": "khalifa-city",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Khalifa City",
+        "ru": "Khalifa City",
+        "ar": "مدينة خليفة",
+        "hi": "खलीफा सिटी"
+      },
+      "aliases": {
+        "en": ["khalifa city", "khalifa city a"],
+        "ru": ["халифа сити"],
+        "ar": ["مدينة خليفة"],
+        "hi": ["खलीफा सिटी"]
+      }
+    },
+    {
+      "key": "khor-fakkan-central",
+      "emirate": "sharjah",
+      "city": "khor-fakkan",
+      "labels": {
+        "en": "Khor Fakkan Central",
+        "ru": "Khor Fakkan Central",
+        "ar": "وسط خورفكان",
+        "hi": "खोर फक्कन सेंट्रल"
+      },
+      "aliases": {
+        "en": ["khor fakkan central"],
+        "ru": ["хорфаккан центр"],
+        "ar": ["خورفكان"],
+        "hi": ["खोर फक्कन"]
+      }
+    },
+    {
+      "key": "khuzam",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Khuzam",
+        "ru": "Khuzam",
+        "ar": "خزام",
+        "hi": "खुज़ाम"
+      },
+      "aliases": {
+        "en": ["khuzam"],
+        "ru": ["хузам"],
+        "ar": ["خزام"],
+        "hi": ["खुज़ाम"]
+      }
+    },
+    {
+      "key": "liwa",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Liwa",
+        "ru": "Лива",
+        "ar": "ليوا",
+        "hi": "लीवा"
+      },
+      "aliases": {
+        "en": ["liwa"],
+        "ru": ["лива"],
+        "ar": ["ليوا"],
+        "hi": ["लीवा"]
+      }
+    },
+    {
+      "key": "madhab",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Madhab",
+        "ru": "Madhab",
+        "ar": "مذهب",
+        "hi": "मधब"
+      },
+      "aliases": {
+        "en": ["madhab"],
+        "ru": ["мадхаб"],
+        "ar": ["مذهب"],
+        "hi": ["मधब"]
+      }
+    },
+    {
+      "key": "madinat-al-mataar",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Madinat Al Mataar",
+        "ru": "Madinat Al Mataar",
+        "ar": "مدينة المطار",
+        "hi": "मदिनत अल मातार"
+      },
+      "aliases": {
+        "en": ["madinat al mataar"],
+        "ru": ["мединат аль матаар"],
+        "ar": ["مدينة المطار"],
+        "hi": ["मदिनत अल मातार"]
+      }
+    },
+    {
+      "key": "madinat-zayed",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Madinat Zayed",
+        "ru": "Madinat Zayed",
+        "ar": "مدينة زايد",
+        "hi": "मदिनत ज़ायद"
+      },
+      "aliases": {
+        "en": ["madinat zayed"],
+        "ru": ["мединат заед"],
+        "ar": ["مدينة زايد"],
+        "hi": ["मदिनत ज़ायद"]
+      }
+    },
+    {
+      "key": "mankhool",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Mankhool",
+        "ru": "Манхул",
+        "ar": "المنخول",
+        "hi": "मनखूल"
+      },
+      "aliases": {
+        "en": ["mankhool"],
+        "ru": ["манхул"],
+        "ar": ["المنخول"],
+        "hi": ["मनखूल"]
+      }
+    },
+    {
+      "key": "marina-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Marina Residences",
+        "ru": "Marina Residences",
+        "ar": "مارينا ريزيدنسز",
+        "hi": "मरीना रेजिडेंसेस"
+      },
+      "aliases": {
+        "en": ["marina residences"],
+        "ru": ["марина резиденс"],
+        "ar": ["مارينا ريزيدنسز"],
+        "hi": ["मरीना रेजिडेंसेस"]
+      }
+    },
+    {
+      "key": "masafi",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Masafi",
+        "ru": "Масафи",
+        "ar": "مسافي",
+        "hi": "मसाफी"
+      },
+      "aliases": {
+        "en": ["masafi"],
+        "ru": ["масафи"],
+        "ar": ["مسافي"],
+        "hi": ["मसाफी"]
+      }
+    },
+    {
+      "key": "masdar-city",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Masdar City",
+        "ru": "Masdar City",
+        "ar": "مدينة مصدر",
+        "hi": "मसदर सिटी"
+      },
+      "aliases": {
+        "en": ["masdar city"],
+        "ru": ["масдар сити"],
+        "ar": ["مدينة مصدر"],
+        "hi": ["मसदर सिटी"]
+      }
+    },
+    {
+      "key": "masfout",
+      "emirate": "ajman",
+      "city": "ajman",
+      "labels": {
+        "en": "Masfout",
+        "ru": "Masfout",
+        "ar": "مصفوت",
+        "hi": "मसफूत"
+      },
+      "aliases": {
+        "en": ["masfout"],
+        "ru": ["масфут"],
+        "ar": ["مصفوت"],
+        "hi": ["मसफूत"]
+      }
+    },
+    {
+      "key": "mbz-city",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "MBZ City",
+        "ru": "MBZ City",
+        "ar": "مدينة محمد بن زايد",
+        "hi": "एमबीजेड सिटी"
+      },
+      "aliases": {
+        "en": ["mbz city", "mohammed bin zayed city"],
+        "ru": ["мбз сити", "мухаммед бин заед сити"],
+        "ar": ["مدينة محمد بن زايد"],
+        "hi": ["एमबीजेड सिटी"]
+      }
+    },
+    {
+      "key": "meydan",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Meydan",
+        "ru": "Мейдан",
+        "ar": "ميدان",
+        "hi": "मेयदान"
+      },
+      "aliases": {
+        "en": ["meydan"],
+        "ru": ["мейдан"],
+        "ar": ["ميدان"],
+        "hi": ["मेयदान"]
+      }
+    },
+    {
+      "key": "mina-al-arab",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Mina Al Arab",
+        "ru": "Mina Al Arab",
+        "ar": "ميناء العرب",
+        "hi": "मीना अल अरब"
+      },
+      "aliases": {
+        "en": ["mina al arab"],
+        "ru": ["мина аль араб"],
+        "ar": ["ميناء العرب"],
+        "hi": ["मीना अल अरब"]
+      }
+    },
+    {
+      "key": "mirbah",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Mirbah",
+        "ru": "Mirbah",
+        "ar": "مربح",
+        "hi": "मिरबह"
+      },
+      "aliases": {
+        "en": ["mirbah"],
+        "ru": ["мирбах"],
+        "ar": ["مربح"],
+        "hi": ["मिरबह"]
+      }
+    },
+    {
+      "key": "mirdif",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Mirdif",
+        "ru": "Мирдиф",
+        "ar": "مردف",
+        "hi": "मिर्दिफ"
+      },
+      "aliases": {
+        "en": ["mirdif"],
+        "ru": ["мирдиф"],
+        "ar": ["مردف"],
+        "hi": ["मिर्दिफ"]
+      }
+    },
+    {
+      "key": "mohammed-bin-zayed-south",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Mohammed Bin Zayed South",
+        "ru": "Mohammed Bin Zayed South",
+        "ar": "محمد بن زايد جنوب",
+        "hi": "मोहम्मद बिन ज़ायद साउथ"
+      },
+      "aliases": {
+        "en": ["mohammed bin zayed south"],
+        "ru": ["мбз саут"],
+        "ar": ["محمد بن زايد جنوب"],
+        "hi": ["मोहम्मद बिन ज़ायद साउथ"]
+      }
+    },
+    {
+      "key": "motor-city",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Motor City",
+        "ru": "Motor City",
+        "ar": "موتور سيتي",
+        "hi": "मोटर सिटी"
+      },
+      "aliases": {
+        "en": ["motor city"],
+        "ru": ["мотор сити"],
+        "ar": ["موتور سيتي"],
+        "hi": ["मोटर सिटी"]
+      }
+    },
+    {
+      "key": "mudon",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Mudon",
+        "ru": "Мудон",
+        "ar": "مدن",
+        "hi": "मुडोन"
+      },
+      "aliases": {
+        "en": ["mudon"],
+        "ru": ["мудон"],
+        "ar": ["مدن"],
+        "hi": ["मुडोन"]
+      }
+    },
+    {
+      "key": "muhaisnah-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Muhaisnah 1",
+        "ru": "Muhaisnah 1",
+        "ar": "المحيصنة 1",
+        "hi": "मुहैसना 1"
+      },
+      "aliases": {
+        "en": ["muhaisnah 1"],
+        "ru": ["мухайсна 1"],
+        "ar": ["المحيصنة 1"],
+        "hi": ["मुहैसना 1"]
+      }
+    },
+    {
+      "key": "muhaisnah-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Muhaisnah 2",
+        "ru": "Muhaisnah 2",
+        "ar": "المحيصنة 2",
+        "hi": "मुहैसना 2"
+      },
+      "aliases": {
+        "en": ["muhaisnah 2"],
+        "ru": ["мухайсна 2"],
+        "ar": ["المحيصنة 2"],
+        "hi": ["मुहैसना 2"]
+      }
+    },
+    {
+      "key": "muhaisnah-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Muhaisnah 3",
+        "ru": "Muhaisnah 3",
+        "ar": "المحيصنة 3",
+        "hi": "मुहैसना 3"
+      },
+      "aliases": {
+        "en": ["muhaisnah 3"],
+        "ru": ["мухайсна 3"],
+        "ar": ["المحيصنة 3"],
+        "hi": ["मुहैसना 3"]
+      }
+    },
+    {
+      "key": "muhaisnah-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Muhaisnah 4",
+        "ru": "Muhaisnah 4",
+        "ar": "المحيصنة 4",
+        "hi": "मुहैसना 4"
+      },
+      "aliases": {
+        "en": ["muhaisnah 4"],
+        "ru": ["мухайсна 4"],
+        "ar": ["المحيصنة 4"],
+        "hi": ["मुहैसना 4"]
+      }
+    },
+    {
+      "key": "mussafah",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Mussafah",
+        "ru": "Мусаффах",
+        "ar": "مصفح",
+        "hi": "मुसाफ्फाह"
+      },
+      "aliases": {
+        "en": ["mussafah"],
+        "ru": ["мусаффах"],
+        "ar": ["مصفح"],
+        "hi": ["मुसाफ्फाह"]
+      }
+    },
+    {
+      "key": "muwaileh",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Muwaileh",
+        "ru": "Мувайлех",
+        "ar": "مويلح",
+        "hi": "मुवैला"
+      },
+      "aliases": {
+        "en": ["muwaileh"],
+        "ru": ["мувайлех"],
+        "ar": ["مويلح"],
+        "hi": ["मुवैला"]
+      }
+    },
+    {
+      "key": "nad-al-sheba-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Nad Al Sheba 1",
+        "ru": "Nad Al Sheba 1",
+        "ar": "ند الشبا 1",
+        "hi": "नद अल शेबा 1"
+      },
+      "aliases": {
+        "en": ["nad al sheba 1"],
+        "ru": ["над аль шеба 1"],
+        "ar": ["ند الشبا 1"],
+        "hi": ["नद अल शेबा 1"]
+      }
+    },
+    {
+      "key": "nad-al-sheba-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Nad Al Sheba 2",
+        "ru": "Nad Al Sheba 2",
+        "ar": "ند الشبا 2",
+        "hi": "नद अल शेबा 2"
+      },
+      "aliases": {
+        "en": ["nad al sheba 2"],
+        "ru": ["над аль шеба 2"],
+        "ar": ["ند الشبا 2"],
+        "hi": ["नद अल शेबा 2"]
+      }
+    },
+    {
+      "key": "nad-al-sheba-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Nad Al Sheba 3",
+        "ru": "Nad Al Sheba 3",
+        "ar": "ند الشبا 3",
+        "hi": "नद अल शेबा 3"
+      },
+      "aliases": {
+        "en": ["nad al sheba 3"],
+        "ru": ["над аль шеба 3"],
+        "ar": ["ند الشبا 3"],
+        "hi": ["नद अल शेबा 3"]
+      }
+    },
+    {
+      "key": "nad-al-sheba-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Nad Al Sheba 4",
+        "ru": "Nad Al Sheba 4",
+        "ar": "ند الشبا 4",
+        "hi": "नद अल शेबा 4"
+      },
+      "aliases": {
+        "en": ["nad al sheba 4"],
+        "ru": ["над аль шеба 4"],
+        "ar": ["ند الشبا 4"],
+        "hi": ["नद अल शेबा 4"]
+      }
+    },
+    {
+      "key": "oceana-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Oceana Residences",
+        "ru": "Oceana Residences",
+        "ar": "أوشيانا ريزيدنسز",
+        "hi": "ओशियाना रेजिडेंसेस"
+      },
+      "aliases": {
+        "en": ["oceana residences"],
+        "ru": ["осиана резиденс"],
+        "ar": ["أوشيانا ريزيدنسز"],
+        "hi": ["ओशियाना रेजिडेंसेस"]
+      }
+    },
+    {
+      "key": "old-town-uaq",
+      "emirate": "umm-al-quwain",
+      "city": "umm-al-quwain",
+      "labels": {
+        "en": "Old Town UAQ",
+        "ru": "Old Town UAQ",
+        "ar": "المدينة القديمة أم القيوين",
+        "hi": "ओल्ड टाउन यूएक्यू"
+      },
+      "aliases": {
+        "en": ["old town uaq"],
+        "ru": ["олд таун уак"],
+        "ar": ["المدينة القديمة أم القيوين"],
+        "hi": ["ओल्ड टाउन यूएक्यू"]
+      }
+    },
+    {
+      "key": "oud-al-muteena-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Oud Al Muteena 1",
+        "ru": "Oud Al Muteena 1",
+        "ar": "عود المطينة 1",
+        "hi": "ऊद अल मुतैना 1"
+      },
+      "aliases": {
+        "en": ["oud al muteena 1"],
+        "ru": ["уд аль мутена 1"],
+        "ar": ["عود المطينة 1"],
+        "hi": ["ऊद अल मुतैना 1"]
+      }
+    },
+    {
+      "key": "oud-al-muteena-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Oud Al Muteena 2",
+        "ru": "Oud Al Muteena 2",
+        "ar": "عود المطينة 2",
+        "hi": "ऊद अल मुतैना 2"
+      },
+      "aliases": {
+        "en": ["oud al muteena 2"],
+        "ru": ["уд аль мутена 2"],
+        "ar": ["عود المطينة 2"],
+        "hi": ["ऊद अल मुतैना 2"]
+      }
+    },
+    {
+      "key": "oud-metha",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Oud Metha",
+        "ru": "Оуд Мета",
+        "ar": "عود ميثاء",
+        "hi": "ऊद मेथा"
+      },
+      "aliases": {
+        "en": ["oud metha"],
+        "ru": ["оуд мета"],
+        "ar": ["عود ميثاء"],
+        "hi": ["ऊद मेथा"]
+      }
+    },
+    {
+      "key": "palm-east-beach",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm East Beach",
+        "ru": "Palm East Beach",
+        "ar": "شاطئ النخلة الشرقي",
+        "hi": "पाम ईस्ट बीच"
+      },
+      "aliases": {
+        "en": ["palm east beach"],
+        "ru": ["палм ист бич"],
+        "ar": ["شاطئ النخلة الشرقي"],
+        "hi": ["पाम ईस्ट बीच"]
+      }
+    },
+    {
+      "key": "palm-jumeirah",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah",
+        "ru": "Пальма Джумейра",
+        "ar": "نخلة جميرا",
+        "hi": "पाम जुमेरा"
+      },
+      "aliases": {
+        "en": ["palm jumeirah", "the palm"],
+        "ru": ["палм джумейра", "пальма джумейра"],
+        "ar": ["نخلة جميرا"],
+        "hi": ["पाम जुमेरा"]
+      }
+    },
+    {
+      "key": "palm-jumeirah-trunk",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm Jumeirah Trunk",
+        "ru": "Palm Jumeirah Trunk",
+        "ar": "جذع نخلة جميرا",
+        "hi": "पाम जुमेरा ट्रंक"
+      },
+      "aliases": {
+        "en": ["palm jumeirah trunk", "trunk palm jumeirah"],
+        "ru": ["ствол пальмы джумейра"],
+        "ar": ["جذع نخلة جميرا"],
+        "hi": ["पाम जुमेरा ट्रंक"]
+      }
+    },
+    {
+      "key": "palm-west-beach",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Palm West Beach",
+        "ru": "Palm West Beach",
+        "ar": "شاطئ النخلة الغربي",
+        "hi": "पाम वेस्ट बीच"
+      },
+      "aliases": {
+        "en": ["palm west beach"],
+        "ru": ["палм вест бич"],
+        "ar": ["شاطئ النخلة الغربي"],
+        "hi": ["पाम वेस्ट बीच"]
+      }
+    },
+    {
+      "key": "port-rashid",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Port Rashid",
+        "ru": "Порт Рашид",
+        "ar": "ميناء راشد",
+        "hi": "पोर्ट राशिद"
+      },
+      "aliases": {
+        "en": ["port rashid"],
+        "ru": ["порт рашид"],
+        "ar": ["ميناء راشد"],
+        "hi": ["पोर्ट राशिद"]
+      }
+    },
+    {
+      "key": "port-saeed",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Port Saeed",
+        "ru": "Порт Саид",
+        "ar": "بور سعيد",
+        "hi": "पोर्ट सईद"
+      },
+      "aliases": {
+        "en": ["port saeed"],
+        "ru": ["порт саид"],
+        "ar": ["بور سعيد"],
+        "hi": ["पोर्ट सईद"]
+      }
+    },
+    {
+      "key": "qidfa",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Qidfa",
+        "ru": "Кидфа",
+        "ar": "قدفع",
+        "hi": "किदफा"
+      },
+      "aliases": {
+        "en": ["qidfa"],
+        "ru": ["кидфа"],
+        "ar": ["قدفع"],
+        "hi": ["किदफा"]
+      }
+    },
+    {
+      "key": "qurayya",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Qurayya",
+        "ru": "Курайя",
+        "ar": "قرية",
+        "hi": "कुरय्या"
+      },
+      "aliases": {
+        "en": ["qurayya"],
+        "ru": ["курайя"],
+        "ar": ["قرية"],
+        "hi": ["कुरय्या"]
+      }
+    },
+    {
+      "key": "raha-beach-east",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Raha Beach East",
+        "ru": "Raha Beach East",
+        "ar": "شاطئ الراحة الشرقي",
+        "hi": "राहा बीच ईस्ट"
+      },
+      "aliases": {
+        "en": ["raha beach east"],
+        "ru": ["раха бич ист"],
+        "ar": ["شاطئ الراحة الشرقي"],
+        "hi": ["राहा बीच ईस्ट"]
+      }
+    },
+    {
+      "key": "raha-beach-west",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Raha Beach West",
+        "ru": "Raha Beach West",
+        "ar": "شاطئ الراحة الغربي",
+        "hi": "राहा बीच वेस्ट"
+      },
+      "aliases": {
+        "en": ["raha beach west"],
+        "ru": ["раха бич вест"],
+        "ar": ["شاطئ الراحة الغربي"],
+        "hi": ["राहा बीच वेस्ट"]
+      }
+    },
+    {
+      "key": "raha-gardens-south",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Raha Gardens South",
+        "ru": "Raha Gardens South",
+        "ar": "حدائق الراحة الجنوبية",
+        "hi": "राहा गार्डन्स साउथ"
+      },
+      "aliases": {
+        "en": ["raha gardens south"],
+        "ru": ["раха гарденс саут"],
+        "ar": ["حدائق الراحة الجنوبية"],
+        "hi": ["राहा गार्डन्स साउथ"]
+      }
+    },
+    {
+      "key": "rak-city",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "RAK City",
+        "ru": "RAK City",
+        "ar": "مدينة رأس الخيمة",
+        "hi": "आरएके सिटी"
+      },
+      "aliases": {
+        "en": ["rak city", "ras al khaimah city"],
+        "ru": ["рак сити", "рас аль хайма сити"],
+        "ar": ["مدينة رأس الخيمة"],
+        "hi": ["आरएके सिटी"]
+      }
+    },
+    {
+      "key": "rams-north",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Rams North",
+        "ru": "Rams North",
+        "ar": "رمس الشمالية",
+        "hi": "राम्स नॉर्थ"
+      },
+      "aliases": {
+        "en": ["rams north"],
+        "ru": ["рамс норт"],
+        "ar": ["رمس الشمالية"],
+        "hi": ["राम्स नॉर्थ"]
+      }
+    },
+    {
+      "key": "ras-al-khor",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Ras Al Khor",
+        "ru": "Рас Аль Хор",
+        "ar": "رأس الخور",
+        "hi": "रस अल खोर"
+      },
+      "aliases": {
+        "en": ["ras al khor"],
+        "ru": ["рас аль хор"],
+        "ar": ["رأس الخور"],
+        "hi": ["रस अल खोर"]
+      }
+    },
+    {
+      "key": "ras-al-khor-industrial-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Ras Al Khor Industrial 1",
+        "ru": "Ras Al Khor Industrial 1",
+        "ar": "رأس الخور الصناعية 1",
+        "hi": "रस अल खोर इंडस्ट्रियल 1"
+      },
+      "aliases": {
+        "en": ["ras al khor industrial 1"],
+        "ru": ["рас аль хор индустриал 1"],
+        "ar": ["رأس الخور الصناعية 1"],
+        "hi": ["रस अल खोर इंडस्ट्रियल 1"]
+      }
+    },
+    {
+      "key": "ras-al-khor-industrial-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Ras Al Khor Industrial 2",
+        "ru": "Ras Al Khor Industrial 2",
+        "ar": "رأس الخور الصناعية 2",
+        "hi": "रस अल खोर इंडस्ट्रियल 2"
+      },
+      "aliases": {
+        "en": ["ras al khor industrial 2"],
+        "ru": ["рас аль хор индустриал 2"],
+        "ar": ["رأس الخور الصناعية 2"],
+        "hi": ["रस अल खोर इंडस्ट्रियल 2"]
+      }
+    },
+    {
+      "key": "ras-al-khor-industrial-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Ras Al Khor Industrial 3",
+        "ru": "Ras Al Khor Industrial 3",
+        "ar": "رأس الخور الصناعية 3",
+        "hi": "रस अल खोर इंडस्ट्रियल 3"
+      },
+      "aliases": {
+        "en": ["ras al khor industrial 3"],
+        "ru": ["рас аль хор индустриал 3"],
+        "ar": ["رأس الخور الصناعية 3"],
+        "hi": ["रस अल खोर इंडस्ट्रियल 3"]
+      }
+    },
+    {
+      "key": "ras-al-khor-wildlife-sanctuary",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Ras Al Khor Wildlife Sanctuary",
+        "ru": "Заповедник Рас Аль Хор",
+        "ar": "محمية رأس الخور للحياة الفطرية",
+        "hi": "रस अल खोर वाइल्डलाइफ सैंक्चुअरी"
+      },
+      "aliases": {
+        "en": ["ras al khor sanctuary", "ras al khor wildlife"],
+        "ru": ["заповедник рас аль хор"],
+        "ar": ["محمية رأس الخور"],
+        "hi": ["रस अल खोर सैंक्चुअरी"]
+      }
+    },
+    {
+      "key": "rawdhat",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Rawdhat",
+        "ru": "Равдат",
+        "ar": "الروضات",
+        "hi": "रौधात"
+      },
+      "aliases": {
+        "en": ["rawdhat"],
+        "ru": ["равдат"],
+        "ar": ["الروضات"],
+        "hi": ["रौधात"]
+      }
+    },
+    {
+      "key": "remraam",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Remraam",
+        "ru": "Ремраам",
+        "ar": "رمرام",
+        "hi": "रेमराम"
+      },
+      "aliases": {
+        "en": ["remraam"],
+        "ru": ["ремраам"],
+        "ar": ["رمرام"],
+        "hi": ["रेमराम"]
+      }
+    },
+    {
+      "key": "riggat-al-buteen",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Riggat Al Buteen",
+        "ru": "Риггат Аль Бутейн",
+        "ar": "رقة البطين",
+        "hi": "रिग्गत अल बुटीन"
+      },
+      "aliases": {
+        "en": ["riggat al buteen"],
+        "ru": ["риггат аль бутейн"],
+        "ar": ["رقة البطين"],
+        "hi": ["रिग्गत अल बुटीन"]
+      }
+    },
+    {
+      "key": "saadiyat-island",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Saadiyat Island",
+        "ru": "Остров Саадият",
+        "ar": "جزيرة السعديات",
+        "hi": "सादियात आइलैंड"
+      },
+      "aliases": {
+        "en": ["saadiyat", "saadiyat island"],
+        "ru": ["саадият", "остров саадият"],
+        "ar": ["السعديات"],
+        "hi": ["सादियात"]
+      }
+    },
+    {
+      "key": "saih-shuaib-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Saih Shuaib 1",
+        "ru": "Saih Shuaib 1",
+        "ar": "سيح شعيب 1",
+        "hi": "सैह शुआइब 1"
+      },
+      "aliases": {
+        "en": ["saih shuaib 1"],
+        "ru": ["сейх шуайб 1"],
+        "ar": ["سيح شعيب 1"],
+        "hi": ["सैह शुआइब 1"]
+      }
+    },
+    {
+      "key": "saih-shuaib-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Saih Shuaib 2",
+        "ru": "Saih Shuaib 2",
+        "ar": "سيح شعيب 2",
+        "hi": "सैह शुआइब 2"
+      },
+      "aliases": {
+        "en": ["saih shuaib 2"],
+        "ru": ["сейх шуайб 2"],
+        "ar": ["سيح شعيب 2"],
+        "hi": ["सैह शुआइब 2"]
+      }
+    },
+    {
+      "key": "saih-shuaib-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Saih Shuaib 3",
+        "ru": "Saih Shuaib 3",
+        "ar": "سيح شعيب 3",
+        "hi": "सैह शुआइब 3"
+      },
+      "aliases": {
+        "en": ["saih shuaib 3"],
+        "ru": ["сейх шуайб 3"],
+        "ar": ["سيح شعيب 3"],
+        "hi": ["सैह शुआइब 3"]
+      }
+    },
+    {
+      "key": "sakamkam",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Sakamkam",
+        "ru": "Сакамкам",
+        "ar": "سكمكم",
+        "hi": "साकमकाम"
+      },
+      "aliases": {
+        "en": ["sakamkam"],
+        "ru": ["сакамкам"],
+        "ar": ["سكمكم"],
+        "hi": ["साकमकाम"]
+      }
+    },
+    {
+      "key": "seih-al-burairat",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Seih Al Burairat",
+        "ru": "Seih Al Burairat",
+        "ar": "سيح البريرات",
+        "hi": "सेइह अल बुरैरात"
+      },
+      "aliases": {
+        "en": ["seih al burairat"],
+        "ru": ["сейх аль бурайрат"],
+        "ar": ["سيح البريرات"],
+        "hi": ["सेइह अल बुरैरात"]
+      }
+    },
+    {
+      "key": "seih-al-uraibi",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Seih Al Uraibi",
+        "ru": "Seih Al Uraibi",
+        "ar": "سيح العريبي",
+        "hi": "सेइह अल उरैबी"
+      },
+      "aliases": {
+        "en": ["seih al uraibi"],
+        "ru": ["сейх аль урайби"],
+        "ar": ["سيح العريبي"],
+        "hi": ["सेइह अल उरैबी"]
+      }
+    },
+    {
+      "key": "serena",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Serena",
+        "ru": "Serena",
+        "ar": "سيرينا",
+        "hi": "सेरेना"
+      },
+      "aliases": {
+        "en": ["serena dubai"],
+        "ru": ["серена дубай"],
+        "ar": ["سيرينا"],
+        "hi": ["सेरेना"]
+      }
+    },
+    {
+      "key": "shaam",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Shaam",
+        "ru": "Шаам",
+        "ar": "شعم",
+        "hi": "शाम"
+      },
+      "aliases": {
+        "en": ["shaam"],
+        "ru": ["шаам"],
+        "ar": ["شعم"],
+        "hi": ["शाम"]
+      }
+    },
+    {
+      "key": "shakhbout-city",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Shakhbout City",
+        "ru": "Шахбут Сити",
+        "ar": "مدينة شخبوط",
+        "hi": "शख़बूत सिटी"
+      },
+      "aliases": {
+        "en": ["shakhbout"],
+        "ru": ["шахбут"],
+        "ar": ["مدينة شخبوط"],
+        "hi": ["शख़बूत"]
+      }
+    },
+    {
+      "key": "sharjah-industrial-area-1",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Sharjah Industrial Area 1",
+        "ru": "Sharjah Industrial Area 1",
+        "ar": "المنطقة الصناعية 1 الشارقة",
+        "hi": "शारजाह इंडस्ट्रियल एरिया 1"
+      },
+      "aliases": {
+        "en": ["sharjah industrial area 1"],
+        "ru": ["шарджа индустриал 1"],
+        "ar": ["المنطقة الصناعية 1"],
+        "hi": ["शारजाह इंडस्ट्रियल 1"]
+      }
+    },
+    {
+      "key": "sharjah-industrial-area-2",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Sharjah Industrial Area 2",
+        "ru": "Sharjah Industrial Area 2",
+        "ar": "المنطقة الصناعية 2 الشارقة",
+        "hi": "शारजाह इंडस्ट्रियल एरिया 2"
+      },
+      "aliases": {
+        "en": ["sharjah industrial area 2", "industrial area 2 sharjah"],
+        "ru": ["шарджа индустриал 2"],
+        "ar": ["المنطقة الصناعية 2"],
+        "hi": ["शारजाह इंडस्ट्रियल 2"]
+      }
+    },
+    {
+      "key": "sharjah-industrial-area-3",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Sharjah Industrial Area 3",
+        "ru": "Sharjah Industrial Area 3",
+        "ar": "المنطقة الصناعية 3 الشارقة",
+        "hi": "शारजाह इंडस्ट्रियल एरिया 3"
+      },
+      "aliases": {
+        "en": ["sharjah industrial area 3", "industrial area 3 sharjah"],
+        "ru": ["шарджа индустриал 3"],
+        "ar": ["المنطقة الصناعية 3"],
+        "hi": ["शारजाह इंडस्ट्रियल 3"]
+      }
+    },
+    {
+      "key": "sharjah-waterfront-city",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Sharjah Waterfront City",
+        "ru": "Sharjah Waterfront City",
+        "ar": "مدينة الشارقة الواجهة البحرية",
+        "hi": "शारजाह वॉटरफ्रंट सिटी"
+      },
+      "aliases": {
+        "en": ["waterfront city sharjah"],
+        "ru": ["вотерфронт сити шарджа"],
+        "ar": ["واجهة الشارقة البحرية"],
+        "hi": ["वॉटरफ्रंट सिटी शारजाह"]
+      }
+    },
+    {
+      "key": "sharqan",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Sharqan",
+        "ru": "Шаркан",
+        "ar": "الشرقان",
+        "hi": "शारकान"
+      },
+      "aliases": {
+        "en": ["sharqan"],
+        "ru": ["шаркан"],
+        "ar": ["الشرقان"],
+        "hi": ["शारकान"]
+      }
+    },
+    {
+      "key": "shoreline-apartments",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Shoreline Apartments",
+        "ru": "Shoreline Apartments",
+        "ar": "شقق شورلاين",
+        "hi": "शोरलाइन अपार्टमेंट्स"
+      },
+      "aliases": {
+        "en": ["shoreline palm", "shoreline apartments palm jumeirah"],
+        "ru": ["шорлайн апартментс"],
+        "ar": ["شقق شورلاين نخلة جميرا"],
+        "hi": ["शोरलाइन पाम"]
+      }
+    },
+    {
+      "key": "sports-city",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Sports City",
+        "ru": "Sports City",
+        "ar": "مدينة دبي الرياضية",
+        "hi": "स्पोर्ट्स सिटी"
+      },
+      "aliases": {
+        "en": ["dubai sports city"],
+        "ru": ["дубай спортс сити"],
+        "ar": ["مدينة دبي الرياضية"],
+        "hi": ["दुबई स्पोर्ट्स सिटी"]
+      }
+    },
+    {
+      "key": "the-greens",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "The Greens",
+        "ru": "The Greens",
+        "ar": "ذا جرينز",
+        "hi": "द ग्रीन्स"
+      },
+      "aliases": {
+        "en": ["greens dubai"],
+        "ru": ["гринс дубай"],
+        "ar": ["جرينز دبي"],
+        "hi": ["ग्रीन्स दुबई"]
+      }
+    },
+    {
+      "key": "the-lakes",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "The Lakes",
+        "ru": "The Lakes",
+        "ar": "ذا ليكس",
+        "hi": "द लेक्स"
+      },
+      "aliases": {
+        "en": ["lakes dubai"],
+        "ru": ["лейкс дубай"],
+        "ar": ["ليكس دبي"],
+        "hi": ["लेक्स दुबई"]
+      }
+    },
+    {
+      "key": "the-meadows",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "The Meadows",
+        "ru": "The Meadows",
+        "ar": "ذا ميدوز",
+        "hi": "द मेडोज़"
+      },
+      "aliases": {
+        "en": ["meadows dubai"],
+        "ru": ["медоуз дубай"],
+        "ar": ["ميدوز دبي"],
+        "hi": ["मेडोज़ दुबई"]
+      }
+    },
+    {
+      "key": "the-point",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "The Point",
+        "ru": "The Point",
+        "ar": "ذا بوينت",
+        "hi": "द पॉइंट"
+      },
+      "aliases": {
+        "en": ["the pointe palm"],
+        "ru": ["пойнт пальма"],
+        "ar": ["ذا بوينت نخلة جميرا"],
+        "hi": ["द पॉइंट पाम"]
+      }
+    },
+    {
+      "key": "the-springs",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "The Springs",
+        "ru": "The Springs",
+        "ar": "ذا سبرينغز",
+        "hi": "द स्प्रिंग्स"
+      },
+      "aliases": {
+        "en": ["springs dubai"],
+        "ru": ["спрингс дубай"],
+        "ar": ["سبرينغز دبي"],
+        "hi": ["स्प्रिंग्स दुबई"]
+      }
+    },
+    {
+      "key": "the-views",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "The Views",
+        "ru": "The Views",
+        "ar": "ذا فيوز",
+        "hi": "द व्यूज़"
+      },
+      "aliases": {
+        "en": ["views dubai"],
+        "ru": ["вьюз дубай"],
+        "ar": ["فيوز دبي"],
+        "hi": ["व्यूज़ दुबई"]
+      }
+    },
+    {
+      "key": "tiara-residences",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Tiara Residences",
+        "ru": "Tiara Residences",
+        "ar": "تيارا ريزيدنسز",
+        "hi": "टियारा रेजिडेंस"
+      },
+      "aliases": {
+        "en": ["tiara palm", "tiara residences palm jumeirah"],
+        "ru": ["тиара пальма"],
+        "ar": ["تيارا نخلة جميرا"],
+        "hi": ["टियारा पाम"]
+      }
+    },
+    {
+      "key": "tilal-al-ghaf",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Tilal Al Ghaf",
+        "ru": "Tilal Al Ghaf",
+        "ar": "تلال الغاف",
+        "hi": "तिलाल अल ग़ाफ"
+      },
+      "aliases": {
+        "en": ["tilal al ghaf dubai"],
+        "ru": ["тилал аль гаф"],
+        "ar": ["تلال الغاف دبي"],
+        "hi": ["तिलाल अल ग़ाफ दुबई"]
+      }
+    },
+    {
+      "key": "tilal-city",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "Tilal City",
+        "ru": "Tilal City",
+        "ar": "مدينة تلال",
+        "hi": "तिलाल सिटी"
+      },
+      "aliases": {
+        "en": ["tilal city sharjah"],
+        "ru": ["тилал сити шарджа"],
+        "ar": ["تلال الشارقة"],
+        "hi": ["तिलाल सिटी शारजाह"]
+      }
+    },
+    {
+      "key": "town-square",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Town Square",
+        "ru": "Town Square",
+        "ar": "تاون سكوير",
+        "hi": "टाउन स्क्वेयर"
+      },
+      "aliases": {
+        "en": ["town square dubai"],
+        "ru": ["таун сквер дубай"],
+        "ar": ["تاون سكوير دبي"],
+        "hi": ["टाउन स्क्वेयर दुबई"]
+      }
+    },
+    {
+      "key": "umm-al-quwain-corniche",
+      "emirate": "umm-al-quwain",
+      "city": "umm-al-quwain",
+      "labels": {
+        "en": "Umm Al Quwain Corniche",
+        "ru": "Umm Al Quwain Corniche",
+        "ar": "كورنيش أم القيوين",
+        "hi": "उम्म अल क़ुवैन कॉर्निश"
+      },
+      "aliases": {
+        "en": ["uaq corniche", "umm al quwain corniche"],
+        "ru": ["корниш умм аль кувейн"],
+        "ar": ["كورنيش أم القيوين"],
+        "hi": ["कॉर्निश उम्म अल क़ुवैन"]
+      }
+    },
+    {
+      "key": "umm-al-quwain-marina",
+      "emirate": "umm-al-quwain",
+      "city": "umm-al-quwain",
+      "labels": {
+        "en": "Umm Al Quwain Marina",
+        "ru": "Umm Al Quwain Marina",
+        "ar": "مرسى أم القيوين",
+        "hi": "उम्म अल क़ुवैन मरीना"
+      },
+      "aliases": {
+        "en": ["uaq marina"],
+        "ru": ["марина умм аль кувейн"],
+        "ar": ["مارينا أم القيوين"],
+        "hi": ["मरीना उम्म अल क़ुवैन"]
+      }
+    },
+    {
+      "key": "umm-al-thuoob",
+      "emirate": "umm-al-quwain",
+      "city": "umm-al-quwain",
+      "labels": {
+        "en": "Umm Al Thuoob",
+        "ru": "Umm Al Thuoob",
+        "ar": "أم الثؤوب",
+        "hi": "उम्म अल थूब"
+      },
+      "aliases": {
+        "en": ["umm al thuub"],
+        "ru": ["умм аль туб"],
+        "ar": ["ام الثؤوب"],
+        "hi": ["उम्म थूब"]
+      }
+    },
+    {
+      "key": "umm-hurair-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Umm Hurair 1",
+        "ru": "Umm Hurair 1",
+        "ar": "أم هرير 1",
+        "hi": "उम्म हुरैर 1"
+      },
+      "aliases": {
+        "en": ["umm hurair one"],
+        "ru": ["умм хурайр 1"],
+        "ar": ["ام هرير 1"],
+        "hi": ["उम्म हुरैर वन"]
+      }
+    },
+    {
+      "key": "umm-hurair-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Umm Hurair 2",
+        "ru": "Umm Hurair 2",
+        "ar": "أم هرير 2",
+        "hi": "उम्म हुरैर 2"
+      },
+      "aliases": {
+        "en": ["umm hurair two"],
+        "ru": ["умм хурайр 2"],
+        "ar": ["ام هرير 2"],
+        "hi": ["उम्म हुरैर टू"]
+      }
+    },
+    {
+      "key": "umm-suqeim-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Umm Suqeim 1",
+        "ru": "Umm Suqeim 1",
+        "ar": "أم سقيم 1",
+        "hi": "उम्म सुक़ैम 1"
+      },
+      "aliases": {
+        "en": ["umm suqeim one"],
+        "ru": ["умм сукейим 1"],
+        "ar": ["ام سقيم 1"],
+        "hi": ["उम्म सुक़ैम वन"]
+      }
+    },
+    {
+      "key": "umm-suqeim-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Umm Suqeim 2",
+        "ru": "Umm Suqeim 2",
+        "ar": "أم سقيم 2",
+        "hi": "उम्म सुक़ैम 2"
+      },
+      "aliases": {
+        "en": ["umm suqeim two"],
+        "ru": ["умм сукейим 2"],
+        "ar": ["ام سقيم 2"],
+        "hi": ["उम्म सुक़ैम टू"]
+      }
+    },
+    {
+      "key": "umm-suqeim-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Umm Suqeim 3",
+        "ru": "Umm Suqeim 3",
+        "ar": "أم سقيم 3",
+        "hi": "उम्म सुक़ैम 3"
+      },
+      "aliases": {
+        "en": ["umm suqeim three"],
+        "ru": ["умм сукейим 3"],
+        "ar": ["ام سقيم 3"],
+        "hi": ["उम्म सुक़ैम थ्री"]
+      }
+    },
+    {
+      "key": "university-city-sharjah",
+      "emirate": "sharjah",
+      "city": "sharjah",
+      "labels": {
+        "en": "University City",
+        "ru": "University City",
+        "ar": "المدينة الجامعية الشارقة",
+        "hi": "यूनिवर्सिटी सिटी शारजाह"
+      },
+      "aliases": {
+        "en": ["university city sharjah"],
+        "ru": ["университи сити шарджа"],
+        "ar": ["المدينة الجامعية"],
+        "hi": ["यूनिवर्सिटी सिटी"]
+      }
+    },
+    {
+      "key": "wadi-al-amardi",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Wadi Al Amardi",
+        "ru": "Wadi Al Amardi",
+        "ar": "وادي العمردي",
+        "hi": "वाडी अल अमरदी"
+      },
+      "aliases": {
+        "en": ["wadi amardi"],
+        "ru": ["вади аль амарди"],
+        "ar": ["وادي العمردي"],
+        "hi": ["वाडी अमरदी"]
+      }
+    },
+    {
+      "key": "wadi-al-safa-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Wadi Al Safa 2",
+        "ru": "Wadi Al Safa 2",
+        "ar": "وادي الصفا 2",
+        "hi": "वाडी अल सफा 2"
+      },
+      "aliases": {
+        "en": ["wadi safaa 2"],
+        "ru": ["вади аль сафа 2"],
+        "ar": ["وادي الصفا ٢"],
+        "hi": ["वाडी सफा 2"]
+      }
+    },
+    {
+      "key": "wadi-al-safa-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Wadi Al Safa 3",
+        "ru": "Wadi Al Safa 3",
+        "ar": "وادي الصفا 3",
+        "hi": "वाडी अल सफा 3"
+      },
+      "aliases": {
+        "en": ["wadi safaa 3"],
+        "ru": ["вади аль сафа 3"],
+        "ar": ["وادي الصفا ٣"],
+        "hi": ["वाडी सफा 3"]
+      }
+    },
+    {
+      "key": "wadi-al-safa-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Wadi Al Safa 4",
+        "ru": "Wadi Al Safa 4",
+        "ar": "وادي الصفا 4",
+        "hi": "वाडी अल सफा 4"
+      },
+      "aliases": {
+        "en": ["wadi safaa 4"],
+        "ru": ["вади аль сафа 4"],
+        "ar": ["وادي الصفا ٤"],
+        "hi": ["वाडी सफा 4"]
+      }
+    },
+    {
+      "key": "wadi-al-shabak",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Wadi Al Shabak",
+        "ru": "Wadi Al Shabak",
+        "ar": "وادي الشباك",
+        "hi": "वाडी अल शबक"
+      },
+      "aliases": {
+        "en": ["wadi shabak"],
+        "ru": ["вади аль шабак"],
+        "ar": ["وادي الشباك"],
+        "hi": ["वाडी शबक"]
+      }
+    },
+    {
+      "key": "wadi-haqeel",
+      "emirate": "ras-al-khaimah",
+      "city": "ras-al-khaimah",
+      "labels": {
+        "en": "Wadi Haqeel",
+        "ru": "Wadi Haqeel",
+        "ar": "وادي حقيل",
+        "hi": "वाडी हकील"
+      },
+      "aliases": {
+        "en": ["wadi haqil"],
+        "ru": ["вади хакиль"],
+        "ar": ["وادي حقيل"],
+        "hi": ["वाडी हकील"]
+      }
+    },
+    {
+      "key": "wadi-saham",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Wadi Saham",
+        "ru": "Wadi Saham",
+        "ar": "وادي سهم",
+        "hi": "वाडी सहम"
+      },
+      "aliases": {
+        "en": ["wadi sahm"],
+        "ru": ["вади сахам"],
+        "ar": ["وادي سهم"],
+        "hi": ["वाडी सहम"]
+      }
+    },
+    {
+      "key": "wadi-siji",
+      "emirate": "fujairah",
+      "city": "fujairah",
+      "labels": {
+        "en": "Wadi Siji",
+        "ru": "Wadi Siji",
+        "ar": "وادي سيجي",
+        "hi": "वाडी सिजी"
+      },
+      "aliases": {
+        "en": ["wadi siji"],
+        "ru": ["вади сижи"],
+        "ar": ["وادي سيجي"],
+        "hi": ["वाडी सिजी"]
+      }
+    },
+    {
+      "key": "warqa-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Warqa 1",
+        "ru": "Warqa 1",
+        "ar": "الورقاء 1",
+        "hi": "अल वार्का 1"
+      },
+      "aliases": {
+        "en": ["al warqa 1", "warqa one"],
+        "ru": ["аль варка 1"],
+        "ar": ["الورقاء ١"],
+        "hi": ["वार्का 1"]
+      }
+    },
+    {
+      "key": "warqa-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Warqa 2",
+        "ru": "Warqa 2",
+        "ar": "الورقاء 2",
+        "hi": "अल वार्का 2"
+      },
+      "aliases": {
+        "en": ["al warqa 2", "warqa two"],
+        "ru": ["аль варка 2"],
+        "ar": ["الورقاء ٢"],
+        "hi": ["वार्का 2"]
+      }
+    },
+    {
+      "key": "warqa-3",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Warqa 3",
+        "ru": "Warqa 3",
+        "ar": "الورقاء 3",
+        "hi": "अल वार्का 3"
+      },
+      "aliases": {
+        "en": ["al warqa 3", "warqa three"],
+        "ru": ["аль варка 3"],
+        "ar": ["الورقاء ٣"],
+        "hi": ["वार्का 3"]
+      }
+    },
+    {
+      "key": "warqa-4",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Warqa 4",
+        "ru": "Warqa 4",
+        "ar": "الورقاء 4",
+        "hi": "अल वार्का 4"
+      },
+      "aliases": {
+        "en": ["al warqa 4"],
+        "ru": ["аль варка 4"],
+        "ar": ["الورقاء ٤"],
+        "hi": ["वार्का 4"]
+      }
+    },
+    {
+      "key": "warqa-5",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Warqa 5",
+        "ru": "Warqa 5",
+        "ar": "الورقاء 5",
+        "hi": "अल वार्का 5"
+      },
+      "aliases": {
+        "en": ["al warqa 5"],
+        "ru": ["аль варка 5"],
+        "ar": ["الورقاء ٥"],
+        "hi": ["वार्का 5"]
+      }
+    },
+    {
+      "key": "yas-island",
+      "emirate": "abu-dhabi",
+      "city": "abu-dhabi",
+      "labels": {
+        "en": "Yas Island",
+        "ru": "Yas Island",
+        "ar": "جزيرة ياس",
+        "hi": "यास आइलैंड"
+      },
+      "aliases": {
+        "en": ["yas island abu dhabi"],
+        "ru": ["остров яс"],
+        "ar": ["ياس"],
+        "hi": ["यास"]
+      }
+    },
+    {
+      "key": "zabeel-1",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Zabeel 1",
+        "ru": "Zabeel 1",
+        "ar": "زعبيل 1",
+        "hi": "ज़ाबील 1"
+      },
+      "aliases": {
+        "en": ["zabeel one"],
+        "ru": ["забил 1"],
+        "ar": ["زعبيل ١"],
+        "hi": ["ज़ाबील 1"]
+      }
+    },
+    {
+      "key": "zabeel-2",
+      "emirate": "dubai",
+      "city": "dubai",
+      "labels": {
+        "en": "Zabeel 2",
+        "ru": "Zabeel 2",
+        "ar": "زعبيل 2",
+        "hi": "ज़ाबील 2"
+      },
+      "aliases": {
+        "en": ["zabeel two"],
+        "ru": ["забил 2"],
+        "ar": ["زعبيل ٢"],
+        "hi": ["ज़ाबील 2"]
+      }
+    }
+      ],
+  "emirates": [
+    {
+      "key": "abu_dhabi",
+      "labels": {
+        "en": "Abu Dhabi",
+        "ru": "Абу-Даби",
+        "ar": "أبوظبي",
+        "hi": "अबू धाबी"
+      },
+      "aliases": {
+        "en": ["abu dhabi", "abudhabi", "abu-dhabi", "ad"],
+        "ru": ["абу даби", "абу-даби", "абудаби", "ад"],
+        "ar": ["أبوظبي", "ابوظبي", "أبو ظبي"],
+        "hi": ["अबू धाबी", "अबूधाबी"]
+      }
+    },
+    {
+      "key": "dubai",
+      "labels": {
+        "en": "Dubai",
+        "ru": "Дубай",
+        "ar": "دبي",
+        "hi": "दुबई"
+      },
+      "aliases": {
+        "en": ["dubai", "dxb"],
+        "ru": ["дубай", "дубаи", "дxb"],
+        "ar": ["دبي"],
+        "hi": ["दुबई"]
+      }
+    },
+    {
+      "key": "sharjah",
+      "labels": {
+        "en": "Sharjah",
+        "ru": "Шарджа",
+        "ar": "الشارقة",
+        "hi": "शारजाह"
+      },
+      "aliases": {
+        "en": ["sharjah", "shj"],
+        "ru": ["шарджа", "шаржа", "shj"],
+        "ar": ["الشارقة", "شارقة", "الشارجه"],
+        "hi": ["शारजाह", "शारजा"]
+      }
+    },
+    {
+      "key": "ajman",
+      "labels": {
+        "en": "Ajman",
+        "ru": "Аджман",
+        "ar": "عجمان",
+        "hi": "अजमान"
+      },
+      "aliases": {
+        "en": ["ajman", "ajm"],
+        "ru": ["аджман", "ажман", "ajm"],
+        "ar": ["عجمان"],
+        "hi": ["अजमान"]
+      }
+    },
+    {
+      "key": "rak",
+      "labels": {
+        "en": "Ras Al Khaimah",
+        "ru": "Рас-эль-Хайма",
+        "ar": "رأس الخيمة",
+        "hi": "रास अल खैमाह"
+      },
+      "aliases": {
+        "en": ["ras al khaimah", "rasalkhaimah", "ras-al-khaimah", "rak"],
+        "ru": ["рас аль хайма", "рас-эль-хайма", "расэльхайма", "рак"],
+        "ar": ["رأس الخيمة", "راس الخيمة", "رأسالخيمة"],
+        "hi": ["रास अल खैमाह", "रास अल खैमा", "आरएके"]
+      }
+    },
+    {
+      "key": "fujairah",
+      "labels": {
+        "en": "Fujairah",
+        "ru": "Фуджейра",
+        "ar": "الفجيرة",
+        "hi": "फ़ुजैरा"
+      },
+      "aliases": {
+        "en": ["fujairah", "fujeirah", "fujaira"],
+        "ru": ["фуджейра", "фуджера", "фуджэйра"],
+        "ar": ["الفجيرة", "فجيرة", "فُجيرة"],
+        "hi": ["फ़ुजैरा", "फुजैरा"]
+      }
+    },
+    {
+      "key": "uaq",
+      "labels": {
+        "en": "Umm Al Quwain",
+        "ru": "Умм-эль-Кувейн",
+        "ar": "أم القيوين",
+        "hi": "उम्म अल क्वैन"
+      },
+      "aliases": {
+        "en": ["uaq", "umm al quwain", "umm-al-quwain", "ummalquwain"],
+        "ru": ["умм эль кувейн", "умм-эль-кувейн", "умм аль кувейн"],
+        "ar": ["أم القيوين", "ام القيوين", "أمّ القيوين"],
+        "hi": ["उम्म अल क्वैन", "उम्म क्वैन"]
+      }
+    }
+  ]
+}

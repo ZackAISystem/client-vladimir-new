@@ -1,0 +1,150 @@
+{
+  "project_key": "eywa",
+  "slug": "eywa",
+
+  "name": {
+    "en": "Eywa",
+    "ru": "Eywa",
+    "ar": "إيوا",
+    "hi": "एयवा"
+  },
+
+  "developer": {
+    "en": "R.Evolution",
+    "ru": "R.Evolution",
+    "ar": "آر إيفوليوشن",
+    "hi": "आर.इवोल्यूशन"
+  },
+
+  "location_text": {
+    "en": "Business Bay",
+    "ru": "Business Bay",
+    "ar": "الخليج التجاري",
+    "hi": "बिज़नेस बे"
+  },
+
+  "hero_title": {
+    "en": "Eywa",
+    "ru": "Eywa",
+    "ar": "إيوا",
+    "hi": "एयवा"
+  },
+
+  "handover": {
+    "en": "April 2026",
+    "ru": "Апрель 2026",
+    "ar": "أبريل 2026",
+    "hi": "अप्रैल 2026"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "12,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–5 BR",
+    "ru": "2–5 спален",
+    "ar": "2–5 غرف نوم",
+    "hi": "2–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2945 sqft",
+    "ru": "от 2945 sqft",
+    "ar": "ابتداءً من 2945 قدم²",
+    "hi": "2945 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Eywa by R.Evolution is a luxury residential tower in Business Bay. The project offers 2 to 5-bedroom apartments and penthouses ranging from 2945 to 15834 sqft. Residences feature natural materials, wellness-oriented design principles, and views of the Dubai Water Canal and skyline. The development includes private amenities and is positioned within one of Dubai’s central districts.",
+    "ru": "Eywa от R.Evolution — жилой проект премиального уровня в районе Business Bay. В комплексе представлены апартаменты и пентхаусы с 2–5 спальнями площадью от 2945 до 15834 sqft. В отделке используются натуральные материалы, а концепция ориентирована на комфорт и приватность. Проект расположен рядом с Dubai Water Canal в центральной части города.",
+    "ar": "يُعد مشروع إيوا من R.Evolution برجاً سكنياً فاخراً في الخليج التجاري. يضم شققاً وبنتهاوس من 2 إلى 5 غرف نوم بمساحات من 2945 إلى 15834 قدم²، مع تصميم يركز على الراحة واستخدام المواد الطبيعية، وإطلالات على قناة دبي المائية.",
+    "hi": "आर.इवोल्यूशन द्वारा विकसित एयवा बिज़नेस बे में स्थित एक लक्ज़री रेजिडेंशियल टॉवर है। इसमें 2 से 5 बेडरूम अपार्टमेंट और पेंटहाउस उपलब्ध हैं, जिनका आकार 2945 से 15834 sqft तक है। प्राकृतिक सामग्री और वेलनेस-ओरिएंटेड डिज़ाइन इस परियोजना की मुख्य विशेषताएँ हैं।"
+  },
+
+  "promo_image": "/img/projects/eywa/promo.png",
+
+  "gallery": [
+    "/img/projects/eywa/gallery_1.png",
+    "/img/projects/eywa/gallery_2.png",
+    "/img/projects/eywa/gallery_3.png",
+    "/img/projects/eywa/gallery_4.png",
+    "/img/projects/eywa/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "10 min" },
+      { "name": "DXB Airport", "time": "18 min" },
+      { "name": "Dubai Marina", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "10 мин" },
+      { "name": "Аэропорт DXB", "time": "18 мин" },
+      { "name": "Dubai Marina", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "10 دقائق" },
+      { "name": "مطار دبي DXB", "time": "18 دقيقة" },
+      { "name": "مرسى دبي", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "18 मिनट" },
+      { "name": "दुबई मरीना", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Business Bay, Dubai",
+      "ru": "Business Bay, Дубай",
+      "ar": "الخليج التجاري، دبي",
+      "hi": "बिज़नेस बे, दुबई"
+    },
+    "lat": 25.1854,
+    "lng": 55.2722
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "business-bay",
+    "developer": "r-evolution",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2026,
+    "price_from_aed": 12000000,
+    "size_from_sqft": 2945,
+    "tokens_extra": ["uae", "waterfront", "luxury", "wellness"]
+  }
+}

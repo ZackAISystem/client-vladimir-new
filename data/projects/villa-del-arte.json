@@ -1,0 +1,150 @@
+{
+  "project_key": "villa-del-arte",
+  "slug": "villa-del-arte",
+
+  "name": {
+    "en": "Villa del Arte",
+    "ru": "Villa del Arte",
+    "ar": "فيلا ديل آرتي",
+    "hi": "विला डेल आर्टे"
+  },
+
+  "developer": {
+    "en": "Mr Eight Development",
+    "ru": "Mr Eight Development",
+    "ar": "مستر إيت للتطوير",
+    "hi": "मिस्टर एट डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "Dubai Islands",
+    "ru": "Dubai Islands",
+    "ar": "جزر دبي",
+    "hi": "दुबई आइलैंड्स"
+  },
+
+  "hero_title": {
+    "en": "Villa del Arte at Dubai Islands",
+    "ru": "Villa del Arte на Dubai Islands",
+    "ar": "فيلا ديل آرتي في جزر دبي",
+    "hi": "दुबई आइलैंड्स में विला डेल आर्टे"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "1,800,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Duplex"],
+    "ru": ["Апартаменты", "Дуплекс"],
+    "ar": ["شقة", "دوبلكس"],
+    "hi": ["अपार्टमेंट", "डुप्लेक्स"]
+  },
+
+  "unit_types": {
+    "en": "1–4 BR",
+    "ru": "1–4 спальни",
+    "ar": "1–4 غرف نوم",
+    "hi": "1–4 बेडरूम"
+  },
+
+  "size": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "down_payment": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "payment_plan": {
+    "en": "Flexible payment plan",
+    "ru": "Гибкий план оплаты",
+    "ar": "خطة دفع مرنة",
+    "hi": "लचीली भुगतान योजना"
+  },
+
+  "description": {
+    "en": "Villa del Arte is an 11-storey boutique residential development on Dubai Islands by Mr Eight Development in partnership with British design icon Tom Dixon. The project comprises approximately 64 residences including 1 to 4-bedroom apartments and duplexes. Interiors are curated with Italian travertine Romano, Calacatta Viola marble, bespoke stone finishes and premium European brands such as Antonio Lupi, Siemens and Cassina. Wellness is central to the concept, featuring a Technogym fitness center, spa with cryotherapy, infinity pool with private cabanas, sunset yoga terrace and curated tea lounge. Positioned within the master-planned Dubai Islands community, residents enjoy Blue Flag beaches, marinas, waterfront promenades and seamless connectivity to Downtown Dubai and DXB Airport.",
+    "ru": "Villa del Arte — 11-этажный бутик-проект на Dubai Islands от Mr Eight Development в партнёрстве с британским дизайнером Томом Диксоном. Комплекс включает около 64 резиденций с 1–4 спальнями, включая дуплексы. В отделке используются итальянский травертин Romano, мрамор Calacatta Viola и премиальные бренды Antonio Lupi, Siemens и Cassina. Проект ориентирован на wellness-образ жизни: фитнес Technogym, spa с криотерапией, инфинити-бассейн, терраса для йоги и лаунж-зона. Расположение в Dubai Islands обеспечивает доступ к пляжам Blue Flag, маринам и удобное сообщение с центром Дубая и аэропортом.",
+    "ar": "فيلا ديل آرتي هو مشروع سكني بوتيكي مكون من 11 طابقاً في جزر دبي من تطوير مستر إيت بالشراكة مع المصمم البريطاني توم ديكسون. يضم المشروع حوالي 64 وحدة سكنية تشمل شققاً ودوبلكسات من غرفة إلى أربع غرف نوم، مع تشطيبات فاخرة ومرافق صحية متكاملة.",
+    "hi": "विला डेल आर्टे दुबई आइलैंड्स पर स्थित 11-मंज़िला बुटीक प्रोजेक्ट है, जिसे मिस्टर एट डेवलपमेंट ने टॉम डिक्सन के सहयोग से विकसित किया है। इसमें 1 से 4 बेडरूम अपार्टमेंट और डुप्लेक्स शामिल हैं, जिनमें प्रीमियम इंटीरियर और वेलनेस सुविधाएँ उपलब्ध हैं।"
+  },
+
+  "promo_image": "/img/projects/villa-del-arte/promo.png",
+
+  "gallery": [
+    "/img/projects/villa-del-arte/gallery_1.png",
+    "/img/projects/villa-del-arte/gallery_2.png",
+    "/img/projects/villa-del-arte/gallery_3.png",
+    "/img/projects/villa-del-arte/gallery_4.png",
+    "/img/projects/villa-del-arte/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Dubai International Airport", "time": "20 min" },
+      { "name": "Gold Souk", "time": "15 min" },
+      { "name": "Downtown Dubai", "time": "25 min" }
+    ],
+    "ru": [
+      { "name": "Аэропорт DXB", "time": "20 мин" },
+      { "name": "Gold Souk", "time": "15 мин" },
+      { "name": "Downtown Dubai", "time": "25 мин" }
+    ],
+    "ar": [
+      { "name": "مطار دبي الدولي", "time": "20 دقيقة" },
+      { "name": "سوق الذهب", "time": "15 دقيقة" },
+      { "name": "داون تاون دبي", "time": "25 دقيقة" }
+    ],
+    "hi": [
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" },
+      { "name": "गोल्ड सूक", "time": "15 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "25 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Islands, Deira, Dubai, UAE",
+      "ru": "Dubai Islands, Deira, Дубай, ОАЭ",
+      "ar": "جزر دبي، ديرة، دبي، الإمارات",
+      "hi": "दुबई आइलैंड्स, देइरा, दुबई, यूएई"
+    },
+    "lat": 25.3090,
+    "lng": 55.3280
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-islands",
+    "developer": "mr-eight-development",
+    "property_types": ["apartment", "duplex"],
+    "bedrooms_min": 1,
+    "bedrooms_max": 4,
+    "handover_year": 2027,
+    "price_from_aed": 1800000,
+    "size_from_sqft": 0,
+    "tokens_extra": ["uae", "boutique", "wellness-living", "island-living"]
+  }
+}

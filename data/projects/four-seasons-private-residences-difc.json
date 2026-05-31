@@ -1,0 +1,150 @@
+{
+  "project_key": "four-seasons-private-residences-difc",
+  "slug": "four-seasons-private-residences-difc",
+
+  "name": {
+    "en": "Four Seasons Private Residences DIFC",
+    "ru": "Four Seasons Private Residences DIFC",
+    "ar": "فور سيزونز برايفت ريزيدنسز DIFC",
+    "hi": "फोर सीज़न्स प्राइवेट रेजिडेंसेज़ DIFC"
+  },
+
+  "developer": {
+    "en": "H&H Development",
+    "ru": "H&H Development",
+    "ar": "اتش اند اتش للتطوير",
+    "hi": "एच एंड एच डेवलपमेंट"
+  },
+
+  "location_text": {
+    "en": "DIFC",
+    "ru": "DIFC",
+    "ar": "مركز دبي المالي العالمي",
+    "hi": "DIFC"
+  },
+
+  "hero_title": {
+    "en": "Four Seasons Private Residences DIFC",
+    "ru": "Four Seasons Private Residences DIFC",
+    "ar": "فور سيزونز برايفت ريزيدنسز DIFC",
+    "hi": "फोर सीज़न्स प्राइवेट रेजिडेंसेज़ DIFC"
+  },
+
+  "handover": {
+    "en": "January 2027",
+    "ru": "Январь 2027",
+    "ar": "يناير 2027",
+    "hi": "जनवरी 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "34,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse"],
+    "ru": ["Апартаменты", "Пентхаус"],
+    "ar": ["شقة", "بنتهاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–5 BR",
+    "ru": "2–5 спален",
+    "ar": "2–5 غرف نوم",
+    "hi": "2–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 3295 sqft",
+    "ru": "от 3295 sqft",
+    "ar": "ابتداءً من 3295 قدم²",
+    "hi": "3295 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Four Seasons Private Residences DIFC is a branded luxury development in the heart of Dubai’s financial district. The project offers 2 to 5-bedroom apartments and penthouses with premium finishes, hotel-level amenities and full residential ownership. Designed by David Chipperfield Architects with interiors by Tihany Design, it combines privacy, prestige and direct access to DIFC’s business and lifestyle hub.",
+    "ru": "Four Seasons Private Residences DIFC — брендированный жилой проект в центре финансового района Дубая. Комплекс предлагает апартаменты и пентхаусы с 2–5 спальнями, премиальной отделкой и сервисом уровня пятизвёздочного отеля. Архитектура David Chipperfield Architects и интерьеры Tihany Design формируют престижную среду с прямым доступом к инфраструктуре DIFC.",
+    "ar": "فور سيزونز برايفت ريزيدنسز DIFC هو مشروع سكني فاخر بعلامة فور سيزونز في قلب المركز المالي بدبي. يضم شققاً وبنتهاوس من 2 إلى 5 غرف نوم مع تشطيبات راقية وخدمات فندقية كاملة وملكية سكنية حرة، ويجمع بين الخصوصية والموقع المرموق داخل DIFC.",
+    "hi": "फोर सीज़न्स प्राइवेट रेजिडेंसेज़ DIFC दुबई के वित्तीय जिले के केंद्र में स्थित एक ब्रांडेड लक्ज़री प्रोजेक्ट है। इसमें 2 से 5 बेडरूम अपार्टमेंट और पेंटहाउस, प्रीमियम फिनिश और होटल-स्तरीय सुविधाओं के साथ उपलब्ध हैं। यह प्रोजेक्ट प्रतिष्ठा, गोपनीयता और DIFC की सीधी कनेक्टिविटी प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/four-seasons-private-residences-difc/promo.png",
+
+  "gallery": [
+    "/img/projects/four-seasons-private-residences-difc/gallery_1.png",
+    "/img/projects/four-seasons-private-residences-difc/gallery_2.png",
+    "/img/projects/four-seasons-private-residences-difc/gallery_3.png",
+    "/img/projects/four-seasons-private-residences-difc/gallery_4.png",
+    "/img/projects/four-seasons-private-residences-difc/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Burj Khalifa", "time": "5 min" },
+      { "name": "Dubai Mall", "time": "5 min" },
+      { "name": "Jumeirah Beach", "time": "15 min" }
+    ],
+    "ru": [
+      { "name": "Burj Khalifa", "time": "5 мин" },
+      { "name": "Dubai Mall", "time": "5 мин" },
+      { "name": "Пляж Jumeirah", "time": "15 мин" }
+    ],
+    "ar": [
+      { "name": "برج خليفة", "time": "5 دقائق" },
+      { "name": "دبي مول", "time": "5 دقائق" },
+      { "name": "شاطئ جميرا", "time": "15 دقيقة" }
+    ],
+    "hi": [
+      { "name": "बुर्ज खलीफा", "time": "5 मिनट" },
+      { "name": "दुबई मॉल", "time": "5 मिनट" },
+      { "name": "जुमेराह बीच", "time": "15 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "DIFC, Dubai",
+      "ru": "DIFC, Дубай",
+      "ar": "مركز دبي المالي العالمي، دبي",
+      "hi": "DIFC, दुबई"
+    },
+    "lat": 25.2129,
+    "lng": 55.2796
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "difc",
+    "developer": "h-h-development",
+    "property_types": ["apartment", "penthouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 33669551,
+    "size_from_sqft": 3295,
+    "tokens_extra": ["uae", "luxury", "branded"]
+  }
+}

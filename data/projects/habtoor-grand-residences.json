@@ -1,0 +1,150 @@
+{
+  "project_key": "habtoor-grand-residences",
+  "slug": "habtoor-grand-residences",
+
+  "name": {
+    "en": "Habtoor Grand Residences",
+    "ru": "Habtoor Grand Residences",
+    "ar": "حبـتور جراند ريزيدنسز",
+    "hi": "हब्तूर ग्रैंड रेजिडेंसेस"
+  },
+
+  "developer": {
+    "en": "Al Habtoor Group",
+    "ru": "Al Habtoor Group",
+    "ar": "مجموعة الحبتور",
+    "hi": "अल हब्तूर ग्रुप"
+  },
+
+  "location_text": {
+    "en": "Dubai Marina",
+    "ru": "Dubai Marina",
+    "ar": "دبي مارينا",
+    "hi": "दुबई मरीना"
+  },
+
+  "hero_title": {
+    "en": "Habtoor Grand Residences",
+    "ru": "Habtoor Grand Residences",
+    "ar": "حبـتور جراند ريزيدنسز",
+    "hi": "हब्तूर ग्रैंड रेजिडेंसेस"
+  },
+
+  "handover": {
+    "en": "December 2027",
+    "ru": "Декабрь 2027",
+    "ar": "ديسمبر 2027",
+    "hi": "दिसंबर 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "11,000,000"
+  },
+
+  "property_types": {
+    "en": ["Apartment", "Penthouse", "Townhouse"],
+    "ru": ["Апартаменты", "Пентхаус", "Таунхаус"],
+    "ar": ["شقة", "بنتهاوس", "تاون هاوس"],
+    "hi": ["अपार्टमेंट", "पेंटहाउस", "टाउनहाउस"]
+  },
+
+  "unit_types": {
+    "en": "2–5 BR",
+    "ru": "2–5 спален",
+    "ar": "2–5 غرف نوم",
+    "hi": "2–5 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2023 sqft",
+    "ru": "от 2023 sqft",
+    "ar": "ابتداءً من 2023 قدم²",
+    "hi": "2023 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Habtoor Grand Residences by Al Habtoor Group is a luxury waterfront development in Dubai Marina offering 2 to 5-bedroom apartments, penthouses and townhouses from 2023 to 6705 sqft. Positioned near the beach and Marina promenade, the project combines panoramic sea views, premium finishes and resort-style amenities within one of Dubai’s most established coastal districts.",
+    "ru": "Habtoor Grand Residences от Al Habtoor Group — премиальный жилой комплекс в Dubai Marina с апартаментами, таунхаусами и пентхаусами с 2–5 спальнями площадью от 2023 до 6705 sqft. Проект расположен рядом с пляжем и набережной Marina, предлагая панорамные виды на море, качественную отделку и инфраструктуру курортного уровня.",
+    "ar": "حبـتور جراند ريزيدنسز من مجموعة الحبتور هو مشروع سكني فاخر على الواجهة البحرية في دبي مارينا يضم شققاً وبنتهاوس وتاون هاوس من 2 إلى 5 غرف نوم بمساحات تبدأ من 2023 حتى 6705 قدم²، مع إطلالات بحرية ومرافق على طراز المنتجعات.",
+    "hi": "हब्तूर ग्रैंड रेजिडेंसेस अल हब्तूर ग्रुप द्वारा विकसित दुबई मरीना में स्थित एक लक्ज़री वाटरफ्रंट प्रोजेक्ट है। इसमें 2 से 5 बेडरूम अपार्टमेंट, पेंटहाउस और टाउनहाउस शामिल हैं, जिनका आकार 2023 से 6705 sqft तक है। यह समुद्र के दृश्य और प्रीमियम सुविधाएँ प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/habtoor-grand-residences/promo.png",
+
+  "gallery": [
+    "/img/projects/habtoor-grand-residences/gallery_1.png",
+    "/img/projects/habtoor-grand-residences/gallery_2.png",
+    "/img/projects/habtoor-grand-residences/gallery_3.png",
+    "/img/projects/habtoor-grand-residences/gallery_4.png",
+    "/img/projects/habtoor-grand-residences/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "JBR Beach", "time": "5 min" },
+      { "name": "Dubai Marina Mall", "time": "7 min" },
+      { "name": "Palm Jumeirah", "time": "10 min" }
+    ],
+    "ru": [
+      { "name": "Пляж JBR", "time": "5 мин" },
+      { "name": "Dubai Marina Mall", "time": "7 мин" },
+      { "name": "Palm Jumeirah", "time": "10 мин" }
+    ],
+    "ar": [
+      { "name": "شاطئ جميرا بيتش ريزيدنس", "time": "5 دقائق" },
+      { "name": "دبي مارينا مول", "time": "7 دقائق" },
+      { "name": "نخلة جميرا", "time": "10 دقائق" }
+    ],
+    "hi": [
+      { "name": "JBR बीच", "time": "5 मिनट" },
+      { "name": "दुबई मरीना मॉल", "time": "7 मिनट" },
+      { "name": "पाम जुमेराह", "time": "10 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Dubai Marina, Dubai",
+      "ru": "Dubai Marina, Дубай",
+      "ar": "دبي مارينا، دبي",
+      "hi": "दुबई मरीना, दुबई"
+    },
+    "lat": 25.0785,
+    "lng": 55.1342
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "dubai-marina",
+    "developer": "al-habtoor-group",
+    "property_types": ["apartment", "penthouse", "townhouse"],
+    "bedrooms_min": 2,
+    "bedrooms_max": 5,
+    "handover_year": 2027,
+    "price_from_aed": 11000000,
+    "size_from_sqft": 2023,
+    "tokens_extra": ["uae", "waterfront", "luxury", "beach"]
+  }
+}

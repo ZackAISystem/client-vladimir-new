@@ -1,0 +1,150 @@
+{
+  "project_key": "nad-al-sheba-gardens-phase-9",
+  "slug": "nad-al-sheba-gardens-phase-9",
+
+  "name": {
+    "en": "Nad Al Sheba Gardens Phase 9",
+    "ru": "Nad Al Sheba Gardens Phase 9",
+    "ar": "حدائق ند الشبا المرحلة التاسعة",
+    "hi": "नद अल शेबा गार्डन्स फेज 9"
+  },
+
+  "developer": {
+    "en": "Meraas Holding",
+    "ru": "Meraas Holding",
+    "ar": "مِراس القابضة",
+    "hi": "मिरास होल्डिंग"
+  },
+
+  "location_text": {
+    "en": "Nad Al Sheba 1",
+    "ru": "Nad Al Sheba 1",
+    "ar": "ند الشبا 1",
+    "hi": "नद अल शेबा 1"
+  },
+
+  "hero_title": {
+    "en": "Nad Al Sheba Gardens IX",
+    "ru": "Nad Al Sheba Gardens IX",
+    "ar": "حدائق ند الشبا المرحلة التاسعة",
+    "hi": "नद अल शेबा गार्डन्स फेज 9"
+  },
+
+  "handover": {
+    "en": "March 2029",
+    "ru": "Март 2029",
+    "ar": "مارس 2029",
+    "hi": "मार्च 2029"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "5,000,000"
+  },
+
+  "property_types": {
+    "en": ["Townhouse", "Villa"],
+    "ru": ["Таунхаус", "Вилла"],
+    "ar": ["تاون هاوس", "فيلا"],
+    "hi": ["टाउनहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "3–7 BR",
+    "ru": "3–7 спален",
+    "ar": "3–7 غرف نوم",
+    "hi": "3–7 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 2,705 sqft",
+    "ru": "от 2 705 sqft",
+    "ar": "ابتداءً من 2,705 قدم²",
+    "hi": "2,705 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Nad Al Sheba Gardens Phase 9 by Meraas is a gated villa and townhouse community in Nad Al Sheba 1. The project offers 3 to 7-bedroom residences surrounded by landscaped parks, tree-lined avenues and private garden plots. Designed for family living, the homes feature contemporary architecture, bright open-plan layouts and seamless indoor-outdoor flow. Located minutes from Meydan and Downtown Dubai, the community combines privacy, greenery and central connectivity.",
+    "ru": "Nad Al Sheba Gardens Phase 9 от Meraas — закрытый жилой кластер вилл и таунхаусов в районе Nad Al Sheba 1. В проекте представлены резиденции с 3–7 спальнями, окружённые ландшафтными парками и зелёными аллеями. Архитектура сочетает современный стиль, просторные планировки и гармоничную связь интерьера с приватными садами. Локация рядом с Meydan и Downtown Dubai объединяет уединение и центральную доступность.",
+    "ar": "يُعد مشروع حدائق ند الشبا المرحلة التاسعة من مِراس مجتمعاً مسوراً يضم فللاً وتاون هاوس في ند الشبا 1. يوفر المشروع منازل من 3 إلى 7 غرف نوم تحيط بها حدائق منسقة ومساحات خضراء خاصة. يتميز بتصميم معماري معاصر ومساحات مفتوحة مشرقة مع اتصال سلس بين الداخل والخارج. يقع بالقرب من ميدان ووسط مدينة دبي، جامعاً بين الخصوصية والموقع المركزي.",
+    "hi": "मिरास द्वारा विकसित नद अल शेबा गार्डन्स फेज 9, नद अल शेबा 1 में स्थित एक गेटेड विला और टाउनहाउस कम्युनिटी है। यहाँ 3 से 7 बेडरूम वाले घर उपलब्ध हैं, जो हरे-भरे पार्कों और लैंडस्केप्ड एवेन्यू से घिरे हैं। आधुनिक आर्किटेक्चर, खुले लेआउट और निजी गार्डन इसे परिवारों के लिए आदर्श बनाते हैं। मेयदान और डाउनटाउन दुबई के पास स्थित यह प्रोजेक्ट गोपनीयता और कनेक्टिविटी दोनों प्रदान करता है।"
+  },
+
+  "promo_image": "/img/projects/nad-al-sheba-gardens-phase-9/promo.png",
+
+  "gallery": [
+    "/img/projects/nad-al-sheba-gardens-phase-9/gallery_1.png",
+    "/img/projects/nad-al-sheba-gardens-phase-9/gallery_2.png",
+    "/img/projects/nad-al-sheba-gardens-phase-9/gallery_3.png",
+    "/img/projects/nad-al-sheba-gardens-phase-9/gallery_4.png",
+    "/img/projects/nad-al-sheba-gardens-phase-9/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Meydan Racecourse", "time": "10 min" },
+      { "name": "Downtown Dubai", "time": "15 min" },
+      { "name": "DXB Airport", "time": "20 min" }
+    ],
+    "ru": [
+      { "name": "Ипподром Meydan", "time": "10 мин" },
+      { "name": "Downtown Dubai", "time": "15 мин" },
+      { "name": "Аэропорт DXB", "time": "20 мин" }
+    ],
+    "ar": [
+      { "name": "ميدان ريسكورس", "time": "10 دقائق" },
+      { "name": "وسط مدينة دبي", "time": "15 دقيقة" },
+      { "name": "مطار دبي DXB", "time": "20 دقيقة" }
+    ],
+    "hi": [
+      { "name": "मेयदान रेसकोर्स", "time": "10 मिनट" },
+      { "name": "डाउनटाउन दुबई", "time": "15 मिनट" },
+      { "name": "DXB एयरपोर्ट", "time": "20 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Nad Al Sheba 1, Dubai",
+      "ru": "Nad Al Sheba 1, Дубай",
+      "ar": "ند الشبا 1، دبي",
+      "hi": "नद अल शेबा 1, दुबई"
+    },
+    "lat": 25.1658,
+    "lng": 55.3510
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "nad-al-sheba-1",
+    "developer": "meraas-holding",
+    "property_types": ["townhouse", "villa"],
+    "bedrooms_min": 3,
+    "bedrooms_max": 7,
+    "handover_year": 2029,
+    "price_from_aed": 5000000,
+    "size_from_sqft": 2705,
+    "tokens_extra": ["uae", "gated-community", "family"]
+  }
+}

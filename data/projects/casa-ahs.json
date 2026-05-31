@@ -1,0 +1,150 @@
+{
+  "project_key": "casa-ahs",
+  "slug": "casa-ahs",
+
+  "name": {
+    "en": "Casa AHS",
+    "ru": "Casa AHS",
+    "ar": "كازا ايه اتش اس",
+    "hi": "कासा एएचएस"
+  },
+
+  "developer": {
+    "en": "AHS Properties",
+    "ru": "AHS Properties",
+    "ar": "ايه اتش اس العقارية",
+    "hi": "एएचएस प्रॉपर्टीज"
+  },
+
+  "location_text": {
+    "en": "Jumeirah",
+    "ru": "Jumeirah",
+    "ar": "جميرا",
+    "hi": "जुमेराह"
+  },
+
+  "hero_title": {
+    "en": "Casa AHS",
+    "ru": "Casa AHS",
+    "ar": "كازا ايه اتش اس",
+    "hi": "कासा एएचएस"
+  },
+
+  "handover": {
+    "en": "May 2027",
+    "ru": "Май 2027",
+    "ar": "مايو 2027",
+    "hi": "मई 2027"
+  },
+
+  "price_from": {
+    "currency": "AED",
+    "amount": "24,000,000"
+  },
+
+  "property_types": {
+    "en": ["Penthouse", "Villa"],
+    "ru": ["Пентхаус", "Вилла"],
+    "ar": ["بنتهاوس", "فيلا"],
+    "hi": ["पेंटहाउस", "विला"]
+  },
+
+  "unit_types": {
+    "en": "3 BR | 4–6 BR",
+    "ru": "3 спальни | 4–6 спален",
+    "ar": "3 غرف نوم | 4–6 غرف نوم",
+    "hi": "3 बेडरूम | 4–6 बेडरूम"
+  },
+
+  "size": {
+    "en": "from 3,000 sqft",
+    "ru": "от 3,000 sqft",
+    "ar": "ابتداءً من 3,000 قدم²",
+    "hi": "3,000 sqft से"
+  },
+
+  "down_payment": {
+    "en": "Down Payment",
+    "ru": "Первый взнос",
+    "ar": "الدفعة الأولى",
+    "hi": "डाउन पेमेंट"
+  },
+
+  "payment_plan": {
+    "en": "On request",
+    "ru": "По запросу",
+    "ar": "عند الطلب",
+    "hi": "अनुरोध पर"
+  },
+
+  "description": {
+    "en": "Casa AHS by AHS Properties is an ultra-luxury waterfront development located along Dubai Water Canal in Jumeirah. The project features exclusive penthouses and signature villas with panoramic canal views, bespoke interiors, private leisure spaces and architectural design focused on privacy and prestige. Created for discerning homeowners, Casa AHS represents a rare opportunity to own a landmark residence in one of Dubai’s most elite districts.",
+    "ru": "Casa AHS от AHS Properties — ультра-люксовый проект на набережной Dubai Water Canal в районе Jumeirah. В комплексе представлены эксклюзивные пентхаусы и виллы с панорамными видами на канал, индивидуальными интерьерами и приватными зонами отдыха. Проект ориентирован на взыскательных владельцев и задаёт новый стандарт премиального жилья в Дубае.",
+    "ar": "كازا ايه اتش اس من ايه اتش اس العقارية هو مشروع سكني فائق الفخامة يقع على قناة دبي المائية في جميرا. يضم المشروع بنتهاوسات وفيلات حصرية بإطلالات بانورامية على القناة، وتصاميم داخلية مخصصة ومساحات ترفيه خاصة، ليقدم مستوى جديداً من السكن الراقي في أحد أرقى أحياء دبي.",
+    "hi": "कासा एएचएस, एएचएस प्रॉपर्टीज द्वारा विकसित, जुमेराह में दुबई वाटर कैनाल के किनारे स्थित एक अल्ट्रा-लक्ज़री रेजिडेंशियल प्रोजेक्ट है। इसमें एक्सक्लूसिव पेंटहाउस और विला यूनिट्स शामिल हैं, जो पैनोरमिक कैनाल व्यू, प्राइवेट स्पेस और कस्टम इंटीरियर के साथ उच्चतम स्तर की प्रीमियम जीवनशैली प्रदान करते हैं।"
+  },
+
+  "promo_image": "/img/projects/casa-ahs/promo.png",
+
+  "gallery": [
+    "/img/projects/casa-ahs/gallery_1.png",
+    "/img/projects/casa-ahs/gallery_2.png",
+    "/img/projects/casa-ahs/gallery_3.png",
+    "/img/projects/casa-ahs/gallery_4.png",
+    "/img/projects/casa-ahs/gallery_5.png"
+  ],
+
+  "nearby_landmarks": {
+    "en": [
+      { "name": "Downtown Dubai", "time": "10 min" },
+      { "name": "Burj Khalifa", "time": "10 min" },
+      { "name": "Jumeirah Beach", "time": "12 min" }
+    ],
+    "ru": [
+      { "name": "Downtown Dubai", "time": "10 мин" },
+      { "name": "Burj Khalifa", "time": "10 мин" },
+      { "name": "Пляж Jumeirah", "time": "12 мин" }
+    ],
+    "ar": [
+      { "name": "داون تاون دبي", "time": "10 دقائق" },
+      { "name": "برج خليفة", "time": "10 دقائق" },
+      { "name": "شاطئ جميرا", "time": "12 دقيقة" }
+    ],
+    "hi": [
+      { "name": "डाउनटाउन दुबई", "time": "10 मिनट" },
+      { "name": "बुर्ज खलीफा", "time": "10 मिनट" },
+      { "name": "जुमेराह बीच", "time": "12 मिनट" }
+    ]
+  },
+
+  "map": {
+    "address": {
+      "en": "Jumeirah",
+      "ru": "Jumeirah",
+      "ar": "جميرا",
+      "hi": "जुमेराह"
+    },
+    "lat": 25.2045,
+    "lng": 55.2501
+  },
+
+  "cta": {
+    "pdf": "get_pdf",
+    "call": "request_call",
+    "mortgage": "calc_mortgage"
+  },
+
+  "_search": {
+    "emirate": "dubai",
+    "city": "dubai",
+    "area": "jumeirah",
+    "developer": "ahs-properties",
+    "property_types": ["penthouse", "villa"],
+    "bedrooms_min": 3,
+    "bedrooms_max": 6,
+    "handover_year": 2027,
+    "price_from_aed": 24000000,
+    "size_from_sqft": 3000,
+    "tokens_extra": ["uae"]
+  }
+}
